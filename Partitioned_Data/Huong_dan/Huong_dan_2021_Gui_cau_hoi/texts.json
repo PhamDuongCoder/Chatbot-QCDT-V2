@@ -1,0 +1,922 @@
+[
+  {
+    "element_type": "NarrativeText",
+    "text": "[Ban Đào tạo] Hướng dẫn thủ tục, biểu mẫu, thắc mắc về học tập, học phí."
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "I. Giới thiệu chung"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Ban Đào tạo tiếp nhận các đề xuất, thắc mắc, phản hồi của sinh viên qua thư điện tử (email), hạn chế tối đa việc sinh viên phải lên gặp trực tiếp. Việc sử dụng email khi trao đổi sẽ mang lại các lợi ích sau:"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Giảm thời gian đi lại, giảm thời gian chờ đợi, hẹn gặp;"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Xác nhận chính xác thời gian gửi và tiếp nhận, xử lý thông tin;"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Có thể xử lý thông tin tại mọi địa điểm;"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Dễ dàng chuyển đơn tới các đơn vị liên quan để xin ý kiến;"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Lưu được các minh chứng: sinh viên cần lưu lại các email đã gửi, không xóa để còn làm minh chứng trong trường hợp cần thiết."
+  },
+  {
+    "element_type": "Text",
+    "text": "II. Yêu cầu"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "1. Sinh viên bắt buộc phải dùng email của trường cấp khi gửi đơn và các câu hỏi, thắc mắc liên quan tới học tập. Nếu sinh viên dùng các email khác như Gmail, Yahoo mail…thì không thể xác thực được người gửi nên không đủ thông tin để giải quyết. "
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "2. Trong trường hợp cần có đơn thì sinh viên có thể tải đơn theo mẫu trong từng mục tương ứng, sau đó in ra hoặc viết tay lại đơn đều được. Điền các thông tin trong đơn và cần có đủ các mục chữ ký. Lưu ý trong trường hợp không thể xin chữ ký của khoa/viện/trường thì mục đó có thể để trống và Ban Đào tạo sẽ liên hệ với các đơn vị đó sau để xác nhận."
+  },
+  {
+    "element_type": "Text",
+    "text": "Cách nộp đơn: Sinh viên nộp đơn qua email bằng cách chụp ảnh cả đơn và thẻ sinh viên rồi gửi kèm theo email tới người tiếp nhận tương ứng theo bảng dưới đây."
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Lưu ý: riêng Đơn xin thôi học rút hồ sơ bắt buộc phải nộp tại Ban Đào tạo (202A-C1) tương tự với một vài mẫu đơn khác theo hướng dẫn, không tiếp nhận online."
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "3. Để có thể dễ dàng phân loại công việc, sinh viên cần soạn tiêu đề email theo cấu trúc sau: [Hạng mục viết tắt] Mã số sinh viên – Họ và tên"
+  },
+  {
+    "element_type": "Text",
+    "text": "Ví dụ: [Học phí] 20211234 Nguyễn Văn A"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Các mục cần thiết:"
+  },
+  {
+    "element_type": "PageBreak",
+    "text": ""
+  },
+  {
+    "element_type": "Text",
+    "text": "To: Địa chỉ emal người nhận"
+  },
+  {
+    "element_type": "Text",
+    "text": "Tiêu đề email"
+  },
+  {
+    "element_type": "Text",
+    "text": "Nội dung email"
+  },
+  {
+    "element_type": "Text",
+    "text": "Đính kèm file"
+  },
+  {
+    "element_type": "Text",
+    "text": "III. Hạng mục công việc và người phụ trách"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Học phí"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mô tả: Thắc mắc về học phí, thắc mắc về tính học phần trong/ngoài chương trình"
+  },
+  {
+    "element_type": "Text",
+    "text": "Gửi email đến: hung.tranle@hust.edu.vn"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Biên lai học phí"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Hóa đơn điện tử (Biên lai thu học phí) được cấp tự động và gửi vào địa chỉ email của sinh viên. Sinh viên có thắc mắc về hóa đơn điện tử cần liên hệ Ban Tài chính - Kế hoạch (Phòng 207, nhà C3-4)."
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Thắc mắc về miễn giảm học phí"
+  },
+  {
+    "element_type": "Text",
+    "text": "Đặt câu hỏi tại: https://ctsv.hust.edu.vn/#/viet-giay/1"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Thắc mắc: Nếu có thắc mắc cần liên hệ Ban Công tác sinh viên (phòng 103-104 C1)"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Kết quả học tập"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mô tả: Kết quả học tập các kỳ (GPA, CPA, tín chỉ nợ...), Tăng/giảm mức cảnh báo học tập"
+  },
+  {
+    "element_type": "Text",
+    "text": "Gửi email đến: hung.tranle@hust.edu.vn"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Học bổng khuyển khích"
+  },
+  {
+    "element_type": "Text",
+    "text": "Mô tả: Học bổng khuyến khích học tập các mức A, B, C, Chuyển/nhận tiền học bổng, tài khoản nhận học bổng"
+  },
+  {
+    "element_type": "Text",
+    "text": "Đặt câu hỏi tại: https://ctsv.hust.edu.vn/#/viet-giay/1"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Thắc mắc: Nếu có thắc mắc cần liên hệ Ban Công tác sinh viên (phòng 103-104 C1)"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Hồ sơ cá nhân"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mô tả: Sửa thông tin cá nhân trên Cổng thông tin SV, Cấp giấy xác nhận SV, Thủ tục khi bị mất thẻ sinh viên"
+  },
+  {
+    "element_type": "PageBreak",
+    "text": ""
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Đăng ký cấp giấy tờ hoặc sửa thông tin SV tại: https://sv-ctt.hust.edu.vn/#/xin-cap-giay"
+  },
+  {
+    "element_type": "Text",
+    "text": "Thắc mắc về cấp giấy tờ tại: https://ctsv.hust.edu.vn/#/viet-giay/1"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Thắc mắc: Nếu có thắc mắc cần liên hệ Ban Công tác sinh viên (phòng 103-104 C1)"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Chuyển điểm"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mô tả: Công nhận học phần tương đương, thay thế"
+  },
+  {
+    "element_type": "Text",
+    "text": "Gửi email đến: thu.nguyenthiha@hust.edu.vn"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mẫu đơn: tải tại https://husteduvn.sharepoint.com/:w:/s/NguyenXuanTung_PDT/EUZMK0oVAZpBg2tqKnBfzvMBaTysN-sHhUcBsxJkkhkE1w?e=KLzzTg"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Miễn điểm"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mô tả: Miễn học phần thông thường; Miễn học phần ngoại ngữ; Miễn học GDQP-AN khi đã có chứng chỉ "
+  },
+  {
+    "element_type": "Text",
+    "text": "Lưu ý với ngoại ngữ:"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Chứng chỉ ngoại ngữ thi ngoài ĐHBK Hà Nội cần thực hiện hậu kiểm tại  Trung tâm CLC trước khi xin miễn (xem tại https://clc.hust.edu.vn/thu-tuc-hau-kiem-cac-chung-chi-quoc-te/)."
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Chỉ xin miễn khi điểm ngoại ngữ đã được nhập lên CTT."
+  },
+  {
+    "element_type": "Text",
+    "text": "Gửi email đến: ninh.lequang@hust.edu.vn"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mẫu đơn: "
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Hướng dẫn và mẫu đơn xin miễn ngoại ngữ xem tại đây: https://husteduvn.sharepoint.com/:w:/s/NguyenXuanTung_PDT/EVM4qdnP_45Jhd-F9_j8ErUBStJKSHLSTrofxsY7Yu55Ig?e=K46Wnf"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Hướng dẫn và mẫu đơn miễn GDQP-AN xem tại đây: https://docs.google.com/document/d/1ubhKJQtnzYFwZwI1q5uSXIywiMx1ACBT/edit?usp=sharing&ouid=101159646455627822179&rtpof=true&sd=true"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Thắc mắc điểm (1):"
+  },
+  {
+    "element_type": "PageBreak",
+    "text": ""
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mô tả: Thắc mắc chưa thay đổi điểm do phúc tra"
+  },
+  {
+    "element_type": "Text",
+    "text": "Gửi email đến: ninh.lequang@hust.edu.vn"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Thắc mắc điểm (2):"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mô tả: \tThắc mắc chưa nhập điểm hoặc chưa thấy có điểm trong bảng kết quả học tập"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Các bước cần thực hiện:"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Bước 1: Liên hệ với giảng viên/khoa,viện qua email để biết được giảng viên đã nhập điểm lên hệ thống hay chưa."
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Bước 2: Nếu giảng viên thông báo đã nhập điểm mà chưa thấy có điểm trên hệ thống thì gửi chuyển tiếp (foward) chính email đã liên hệ với giảng viên đó tới địa chỉ: ninh.lequang@hust.edu.vn để được hỗ trợ."
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Lưu ý: Thời gian từ khi nhập điểm đến khi có điểm trên hệ thống có thể trong vòng 1 ngày (24 giờ) do cần đồng bộ và kiểm tra lại điểm."
+  },
+  {
+    "element_type": "Text",
+    "text": "Xem thêm hướng dẫn tại đây: https://husteduvn.sharepoint.com/:w:/s/NguyenXuanTung_PDT/EUDPbbk1m01Jq7hVPFG5PXoBnRqPiqTgdXVNrXFCH3ZFsQ?e=Q51Z7F"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Phúc tra điểm"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Các bước cần thực hiện:"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Trước tiên sẽ trao đổi qua email với giảng viên giảng dạy học phần"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Trong trường hợp vẫn còn thắc mắc sau khi liên hệ với giảng viên: sẽ nộp đơn phúc tra điểm tới khoa, viện phụ trách giảng dạy học phần."
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Ban Đào tạo không tiếp nhận đơn phúc tra điểm vì không đúng thẩm quyền."
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mẫu đơn: https://docs.google.com/document/d/18xnTpzLiAVD516Wxf2YpEx_EBhix0L-z/edit?usp=sharing&ouid=101159646455627822179&rtpof=true&sd=true"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Chương trình đào tạo"
+  },
+  {
+    "element_type": "Text",
+    "text": "Mô tả: Thắc mắc về chương trình đào tạo"
+  },
+  {
+    "element_type": "Text",
+    "text": "Gửi email đến: huong.nguyenthi1@hust.edu.vn"
+  },
+  {
+    "element_type": "PageBreak",
+    "text": ""
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Xét nhận Đồ án tốt nghiệp"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mô tả: Xét nhận Đồ án/khóa luận tốt nghiệp. Bù tín chỉ."
+  },
+  {
+    "element_type": "Text",
+    "text": "Gửi email đến: huong.nguyenthi1@hust.edu.vn"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mẫu đơn: https://husteduvn.sharepoint.com/:w:/s/NguyenXuanTung_PDT/EdDCJnCWLlRHtEafh2p11aoBLB1ev58zMt1tmTuk9x9Nfg?e=1efidj"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Xét tốt nghiệp"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mô tả: Thắc mắc về đăng ký tốt nghiệp. Bù tín chỉ và đăng ký tốt nghiệp. Kết quả xét tốt nghiệp."
+  },
+  {
+    "element_type": "Text",
+    "text": "Gửi email đến: huong.nguyenthi1@hust.edu.vn"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mẫu đơn: https://docs.google.com/document/d/1i72Q02RrYvsMl46Wg9yCPL3iPJPAHodW/edit?usp=sharing&ouid=101159646455627822179&rtpof=true&sd=true"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Lịch đăng ký và Đăng ký học tập"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mô tả: Lịch đăng ký học tập. Thắc mắc đăng ký học tập"
+  },
+  {
+    "element_type": "Text",
+    "text": "Gửi email đến: dat.nguyenquoc@hust.edu.vn"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Đăng ký lớp đầy:"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Liên hệ trực tiếp với trường/khoa/viện quản lý học phần."
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Rút học phần"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mô tả: Rút hoặc hủy đăng ký học phần"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Liên hệ trực tiếp với trường/khoa/viện quản lý học phần."
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Giới hạn tín chỉ"
+  },
+  {
+    "element_type": "PageBreak",
+    "text": ""
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mô tả: Giới hạn tín chỉ đăng ký do mức cảnh báo, do ngoại ngữ"
+  },
+  {
+    "element_type": "Text",
+    "text": "Gửi email đến: dat.nguyenquoc@hust.edu.vn"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "TOEIC"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mô tả: Thắc mắc về cập nhật điểm ngoại ngữ lên hệ thống. (Dành cho SV có thắc mắc về việc chưa được cập nhật điểm ngoại ngữ lên hệ thống sau khi thi hoặc sau khi nộp hậu kiểm)."
+  },
+  {
+    "element_type": "Text",
+    "text": "Gửi email đến: dat.nguyenquoc@hust.edu.vn"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Ghi chú:"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Điểm các đợt thi ngoại ngữ thi tại Trung tâm CLC sẽ được Trung tâm gửi Ban Đào tạo để cập nhật, do đó trước tiên cần liên hệ với Trung tâm CLC khi chưa thấy có điểm. Lưu ý: việc gửi dữ liệu từ Trung tâm CLC thực hiện theo đợt."
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Sinh viên có chứng chỉ ngoại ngữ quốc tế cần gửi qua Trung tâm CLC để hậu kiểm chứng chỉ, KHÔNG nộp trực tiếp cho Ban Đào tạo vì Ban Đào tạo không có chức năng xác thực chứng chỉ."
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Thời khóa biểu"
+  },
+  {
+    "element_type": "Text",
+    "text": "Mô tả: Thắc mắc về thời khóa biểu"
+  },
+  {
+    "element_type": "Text",
+    "text": "Với sinh viên Việt Nam: gửi email đến: thu.nguyenthiha@hust.edu.vn"
+  },
+  {
+    "element_type": "Text",
+    "text": "Với sinh viên trong chương trình đào tạo hợp tác quốc tế: gửi email đến: huong.giang@hust.edu.vn"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Xếp hạng"
+  },
+  {
+    "element_type": "Text",
+    "text": "Mô tả: Xác nhận thứ hạng sinh viên"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Gửi email đến: dat.nguyenquoc@hust.edu.vn hoặc gặp trực tiếp Chuyên viên Nguyễn Quốc Đạt (bàn 8, phòng 202A-C1)"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Xin thôi học và rút học phần sinh viên"
+  },
+  {
+    "element_type": "PageBreak",
+    "text": ""
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Nộp đơn trực tiếp tại Ban Đào tạo 202A-C1. Chuyên viên tiếp nhận: Nguyễn Kim Huệ (bàn 6, phòng 202A-C1). Email: hue.nguyenkim@hust.edu.vn"
+  },
+  {
+    "element_type": "Text",
+    "text": "Tải mẫu đơn tại https://husteduvn.sharepoint.com/:w:/s/NguyenXuanTung_PDT/EdHS7TFGfW1GouXPZU8amNYB9FPwsAvAE_inGumXQak7sw?e=FMR8BW"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Nghỉ học dài hạn"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mô tả: \tXin nghỉ học dài hạn (bảo lưu)"
+  },
+  {
+    "element_type": "Text",
+    "text": "Gửi email đến: hue.nguyenkim@hust.edu.vn hoặc liên hệ trực tiếp Chuyên viên Nguyễn Kim Huệ (bàn 6, phòng 202A-C1). "
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Nếu xin nghỉ dài hạn vì lý do sức khỏe:"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Trong đơn cần có xác nhận của Trung tâm Y tế Bách khoa (địa chỉ tại số 5 Tạ Quang Bửu) và chụp ảnh các giấy tờ minh chứng của cơ sở y tế nơi điều trị hoặc khám bệnh để gửi kèm đơn"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Sinh viên cần mang bệnh án và các giấy tờ khám bệnh khi tới xin xác nhận tại Trung tâm Y tế BK"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Hoặc đến khám trực tiếp tại Trung tâm Y tế BK để có thể kết luận về tình hình sức khỏe."
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mẫu đơn: https://husteduvn.sharepoint.com/:w:/s/NguyenXuanTung_PDT/EVDUxHPtC3NPptlLvYd5yYYB_FjFWCrApxPOkpmQXCfITw?e=0NeFGR"
+  },
+  {
+    "element_type": "Text",
+    "text": "Lưu ý:"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "SV cần hoàn thành công nợ học phí trước khi nộp đơn."
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Với SV các chương trình  với ĐH TROY cần liên hệ với cô Nguyễn Kiều Anh (tầng 3, phòng 315-C1) để tư vấn và xác nhận trước khi nộp đơn."
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Sinh viên xem số QĐ cho phép nghỉ dài hạn bằng cách đăng nhập Cổng thông tin sinh viên ctt.hust.edu.vn và vào mục Hồ sơ SV"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Tiếp nhận học"
+  },
+  {
+    "element_type": "PageBreak",
+    "text": ""
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mô tả: Tiếp nhận trở lại học sau khi nghỉ dài hạn (Thời gian tiếp nhận đơn là trước 3-4 tuần so với thời điểm bắt đầu học kỳ) "
+  },
+  {
+    "element_type": "Text",
+    "text": "Gửi email đến: hue.nguyenkim@hust.edu.vn"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Sinh viên chụp ảnh đơn và gửi qua email để lưu thời điểm nộp đơn, không tiếp nhận trực tiếp."
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Chuyển trường"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mô tả: Thủ tục chuyển trường trong nước. Thủ tục chuyển trường từ nước ngoài về"
+  },
+  {
+    "element_type": "Text",
+    "text": "Nộp đơn trực tiếp tại Ban đào tạo 202A-C1, chuyên viên tiếp nhận: Nguyễn Kim Huệ"
+  },
+  {
+    "element_type": "Text",
+    "text": "Thắc mắc: gửi email đến hue.nguyenkim@hust.edu.vn"
+  },
+  {
+    "element_type": "Text",
+    "text": "Đơn chuyển trường trong nước (gồm cả phần hướng dẫn ở cuối đơn): https://husteduvn.sharepoint.com/:w:/s/NguyenXuanTung_PDT/ETUYBfTNy3pAuTpkOFc9jMsBZjSpCv88OO5JF7nhKXVqzg?e=QeoeB0"
+  },
+  {
+    "element_type": "Text",
+    "text": "Đơn chuyển trường từ nước ngoài về: https://husteduvn-my.sharepoint.com/:w:/g/personal/tung_nguyenxuan_hust_edu_vn/Eay7s3PnLoRDoFHMr2MdQnYBZK0Bpg2pnXPWwvbm-xgzGA?e=QWrkdz"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Chuyển ngành"
+  },
+  {
+    "element_type": "Text",
+    "text": "Mô tả: Chuyển ngành, chuyển chương trình đào tạo"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Gửi email đến: hue.nguyenkim@hust.edu.vn hoặc gặp trực tiếp Chuyên viên Nguyễn Kim Huệ tại phòng 202A-C1"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mẫu đơn: https://docs.google.com/document/d/14lWxwiVKqLl84LYuRRP5yPt7dVcTGcnK/edit?usp=sharing&ouid=101159646455627822179&rtpof=true&sd=true"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Chuyển hệ đào tạo liên tục"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mô tả: Chuyển sang học tại trung tâm Đào tạo liên tục"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Sinh viên thực hiện các bước sau:"
+  },
+  {
+    "element_type": "PageBreak",
+    "text": ""
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Bước 1: Tải mẫu đơn tại https://husteduvn.sharepoint.com/:w:/s/NguyenXuanTung_PDT/EUyvO31qrjRDii9fHOAs-50Bz9-YJC3GgQnUXjbslCY4ZA?e=AAyYZH và điền đầy đủ thông tin."
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Bước 2: Nộp đơn tại Trung tâm Đào tạo liên tục (khu nhà TC) để được tư vấn và xếp lớp."
+  },
+  {
+    "element_type": "Text",
+    "text": "Thắc mắc tại: dtlt@hust.edu.vn"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Trích sao"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mô tả: Trích sao bảng điểm dành cho SV đang học hoặc thôi học."
+  },
+  {
+    "element_type": "Text",
+    "text": "Gửi email đến: hanh.tranthi@hust.edu.vn"
+  },
+  {
+    "element_type": "Text",
+    "text": "Nhận sao bảng điểm tại bàn 4 phòng 202A-C1 (chuyên viên Trần Thị Hạnh)"
+  },
+  {
+    "element_type": "Text",
+    "text": "Xem hướng dẫn cụ thể tại: https://husteduvn.sharepoint.com/:w:/s/NguyenXuanTung_PDT/EeCW4MRDLJZNkQDxHz7nv4ABofH2fz-g9Fi3IIB_KH9u9w?e=Uxz5XH"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Lịch thi học kỳ"
+  },
+  {
+    "element_type": "Text",
+    "text": "1. Chuyên viên Trần Thị Hạnh: lịch thi cuối  kỳ. Email: hanh.tranthi@hust.edu.vn"
+  },
+  {
+    "element_type": "Text",
+    "text": "2. Chuyên viên Giang Hương: lịch thi Đợt A; kiểm tra giữa kỳ; thi kỳ hè. Email: huong.giang@hust.edu.vn "
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Hoãn thi cuối kỳ"
+  },
+  {
+    "element_type": "Text",
+    "text": "Xem hướng dẫn chi tiết tại https://husteduvn.sharepoint.com/:w:/s/NguyenXuanTung_PDT/EVmtZeRjgWFHi1FAXc42E50B7c_DwLLU5Kk_qSP0P__V-A?e=ihKYj7"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Với các học phần học thuật (academic)"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Tải mẫu đơn đăng ký tại https://husteduvn.sharepoint.com/:w:/s/NguyenXuanTung_PDT/EVmtZeRjgWFHi1FAXc42E50B7c_DwLLU5Kk_qSP0P__V-A?e=ihKYj7"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Với trường hợp bất khả kháng do vấn đề sức khỏe, cần có minh chứng từ Trung tâm Y tế Bách khoa (Số 5 Tạ Quang Bửu, Phường Bạch Mai, Hà Nội)."
+  },
+  {
+    "element_type": "PageBreak",
+    "text": ""
+  },
+  {
+    "element_type": "Text",
+    "text": "Viết và nộp đơn kèm minh chứng tại Ban Đào tạo (bàn 4, phòng 202A-C1, gặp chuyên viên Trần Thị Hạnh). "
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Thắc mắc: liên hệ chuyên viên Trần Thị Hạnh qua email: hanh.tranthi@hust.edu.vn"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Với các học phần giáo dục thể chất (GDTC)"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Liên hệ trực tiếp với thầy, cô giảng dạy học phần cần hoãn thi, cung cấp các minh chứng cần thiết để thầy, cô xem xét bố trí thi bù."
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Trong trường hợp cần hỗ trợ hoặc có thắc mắc thì liên hệ với thầy Lê Duy Long (Phó trưởng khoa GDTC): long.leduy@hust.edu.vn"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Với các học phần Quốc phòng an ninh (QPAN)"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Khoa GDQP-AN sẽ tiếp nhận đơn và xử lý hoãn thi và thi bù cho sinh viên. Nộp đơn hoãn thi tại khoa GDQP-AN, người tiếp nhận là cô Nguyễn Thị Hà Giang (email: giang.nguyenthiha@hust.edu.vn). "
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Đăng ký thi bù"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mô tả: Đăng ký thi bù do hoãn thi"
+  },
+  {
+    "element_type": "Text",
+    "text": "Xem hướng dẫn chi tiết tại: https://husteduvn.sharepoint.com/:w:/s/NguyenXuanTung_PDT/EVmtZeRjgWFHi1FAXc42E50B7c_DwLLU5Kk_qSP0P__V-A?e=ihKYj7"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Đăng ký thi bù do hoãn thi cuối kỳ tại:"
+  },
+  {
+    "element_type": "Text",
+    "text": "https://forms.office.com/r/QTh54tSjhm"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Lưu ý: cần đăng ký muộn nhất là 5 ngày trước ngày thi"
+  },
+  {
+    "element_type": "Text",
+    "text": "Thắc mắc: liên hệ chuyên viên Trần Thị Hạnh, địa chỉ email: hanh.tranthi@hust.edu.vn"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Tài khoản Office 365"
+  },
+  {
+    "element_type": "Text",
+    "text": "Mô tả: thắc mắc về tài khoản office 365"
+  },
+  {
+    "element_type": "Text",
+    "text": "Liên hệ Trung tâm Chuyển đổi số theo thông tin sau"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Văn phòng: 905A - TV Tạ Quang Bửu"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Điện thoại: 024 38682203"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Email: office.cdt@hust.edu.vn"
+  },
+  {
+    "element_type": "PageBreak",
+    "text": ""
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Văn bằng"
+  },
+  {
+    "element_type": "Text",
+    "text": "Mô tả: Thắc mắc về bằng cấp, chứng chỉ"
+  },
+  {
+    "element_type": "Text",
+    "text": "Liên hệ chuyên viên Lê Minh Thuyết tại bàn số 7, phòng 202A-C1, hoặc qua email: son.nguyenthanh1@hust.edu.vn"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Nhận bằng"
+  },
+  {
+    "element_type": "Text",
+    "text": "Mô tả: Nhận bằng tốt nghiệp"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Gặp trực tiếp chuyên viên Nguyễn Thị Hà Thu bàn số 9, phòng 202A-C1 (email: son.nguyenthanh1@hust.edu.vn)"
+  },
+  {
+    "element_type": "Text",
+    "text": "Một số lưu ý:"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Nhận bằng theo Biểu đồ kế hoạch học tập hoặc các ngày thứ 3, thứ 5 hàng tuần tại Ban Đào tạo."
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Yêu cầu mang thẻ căn cước công dân hoặc chứng minh thư nhân dân."
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Trong trường hợp người khác nhận thay phải có giấy ủy quyền có xác nhận của phường/xã (mẫu giấy ủy quyền theo quy định của địa phương)."
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Lưu học sinh"
+  },
+  {
+    "element_type": "Text",
+    "text": "Mô tả: Công tác lưu học sinh"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Liên hệ chuyên viên Chuyên viên Nguyễn Quốc Đạt (bàn 8, phòng 202A-C1) hoặc qua email: \tdat.nguyenquoc@hust.edu.vn"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Xác minh văn bằng"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "1. Với bằng đại học chính quy: liên hệ Chuyên viên Nguyễn Kim Huệ (202A-C1, bàn số 6)"
+  },
+  {
+    "element_type": "Text",
+    "text": "Email: hue.nguyenkim@hust.edu.vn"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "2. Với bằng cao đẳng: liên hệ Chuyên viên Trần Thị Hạnh (202A-C1, bàn số 4)"
+  },
+  {
+    "element_type": "Text",
+    "text": "Email: hanh.tranthi@hust.edu.vn"
+  },
+  {
+    "element_type": "Text",
+    "text": "3. Với bằng Sau đại học: liên hệ Chuyên viên Đinh Thị Quyên (315-C1, bàn số 8)"
+  },
+  {
+    "element_type": "Text",
+    "text": "Email: quyen.dinhthi@hust.edu.vn"
+  },
+  {
+    "element_type": "PageBreak",
+    "text": ""
+  },
+  {
+    "element_type": "Text",
+    "text": "4. Với bằng đại học hệ vừa làm vừa học: liên hệ Trung tâm Đào tạo liên tục (địa chỉ: 94 phố Lê Thanh Nghị, Bách Khoa, Hai Bà Trưng, Hà Nội)."
+  },
+  {
+    "element_type": "Text",
+    "text": "Email: dtlt@hust.edu.vn"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Bản sao văn bằng"
+  },
+  {
+    "element_type": "Text",
+    "text": "Mô tả: Cấp bản sao văn bằng (bằng tốt nghiệp/bảng điểm tốt nghiệp)"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Tải mẫu văn bằng tại https://ctt.hust.edu.vn/Upload/Nguyen%20Quoc%20Dat/files/DTDH_bieumau/Hoc_tap/23_%20Don%20xin%20cap%20ban%20sao%20bang%20TN.docx, điền và nộp đơn trực tiếp tại bàn số 9, phòng 202A-C1 (chuyên viên tiếp nhận: Nguyễn Thị Hà Thu (email: \t"
+  },
+  {
+    "element_type": "EmailAddress",
+    "text": "thu.nguyenthiha@hust.edu.vn))."
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Lưu ý: Với các văn bằng hệ vừa làm vừa học được cấp từ năm 2022 trở về trước: nộp đơn tại Trung tâm đào tạo liên tục (xem thông tin tại http://dtlt.hust.edu.vn/)."
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Giấy chứng nhận tốt nghiệp tạm thời"
+  },
+  {
+    "element_type": "Text",
+    "text": "Mô tả: Cấp giấy chứng nhận tốt nghiệp tạm thời"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Lưu ý: Giấy chứng nhận tốt nghiệp tạm thời chỉ có thể cấp trong khi chờ cấp bằng, tức là chỉ có thể cấp từ khi Giám đốc ĐHBK HN ký Quyết định công nhận tốt nghiệp, chứ không phải cấp ngay sau khi có kết quả trên hệ thống (kết quả trên hệ thống mới chỉ là chạy phần mềm, chưa phải kết quả công nhận tốt nghiệp)."
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Tham khảo quy định trên tại Thông tư số 21/2019/TT-BGDĐT tại https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=198554."
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "+ Thời gian chờ cấp bằng: xem Khoản 1 Điều 17 của Thông tư trên."
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "+ Thời điểm có thể cấp Giấy chứng nhận tốt nghiệp tạm thời: xem Khoản 3 Điều 17 của Thông tư trên."
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Trong trường hợp cần thiết thì khi có kết quả xét tốt nghiệp trong tài khoản Cổng thông tin sinh viên có thể liên hệ Văn phòng trường/khoa để xin Giấy xác nhận hoàn thành chương trình đào tạo (đăng ký theo biểu mẫu trên QLĐT)."
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Mật khẩu email"
+  },
+  {
+    "element_type": "PageBreak",
+    "text": ""
+  },
+  {
+    "element_type": "Text",
+    "text": "Liên hệ trung tâm mạng thông tin tại https://ctt.hust.edu.vn/account/resetpassword"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Chuyển tiếp sinh"
+  },
+  {
+    "element_type": "Text",
+    "text": "Mô tả: hướng dẫn chuyển tiếp sinh"
+  },
+  {
+    "element_type": "Text",
+    "text": "Liên hệ chuyên viên Giang Hương qua email: huong.giang@hust.edu.vn hoặc gặp trực tiếp tại phòng 316 C1"
+  },
+  {
+    "element_type": "ListItem",
+    "text": "Kĩ sư chuyên sâu"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mô tả: Thay đổi chương trình đào tạo KS chuyên sâu hoặc Xin hủy đăng ký học chương trình đào tạo kĩ sư chuyên sâu"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Học viên tải đơn --> điền đầy đủ thông tin --> xin xác nhận của Trường/Khoa quản ngành --> chụp và gửi đơn qua email: hung.nguyenhuy@hust.edu.vn"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Học viên tải đơn --> điền đầy đủ thông tin --> xin xác nhận của Trường/Khoa quản ngành --> chụp và gửi đơn qua email: hung.nguyenhuy@hust.edu.vn (chuyên viên tiếp nhận: Nguyễn Huy Hùng)"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mẫu đơn dành cho việc thay đổi chương trình đào tạo kĩ sư chuyên sâu: https://husteduvn-my.sharepoint.com/:w:/g/personal/sdh_hust_edu_vn/ERR1zxfXQIFOgaAM4mULdi8B_M3a5qSmf1g04v1L5Zyabg?e=878vYg&wdLOR=c477AFCDD-95CC-462C-AAB9-1FD4944C27EF"
+  },
+  {
+    "element_type": "NarrativeText",
+    "text": "Mẫu đơn dành cho việc xin hủy đăng ký học chương trình đào tạo kĩ sư chuyên sâu: https://husteduvn-my.sharepoint.com/:w:/g/personal/sdh_hust_edu_vn/EYdjpXkE4IpOvNKvJJZo8coB8_WcseGYyj99Ian91FIZxg?e=gi1dpP&wdLOR=c21BCB367-1A38-499D-940E-186E8DAEB59F"
+  }
+]

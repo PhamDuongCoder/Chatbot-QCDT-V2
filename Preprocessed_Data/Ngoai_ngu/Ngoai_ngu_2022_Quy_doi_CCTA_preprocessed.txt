@@ -1,0 +1,41 @@
+<<<CHUNK>>>
+source: Ngoai_ngu_2022_Quy_doi_CCTA.pdf
+parent_doc_id: Ngoai_ngu_2022_Quy_doi_CCTA
+chunk_id: Ngoai_ngu_2022_Quy_doi_CCTA_001
+chunk_index: 1
+language: vi
+category: Ngoai_ngu
+year: 2022
+title: Quyết định bổ sung danh mục quy đổi chứng chỉ tiếng Anh
+summary: Quyết định số 5743/QĐ-ĐHBK của Trường Đại học Bách khoa Hà Nội về việc bổ sung chứng chỉ VSTEP vào bảng quy đổi tương đương các chứng chỉ tiếng Anh. Quyết định có hiệu lực từ học kỳ 1 năm học 2022-2023.
+
+Nội dung quyết định:
+- Bổ sung chứng chỉ tiếng Anh VSTEP (Vietnamese Standardized Test of English Proficiency) vào Phụ lục 2 “Bảng quy đổi tương đương các chứng chỉ tiếng Anh” ban hành kèm theo Quyết định số 119/QĐ-ĐHBK-ĐT ngày 15/01/2021.
+- Hiệu lực áp dụng: Từ học kỳ 1 năm học 2022-2023.
+- Đối tượng thi hành: Phòng Đào tạo, Viện Ngoại ngữ, các đơn vị liên quan và sinh viên đại học chính quy.
+<<<CHUNK>>>
+
+<<<CHUNK>>>
+source: Ngoai_ngu_2022_Quy_doi_CCTA.pdf
+parent_doc_id: Ngoai_ngu_2022_Quy_doi_CCTA
+chunk_id: Ngoai_ngu_2022_Quy_doi_CCTA_002
+chunk_index: 2
+language: vi
+category: Ngoai_ngu
+year: 2022
+title: Bảng quy đổi tương đương các chứng chỉ tiếng Anh
+summary: Bảng chi tiết quy đổi điểm tương đương giữa các chứng chỉ TOEIC, TOEFL iBT, IELTS, VSTEP, Cambridge English Tests và thang điểm Cambridge Scale theo Quyết định 5743/QĐ-ĐHBK.
+
+| TOEIC | TOEF iBT | IELTS (Academic) | VSTEP | Cambridge English Tests | Cambridge Scale |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| ≤ 345 | < 20 | ≤ 2.0 | Không có | Starters | 80 ÷ 99 |
+| 350 ÷ 395 | 20 ÷ 24 | 2.5 | Không có | Movers | 100 ÷ 119 |
+| 400 ÷ 445 | 25 ÷ 31 | 3.0 | Không có | KET with grade C | 120 ÷ 129 |
+| 450 ÷ 495 | 32 ÷ 33 | 3.5 | Không có | KET with grade B | 130 ÷ 139 |
+| 500 ÷ 545 | 34 ÷ 37 | 4.0 | 4 ÷ 4.5 | KET with grade A; PET with “Pass” | 140 ÷ 145 |
+| 550 ÷ 595 | 38 ÷ 41 | 4.5 | 5 | KET with grade A; PET with “Pass” | 145 ÷ 150 |
+| 600 ÷ 645 | 42 ÷ 45 | 5.0 | 5.5 | PET with “Merit” | 151 ÷ 159 |
+| ≥ 650 | 46 ÷ 114 | ≥ 5.5 | ≥ 6 | PET with Distinction; FCE with grade C/B/A; CAE with grade C/B | 160 ÷ 199 |
+
+*Ghi chú: Các trường hợp quy đổi tương đương khác do Hiệu trưởng quyết định.*
+<<<CHUNK>>>
