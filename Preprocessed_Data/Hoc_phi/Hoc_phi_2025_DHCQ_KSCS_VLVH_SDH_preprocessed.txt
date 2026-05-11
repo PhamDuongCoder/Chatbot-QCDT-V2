@@ -1,0 +1,167 @@
+<<<CHUNK_START>>>
+source: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH.pdf
+parent_doc_id: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH
+chunk_id: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH_001
+chunk_index: 1
+language: vi
+category: Hoc_phi
+year: 2025
+chunk_title: Quyết định phê duyệt mức học phí năm học 2025-2026
+topic_tags: [quyết định, học phí, năm học 2025-2026]
+summary: Quyết định số 10232/QĐ-ĐHBK của Giám đốc Đại học Bách khoa Hà Nội về việc phê duyệt mức học phí cho các chương trình đào tạo đại học chính quy, kỹ sư chuyên sâu, vừa làm vừa học và sau đại học năm học 2025-2026.
+
+Quyết định số 10232/QĐ-ĐHBK ngày 12 tháng 9 năm 2025 của Giám đốc Đại học Bách khoa Hà Nội về việc phê duyệt mức học phí các chương trình đào tạo đại học chính quy, đào tạo kỹ sư chuyên sâu, vừa làm vừa học và sau đại học đối với năm học 2025-2026.
+
+Điều 1. Phê duyệt mức học phí các chương trình đào tạo đại học chính quy, đào tạo kỹ sư chuyên sâu, vừa làm vừa học và sau đại học đối với năm học 2025-2026 tại Phụ lục I kèm theo. Học phí được tính theo số tín chỉ học phí (TCHP) của các học phần được sinh viên đăng ký học ở mỗi học kỳ. Số TCHP của mỗi loại học phần trong chương trình đào tạo được quy định tại Phụ lục II kèm theo.
+
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký. Các Ông/Bà Trưởng Ban Đào tạo, Tài chính-Kế hoạch, Công tác sinh viên, Hiệu trưởng các trường, Trưởng các Khoa, sinh viên đại học hệ chính quy, kỹ sư chuyên sâu, vừa làm vừa học và sau đại học, các đơn vị và cá nhân liên quan chịu trách nhiệm thi hành quyết định này.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH.pdf
+parent_doc_id: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH
+chunk_id: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH_002
+chunk_index: 2
+language: vi
+category: Hoc_phi
+year: 2025
+chunk_title: Phụ lục I - Mức học phí đại học chính quy (Chương trình chuẩn)
+topic_tags: [học phí, đại học chính quy, chương trình chuẩn]
+summary: Bảng mức học phí theo tín chỉ (TCHP) cho các chương trình đào tạo chuẩn hệ đại học chính quy năm học 2025-2026.
+
+Mức học phí/một Tín chỉ học phí (TCHP) đối với các chương trình đào tạo chuẩn:
+
+| Chương trình | Mức học phí (nghìn đồng) |
+| :--- | :---: |
+| KT Cơ điện tử, KT điện tử-viễn thông, KT điều khiển-tự động hóa, Khoa học máy tính, Kỹ thuật máy tính | 630 |
+| Toán tin, Hệ thống thông tin quản lý, Kỹ thuật y sinh, KT cơ khí, KT cơ khí động lực, KT thực phẩm, KT sinh học, KT ôtô, KT điện, Tài chính – ngân hàng, Quản lý công nghiệp, Quản lý năng lượng, Quản trị kinh doanh, Kế toán, Ngôn ngữ Anh, Tiếng Trung KHCN | 600 |
+| KT hóa học, Hóa học, KT in, KT vật liệu, KT vật liệu Polyme và Compozit, KT vi điện tử và CN Nano, KT hàng không, Vật lý kỹ thuật, KT hạt nhân, KT nhiệt, Vật lý y khoa, Công nghệ dệt may, Kỹ thuật dệt, KT môi trường, Quản lý tài nguyên và môi trường, Công nghệ giáo dục, Quản lý giáo dục, và các chương trình đào tạo chuẩn khác | 550 |
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH.pdf
+parent_doc_id: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH
+chunk_id: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH_003
+chunk_index: 3
+language: vi
+category: Hoc_phi
+year: 2025
+chunk_title: Phụ lục I - Mức học phí đại học chính quy (Đặc biệt & ELITECH)
+topic_tags: [học phí, đại học chính quy, ELITECH, chương trình đặc biệt]
+summary: Bảng mức học phí theo tín chỉ (TCHP) cho các chương trình đào tạo đặc biệt và ELITECH hệ đại học chính quy.
+
+| Chương trình | Các học phần LLCT, GDTC, GDQP-AN(1), Tiếng Anh cơ bản, cơ sở | Các học phần khác |
+| :--- | :---: | :---: |
+| Công nghệ thông tin: Việt-Nhật, Global ICT | 700 | 850 |
+| Chương trình tiên tiến: Khoa học dữ liệu và Trí tuệ nhân tạo, Logistics và Quản lý chuỗi cung ứng | 700 | 1020 |
+| Chương trình tiên tiến Kỹ thuật điều khiển và tự động hoá | 700 | 820 |
+| Chương trình tiên tiến KT Cơ điện tử | 700 | 800 |
+| Công nghệ thông tin Việt-Pháp và các chương trình tiên tiến còn lại | 700 | 750 |
+| Các chương trình Đào tạo tài năng | 650 | 650 |
+| Các chương trình PFIEV và chương trình tiếng Anh chuyên nghiệp quốc tế (IPE)(2) | 700 | 700 |
+
+*(1) Các học phần thuộc khối kiến thức Lý luận chính trị, Giáo dục thể chất, GD Quốc phòng-An ninh.*
+*(2) Đối với chương trình IPE, sinh viên phải đóng thêm phí ghi danh và kiểm định chất lượng của trường đối tác, tạm tính quy đổi là 14 triệu đồng/năm học với khoá 69, 70 và 13 triệu đồng/năm học với các khoá 68 trở về trước.*
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH.pdf
+parent_doc_id: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH
+chunk_id: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH_004
+chunk_index: 4
+language: vi
+category: Hoc_phi
+year: 2025
+chunk_title: Phụ lục I - Mức học phí hợp tác quốc tế và ngoại ngữ
+topic_tags: [học phí, hợp tác quốc tế, ngoại ngữ]
+summary: Quy định mức học phí cho các chương trình hợp tác quốc tế và các học phần ngoại ngữ tại ĐHBK Hà Nội.
+
+**1. Chương trình hợp tác quốc tế:**
+
+| Chương trình | Các học phần LLCT, GDTC, GDQP-AN* | Các học phần khác (trừ ngoại ngữ) |
+| :--- | :---: | :---: |
+| ME-GU, ME-NUT, IT-LTU, IT-VUW | 700 | 950 |
+| ME-LUH, ET-LUH, IT-GINP | 700 | 900 |
+| EM-VUW, EM-NU (IEM) | 700 | 1020 |
+
+**2. Mức học phí đối với các học phần ngoại ngữ:**
+
+| Lớp trình độ | Mức học phí (nghìn đồng) |
+| :--- | :---: |
+| A1.1, A1.2 - Tiếng Anh, Đức, Pháp, Tiếng Nhật 1 | 725 |
+| A2.1, A2.2 - Tiếng Anh, Đức, Pháp, Tiếng Nhật 2 | 855 |
+| B1.1, B1.2 - Tiếng Anh, Đức, Pháp, Tiếng Nhật 3, Tiếng Nhật 4 | 965 |
+| B2.1, B2.2 - Tiếng Anh, Đức, Pháp, Tiếng Nhật 5 | 1030 |
+| Các trình độ nâng cao | 1085 |
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH.pdf
+parent_doc_id: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH
+chunk_id: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH_005
+chunk_index: 5
+language: vi
+category: Hoc_phi
+year: 2025
+chunk_title: Phụ lục I - Các quy định học phí khác và miễn giảm
+topic_tags: [học phí, học lại, học cải thiện, miễn giảm, KSCS]
+summary: Quy định về học phí cho chương trình TROY, học lại, học cải thiện, học kỳ hè, sinh viên nước ngoài, kỹ sư chuyên sâu và chế độ miễn giảm.
+
+- **Chương trình TROY:** Mức học phí 30 triệu đồng/học kỳ (khóa 70), 28.6 triệu đồng/học kỳ (khóa 69), 26 triệu đồng/học kỳ (khóa 68 trở về trước). Phí ghi danh 1,7 triệu đồng.
+- **Học lại/Cải thiện/Ngoài khung:** Tính bằng mức học phí chương trình chuẩn.
+- **Học kỳ hè:** Tính bằng 1,5 lần mức học phí chuẩn (trừ một số trường hợp do Giám đốc quyết định).
+- **Sinh viên nước ngoài:** Tính bằng 1,5 lần mức học phí chuẩn.
+- **Kỹ sư chuyên sâu (KSCS):** Tính bằng mức học phí chương trình đại học chính quy chuẩn tương ứng.
+- **Lớp ít sinh viên:** Hệ số 1,5 (10-19 SV) hoặc 2,0 (<10 SV).
+- **Miễn giảm:** Đại học hỗ trợ phần chênh lệch học phí cho đối tượng chính sách theo quy định Nhà nước (không áp dụng cho khung chương trình KSCS).
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH.pdf
+parent_doc_id: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH
+chunk_id: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH_006
+chunk_index: 6
+language: vi
+category: Hoc_phi
+year: 2025
+chunk_title: Phụ lục I - Học phí VLVH và Sau đại học
+topic_tags: [học phí, vừa làm vừa học, sau đại học]
+summary: Quy định mức học phí cho hệ vừa làm vừa học và sau đại học năm học 2025-2026.
+
+**I. Hệ vừa làm vừa học:**
+- Chương trình chuẩn: 440.000 đồng/TCHP.
+- Lớp dưới 26 sinh viên: Hệ số 1,25 (21-25 SV), hệ số 1,5 (15-20 SV).
+
+**II. Hệ sau đại học:**
+- Thạc sĩ (kỹ thuật, công nghệ): 720.000 đồng/TCHP.
+- Thạc sĩ (kinh tế): 780.000 đồng/TCHP.
+- Tiến sĩ: 26 triệu đồng/năm.
+- Học lại/bổ sung kiến thức: Theo mức học phí chuẩn.
+- Học quá thời gian thiết kế: 1,5 lần mức chuẩn.
+- Gia hạn thời gian học: 5.000.000 đồng/học kỳ.
+- Học lại tiến sĩ: 850.000 đồng/TCHP; Chuyên đề tiến sĩ: 2.200.000 đồng/chuyên đề.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH.pdf
+parent_doc_id: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH
+chunk_id: Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH_007
+chunk_index: 7
+language: vi
+category: Hoc_phi
+year: 2025
+chunk_title: Phụ lục II - Quy đổi Tín chỉ học tập (TCHT) sang Tín chỉ học phí (TCHP)
+topic_tags: [quy đổi, tín chỉ, TCHT, TCHP]
+summary: Bảng quy đổi từ Tín chỉ học tập (TCHT) sang Tín chỉ học phí (TCHP) cho các hệ đào tạo.
+
+| Loại học phần | Cách tính (Đại học chính quy) | Cách tính (VLVH) | Cách tính (Sau đại học) |
+| :--- | :--- | :--- | :--- |
+| Lý thuyết, bài tập | 15 tiết = 1 TCHP | 15 tiết = 1 TCHP | 15 tiết = 1 TCHP |
+| Thí nghiệm/thực hành | 15 tiết = 1,5 TCHP | 15 tiết = 1,5 TCHP | 15 tiết = 1,5 TCHP |
+| TN chuyên ngành | 1 TCHT = 3,0 TCHP | 1 TCHT = 3,0 TCHP | 1 TCHT = 1,5 TCHP |
+| Thực tập cơ sở/kỹ thuật | 1 TCHT = 2,0 TCHP | 1 TCHT = 2,0 TCHP | - |
+| Thực tập tốt nghiệp | 1 TCHT = 2,5 TCHP | 1 TCHT = 2,5 TCHP | - |
+| Khóa luận/Đồ án tốt nghiệp | 1 TCHT = 2,5 TCHP | 1 TCHT = 2,5 TCHP | - |
+| Đồ án môn học/chuyên ngành | 1 TCHT = 2,0 TCHP | 1 TCHT = 2,0 TCHP | 1 TCHT = 1,5 TCHP |
+| GD thể chất | 1 TCHT = 1,5 TCHP | - | - |
+<<<CHUNK_END>>>

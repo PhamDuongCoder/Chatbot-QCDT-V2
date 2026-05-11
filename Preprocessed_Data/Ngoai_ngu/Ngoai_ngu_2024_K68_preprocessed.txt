@@ -1,0 +1,354 @@
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_001
+chunk_index: 1
+language: vi
+category: Ngoai_ngu
+year: 2024
+chunk_title: Quyết định ban hành Quy định về ngoại ngữ
+topic_tags: [quyết định, ban hành, ngoại ngữ]
+summary: Quyết định số 2048/QĐ-ĐHBK ngày 08/03/2024 của Giám đốc ĐHBK Hà Nội về việc ban hành Quy định phân loại trình độ đầu vào, chương trình môn học và chuẩn ngoại ngữ đối với sinh viên đại học chính quy.
+
+**BỘ GIÁO DỤC VÀ ĐÀO TẠO**
+**ĐẠI HỌC BÁCH KHOA HÀ NỘI**
+Số: 2048/QĐ-ĐHBK
+Hà Nội, ngày 08 tháng 3 năm 2024
+
+**QUYẾT ĐỊNH**
+Về việc ban hành Quy định về phân loại trình độ đầu vào, chương trình môn học và chuẩn ngoại ngữ yêu cầu đối với sinh viên đại học hệ chính quy
+
+**GIÁM ĐỐC ĐẠI HỌC BÁCH KHOA HÀ NỘI**
+... (Các căn cứ pháp lý) ...
+
+**QUYẾT ĐỊNH:**
+**Điều 1.** Ban hành kèm theo Quyết định này Quy định về phân loại trình độ đầu vào, chương trình môn học và chuẩn ngoại ngữ yêu cầu đối với sinh viên đại học hệ chính quy của Đại học Bách khoa Hà Nội.
+**Điều 2.** Giao nhiệm vụ cho Ban Đào tạo, Khoa Ngoại ngữ phối hợp với các đơn vị thuộc Đại học thực hiện theo đúng Quy định này.
+**Điều 3.** Các Ông/Bà Trưởng Ban Đào tạo, Trưởng khoa Ngoại ngữ, Giám đốc Trung tâm Khảo thí ngoại ngữ và Trao đổi văn hóa, trưởng các đơn vị có liên quan và các sinh viên đại học hệ chính quy của Đại học Bách khoa Hà Nội chịu trách nhiệm thi hành Quyết định này.
+
+KT. GIÁM ĐỐC
+PHÓ GIÁM ĐỐC
+(Đã ký)
+PGS.TS. Nguyễn Phong Điền
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_002
+chunk_index: 2
+language: vi
+category: Ngoai_ngu
+year: 2024
+chunk_title: Điều 1 – Phạm vi và đối tượng áp dụng
+topic_tags: [phạm vi, đối tượng, áp dụng]
+summary: Quy định phạm vi áp dụng cho sinh viên đại học chính quy (trừ ngành Ngôn ngữ Anh và sinh viên nước ngoài) về đánh giá, phân loại, chương trình và chuẩn ngoại ngữ.
+
+**Điều 1. Phạm vi và đối tượng áp dụng**
+1. Văn bản này quy định về công tác tổ chức đánh giá và phân loại trình độ ngoại ngữ đầu vào; chương trình môn học ngoại ngữ; điều kiện được miễn học các học phần ngoại ngữ; chuẩn ngoại ngữ yêu cầu theo số lượng tín chỉ tích lũy và chuẩn ngoại ngữ đầu ra.
+2. Quy định này áp dụng cho sinh viên đại học hệ chính quy, không thuộc ngành Ngôn ngữ Anh của Đại học Bách khoa Hà Nội.
+3. Quy định này không áp dụng cho sinh viên là người nước ngoài đang học tại Đại học Bách khoa Hà Nội.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_003
+chunk_index: 3
+language: vi
+category: Ngoai_ngu
+year: 2024
+chunk_title: Điều 2 – Phân loại trình độ đầu vào và phân lớp học ngoại ngữ
+topic_tags: [phân loại, đầu vào, phân lớp]
+summary: Quy định các tiêu chí phân loại trình độ ngoại ngữ đầu vào (kiểm tra, chứng chỉ, điểm thi THPT) và nguyên tắc xếp lớp học phần.
+
+**Điều 2. Phân loại trình độ đầu vào và phân lớp học ngoại ngữ**
+1. Căn cứ phân loại trình độ ngoại ngữ đầu vào với sinh viên thuộc chương trình đào tạo có yêu cầu chuẩn đầu ra là tiếng Anh dựa trên một hoặc nhiều tiêu chí, bao gồm:
++ Dựa trên kết quả kiểm tra tiếng Anh đầu khóa;
++ Hoặc dựa trên chứng chỉ tiếng Anh quốc gia, quốc tế;
++ Hoặc dựa trên điểm thi môn tiếng Anh của kỳ thi tốt nghiệp trung học phổ thông (THPT) tại năm nhập học.
+Việc lựa chọn tiêu chí phân loại cụ thể trong số các tiêu chí trên đây có thể thay đổi theo từng khóa tuyển sinh.
+2. Căn cứ phân loại trình độ ngoại ngữ đầu vào với sinh viên thuộc chương trình đào tạo có yêu cầu chuẩn đầu ra là ngoại ngữ khác tiếng Anh: dựa trên chứng chỉ quốc tế của ngôn ngữ tương ứng.
+3. Căn cứ trên kết quả phân loại trình độ ngoại ngữ đầu vào, sinh viên được xét miễn học các học phần theo quy định và được xếp lớp học ngoại ngữ tương ứng.
+4. Sinh viên không đáp ứng điều kiện phân loại trình độ ngoại ngữ theo khoản 1 hoặc khoản 2 của điều này sẽ phải học toàn bộ các học phần ngoại ngữ tương ứng với từng chương trình đào tạo theo lộ trình quy định.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_004
+chunk_index: 4
+language: vi
+category: Ngoai_ngu
+year: 2024
+chunk_title: Điều 3 – Công nhận, xét miễn học phần ngoại ngữ
+topic_tags: [miễn học, học phần, chứng chỉ]
+summary: Quy định lộ trình đăng ký học phần ngoại ngữ, điều kiện xét miễn học phần bằng chứng chỉ và quy trình nộp đơn xét miễn.
+
+**Điều 3. Công nhận, xét miễn học phần ngoại ngữ**
+1. Tất cả các học phần ngoại ngữ tương ứng với từng chương trình đào tạo là các học phần bắt buộc. Lộ trình học tập đối với các học phần ngoại ngữ được quy định như sau:
+a. Ban Đào tạo sẽ đăng ký các học phần ngoại ngữ đối với 2 học kỳ đầu cho sinh viên dựa theo kết quả phân loại trình độ ngoại ngữ đầu vào.
+b. Học kỳ thứ 3: dành cho sinh viên để tự đăng ký học lại các học phần ngoại ngữ không đạt ở 2 học kỳ đầu (nếu có) và chủ động thi chứng chỉ ngoại ngữ.
+c. Từ kỳ thứ 4 trở đi: Ban Đào tạo sẽ thực hiện việc đăng ký bắt buộc các học phần ngoại ngữ đối với các sinh viên không đạt chuẩn ngoại ngữ theo số lượng tín chỉ tích lũy.
+2. Trong quá trình học tập, nếu sinh viên đạt được chứng chỉ ngoại ngữ theo quy định sẽ được xét miễn các học phần ngoại ngữ tương ứng với trình độ đạt được. Các học phần được miễn sẽ được ghi điểm R trong bảng điểm.
+3. Chứng chỉ ngoại ngữ để xét miễn học phần phải còn hạn theo quy định tính tới thời điểm nộp đơn xét miễn. Danh sách chứng chỉ và các học phần được miễn được ghi trong các phụ lục tương ứng kèm theo Quy định này.
+4. Toàn bộ các chứng chỉ ngoại ngữ quốc gia, quốc tế phải được thẩm định nguồn gốc và cập nhật mức điểm lên hệ thống phần mềm quản lý đào tạo trước thời điểm nộp đơn đề nghị xét miễn học phần ngoại ngữ.
+5. Thời gian tiếp nhận đơn đề nghị xét miễn học phần ngoại ngữ muộn nhất là 2 tuần trước khi bắt đầu học kỳ theo Khung kế hoạch thời gian của năm học.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_005
+chunk_index: 5
+language: vi
+category: Ngoai_ngu
+year: 2024
+chunk_title: Điều 4 – Yêu cầu về chuẩn ngoại ngữ theo tín chỉ tích lũy và chuẩn đầu ra
+topic_tags: [chuẩn đầu ra, tín chỉ tích lũy, thi nội bộ]
+summary: Quy định về chuẩn ngoại ngữ theo tín chỉ tích lũy, chuẩn đầu ra và giá trị công nhận của các kỳ thi ngoại ngữ nội bộ.
+
+**Điều 4. Yêu cầu về chuẩn ngoại ngữ theo tín chỉ tích lũy và chuẩn ngoại ngữ đầu ra**
+1. Yêu cầu về chuẩn ngoại ngữ theo số lượng tín chỉ tích lũy và chuẩn ngoại ngữ đầu ra được quy định cụ thể cho từng chương trình đào tạo tại các phụ lục tương ứng kèm theo Quy định này.
+2. Kết quả thi các kỳ thi ngoại ngữ nội bộ của Đại học Bách khoa Hà Nội được công nhận để xét điều kiện chuẩn ngoại ngữ theo số lượng tín chỉ tích lũy.
+3. Sinh viên được tham dự các kỳ thi tiếng Anh nội bộ của Đại học Bách khoa Hà Nội nhiều lần và được công nhận điểm thi cao nhất trong các lần thi. Kết quả thi này có giá trị công nhận trong vòng 2 năm kể từ ngày thi.
+4. Sinh viên thuộc các chương trình đào tạo Elitech (bao gồm chương trình tiên tiến, chương trình đào tạo tài năng và chương trình đào tạo hợp tác quốc tế) có ngoại ngữ yêu cầu là tiếng Anh và sinh viên thuộc các chương trình đào tạo chuẩn phải có chứng chỉ tiếng Anh quốc tế 4 kỹ năng hoặc chứng chỉ VSTEP tương đương để được xét công nhận đạt chuẩn ngoại ngữ đầu ra. Các chứng chỉ tiếng Anh có giá trị công nhận trong vòng 2 năm kể từ ngày cấp.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_006
+chunk_index: 6
+language: vi
+category: Ngoai_ngu
+year: 2024
+chunk_title: Điều 5, 6, 7 – Các quy định bổ sung và hiệu lực thi hành
+topic_tags: [hạn chế học tập, ngoại lệ, hiệu lực]
+summary: Quy định về việc hạn chế khối lượng học tập khi không đạt chuẩn ngoại ngữ, các trường hợp ngoại lệ và hiệu lực áp dụng từ khóa 68.
+
+**Điều 5. Hạn chế khối lượng học tập trong trường hợp không đạt chuẩn ngoại ngữ theo tín chỉ tích lũy và điều kiện gỡ bỏ hạn chế**
+1. Sinh viên không đạt chuẩn ngoại ngữ quy định theo số lượng tín chỉ tích lũy sẽ bị hạn chế khối lượng tín chỉ học tập theo Quy chế đào tạo hiện hành.
+2. Điều kiện gỡ bỏ hạn chế khối lượng tín chỉ học tập được quy định cụ thể tại các phụ lục tương ứng kèm theo Quy định này.
+
+**Điều 6. Các trường hợp ngoại lệ**
+Các trường hợp ngoại lệ sẽ do Ban Đào tạo đề xuất và trình Giám đốc đại học quyết định.
+
+**Điều 7. Hiệu lực thi hành**
+1. Quy định này được áp dụng từ năm học 2023-2024 đối với các chương trình đào tạo kể từ khóa 68 trở về sau.
+2. Quy định hiện hành về ngoại ngữ đối với các chương trình đào tạo từ khóa 67 trở về trước vẫn tiếp tục còn hiệu lực thi hành cho đến thời điểm kết thúc khóa đào tạo.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_007
+chunk_index: 7
+language: vi
+category: Ngoai_ngu
+year: 2024
+chunk_title: Phụ lục 1 – Danh mục chương trình đào tạo và ngoại ngữ chính
+topic_tags: [phụ lục, chương trình đào tạo, ngoại ngữ chính]
+summary: Danh mục các chương trình đào tạo tại ĐHBK Hà Nội và ngoại ngữ chính yêu cầu tương ứng.
+
+[Hình: Bảng danh mục các chương trình đào tạo và ngoại ngữ chính yêu cầu]
+
+| Loại/Tên chương trình đào tạo | Ngoại ngữ chính |
+| :--- | :--- |
+| Các chương trình đào tạo chuẩn | Tiếng Anh |
+| Các chương trình đào tạo tài năng | Tiếng Anh |
+| Các chương trình PFIEV | Tiếng Pháp |
+| Các chương trình Elitech, tăng cường ngoại ngữ | (Chi tiết theo danh sách 1-19) |
+| Các chương trình đào tạo hợp tác quốc tế | (Chi tiết theo danh sách 1-6) |
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_008
+chunk_index: 8
+language: vi
+category: Ngoai_ngu
+year: 2024
+chunk_title: Phụ lục 2 – Bảng quy đổi tương đương chứng chỉ tiếng Anh
+topic_tags: [quy đổi, chứng chỉ, tiếng Anh]
+summary: Bảng quy đổi tương đương các chứng chỉ tiếng Anh quốc tế sang khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam (NLNNVN).
+
+[Hình: Bảng quy đổi tương đương các chứng chỉ tiếng Anh (TOEIC, TOEFL, VSTEP, IELTS, APTIS, Cambridge)]
+
+**2. Điều kiện xét quy đổi tương đương chứng chỉ**
++ Đối với chứng chỉ TOEIC 4 kỹ năng: quy đổi tương đương sang các chứng chỉ khác dựa theo kỹ năng đạt điểm thấp nhất.
++ Sinh viên có chứng chỉ TOEIC 2 kỹ năng được công nhận để xét điều kiện chuẩn ngoại ngữ theo số lượng tín chỉ tích lũy, tuy nhiên không được công nhận để xét nhận Đồ án tốt nghiệp/Khóa luận tốt nghiệp, không được công nhận để xét tốt nghiệp.
++ Các trường hợp quy đổi tương đương khác do Ban Đào tạo đề xuất và trình Giám đốc Đại học quyết định.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_009
+chunk_index: 9
+language: vi
+category: Ngoai_ngu
+year: 2024
+chunk_title: Phụ lục 3 – Chương trình đào tạo chuẩn
+topic_tags: [chương trình chuẩn, học phần, tiếng Anh]
+summary: Danh mục học phần tiếng Anh và chuẩn yêu cầu đối với chương trình đào tạo chuẩn.
+
+**Bảng 3.1 Danh mục các học phần tiếng Anh yêu cầu**
+| TT | Mã học phần | Tên học phần | Thời lượng | Tính tín chỉ |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | FL1131 | Tiếng Anh cơ sở 1 | 4(2-4-0-8) | Không |
+| 2 | FL1132 | Tiếng Anh cơ sở 2 | 4(2-4-0-8) | Có (4 TC) |
+| 3 | FL1133 | Tiếng Anh cơ sở 3 | 4(2-4-0-8) | Có (4 TC) |
+| 4 | FL1134 | Tiếng Anh cơ sở 4 | 4(2-4-0-8) | Không |
+| 5 | FL1135 | Tiếng Anh cơ sở 5 | 4(2-4-0-8) | Không |
+
+**Bảng 3.2 Yêu cầu chuẩn tiếng Anh theo số tín chỉ tích lũy và chuẩn đầu ra**
+- Đến 63TC: Đạt tất cả học phần FL1131, FL1132, FL1133 hoặc đạt tối thiểu Bậc 2.1.
+- Từ 64-95 TC: Đạt tất cả học phần FL1131, FL1132, FL1133, FL1134 hoặc đạt tối thiểu Bậc 2.2.
+- Từ 96 TC: Đạt tất cả học phần FL1131, FL1132, FL1133, FL1134, FL1135 hoặc đạt tối thiểu Bậc 2.3.
+- Xét tốt nghiệp/Đồ án: Đạt tối thiểu Bậc 3.1.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_010
+chunk_index: 10
+language: vi
+category: Ngoai_ngu
+year: 2024
+chunk_title: Phụ lục 4 – Chương trình đào tạo Tài năng
+topic_tags: [tài năng, học phần, tiếng Anh]
+summary: Danh mục học phần tiếng Anh và chuẩn yêu cầu đối với chương trình đào tạo Tài năng.
+
+**Bảng 4.1 Danh mục các học phần tiếng Anh yêu cầu**
+| TT | Mã học phần | Tên học phần | Thời lượng | Tính tín chỉ |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | FL1105 | LIFE 1 | 3(3-3-0-6) | Không |
+| 2 | FL1106 | LIFE 2 | 3(3-3-0-6) | Không |
+| 3 | FL1107 | LIFE 3 | 3(3-3-0-6) | Có (3 TC) |
+| 4 | FL1108 | LIFE 4 | 3(3-3-0-6) | Có (3 TC) |
+
+**Bảng 4.2 Yêu cầu chuẩn tiếng Anh theo số tín chỉ tích lũy và chuẩn đầu ra**
+- Đến 63TC: Đạt các học phần FL1105, FL1106, FL1107, FL1108 hoặc đạt tối thiểu Bậc 2.2.
+- Từ 64-95 TC: Đạt tối thiểu Bậc 2.3.
+- Từ 96 TC: Đạt tối thiểu Bậc 3.1.
+- Xét tốt nghiệp/Đồ án: Đạt tối thiểu Bậc 3.2 (Đồ án), Bậc 3.3 (Tốt nghiệp).
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_011
+chunk_index: 11
+language: vi
+category: Ngoai_ngu
+year: 2024
+chunk_title: Phụ lục 5 – Chương trình tiên tiến (Elitech)
+topic_tags: [elitech, tiên tiến, tiếng Anh]
+summary: Danh mục học phần và chuẩn yêu cầu đối với các chương trình tiên tiến (Elitech) có ngoại ngữ chính là tiếng Anh.
+
+**Bảng 5.1 Danh mục các học phần tiếng Anh yêu cầu**
+(Danh sách 18 học phần từ FL1141 đến FL1127)
+
+**Bảng 5.2 Yêu cầu chuẩn tiếng Anh theo số tín chỉ tích lũy và chuẩn đầu ra**
+- Từ 32 TC: Đạt IELTS 4.5 hoặc đạt các học phần nhóm 1 (1-7) và nhóm 2 (8-14).
+- Từ 49 TC: Đạt IELTS 5.5 hoặc đạt các học phần từ 15-18.
+- Xét tốt nghiệp/Đồ án: IELTS 5.5 hoặc chứng chỉ tương đương 4 kỹ năng.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_012
+chunk_index: 12
+language: vi
+category: Ngoai_ngu
+year: 2024
+chunk_title: Phụ lục 6 – Chương trình hợp tác quốc tế (Tiếng Anh)
+topic_tags: [hợp tác quốc tế, tiếng Anh]
+summary: Danh mục học phần và chuẩn yêu cầu đối với các chương trình hợp tác quốc tế có ngoại ngữ chính là tiếng Anh.
+
+**Bảng 6.1 Danh mục các học phần tiếng Anh yêu cầu**
+(Danh sách 9 học phần từ CLE1311 đến QT1341)
+
+**Bảng 6.2 Yêu cầu chuẩn tiếng Anh theo số tín chỉ tích lũy và chuẩn đầu ra**
+- Từ 32 TC: IELTS 4.5 hoặc đạt các học phần 1-7.
+- Từ 64 TC: IELTS 5.5 hoặc đạt các học phần 1-9.
+- Xét tốt nghiệp/Đồ án: IELTS 5.5 hoặc chứng chỉ tương đương 4 kỹ năng.
+
+**Bảng 6.3 Yêu cầu đối với chương trình hợp tác với ĐH TROY, Mỹ**
+- Yêu cầu đầu khóa: IELTS 5.5, TOEFL iBT 61, PEIC 46 hoặc Cambridge 162.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_013
+chunk_index: 13
+language: vi
+category: Ngoai_ngu
+year: 2024
+chunk_title: Phụ lục 7 – Chương trình PFIEV và CNTT Việt-Pháp
+topic_tags: [PFIEV, Việt-Pháp, tiếng Pháp]
+summary: Danh mục học phần và chuẩn yêu cầu đối với các chương trình đào tạo PFIEV và Công nghệ thông tin Việt-Pháp.
+
+**Bảng 7.1 & 7.2 Danh mục các học phần tiếng Pháp yêu cầu**
+(Danh sách các học phần FL1401/FL1801 đến FL1806)
+
+**Bảng 7.3 Yêu cầu chuẩn tiếng Pháp**
+- Từ 32 TC: DELF A1 hoặc đạt các học phần 1-2.
+- Từ 64 TC: DELF A2 hoặc đạt các học phần 1-4.
+- Từ 96 TC: DELF B1 hoặc đạt các học phần 1-6.
+- Xét tốt nghiệp: DELF B1 và TOEIC 500.
+- Kỹ sư chuyên sâu: DELF B2 hoặc VSTEP Bậc 4.
+
+**Bảng 7.4 Bảng quy đổi tương đương các chứng chỉ tiếng Pháp (DELF, TCF)**
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_014
+chunk_index: 14
+language: vi
+category: Ngoai_ngu
+year: 2024
+chunk_title: Phụ lục 8 – Chương trình tiếng Đức
+topic_tags: [tiếng Đức, học phần, chuẩn]
+summary: Danh mục học phần và chuẩn yêu cầu đối với các chương trình đào tạo có ngoại ngữ chính là tiếng Đức.
+
+**Bảng 8.1 Danh mục các học phần yêu cầu**
+(Danh sách 7 học phần từ QT0514 đến QT1529)
+
+**Bảng 8.2 Yêu cầu chuẩn tiếng Đức**
+- Từ 32 TC: Goethe A2 hoặc đạt học phần 1-2.
+- Từ 64 TC: Goethe B1 hoặc đạt học phần 1-4.
+- Xét tốt nghiệp/Đồ án: Goethe B1 hoặc đạt học phần 1-4.
+
+**Bảng 8.3 Bảng quy đổi tương đương các chứng chỉ tiếng Đức (Goethe, TestDaF, DSD, TELC/ÖSD/HUSTGC)**
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_015
+chunk_index: 15
+language: vi
+category: Ngoai_ngu
+year: 2024
+chunk_title: Phụ lục 9 – Chương trình tiếng Nhật
+topic_tags: [tiếng Nhật, học phần, chuẩn]
+summary: Danh mục học phần và chuẩn yêu cầu đối với các chương trình đào tạo có ngoại ngữ chính là tiếng Nhật.
+
+**Bảng 9.1, 9.2, 9.3 Danh mục các học phần tiếng Nhật**
+(Danh sách học phần cho chương trình Cơ điện tử, Hệ thống nhúng & IoT, CNTT Việt-Nhật)
+
+**Bảng 9.4 Yêu cầu chuẩn tiếng Nhật**
+- Từ 32 TC: N4 hoặc đạt các học phần Mức 1-2.
+- Từ 64 TC: N3 hoặc đạt các học phần Mức 1-4.
+- Xét tốt nghiệp/Đồ án: N3 hoặc đạt các học phần Mức 1-4 (Riêng Cơ điện tử NUT có yêu cầu bổ sung).
+
+**Bảng 9.5 Bảng quy đổi tương đương các chứng chỉ tiếng Nhật (JLPT sang CEFR-VN)**
+<<<CHUNK_END>>>
