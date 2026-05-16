@@ -1,0 +1,48 @@
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68_02.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_02_001
+chunk_index: 1
+language: vi
+category: Ngoai_ngu_2024_K68_partitioned
+year: N/A
+chunk_title: PHỤ LỤC 1 - Danh mục các chương trình đào tạo và ngoại ngữ chính yêu cầu
+topic_tags: [chương trình đào tạo chuẩn, chương trình đào tạo tài năng, chương trình PFIEV, chương trình Elitech, chương trình tăng cường ngoại ngữ, Công nghệ thông tin Global ICT, Khoa học dữ liệu và Trí tuệ nhân tạo, An toàn không gian số, Kỹ thuật điều khiển - Tự động hóa, Hệ thống điện và năng lượng tái tạo, Kỹ thuật Điện tử - Viễn thông, Kỹ thuật Y sinh, Truyền thông số và kỹ thuật đa phương tiện, Kỹ thuật Cơ điện tử, Kỹ thuật Ô tô, Khoa học và Kỹ thuật Vật liệu, Kỹ thuật hóa dược, Kỹ thuật thực phẩm, Kỹ thuật sinh học, Phân tích kinh doanh, Logistic và Quản lý chuỗi cung ứng, Hệ thống nhúng thông minh và IoT, Công nghệ thông tin Việt-Nhật, Công nghệ thông tin Việt-Pháp, chương trình đào tạo hợp tác quốc tế, Cơ khí Chế tạo máy (ĐH Đại học Griffith, Úc), Cơ điện tử (ĐH Nagaoka, Nhật Bản), Điện tử - Viễn thông (ĐH Leibniz Hannover, Đức), Quản trị kinh doanh (ĐH TROY, Mỹ), Khoa học Máy tính (ĐH TROY, Mỹ), Tiếng Anh, Tiếng Pháp, Tiếng Nhật, Tiếng Đức]
+summary: Bảng danh mục các chương trình đào tạo và ngoại ngữ chính yêu cầu tại Đại học Bách khoa Hà Nội. Bảng liệt kê các chương trình đào tạo chuẩn, tài năng, PFIEV, Elitech (như Công nghệ thông tin Global ICT, Kỹ thuật Y sinh, Logistic và Quản lý chuỗi cung ứng) và các chương trình hợp tác quốc tế (như Cơ khí Chế tạo máy với ĐH Griffith, Điện tử - Viễn thông với ĐH Leibniz Hannover). Các ngoại ngữ yêu cầu chính bao gồm Tiếng Anh, Tiếng Pháp, Tiếng Nhật và Tiếng Đức.
+
+PHỤ LỤC 1
+Danh mục các chương trình đào tạo và ngoại ngữ chính yêu cầu
+
+| LOẠI/TÊN CHƯƠNG TRÌNH ĐÀO TẠO trung học phổ thông | NGOẠI NGỮ CHÍNH |
+| :------------------------------------------------- | :-------------- |
+| Các chương trình đào tạo chuẩn                    | Tiếng Anh       |
+| Các chương trình đào tạo tài năng                 | Tiếng Anh       |
+| Các chương trình PFIEV                            | Tiếng Pháp      |
+| Các chương trình Elitech, chương trình tăng cường ngoại ngữ |                 |
+| 1. Công nghệ thông tin Global ICT                  | Tiếng Anh       |
+| 2. Khoa học dữ liệu và Trí tuệ nhân tạo           | Tiếng Anh       |
+| 3. An toàn không gian số                           | Tiếng Anh       |
+| 3. Kỹ thuật điều khiển - Tự động hóa              | Tiếng Anh       |
+| 5. Hệ thống điện và năng lượng tái tạo            | Tiếng Anh       |
+| 6. Kỹ thuật Điện tử - Viễn thông                  | Tiếng Anh       |
+| 7. Kỹ thuật Y sinh                                 | Tiếng Anh       |
+| 8. Truyền thông số và kỹ thuật đa phương tiện     | Tiếng Anh       |
+| 9. Kỹ thuật Cơ điện tử                            | Tiếng Anh       |
+| 10. Kỹ thuật Ô tô                                  | Tiếng Anh       |
+| 11. Khoa học và Kỹ thuật Vật liệu                 | Tiếng Anh       |
+| 12. Kỹ thuật hóa dược                             | Tiếng Anh       |
+| 13. Kỹ thuật thực phẩm                            | Tiếng Anh       |
+| 14. Kỹ thuật sinh học                             | Tiếng Anh       |
+| 15. Phân tích kinh doanh                          | Tiếng Anh       |
+| 16. Logistic và Quản lý chuỗi cung ứng            | Tiếng Anh       |
+| 17. Hệ thống nhúng thông minh và IoT              | Tiếng Nhật      |
+| 18. Công nghệ thông tin Việt-Nhật                 | Tiếng Nhật      |
+| 19. Công nghệ thông tin Việt-Pháp                 | Tiếng Pháp      |
+| Các chương trình đào tạo hợp tác quốc tế          |                 |
+| 1. Cơ khí Chế tạo máy (ĐH Đại học Griffith, Úc)   | Tiếng Anh       |
+| 2. Cơ điện tử (ĐH Nagaoka, Nhật Bản)              | Tiếng Nhật      |
+| 3. Điện tử - Viễn thông (ĐH Leibniz Hannover, Đức) | Tiếng Đức       |
+| 4. Cơ điện tử (ĐH Leibniz Hannover, Đức)          | Tiếng Đức       |
+| 5. Quản trị kinh doanh (ĐH TROY, Mỹ)              | Tiếng Anh       |
+| 6. Khoa học Máy tính (ĐH TROY, Mỹ)                | Tiếng Anh       |
+<<<CHUNK_END>>>

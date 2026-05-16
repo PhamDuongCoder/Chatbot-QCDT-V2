@@ -1,0 +1,294 @@
+<<<CHUNK_START>>>
+source: QCDT_2025_04.pdf
+parent_doc_id: QCDT_2025
+chunk_id: QCDT_2025_04_001
+chunk_index: 1
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Quy định chung về công nhận kết quả học tập
+topic_tags: [kết quả học tập, công nhận tín chỉ, thời hạn công nhận]
+summary: Quy định về giá trị và thời hạn công nhận kết quả học tập, theo đó kết quả có giá trị trong 5 năm và tổng số tín chỉ được công nhận không vượt quá 30 TC.
+
+3. Kết quả học tập có giá trị công nhận trong thời hạn 5 năm. Tổng số TC của các học phần được công nhận không vượt quá 30 TC.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2025_04.pdf
+parent_doc_id: QCDT_2025
+chunk_id: QCDT_2025_04_002
+chunk_index: 2
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 29. Đăng ký đề tài luận văn thạc sĩ
+topic_tags: [đăng ký đề tài, luận văn thạc sĩ, người hướng dẫn, thay đổi đề tài]
+summary: Quy định về quy trình đăng ký đề tài luận văn thạc sĩ, bao gồm việc chọn đề tài hoặc tự đề xuất, quyết định giao đề tài và người hướng dẫn, xây dựng kế hoạch thực hiện, và điều kiện thay đổi đề tài hoặc người hướng dẫn.
+
+Điều 29. Đăng ký đề tài luận văn thạc sĩ
+1. Học viên thực hiện đăng ký đề tài luận văn trong học kỳ đầu của khóa học theo hai cách sau:
+a) Chọn lựa một đề tài và tên người hướng dẫn trong danh mục các đề tài do trường/khoa/viện đề xuất.
+b) Tự đề xuất tên đề tài luận văn, đề cương nghiên cứu chi tiết và người hướng dẫn (dự kiến).
+2. Căn cứ thông tin đăng ký đề tài của học viên, ĐHBK Hà Nội xem xét và ra quyết định giao đề tài và người hướng dẫn. Các trường hợp không được thông qua phải thực hiện đăng ký lại.
+3. Ngay sau khi nhận quyết định giao đề tài, học viên phải xây dựng kế hoạch thực hiện luận văn thạc sĩ và được người hướng dẫn đồng ý.
+4. Học viên được phép đề nghị thay đổi đề tài, thay đổi người hướng dẫn trong quá trình thực hiện luận văn. Việc thay đổi đề tài, thay đổi người hướng dẫn phải được thực hiện tối thiểu trước 6 tháng so với thời điểm hết hạn đào tạo (tính cả thời gian gia hạn nếu có).
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2025_04.pdf
+parent_doc_id: QCDT_2025
+chunk_id: QCDT_2025_04_003
+chunk_index: 3
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 30. Luận văn thạc sĩ
+topic_tags: [luận văn thạc sĩ, báo cáo khoa học, chuẩn mực đạo đức, sở hữu trí tuệ]
+summary: Định nghĩa luận văn thạc sĩ là báo cáo khoa học tổng hợp kết quả nghiên cứu, yêu cầu có đóng góp lý luận/công nghệ, phù hợp chuẩn mực văn hóa, đạo đức và tuân thủ quy định về liêm chính học thuật, sở hữu trí tuệ. Quyển thuyết minh luận văn phải đáp ứng quy cách của ĐHBK Hà Nội.
+
+Điều 30. Luận văn thạc sĩ
+1. Luận văn là một báo cáo khoa học, tổng hợp các kết quả nghiên cứu chính của học viên, đáp ứng các yêu cầu sau:
+a) Có đóng góp về lý luận, học thuật hoặc phát triển công nghệ, đổi mới sáng tạo; thể hiện năng lực nghiên cứu của học viên;
+b) Phù hợp với các chuẩn mực về văn hóa, đạo đức và thuần phong mỹ tục của người Việt Nam;
+c) Tuân thủ quy định về liêm chính học thuật và các quy định hiện hành của pháp luật về sở hữu trí tuệ.
+2. Quyển thuyết minh luận văn phải đáp ứng quy cách theo hướng dẫn của ĐHBK Hà Nội về hình thức, cách trình bày luận văn.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2025_04.pdf
+parent_doc_id: QCDT_2025
+chunk_id: QCDT_2025_04_004
+chunk_index: 4
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 31. Điều kiện được bảo vệ luận văn thạc sĩ
+topic_tags: [điều kiện bảo vệ luận văn, hoàn thành học phần, chuẩn ngoại ngữ, người hướng dẫn]
+summary: Quy định các điều kiện để học viên được bảo vệ luận văn thạc sĩ, bao gồm hoàn thành các học phần theo CTĐT, đạt chuẩn ngoại ngữ đầu ra tương đương bậc 4/6 hoặc có bằng đại học ngành ngôn ngữ nước ngoài, và người hướng dẫn xác nhận chất lượng luận văn.
+
+Điều 31. Điều kiện được bảo vệ luận văn thạc sĩ
+Học viên có đủ các điều kiện sau đây thì được bảo vệ luận văn thạc sĩ:
+1. Đã hoàn thành và đạt các học phần theo yêu cầu của CTĐT.
+2. Đạt chuẩn ngoại ngữ đầu ra tương đương bậc 4/6 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc các chứng chỉ tương đương khác do Bộ Giáo dục và Đào tạo quy định, hoặc bằng tốt nghiệp trình độ đại học trở lên ngành ngôn ngữ nước ngoài, hoặc bằng tốt nghiệp trình độ đại học trở lên ngành khác mà chương trình được thực hiện hoàn toàn bằng ngôn ngữ nước ngoài. Yêu cầu ngoại ngữ đầu vào và ngoại ngữ đầu ra phải cùng một ngôn ngữ.
+3. Người hướng dẫn và phản biện xác nhận bản thảo luận văn đã đáp ứng đầy đủ các yêu cầu về chất lượng và nội dung khoa học để đưa ra bảo vệ.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2025_04.pdf
+parent_doc_id: QCDT_2025
+chunk_id: QCDT_2025_04_005
+chunk_index: 5
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 32. Điểm luận văn thạc sĩ
+topic_tags: [điểm luận văn, bảo vệ luận văn, điểm thưởng, công bố khoa học, hội đồng đánh giá]
+summary: Quy định cách tính điểm luận văn thạc sĩ, bao gồm điểm bảo vệ luận văn (trung bình cộng của hội đồng, làm tròn 2 chữ số thập phân) và điểm thưởng công bố khoa học (0,5 đến 1,5 điểm) cho các bài báo khoa học hoặc đề tài nghiên cứu liên quan. Hội đồng đánh giá luận văn cho điểm bảo vệ từ 8,5 trở lên chỉ khi học viên có công bố khoa học.
+
+Điều 32. Điểm luận văn thạc sĩ
+1. Điểm luận văn thạc sĩ là điểm bảo vệ luận văn cộng điểm thưởng công bố khoa học của học viên (nếu có), được quy định như sau:
+a) Điểm bảo vệ luận văn là trung bình cộng điểm của các thành viên hội đồng đánh giá luận văn có mặt trong buổi bảo vệ và được làm tròn đến 2 chữ số thập phân, trong đó mỗi thành viên chấm điểm theo thang 10, có thể lẻ tới 0,5.
+b) Điểm thưởng công bố khoa học đối với học viên có thành tích công bố khoa học sau đây: có bài báo khoa học liên quan đến nội dung luận văn đã được công bố (hoặc chấp nhận đăng) trên tạp chí khoa học hoặc tuyển tập hội nghị khoa học; có báo cáo tổng kết đề tài khoa học công nghệ cấp Đại học do học viên chủ trì và đã được nghiệm thu, hoặc đề tài nghiên cứu đã được nghiệm thu do người hướng dẫn chủ trì và học viên là người thực hiện chính để giải quyết các vấn đề nghiên cứu của luận văn. Điểm thưởng công bố khoa học do hội đồng đánh giá luận văn quyết định, nằm trong khoảng từ 0,5 đến 1,5.
+2. Hội đồng đánh giá luận văn cho điểm bảo vệ luận văn từ 8,5 trở lên chỉ khi học viên có công bố khoa học liên quan đến nội dung luận văn.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2025_04.pdf
+parent_doc_id: QCDT_2025
+chunk_id: QCDT_2025_04_006
+chunk_index: 6
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 33. Bảo vệ luận văn lần thứ hai
+topic_tags: [bảo vệ luận văn lần 2, chỉnh sửa luận văn, đăng ký đề tài mới, kinh phí]
+summary: Quy định về việc bảo vệ luận văn lần thứ hai nếu không đạt yêu cầu lần đầu, cho phép học viên chỉnh sửa luận văn trong 3 tháng. Nếu vẫn không đạt, học viên có thể đăng ký đề tài mới nếu còn đủ thời gian học tập. Học viên phải tự chi trả kinh phí cho việc chỉnh sửa và bảo vệ lần hai hoặc thực hiện đề tài mới.
+
+Điều 33. Bảo vệ luận văn lần thứ hai
+1. Trong trường hợp luận văn không đạt và học viên còn được phép học tối thiểu 3 tháng, học viên được phép chỉnh sửa, bổ sung luận văn để bảo vệ lần thứ hai trong thời hạn 3 tháng tính từ ngày bảo vệ luận văn lần thứ nhất.
+2. Trong trường hợp luận văn bảo vệ lần thứ hai vẫn không đạt yêu cầu, nếu học viên có nguyện vọng và còn được phép học tại ĐHBK Hà Nội đủ 6 tháng theo quy định về thời gian học tập tối đa tại điểm a khoản 3 Điều 3 Quy chế này thì có thể đăng ký đề tài mới cho luận văn thạc sĩ để thực hiện. Không tổ chức bảo vệ luận văn lần thứ ba.
+3. Học viên tự chi trả kinh phí cho việc chỉnh sửa, bổ sung luận văn và tổ chức bảo vệ luận văn lần thứ hai; kinh phí thực hiện và bảo vệ luận văn theo đề tài mới.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2025_04.pdf
+parent_doc_id: QCDT_2025
+chunk_id: QCDT_2025_04_007
+chunk_index: 7
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 34. Điều kiện tốt nghiệp thạc sĩ và xếp hạng tốt nghiệp
+topic_tags: [điều kiện tốt nghiệp, xếp hạng tốt nghiệp, luận văn, CPA, chứng nhận học phần]
+summary: Quy định các điều kiện để được xét công nhận tốt nghiệp thạc sĩ, bao gồm luận văn đạt yêu cầu, nộp luận văn cho thư viện, không bị kỷ luật. Hạng tốt nghiệp được xếp dựa trên điểm trung bình tích lũy toàn khóa (CPA) và có bảng phân loại cụ thể. Học viên không tốt nghiệp có thể đề nghị cấp chứng nhận các học phần đã tích lũy.
+
+Điều 34. Điều kiện tốt nghiệp thạc sĩ và xếp hạng tốt nghiệp
+1. Học viên có đủ các điều kiện sau đây thì được xét công nhận tốt nghiệp:
+a) Luận văn đạt yêu cầu.
+b) Hoàn thành việc nộp quyển luận văn đã được chỉnh sửa theo kết luận của Hội đồng đánh giá luận văn. Công khai toàn văn quyển luận văn trên trang thông tin điện tử thuộc ĐHBK Hà Nội theo quy định trong thời gian ít nhất 30 ngày, trừ một số đề tài thuộc các lĩnh vực cần bảo mật thực hiện theo quy định của Nhà nước.
+c) Đã nộp quyển luận văn tốt nghiệp cho thư viện Tạ Quang Bửu theo quy cách của bản luận văn do ĐHBK Hà Nội quy định, thời hạn nộp luận văn là 20 ngày kể từ ngày bảo vệ thành công luận văn.
+d) Không bị truy cứu trách nhiệm hình sự và không trong thời gian bị kỷ luật, đình chỉ học tập.
+2. Hạng tốt nghiệp thạc sĩ được xếp dựa trên điểm trung bình tích lũy toàn khóa tính cho toàn bộ các học phần đã học trong chương trình, kể cả luận văn thạc sĩ. Riêng các học phần được công nhận không đưa vào tính CPA để xếp hạng tốt nghiệp.
+
+| CPA       | 2,0 - 2,49   | 2,5 - 3,19 | 3,2 - 3,59 | 3,6 - 4,0  |
+| :-------- | :----------- | :--------- | :--------- | :--------- |
+| Xếp loại  | Trung bình   | Khá        | Giỏi       | Xuất sắc   |
+
+3. Học viên đạt đủ điều kiện tốt nghiệp được Giám đốc ĐHBK Hà Nội ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 02 tháng tính từ thời điểm đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành các nghĩa vụ liên quan.
+4. Học viên không tốt nghiệp được quyền đề nghị cấp chứng nhận với các học phần đã tích lũy trong CTĐT trong thời hạn 5 năm kể từ ngày khóa học kết thúc.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2025_04.pdf
+parent_doc_id: QCDT_2025
+chunk_id: QCDT_2025_04_008
+chunk_index: 8
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 35. Nghỉ học tạm thời và bảo lưu kết quả học tập
+topic_tags: [nghỉ học tạm thời, bảo lưu kết quả, nghĩa vụ quốc gia, ốm đau, thai sản]
+summary: Quy định về các trường hợp nghỉ học tạm thời và bảo lưu kết quả học tập. Thời gian nghỉ do nghĩa vụ quốc gia, ốm đau dài ngày, hoặc thai sản không tính vào thời gian chậm tiến độ (có giới hạn). Các trường hợp khác yêu cầu học ít nhất một học kỳ và thời gian nghỉ tối đa 12 tháng. Học viên phải nộp đơn đề nghị trở lại học và các học phần đủ điểm đánh giá sẽ được bảo lưu.
+
+Điều 35. Nghỉ học tạm thời và bảo lưu kết quả học tập
+1. Đối với học viên được điều động vào lực lượng vũ trang, đi làm nghĩa vụ quốc gia, quốc tế, thời gian nghỉ học tạm thời (là thời gian được ghi trong quyết định của cấp có thẩm quyền) không tính vào thời gian học tại ĐHBK Hà Nội.
+2. Học viên bị ốm hoặc tai nạn buộc phải điều trị trong thời gian dài, hoặc nghỉ thai sản theo quy định được phép nghỉ học tạm thời. Thời gian nghỉ học tạm thời (là thời gian được ghi trong giấy xác nhận của cơ sở khám, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế) không tính vào thời gian chậm tiến độ nếu tổng cộng không vượt quá 2 học kỳ chính; thời gian nghỉ trên 2 học kỳ được tính vào thời gian học chậm tiến độ.
+3. Đối với trường hợp xin nghỉ học tạm thời vì những lý do khác với lý do tại khoản 1 và khoản 2 Điều này, học viên phải học ít nhất một học kỳ tại ĐHBK Hà Nội, không thuộc các trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật, mới được xem xét cho nghỉ học tạm thời. Thời gian nghỉ học tối đa là 12 tháng và được tính vào thời gian học tập.
+4. Học viên phải nộp đơn đề nghị trở lại học chậm nhất 01 tuần trước khi bắt đầu học kỳ mới. Đối với trường hợp được điều động vào lực lượng vũ trang hoặc đi làm nghĩa vụ quốc gia, quốc tế, học viên phải nộp kèm theo giấy xác nhận đã hoàn thành nhiệm vụ.
+5. Chế độ bảo lưu kết quả học tập khi nghỉ học tạm thời: Các học phần đăng ký học trong học kỳ đã đủ điểm đánh giá hoặc đủ điều kiện đánh giá sẽ được tính điểm học phần; kết quả sẽ được bảo lưu cùng với kết quả từ các học kỳ trước, kể cả các học phần đạt và không đạt.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2025_04.pdf
+parent_doc_id: QCDT_2025
+chunk_id: QCDT_2025_04_009
+chunk_index: 9
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 36. Gia hạn thời gian học tập, thôi học
+topic_tags: [gia hạn học tập, thôi học, chậm tiến độ, không đăng ký học, kỷ luật]
+summary: Quy định về việc gia hạn thời gian học tập và các trường hợp học viên bị buộc thôi học. Học viên học chậm tiến độ phải làm thủ tục gia hạn. Học viên có thể làm đơn xin thôi học. Các trường hợp buộc thôi học bao gồm chậm tiến độ quá thời gian cho phép, không đăng ký học tập trong hai học kỳ liên tiếp, hoặc bị truy cứu trách nhiệm hình sự/vi phạm quy chế học tập, thi.
+
+Điều 36. Gia hạn thời gian học tập, thôi học
+1. Học viên học chậm tiến độ so với thời gian thiết kế của chương trình thạc sĩ phải làm thủ tục xin gia hạn thời gian học tập.
+2. Học viên thấy không có đủ điều kiện hoặc không muốn tiếp tục học tại ĐHBK Hà Nội có thể làm đơn đề nghị thôi học và được xem xét cho thôi học. Học viên đã có quyết định cho thôi học không được tiếp nhận trở lại.
+3. Học viên bị buộc thôi học trong các trường hợp sau đây:
+a) Học viên học chậm tiến độ quá thời gian cho phép, hoặc không còn đủ khả năng tốt nghiệp trong thời gian cho phép theo quy định tại điểm a khoản 3 Điều 3 Quy chế này.
+b) Học viên không đăng ký học tập trong hai học kỳ liên tiếp.
+c) Học viên bị truy cứu trách nhiệm hình sự hoặc vi phạm quy chế học tập, quy chế thi tới mức phải buộc thôi học.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2025_04.pdf
+parent_doc_id: QCDT_2025
+chunk_id: QCDT_2025_04_010
+chunk_index: 10
+language: vi
+category: QCDT
+year: N/A
+chunk_title: CHƯƠNG V ĐÀO TẠO TIẾN SĨ - Điều 37. Lập kế hoạch và báo cáo tiến độ thực hiện
+topic_tags: [đào tạo tiến sĩ, NCS, kế hoạch học tập, báo cáo tiến độ, sinh hoạt khoa học]
+summary: Chương V quy định về đào tạo tiến sĩ. Điều 37 nêu rõ NCS là thành viên chính thức, phải xây dựng kế hoạch học tập chi tiết, tham gia sinh hoạt khoa học định kỳ, và trình bày báo cáo tiến độ thực hiện mỗi 6 tháng tại hội thảo khoa học.
+
+CHƯƠNG V
+ĐÀO TẠO TIẾN SĨ
+Điều 37. Lập kế hoạch và báo cáo tiến độ thực hiện
+1. NCS được coi là thành viên chính thức của trường/khoa/viện (sau đây gọi là đơn vị chuyên môn) ngay sau khi có quyết định công nhận NCS; chịu sự giám sát và kiểm tra việc thực hiện kế hoạch học tập, nghiên cứu khoa học của đơn vị chuyên môn.
+2. Căn cứ kế hoạch học tập chuẩn toàn khóa của CTĐT tiến sĩ, NCS xây dựng kế hoạch chi tiết theo từng học kỳ và từng năm học, báo cáo đơn vị chuyên môn và người hướng dẫn thông qua.
+3. NCS phải tham gia đầy đủ và có báo cáo chuyên đề tại các buổi sinh hoạt khoa học định kỳ tại đơn vị chuyên môn; có trách nhiệm báo cáo về kết quả, tiến độ học tập và nghiên cứu khoa học theo yêu cầu của đơn vị chuyên môn và đơn vị quản lý NCS.
+4. Định kỳ mỗi 6 tháng kể từ khi có quyết định công nhận NCS, NCS phải trình bày báo cáo tiến độ học tập đã thực hiện trong 6 tháng trước đó tại hội thảo khoa học do đơn vị chuyên môn tổ chức và nộp báo cáo cho Ban Đào tạo, ĐHBK Hà Nội.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2025_04.pdf
+parent_doc_id: QCDT_2025
+chunk_id: QCDT_2025_04_011
+chunk_index: 11
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 38. Học phần bổ sung và học phần tiến sĩ
+topic_tags: [học phần bổ sung, học phần tiến sĩ, NCS, bằng thạc sĩ, tín chỉ, đăng ký học phần]
+summary: Quy định về học phần bổ sung và học phần tiến sĩ cho NCS. Học phần bổ sung nhằm hỗ trợ kiến thức, với tối thiểu 4 TC cho NCS có bằng thạc sĩ và toàn bộ học phần CTĐT thạc sĩ (trừ luận văn) cho NCS chưa có bằng thạc sĩ. Học phần tiến sĩ nhằm nâng cao trình độ lý thuyết, yêu cầu tối thiểu 8 TC (3-4 học phần), được tổ chức giảng dạy cho lớp có 5 NCS trở lên hoặc dưới hình thức hướng dẫn.
+
+Điều 38. Học phần bổ sung và học phần tiến sĩ
+1. Các học phần bổ sung nhằm hỗ trợ NCS có đủ kiến thức, trình độ chuyên môn để thực hiện đề tài nghiên cứu.
+a) Đối với NCS đã có bằng thạc sĩ: khối lượng kiến thức cần phải học bổ sung được xác định căn cứ vào các học phần đã tích lũy ở trình độ thạc sĩ, kiến thức cần cập nhật, bổ sung và yêu cầu của lĩnh vực, đề tài nghiên cứu. Khối lượng kiến thức tối thiểu 4 TC tương ứng với 2 học phần.
+b) Đối với NCS chưa có bằng thạc sĩ: các học phần bổ sung bao gồm toàn bộ học phần của CTĐT thạc sĩ theo định hướng nghiên cứu thuộc ngành tương ứng trừ luận văn thạc sĩ.
+c) NCS đăng ký các học phần bổ sung thuộc chương trình (đại học, thạc sĩ) nào thì sẽ học theo lớp học phần thuộc chương trình đó.
+2. Các học phần tiến sĩ nhằm nâng cao trình độ lý thuyết, cập nhật các kiến thức mới nhất của lĩnh vực chuyên môn, phương pháp nghiên cứu và khả năng ứng dụng các phương pháp nghiên cứu trong lĩnh vực, đề tài nghiên cứu.
+a) Mỗi NCS phải hoàn thành tối thiểu 8 TC tương ứng 3-4 học phần tiến sĩ.
+b) NCS phải thực hiện quy trình đăng ký học từ tài khoản học tập trong thời hạn 4 tuần đầu của học kỳ. Học phần tiến sĩ được tổ chức giảng dạy cho lớp có 5 NCS trở lên; trong trường hợp dưới 5 NCS, học phần được thực hiện dưới hình thức hướng dẫn, làm đồ án, khoá luận hoặc tiểu luận để thay thế giờ lên lớp.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2025_04.pdf
+parent_doc_id: QCDT_2025
+chunk_id: QCDT_2025_04_012
+chunk_index: 12
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 39. Tiểu luận tổng quan và chuyên đề tiến sĩ
+topic_tags: [tiểu luận tổng quan, chuyên đề tiến sĩ, NCS, đánh giá, báo cáo khoa học, ISI/Scopus]
+summary: Quy định về tiểu luận tổng quan và chuyên đề tiến sĩ. Tiểu luận tổng quan yêu cầu NCS thể hiện khả năng phân tích, đánh giá công trình nghiên cứu và phải hoàn thành trong 12 tháng. Chuyên đề tiến sĩ nhằm nâng cao năng lực nghiên cứu, yêu cầu 3 chuyên đề tương đương 6 TC, hoàn thành chậm nhất 1 tháng trước khi đăng ký đánh giá luận án, và được đánh giá đạt nếu điểm trung bình từ 5,5 trở lên.
+
+Điều 39. Tiểu luận tổng quan và chuyên đề tiến sĩ
+1. Tiểu luận tổng quan yêu cầu NCS thể hiện khả năng phân tích, đánh giá các công trình nghiên cứu trong nước và quốc tế liên quan trực tiếp đến đề tài nghiên cứu, từ đó rút ra mục đích và nhiệm vụ nghiên cứu của luận án tiến sĩ.
+a) NCS thực hiện tiểu luận tổng quan dưới sự hướng dẫn của người hướng dẫn khoa học. Tiểu luận tổng quan được đánh giá theo hình thức báo cáo khoa học tại đơn vị chuyên môn. Tiểu luận tổng quan được đánh giá đạt nếu được người hướng dẫn và đơn vị chuyên môn thông qua.
+b) NCS phải hoàn thành tiểu luận tổng quan với kết quả đạt trong thời hạn 12 tháng kể từ khi có quyết định công nhận NCS.
+2. Các chuyên đề tiến sĩ yêu cầu NCS nâng cao năng lực nghiên cứu và tự nghiên cứu, cập nhật kiến thức mới, giải quyết một số nội dung liên quan trực tiếp đến đề tài nghiên cứu của luận án tiến sĩ. NCS có thể sử dụng nội dung bài báo của mình liên quan trực tiếp đến kết quả luận án tiến sĩ công bố trên tạp chí ISI/Scopus để phát triển thành chuyên đề tiến sĩ.
+a) NCS phải hoàn thành 3 chuyên đề tiến sĩ tương đương với khối lượng 6 TC với thời hạn chậm nhất là 1 tháng trước khi trình hồ sơ đăng ký đánh giá luận án ở đơn vị chuyên môn.
+b) NCS phải đăng ký thực hiện các chuyên đề tiến sĩ. Tên của chuyên đề do NCS đề xuất và phải được sự đồng ý của người hướng dẫn khoa học.
+c) Các chuyên đề tiến sĩ được đánh giá theo hình thức báo cáo khoa học trước tiểu ban đánh giá. Chuyên đề tiến sĩ được đánh giá là đạt nếu điểm trung bình của tiểu ban đạt từ điểm 5,5 trở lên theo thang điểm 10.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2025_04.pdf
+parent_doc_id: QCDT_2025
+chunk_id: QCDT_2025_04_013
+chunk_index: 13
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 40. Luận án tiến sĩ
+topic_tags: [luận án tiến sĩ, nghiên cứu khoa học, đóng góp mới, sở hữu trí tuệ, trích dẫn]
+summary: Định nghĩa luận án tiến sĩ là kết quả nghiên cứu khoa học có đóng góp mới về lý luận và thực tiễn. Quyển thuyết minh luận án phải đáp ứng quy cách của ĐHBK Hà Nội về hình thức, trình bày, trích dẫn và danh mục tài liệu tham khảo. Luận án phải tuân thủ pháp luật về bảo vệ quyền sở hữu trí tuệ, bao gồm trích dẫn đầy đủ và có văn bản đồng ý nếu sử dụng công trình tập thể.
+
+Điều 40. Luận án tiến sĩ
+1. Luận án tiến sĩ là kết quả nghiên cứu khoa học của NCS, trong đó chứa đựng những đóng góp mới về lý luận và thực tiễn ở lĩnh vực chuyên môn, có giá trị trong việc phát triển, gia tăng tri thức khoa học và giải quyết trọn vẹn vấn đề đặt ra của đề tài luận án.
+2. Quyển thuyết minh luận án tiến sĩ phải đáp ứng quy cách theo hướng dẫn của ĐHBK Hà Nội về hình thức, cách trình bày luận án; số trang nội dung; quy định trích dẫn và danh mục tài liệu tham khảo.
+3. Luận án tiến sĩ phải đảm bảo tuân thủ pháp luật về bảo vệ quyền sở hữu trí tuệ, cụ thể:
+a) Trích dẫn đầy đủ và chỉ rõ nguồn tham khảo các kết quả nghiên cứu của các tác giả khác (nếu có);
+b) Trong trường hợp luận án sử dụng nội dung công trình khoa học của tập thể mà NCS là đồng tác giả thì phải có văn bản đồng ý của các đồng tác giả khác cho phép NCS được sử dụng kết quả của nhóm nghiên cứu;
+c) Tuân thủ các quy định về liêm chính học thuật, sở hữu trí tuệ và các quy định liên quan khác.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2025_04.pdf
+parent_doc_id: QCDT_2025
+chunk_id: QCDT_2025_04_014
+chunk_index: 14
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 41. Điều kiện được bảo vệ luận án tiến sĩ và Điều 42. Đánh giá luận án tiến sĩ
+topic_tags: [điều kiện bảo vệ luận án, đánh giá luận án, NCS, công bố khoa học, ISI-Scopus, hội đồng giáo sư, hội đồng cấp cơ sở, hội đồng cấp Đại học]
+summary: Quy định chi tiết các điều kiện để NCS được đăng ký và bảo vệ luận án tiến sĩ ở cấp cơ sở và cấp Đại học. Điều kiện bao gồm hoàn thành học phần, báo cáo, chuyên đề; là tác giả chính của tối thiểu 2 bài báo khoa học (trong đó có 1 bài ISI-Scopus hoặc tạp chí khung điểm 0,75); tổng điểm công trình nghiên cứu đạt từ 2,0; luận án được góp ý qua hội thảo; và người hướng dẫn xác nhận chất lượng. Luận án được bảo vệ cấp Đại học nếu được đơn vị chuyên môn đề nghị và các phản biện độc lập đồng ý. Điều 42 quy định việc đánh giá luận án tiến sĩ cấp cơ sở.
+
+Điều 41. Điều kiện được bảo vệ luận án tiến sĩ
+1. NCS có đủ các điều kiện sau đây được đăng ký đánh giá luận án tại đơn vị chuyên môn (bảo vệ luận án cấp cơ sở):
+a) Đã hoàn thành đầy đủ các học phần, báo cáo, chuyên đề theo yêu cầu của CTĐT trong thời gian quy định;
+b) Là tác giả chính (tác giả đứng tên đầu hoặc tác giả liên hệ duy nhất) của tối thiểu 2 bài báo về kết quả nghiên cứu của luận án trong đó có 1 bài đăng trên tạp chí khoa học thuộc danh mục các tạp chí ISI-Scopus và 1 bài đăng trên tạp chí khoa học được hội đồng giáo sư Nhà nước quy định khung điểm 0,75 điểm trở lên theo ngành đào tạo; hoặc tác giả chính của tối thiểu 2 bài báo về kết quả nghiên cứu của luận án đăng trên tạp chí khoa học quốc tế có phản biện được hội đồng giáo sư Nhà nước quy định khung điểm 0,75 điểm trở lên theo ngành đào tạo;
+c) Tổng điểm của tất cả các công trình nghiên cứu trong khoản b mục 1 của Điều này phải đạt từ 2,0 điểm trở lên tính theo điểm tối đa do hội đồng giáo sư Nhà nước quy định cho mỗi loại công trình (không chia điểm khi có đồng tác giả);
+d) Luận án đã được góp ý và đánh giá qua các hội thảo chuyên môn, trong đó hội thảo lần cuối có kết luận (ghi trong biên bản) đồng ý cho NCS đưa luận án ra bảo vệ trước hội đồng cấp cơ sở;
+đ) Người hướng dẫn (hoặc tập thể hướng dẫn) xác nhận chất lượng của luận án đã đáp ứng yêu cầu và đồng ý cho NCS đăng ký bảo vệ luận án cấp cơ sở.
+2. Điều kiện để NCS được bảo vệ luận án ở hội đồng đánh giá luận án cấp Đại học (bảo vệ luận án cấp Đại học):
+a) Luận án của NCS được đơn vị chuyên môn đề nghị được đánh giá ở hội đồng đánh giá luận án cấp Đại học;
+b) Luận án của NCS được các phản biện độc lập đồng ý cho phép đưa ra bảo vệ trước Hội đồng.
+
+Điều 42. Đánh giá luận án tiến sĩ
+1. Đánh giá luận án tiến sĩ cấp cơ sở được quy định cụ thể như sau:
+a) NCS được bảo vệ luận án cấp cơ sở nếu đáp ứng đầy đủ các điều kiện quy định tại khoản 1 Điều 41 Quy chế này và hoàn thành hồ sơ đăng ký bảo vệ cấp cơ sở trong thời hạn
+<<<CHUNK_END>>>

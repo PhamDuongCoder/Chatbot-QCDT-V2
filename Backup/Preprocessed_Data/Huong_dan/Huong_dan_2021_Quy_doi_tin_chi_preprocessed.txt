@@ -1,0 +1,158 @@
+<<<CHUNK_START>>>
+source: Huong_dan_2021_Quy_doi_tin_chi.pdf
+parent_doc_id: Huong_dan_2021_Quy_doi_tin_chi
+chunk_id: Huong_dan_2021_Quy_doi_tin_chi_001
+chunk_index: 1
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Quyết định ban hành Quy định công nhận tín chỉ
+topic_tags: [quyết định, công nhận tín chỉ, chuyển đổi kết quả]
+summary: Quyết định số 1933/QĐ-ĐHBK-ĐT ngày 08/09/2021 của Hiệu trưởng Trường ĐH Bách khoa Hà Nội về việc ban hành Quy định công nhận tín chỉ và chuyển đổi kết quả học phần tương đương.
+
+**QUYẾT ĐỊNH**
+**Về việc ban hành Quy định công nhận tín chỉ và chuyển đổi kết quả học phần tương đương của Trường Đại học Bách khoa Hà Nội**
+
+**HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC BÁCH KHOA HÀ NỘI**
+
+Căn cứ các văn bản pháp luật và quy định hiện hành của Trường Đại học Bách khoa Hà Nội;
+Theo đề nghị của Trưởng Phòng Đào tạo;
+
+**QUYẾT ĐỊNH:**
+
+**Điều 1.** Ban hành kèm theo Quyết định này Quy định công nhận tín chỉ và chuyển đổi kết quả học phần tương đương của Trường Đại học Bách khoa Hà Nội.
+**Điều 2.** Quyết định này có hiệu lực kể từ ngày ký và được áp dụng từ năm học 2021-2022.
+**Điều 3.** Các Ông/Bà Trưởng phòng Đào tạo, Trưởng phòng Hợp tác Đối ngoại, Trưởng phòng Công tác Sinh viên, Trưởng các Khoa/Viện, các đơn vị có liên quan, các sinh viên, học viên cao học và nghiên cứu sinh của Trường chịu trách nhiệm thi hành Quyết định này.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2021_Quy_doi_tin_chi.pdf
+parent_doc_id: Huong_dan_2021_Quy_doi_tin_chi
+chunk_id: Huong_dan_2021_Quy_doi_tin_chi_002
+chunk_index: 2
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Điều 1 – Phạm vi điều chỉnh và đối tượng áp dụng
+topic_tags: [phạm vi, đối tượng, công nhận tín chỉ]
+summary: Quy định tiêu chuẩn, thủ tục chuyển đổi kết quả học tập và công nhận tín chỉ tích lũy cho sinh viên, học viên cao học, nghiên cứu sinh tham gia học tập tại các đơn vị đối tác.
+
+**Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng**
+
+1. Văn bản này quy định về tiêu chuẩn, thủ tục chuyển đổi kết quả học tập tương đương và công nhận tín chỉ tích lũy (sau đây gọi chung là công nhận tín chỉ) đối với một số loại học phần/môn học trong chương trình đào tạo đại học, thạc sĩ, tiến sĩ của Trường Đại học Bách khoa Hà Nội.
+2. Quy định này áp dụng đối với sinh viên, học viên cao học, nghiên cứu sinh (sau đây gọi chung là người học) đã tham gia và hoàn thành khóa đào tạo, thực tập, nghiên cứu tại cơ sở giáo dục đại học, viện nghiên cứu, doanh nghiệp (sau đây gọi chung là đơn vị đối tác) theo các chương trình trao đổi, hợp tác đã được ký kết với Trường hoặc các đơn vị chuyên môn thuộc Trường ĐHBK Hà Nội.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2021_Quy_doi_tin_chi.pdf
+parent_doc_id: Huong_dan_2021_Quy_doi_tin_chi
+chunk_id: Huong_dan_2021_Quy_doi_tin_chi_003
+chunk_index: 3
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Điều 2 – Học phần được công nhận tín chỉ
+topic_tags: [học phần, tín chỉ, điều kiện công nhận]
+summary: Quy định các loại học phần được công nhận, cách tính khối lượng tín chỉ, yêu cầu về điểm số và giới hạn tối đa 30 tín chỉ được công nhận.
+
+**Điều 2. Học phần được công nhận tín chỉ**
+
+1. Các loại học phần được công nhận tín chỉ bao gồm các học phần giáo dục quốc phòng-an ninh, lý luận chính trị, pháp luật đại cương, ngoại ngữ cơ bản/cơ sở, giáo dục thể chất; các học phần cốt lõi ngành/chuyên ngành; học phần thực hành, thực tập; các chuyên đề nghiên cứu. Không chuyển đổi kết quả học phần đồ án/khóa luận tốt nghiệp đại học, luận văn thạc sĩ, luận án tiến sĩ.
+2. Khối lượng của 01 (một) tín chỉ được tính theo quy định hiện hành của Trường ĐHBK Hà Nội. Chỉ những học phần đã hoàn thành ở đơn vị đối tác có kết quả đạt từ 4,0 theo thang điểm 10 hoặc điểm D theo thang điểm chữ trở lên mới được xét công nhận tín chỉ và chuyển đổi qua học phần tương đương thuộc chương trình đào tạo của Trường.
+3. Các học phần hoặc mô-đun (gồm một nhóm học phần) được công nhận tín chỉ nếu được khoa/viện phụ trách giảng dạy chấp thuận trên cơ sở đối sánh về chuẩn đầu ra, kiến thức, nội dung, thời lượng và hình thức giảng dạy. Số tín chỉ được công nhận, chuyển đổi phải lớn hơn hoặc bằng số tín chỉ của học phần hoặc mô-đun trong chương trình của Trường ĐHBK Hà Nội.
+4. Các học phần được công nhận sẽ được tính tín chỉ tích lũy và ghi điểm cho học phần tương đương trong bảng điểm của sinh viên để tính điểm trung bình tích lũy (CPA). Trường hợp sinh viên có kết quả của một học phần “đạt” theo cách đánh giá của đơn vị đối tác thì học phần đó được công nhận tín chỉ và với điểm R (điểm miễn) và không sử dụng để tính điểm CPA.
+5. Mỗi sinh viên chỉ được xét công nhận tối đa 30 tín chỉ.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2021_Quy_doi_tin_chi.pdf
+parent_doc_id: Huong_dan_2021_Quy_doi_tin_chi
+chunk_id: Huong_dan_2021_Quy_doi_tin_chi_004
+chunk_index: 4
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Điều 3 – Quy trình xét công nhận tín chỉ
+topic_tags: [quy trình, thủ tục, xét công nhận]
+summary: Hướng dẫn các bước thực hiện từ khâu đăng ký kế hoạch học tập tại đơn vị đối tác đến khi nộp đơn xin công nhận kết quả sau khi hoàn thành.
+
+**Điều 3. Quy trình xét công nhận tín chỉ**
+
+1. Sinh viên trình khoa/viện thông qua kế hoạch và nội dung chi tiết học tập, thực tập, nghiên cứu tại đơn vị đối tác (theo biểu mẫu tại Phụ lục II).
+2. Khoa/viện thông qua danh sách học phần được công nhận tương đương trong chương trình đào tạo của sinh viên.
+3. Sinh viên nộp đơn xin thực hiện khóa học, thực tập, nghiên cứu tại đơn vị đối tác cho phòng Đào tạo, có xác nhận của khoa/viện, phòng Hợp tác Đối ngoại và kèm theo các minh chứng như bản sao thư mời hoặc xác nhận cấp kinh phí, học bổng cho khóa học, thỏa thuận học tập.
+4. Phòng Đào tạo trình Hiệu trưởng ra quyết định đồng ý cho phép sinh viên tham gia khóa học, nghiên cứu tại đơn vị đối tác và gửi quyết định cho các đơn vị liên quan để phối hợp thực hiện.
+5. Sinh viên sau khi hoàn thành khóa học, thực tập, nghiên cứu tại đơn vị đối tác quay về Trường, báo cáo kết quả học tập tại đơn vị chuyên môn khoa/viện, nộp đơn xin công nhận chuyển đổi kết quả học tập, tín chỉ tích lũy (theo biểu mẫu tại phụ lục III), kèm theo minh chứng kết quả học tập do đối tác cấp cho phòng Đào tạo.
+6. Phòng Đào tạo xét hồ sơ, nhập kết quả học tập vào các học phần được công nhận tương đương trong chương trình đào tạo của sinh viên.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2021_Quy_doi_tin_chi.pdf
+parent_doc_id: Huong_dan_2021_Quy_doi_tin_chi
+chunk_id: Huong_dan_2021_Quy_doi_tin_chi_005
+chunk_index: 5
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Điều 4 và Điều 5 – Trách nhiệm và Tổ chức thực hiện
+topic_tags: [trách nhiệm, tổ chức thực hiện, phòng ban]
+summary: Quy định trách nhiệm của người học và các đơn vị liên quan (Khoa/Viện, Phòng Hợp tác Đối ngoại, Phòng Đào tạo, Phòng Công tác Sinh viên) trong quy trình công nhận tín chỉ.
+
+**Điều 4. Trách nhiệm của người học**
+1. Thực hiện các thủ tục cần thiết theo hướng dẫn của Trường.
+2. Thực hiện đúng các quy định của đơn vị đối tác và hoàn thành chương trình học tập, thực tập, nghiên cứu theo đúng kế hoạch.
+3. Báo cáo kết quả học tập hiện tại đơn vị chuyên môn khoa/viện; hoàn thành các thủ tục công nhận tín chỉ và chuyển đổi kết quả học tập với Phòng Đào tạo.
+4. Hoàn thành nghĩa vụ nộp học phí đối với học phần được công nhận tín chỉ theo mức học phí tương ứng của Trường.
+
+**Điều 5. Tổ chức thực hiện**
+1. Các đơn vị chuyên môn khoa/viện: Thông tin đầy đủ về các chương trình hợp tác, khóa học; chọn lựa ứng viên; hỗ trợ, tư vấn người học; tổ chức xét duyệt công nhận tín chỉ.
+2. Phòng Hợp tác đối ngoại: Cung cấp thông tin về các chương trình trao đổi, hợp tác; hỗ trợ thủ tục, đánh giá hồ sơ; thống kê số liệu.
+3. Phòng Đào tạo: Hướng dẫn quy định và quy trình; duyệt kế hoạch học tập; trình Hiệu trưởng ký quyết định cho phép người học tham gia; thực hiện các thủ tục công nhận.
+4. Phòng Công tác sinh viên: Cung cấp thông tin về các chương trình trao đổi, hợp tác; đầu mối liên hệ, hỗ trợ, giám sát; thống kê số liệu và lập báo cáo.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2021_Quy_doi_tin_chi.pdf
+parent_doc_id: Huong_dan_2021_Quy_doi_tin_chi
+chunk_id: Huong_dan_2021_Quy_doi_tin_chi_006
+chunk_index: 6
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Phụ lục I – Bảng quy đổi thang điểm
+topic_tags: [phụ lục, thang điểm, quy đổi]
+summary: Bảng quy đổi chi tiết từ thang điểm 10 sang thang điểm chữ và thang điểm 4, áp dụng cho việc chuyển đổi kết quả học tập.
+
+**Phụ lục I**
+**BẢNG QUY ĐỔI THANG ĐIỂM**
+
+| TT | Thang điểm 10 | Thang điểm chữ | Thang điểm 4 | Đổi từ thang điểm chữ sang thang 10 (A+, B, B+, C, C+, D, D+) | Đổi từ thang điểm chữ sang thang 10 (A, B, C, D) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 | Từ 9,0 đến 10 | A+ | 4,0 | 9.5 | 9.3 |
+| 2 | Từ 8,5 đến 8,9 | A | 4,0 | 8.7 | 9.3 |
+| 3 | Từ 8,0 đến 8,4 | B+ | 3,5 | 8.2 | 7.7 |
+| 4 | Từ 7,0 đến 7,9 | B | 3,0 | 7.5 | 7.7 |
+| 5 | Từ 6,5 đến 6,9 | C+ | 2,5 | 6.7 | 6.2 |
+| 6 | Từ 5,5 đến 6,4 | C | 2,0 | 6.0 | 6.2 |
+| 7 | Từ 5,0 đến 5,4 | D+ | 1,5 | 5.2 | 4.7 |
+| 8 | Từ 4,0 đến 4,9 | D | 1,0 | 4.5 | 4.7 |
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2021_Quy_doi_tin_chi.pdf
+parent_doc_id: Huong_dan_2021_Quy_doi_tin_chi
+chunk_id: Huong_dan_2021_Quy_doi_tin_chi_007
+chunk_index: 7
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Phụ lục II & III – Mẫu đơn đăng ký và đề nghị công nhận
+topic_tags: [biểu mẫu, đơn từ, thủ tục]
+summary: Các mẫu đơn đăng ký học tập tại đơn vị đối tác và đơn đề nghị công nhận tín chỉ, chuyển đổi kết quả học tập dành cho sinh viên.
+
+[Hình: Mẫu đơn đăng ký học, thực tập tại cơ sở đối tác - Phụ lục II]
+
+[Hình: Mẫu đơn đề nghị công nhận tín chỉ và chuyển đổi kết quả học tập - Phụ lục III]
+
+*Lưu ý: Các mẫu đơn bao gồm thông tin cá nhân, thông tin chương trình đào tạo tại đơn vị đối tác, danh sách học phần cần chuyển đổi và xác nhận của các đơn vị liên quan.*
+<<<CHUNK_END>>>

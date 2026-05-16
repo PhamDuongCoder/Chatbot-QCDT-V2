@@ -1,0 +1,52 @@
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68_03.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_03_001
+chunk_index: 1
+language: vi
+category: Ngoai_ngu_2024_K68_partitioned
+year: N/A
+chunk_title: PHỤ LỤC 2 - Bảng quy đổi tương đương các chứng chỉ tiếng Anh
+topic_tags: [chứng chỉ tiếng Anh, quy đổi, NLNNVN, CEFR, PEIC, TOEIC 2 kỹ năng, TOEIC 4 kỹ năng, TOEFL iBT, TOEFL iTP, VSTEP, IELTS Academic, APTIS ESOL, Cambridge English Scale & Tests, KET, PET, FCE, Bậc cơ sở, Bậc 1, Bậc 2, Bậc 3, Bậc 4]
+summary: Bảng quy đổi tương đương các chứng chỉ tiếng Anh theo các bậc NLNNVN, bao gồm các chứng chỉ như CEFR, PEIC, TOEIC (2 và 4 kỹ năng), TOEFL (iBT, iTP), VSTEP, IELTS Academic, APTIS ESOL, và Cambridge English Scale & Tests (KET, PET, FCE), với các mức điểm cụ thể cho từng bậc từ Bậc 1 đến Bậc 4.
+
+PHỤ LỤC 2
+Bảng quy đổi tương đương các chứng chỉ tiếng Anh
+
+1. Bảng quy đổi tương đương các chứng chỉ tiếng Anh
+
+| Bậc cơ sở NLNNVN* | CEFR | PEIC | TOEIC 2 kỹ năng | TOEIC 4 kỹ năng Nghe | TOEIC 4 kỹ năng Đọc | TOEIC 4 kỹ năng Nói | TOEIC 4 kỹ năng Viết | TOEFL iBT | TOEFL iTP | VSTEP | IELTS Academic | APTIS ESOL | Cambridge English Scale & Tests (KET, PET, FCE) |
+| :---------------- | :--- | :--- | :-------------- | :------------------- | :------------------ | :------------------ | :------------------ | :-------- | :-------- | :------ | :------------- | :--------- | :-------------------------------------------- |
+| Bậc 1.1           | A1   | Level A1 | <250            | 60-80                | 60-80               | 50-60               | 30-40               | ≤ 10      | <337      | Không có mức tương đương | ≤ 2.0          | < 45       | 100-110 (KET)                                 |
+| Bậc 1.2           |      |          | 250-345         | 85-105               | 85-110              | 70-80               | 50-60               | 11-20     | 338-360   |         | 2.5            | 46-65      | 111-119 (KET)                                 |
+| Bậc 2.1           |      |          | 350-395         | 110-150              | 115-155             | 90                  | 70-80               | 21-23     | 361-400   |         | 3.0            | 66-75      | 120-129 (KET)                                 |
+| Bậc 2.2           | A2   | Level 1  | 400-445         | 155-195              | 160-195             | 100                 | 90÷100              | 24-26     | 401-430   |         | 3.5            | 76-86      | 130-135 (KET)                                 |
+| Bậc 2.3           |      |          | 450-495         | 200-235              | 200-235             | 110                 | 110                 | 27-29     | 431-449   |         | 3.5            | 87-101     | 136-139 (KET)                                 |
+| Bậc 3.1           |      |          | 500-545         | 240-270              | 240-270             | 120                 | 120                 | 30-33     | 450-459   | 4.0     | 4.0            | 102-115    | 140÷149 (KET)                                 |
+| Bậc 3.2           |      |          | 550-595         | 275-295              | 275-290             | 120                 | 120                 | 34-36     | 460-469   | 4.5     | 4.0            | 116-127    | 140-149 (PET)                                 |
+| Bậc 3.3           | B1   | Level 2  | 600-645         | 300-320              | 295-215             | 130                 | 130                 | 37-39     | 470-479   | 5.0     | 4.5            | 128-135    | 150-155 (PET)                                 |
+| Bậc 3.4           |      |          | 650-700         | 325-350              | 220-340             | 130                 | 130                 | 40-42     | 480-489   | 5.0     | 4.5            | 136-143    | 156-159 (PET)                                 |
+| Bậc 3.5           |      |          | 705-780         | 355-395              | 345-380             | 140                 | 140                 | 43-45     | 490-499   | 5.5     | 5.0            | 144÷152    | 156÷159 (FCE)                                 |
+| Bậc 4             | B2   | Level 3  | ≥ 785           | ≥ 400                | ≥ 385               | ≥ 150               | ≥ 150               | ≥ 46      | ≥ 500     | ≥ 6.0   | ≥ 5.5          | 153-183    | ≥ 160 (PET/FCE)                               |
+
+Từ viết tắt “NLNNVN”: Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam, sử dụng làm cơ sở tham chiếu quy đổi các chứng chỉ khác, trong bảng quy đổi tương đương này chỉ xét tới Bậc 4.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68_03.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_03_002
+chunk_index: 2
+language: vi
+category: Ngoai_ngu_2024_K68_partitioned
+year: N/A
+chunk_title: Điều kiện xét quy đổi tương đương chứng chỉ
+topic_tags: [quy đổi chứng chỉ, điều kiện xét, TOEIC 4 kỹ năng, TOEIC 2 kỹ năng, chuẩn ngoại ngữ, Đồ án tốt nghiệp, Khóa luận tốt nghiệp, Ban Đào tạo, Giám đốc Đại học]
+summary: Quy định các điều kiện xét quy đổi chứng chỉ ngoại ngữ, bao gồm việc quy đổi TOEIC 4 kỹ năng dựa trên kỹ năng đạt điểm thấp nhất, công nhận TOEIC 2 kỹ năng cho chuẩn ngoại ngữ nhưng không cho Đồ án/Khóa luận tốt nghiệp, và các trường hợp khác do Ban Đào tạo đề xuất.
+
+2. Điều kiện xét quy đổi tương đương chứng chỉ
+
++ Đối với chứng chỉ TOEIC 4 kỹ năng: quy đổi tương đương sang các chứng chỉ khác dựa theo theo kỹ năng đạt điểm thấp nhất.
++ Sinh viên có chứng chỉ TOEIC 2 kỹ năng được công nhận để xét điều kiện chuẩn ngoại ngữ theo số lượng tín chỉ tích lũy, tuy nhiên không được công nhận để xét nhận Đồ án tốt nghiệp/Khóa luận tốt nghiệp, không được công nhận để xét tốt nghiệp.
++ Các trường hợp quy đổi tương đương khác do Ban Đào tạo đề xuất và trình Giám đốc Đại học quyết định.
+<<<CHUNK_END>>>

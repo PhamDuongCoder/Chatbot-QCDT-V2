@@ -1,0 +1,103 @@
+<<<CHUNK_START>>>
+source: KSCS_2025_cong_nhan_hoc_phan.pdf
+parent_doc_id: KSCS_2025_cong_nhan_hoc_phan
+chunk_id: KSCS_2025_cong_nhan_hoc_phan_001
+chunk_index: 1
+language: vi
+category: Ki_su_chuyen_sau
+year: N/A
+chunk_title: Phạm vi áp dụng và Mục đích
+topic_tags: [phạm vi áp dụng, mục đích, kỹ sư chuyên sâu]
+summary: Quy định về phạm vi áp dụng và mục đích của việc công nhận học phần cho học viên chương trình đào tạo kỹ sư chuyên sâu (KSCS). Hướng dẫn áp dụng cho học viên tích hợp và học viên đã có mã số.
+
+**I. Phạm vi áp dụng:**
+1. Dành cho học viên chương trình đào tạo kỹ sư chuyên sâu (KSCS) theo chương trình tích hợp.
+2. Dành cho học viên đã được cấp mã số học viên tạm thời và học viên đã được công nhận chính thức.
+
+**II. Mục đích:**
+1. Học viên chọn các học phần KSCS đã tích lũy khi đang học cử nhân vào bảng điểm KSCS: Điều kiện áp dụng là được công nhận tối đa 15 tín chỉ học trước.
+2. Học viên học theo chương trình đào tạo tích hợp (CTĐT) sẽ được lựa chọn để công nhận tối đa 12 tín chỉ trong CTĐT cử nhân vào bảng điểm CTĐT KSCS.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: KSCS_2025_cong_nhan_hoc_phan.pdf
+parent_doc_id: KSCS_2025_cong_nhan_hoc_phan
+chunk_id: KSCS_2025_cong_nhan_hoc_phan_002
+chunk_index: 2
+language: vi
+category: Ki_su_chuyen_sau
+year: N/A
+chunk_title: Điều kiện công nhận 12 tín chỉ từ chương trình cử nhân
+topic_tags: [điều kiện, tín chỉ, cử nhân, kỹ sư chuyên sâu]
+summary: Quy định chi tiết về điều kiện công nhận 12 tín chỉ từ bảng điểm tốt nghiệp cử nhân vào chương trình KSCS, bao gồm yêu cầu về mô đun định hướng và cách ghi điểm.
+
+**Điều kiện áp dụng công nhận 12 tín chỉ:**
+* Chỉ áp dụng với các học viên đã tốt nghiệp cử nhân và được công nhận chính thức là học viên CTĐT KSCS.
+* Số 12 tín chỉ được công nhận này là của các học phần đáp ứng đồng thời 02 điều kiện sau:
+    * Thuộc Mô đun định hướng của CTĐT cử nhân mà sinh viên đã học, không tính Thực tập và Đồ án tốt nghiệp cử nhân;
+    * Có trong bảng điểm tốt nghiệp cử nhân của sinh viên.
+
+**Ghi chú:**
+* 12 tín chỉ của các học phần được công nhận từ bảng điểm tốt nghiệp cử nhân vào bảng điểm KSCS sẽ ghi điểm R (không tính vào CPA tốt nghiệp KSCS, chỉ tính vào tổng số tín chỉ tích lũy).
+* Tổng số tín chỉ trong bảng điểm KSCS sẽ là: 12 tín chỉ công nhận do học tích hợp (điểm R) + 48 tín chỉ thuộc khung CTĐT KSCS tích hợp = 60 tín chỉ (tối thiểu).
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: KSCS_2025_cong_nhan_hoc_phan.pdf
+parent_doc_id: KSCS_2025_cong_nhan_hoc_phan
+chunk_id: KSCS_2025_cong_nhan_hoc_phan_003
+chunk_index: 3
+language: vi
+category: Ki_su_chuyen_sau
+year: N/A
+chunk_title: Hướng dẫn thực hiện trên hệ thống
+topic_tags: [hướng dẫn, hệ thống, đăng nhập, thủ tục]
+summary: Hướng dẫn các bước thực hiện đăng nhập và chọn mục tương ứng trên hệ thống ctt-sis.hust.edu.vn để thực hiện thủ tục công nhận học phần.
+
+**III. Các bước thực hiện:**
+1. Học viên đăng nhập: [https://ctt-sis.hust.edu.vn](https://ctt-sis.hust.edu.vn)
+2. Chọn mục tương ứng để thực hiện các thủ tục đã nêu tại Mục II của bản hướng dẫn này.
+
+[Hình: Giao diện người dùng trên hệ thống SIS hiển thị các mục "Xác nhận học phần học trước ở Cử nhân" và "Lấy HP cử nhân vào BĐ tốt nghiệp kỹ sư"]
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: KSCS_2025_cong_nhan_hoc_phan.pdf
+parent_doc_id: KSCS_2025_cong_nhan_hoc_phan
+chunk_id: KSCS_2025_cong_nhan_hoc_phan_004
+chunk_index: 4
+language: vi
+category: Ki_su_chuyen_sau
+year: N/A
+chunk_title: Giao diện chọn học phần tích lũy trước bậc cử nhân
+topic_tags: [giao diện, học phần, tích lũy, cử nhân]
+summary: Mô tả giao diện và quy trình chọn các học phần đã tích lũy ở bậc cử nhân để công nhận vào chương trình kỹ sư chuyên sâu.
+
+**Giao diện chọn học phần KSCS đã tích lũy khi đang là SV bậc cử nhân vào CTĐT KSCS:**
+
+[Hình: Bảng danh sách các học phần (ME4215, ME4274, ME4294, ME5911, ME5914, ME5919) với các cột: Mã HP, Tên HP, Học kỳ, Điểm, Số TC, TC, Ngày ĐK, Trạng thái và ô chọn]
+
+*Lưu ý:* Khi đã chọn và bấm “Gửi đăng ký các HP đã chọn” sẽ KHÔNG được phép điều chỉnh lại danh mục này, do đó sinh viên cần cân nhắc lựa chọn đúng học phần mong muốn.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: KSCS_2025_cong_nhan_hoc_phan.pdf
+parent_doc_id: KSCS_2025_cong_nhan_hoc_phan
+chunk_id: KSCS_2025_cong_nhan_hoc_phan_005
+chunk_index: 5
+language: vi
+category: Ki_su_chuyen_sau
+year: N/A
+chunk_title: Giao diện chọn học phần từ bảng điểm tốt nghiệp cử nhân
+topic_tags: [giao diện, bảng điểm, tốt nghiệp, tích hợp]
+summary: Mô tả giao diện và quy định chọn học phần từ bảng điểm tốt nghiệp cử nhân để công nhận tích hợp vào bảng điểm KSCS.
+
+**Giao diện chọn học phần từ bảng điểm tốt nghiệp cử nhân công nhận tích hợp vào bảng điểm KSCS:**
+
+[Hình: Bảng danh sách các học phần (ME3150, ME3267, ME4064, ME4128, ME4129, ME4138, ME4374) với các cột: Mã HP, Tên HP, Học kỳ, Điểm, Số TC, Loại HP, Ngày ĐK, Trạng thái và ô chọn]
+
+*Quy định:*
+1. Sinh viên được phép công nhận tối đa 12 tín chỉ từ bảng điểm tốt nghiệp Cử nhân vào CTĐT Kỹ sư chuyên sâu.
+2. Các học phần được công nhận tích hợp này sẽ ghi điểm R và không tính vào CPA tốt nghiệp CTĐT kỹ sư chuyên sâu.
+3. Bảng sau đây là các học phần sinh viên có thể chọn để tích hợp vào bảng điểm Kỹ sư chuyên sâu. Lưu ý: khi đã chọn và gửi đăng ký sẽ KHÔNG thể điều chỉnh được, do đó sinh viên cần chú ý khi lựa chọn.
+<<<CHUNK_END>>>

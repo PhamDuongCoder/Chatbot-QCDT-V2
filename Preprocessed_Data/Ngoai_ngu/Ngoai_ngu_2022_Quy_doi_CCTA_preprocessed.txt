@@ -1,0 +1,56 @@
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2022_Quy_doi_CCTA.pdf
+parent_doc_id: Ngoai_ngu_2022_Quy_doi_CCTA
+chunk_id: Ngoai_ngu_2022_Quy_doi_CCTA_001
+chunk_index: 1
+language: vi
+category: Ngoai_ngu
+year: 2022
+chunk_title: Quyết định bổ sung danh mục quy đổi chứng chỉ tiếng Anh
+topic_tags: [quyết định, chứng chỉ ngoại ngữ, VSTEP]
+summary: Quyết định số 5743/QĐ-ĐHBK bổ sung chứng chỉ VSTEP vào danh mục quy đổi tương đương các chứng chỉ tiếng Anh tại ĐHBK Hà Nội, áp dụng từ học kỳ 1 năm học 2022-2023.
+
+**QUYẾT ĐỊNH**
+**Về việc bổ sung danh mục quy đổi tương đương các chứng chỉ tiếng Anh**
+
+**HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC BÁCH KHOA HÀ NỘI**
+
+Căn cứ các quy định pháp luật và quy chế đào tạo hiện hành của Trường Đại học Bách khoa Hà Nội; Theo đề nghị của Trưởng phòng Đào tạo.
+
+**QUYẾT ĐỊNH:**
+
+**Điều 1.** Bổ sung chứng chỉ tiếng Anh VSTEP (Vietnamese Standardized Test of English Proficiency) vào Phụ lục 2 “Bảng quy đổi tương đương các chứng chỉ tiếng Anh” ban hành kèm theo Quyết định số 119/QĐ-ĐHBK-ĐT ngày 15 tháng 01 năm 2021 của Trường Đại học Bách khoa Hà Nội. Chi tiết có trong phụ lục kèm theo quyết định này.
+
+**Điều 2.** Quyết định này có hiệu lực áp dụng từ học kỳ 1 năm học 2022-2023.
+
+**Điều 3.** Các ông/bà Trưởng phòng Đào tạo, Viện trưởng viện Ngoại ngữ, trưởng các đơn vị có liên quan và các sinh viên đại học chính quy của trường chịu trách nhiệm thi hành quyết định này.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2022_Quy_doi_CCTA.pdf
+parent_doc_id: Ngoai_ngu_2022_Quy_doi_CCTA
+chunk_id: Ngoai_ngu_2022_Quy_doi_CCTA_002
+chunk_index: 2
+language: vi
+category: Ngoai_ngu
+year: 2022
+chunk_title: Phụ lục 2 - Bảng quy đổi tương đương các chứng chỉ tiếng Anh
+topic_tags: [bảng quy đổi, chứng chỉ, ngoại ngữ]
+summary: Bảng quy đổi tương đương giữa các chứng chỉ tiếng Anh quốc tế (TOEIC, TOEFL iBT, IELTS, Cambridge) và VSTEP dùng cho sinh viên ĐHBK Hà Nội.
+
+**PHỤ LỤC 2. DANH MỤC QUY ĐỔI TƯƠNG ĐƯƠNG CÁC CHỨNG CHỈ TIẾNG ANH**
+*(Kèm theo Quyết định số 5743/QĐ-ĐHBK ngày 21/12/2022)*
+
+| TOEIC | TOEF iBT | IELTS (Academic) | VSTEP | Cambridge English Tests | Cambridge Scale |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| ≤ 345 | < 20 | ≤ 2.0 | Không có | Starters | 80 ÷ 99 |
+| 350 ÷ 395 | 20 ÷ 24 | 2.5 | Không có | Movers | 100 ÷ 119 |
+| 400 ÷ 445 | 25 ÷ 31 | 3.0 | Không có | KET with grade C | 120 ÷ 129 |
+| 450 ÷ 495 | 32 ÷ 33 | 3.5 | Không có | KET with grade B | 130 ÷ 139 |
+| 500 ÷ 545 | 34 ÷ 37 | 4.0 | 4 ÷ 4.5 | KET with grade A; PET with “Pass” | 140 ÷ 145 |
+| 550 ÷ 595 | 38 ÷ 41 | 4.5 | 5 | KET with grade A; PET with “Pass” | 145 ÷ 150 |
+| 600 ÷ 645 | 42 ÷ 45 | 5.0 | 5.5 | PET with “Merit” | 151 ÷ 159 |
+| ≥ 650 | 46 ÷ 114 | ≥ 5.5 | ≥ 6 | PET with Distinction; FCE with grade C/B/A; CAE, with grade C/B | 160 ÷ 199 |
+
+*Ghi chú: Các trường hợp quy đổi tương đương khác do Hiệu trưởng quyết định.*
+<<<CHUNK_END>>>

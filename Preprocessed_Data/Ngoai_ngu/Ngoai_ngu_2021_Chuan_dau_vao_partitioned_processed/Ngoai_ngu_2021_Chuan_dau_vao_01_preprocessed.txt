@@ -1,0 +1,155 @@
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2021_Chuan_dau_vao_01.pdf
+parent_doc_id: Ngoai_ngu_2021_Chuan_dau_vao
+chunk_id: Ngoai_ngu_2021_Chuan_dau_vao_01_001
+chunk_index: 1
+language: vi
+category: Ngoai_ngu
+year: 2021
+chunk_title: Quyết định ban hành Quy định
+topic_tags: [quyết định, chuẩn đầu vào, ngoại ngữ]
+summary: Quyết định số 119/QĐ-DHBK-ĐT ngày 15/01/2021 của Hiệu trưởng Trường Đại học Bách khoa Hà Nội về việc ban hành Quy định phân loại trình độ đầu vào, chương trình môn học và chuẩn ngoại ngữ đối với sinh viên đại học chính quy.
+
+Quyết định số 119/QĐ-DHBK-ĐT ngày 15 tháng 01 năm 2021 của Hiệu trưởng Trường Đại học Bách khoa Hà Nội về việc ban hành Quy định về phân loại trình độ đầu vào, chương trình môn học và chuẩn ngoại ngữ yêu cầu đối với sinh viên đại học hệ chính quy.
+
+Điều 1. Ban hành kèm theo Quyết định này Quy định về phân loại trình độ đầu vào, chương trình môn học và chuẩn ngoại ngữ yêu cầu đối với sinh viên đại học hệ chính quy của Trường Đại học Bách khoa Hà Nội.
+
+Điều 2. Giao nhiệm vụ cho Phòng Đào tạo, Viện Ngoại ngữ phối hợp với các đơn vị thuộc trường thực hiện theo đúng Quy định này.
+
+Điều 3. Quyết định này có hiệu lực kể từ ngày ký. Các Ông/Bà Trưởng Phòng Đào tạo, Viện trưởng Viện Ngoại ngữ, trưởng các đơn vị có liên quan và các sinh viên đại học hệ chính quy của Trường chịu trách nhiệm thi hành Quyết định này.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2021_Chuan_dau_vao_01.pdf
+parent_doc_id: Ngoai_ngu_2021_Chuan_dau_vao
+chunk_id: Ngoai_ngu_2021_Chuan_dau_vao_01_002
+chunk_index: 2
+language: vi
+category: Ngoai_ngu
+year: 2021
+chunk_title: Điều 1 – Phạm vi và đối tượng áp dụng
+topic_tags: [phạm vi, đối tượng áp dụng, ngoại ngữ]
+summary: Quy định về công tác đánh giá, phân loại trình độ ngoại ngữ đầu vào, chương trình môn học và chuẩn đầu ra. Áp dụng cho sinh viên đại học chính quy, không bao gồm ngành Ngôn ngữ Anh và sinh viên người nước ngoài.
+
+Điều 1. Phạm vi và đối tượng áp dụng
+
+1. Văn bản này quy định về công tác tổ chức đánh giá và phân loại trình độ ngoại ngữ đầu vào; chương trình môn học ngoại ngữ; điều kiện được miễn học các học phần ngoại ngữ; chuẩn ngoại ngữ yêu cầu theo tín chỉ tích lũy và chuẩn ngoại ngữ đầu ra.
+
+2. Quy định này áp dụng cho sinh viên đại học hệ chính quy, không thuộc ngành Ngôn ngữ Anh của Trường Đại học Bách khoa Hà Nội.
+
+3. Quy định này không áp dụng cho sinh viên là người nước ngoài đang học tại Trường Đại học Bách khoa Hà Nội.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2021_Chuan_dau_vao_01.pdf
+parent_doc_id: Ngoai_ngu_2021_Chuan_dau_vao
+chunk_id: Ngoai_ngu_2021_Chuan_dau_vao_01_003
+chunk_index: 3
+language: vi
+category: Ngoai_ngu
+year: 2021
+chunk_title: Điều 2 – Phân loại trình độ đầu vào và phân lớp ngoại ngữ
+topic_tags: [phân loại, trình độ đầu vào, phân lớp, tiếng Anh]
+summary: Quy định cách thức phân loại trình độ ngoại ngữ đầu vào dựa trên điểm thi THPT hoặc chứng chỉ quốc tế cho các chương trình đào tạo chuẩn, tiên tiến, tài năng và hợp tác quốc tế.
+
+Điều 2. Phân loại trình độ đầu vào và phân lớp ngoại ngữ
+
+1. Căn cứ phân loại trình độ ngoại ngữ đầu vào với sinh viên thuộc chương trình đào tạo có yêu cầu chuẩn đầu ra là tiếng Anh:
+a) Đối với các sinh viên thuộc chương trình đào tạo chuẩn: phân loại dựa trên điểm thi môn tiếng Anh của kỳ thi tốt nghiệp THPT tại năm nhập học hoặc chứng chỉ tiếng Anh quốc tế;
+b) Đối với các sinh viên thuộc các chương trình đào tạo tiên tiến, tài năng và chương trình hợp tác quốc tế: phân loại dựa trên kết quả kiểm tra tiếng Anh nội bộ đầu khóa hoặc chứng chỉ tiếng Anh quốc tế.
+
+2. Căn cứ phân loại trình độ ngoại ngữ đầu vào với sinh viên thuộc chương trình đào tạo có yêu cầu chuẩn đầu ra là ngoại ngữ khác tiếng Anh: phân loại dựa trên điểm thi môn ngoại ngữ tương ứng của kỳ thi tốt nghiệp THPT tại năm nhập học hoặc chứng chỉ quốc tế của ngôn ngữ tương ứng.
+
+3. Căn cứ trên kết quả phân loại trình độ ngoại ngữ đầu vào, sinh viên được xét miễn học các học phần theo quy định và được xếp lớp học ngoại ngữ tương ứng.
+
+4. Sinh viên không đáp ứng điều kiện phân loại trình độ ngoại ngữ theo mục 1 hoặc 2 của điều này sẽ phải học toàn bộ chương trình ngoại ngữ theo quy định.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2021_Chuan_dau_vao_01.pdf
+parent_doc_id: Ngoai_ngu_2021_Chuan_dau_vao
+chunk_id: Ngoai_ngu_2021_Chuan_dau_vao_01_004
+chunk_index: 4
+language: vi
+category: Ngoai_ngu
+year: 2021
+chunk_title: Điều 3 – Công nhận, xét miễn học phần ngoại ngữ
+topic_tags: [miễn học phần, chứng chỉ ngoại ngữ, công nhận]
+summary: Quy định về việc xét miễn học phần ngoại ngữ dựa trên chứng chỉ quốc tế, quy trình thẩm định và thời hạn nộp đơn xét miễn.
+
+Điều 3. Công nhận, xét miễn học phần ngoại ngữ
+
+1. Tất cả các học phần ngoại ngữ tương ứng với từng chương trình đào tạo là các học phần bắt buộc. Nhà trường sẽ đăng ký các học phần ngoại ngữ theo kế hoạch học tập chuẩn cho các sinh viên.
+
+2. Trong quá trình học tập, nếu sinh viên đạt được chứng chỉ ngoại ngữ theo quy định sẽ được xét miễn các học phần ngoại ngữ tương ứng với trình độ đạt được. Các học phần được miễn sẽ ghi điểm R trong bảng điểm.
+
+3. Chứng chỉ ngoại ngữ để xét miễn học phần phải còn hạn theo quy định tính tới thời điểm nộp đơn xét miễn. Danh sách chứng chỉ và các học phần được miễn được ghi trong các phụ lục tương ứng.
+
+4. Toàn bộ các chứng chỉ ngoại ngữ quốc tế phải được thẩm định nguồn gốc và cập nhật mức điểm lên hệ thống phần mềm quản lý đào tạo trước thời điểm nộp đơn xét miễn học phần.
+
+5. Thời gian tiếp nhận đơn xét miễn học phần ngoại ngữ muộn nhất là 2 tuần trước khi học kỳ bắt đầu theo Biểu đồ kế hoạch học tập của năm học.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2021_Chuan_dau_vao_01.pdf
+parent_doc_id: Ngoai_ngu_2021_Chuan_dau_vao
+chunk_id: Ngoai_ngu_2021_Chuan_dau_vao_01_005
+chunk_index: 5
+language: vi
+category: Ngoai_ngu
+year: 2021
+chunk_title: Điều 4 – Yêu cầu về chuẩn ngoại ngữ theo tín chỉ tích lũy và chuẩn ngoại ngữ đầu ra
+topic_tags: [chuẩn đầu ra, tín chỉ tích lũy, thi nội bộ]
+summary: Quy định về chuẩn ngoại ngữ theo tín chỉ tích lũy và đầu ra. Kết quả thi nội bộ được công nhận, riêng chương trình tiên tiến, tài năng, hợp tác quốc tế yêu cầu chứng chỉ quốc tế.
+
+Điều 4. Yêu cầu về chuẩn ngoại ngữ theo tín chỉ tích lũy và chuẩn ngoại ngữ đầu ra
+
+1. Yêu cầu về chuẩn ngoại ngữ theo số lượng tín chỉ tích lũy và chuẩn ngoại ngữ đầu ra được quy định cụ thể cho từng chương trình đào tạo tại các phụ lục tương ứng, được ban hành kèm quy định này.
+
+2. Kết quả thi các kỳ thi ngoại ngữ nội bộ của Trường Đại học Bách khoa Hà Nội được công nhận để xét điều kiện chuẩn ngoại ngữ theo tín chỉ tích lũy và chuẩn ngoại ngữ đầu ra. Riêng với các sinh viên thuộc chương trình đào tạo tiên tiến, chương trình đào tạo tài năng và chương trình đào tạo hợp tác quốc tế phải có chứng chỉ ngoại ngữ quốc tế để được xét công nhận đạt chuẩn ngoại ngữ đầu ra.
+
+3. Sinh viên được tham dự các kỳ thi Tiếng Anh nội bộ của Trường nhiều lần và được công nhận điểm thi cao nhất trong các lần thi. Kết quả thi này có giá trị công nhận trong vòng 2 năm kể từ ngày thi.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2021_Chuan_dau_vao_01.pdf
+parent_doc_id: Ngoai_ngu_2021_Chuan_dau_vao
+chunk_id: Ngoai_ngu_2021_Chuan_dau_vao_01_006
+chunk_index: 6
+language: vi
+category: Ngoai_ngu
+year: 2021
+chunk_title: Điều 5 – Hạn chế khối lượng học tập trong trường hợp không đạt chuẩn ngoại ngữ và điều kiện gỡ bỏ hạn chế
+topic_tags: [hạn chế khối lượng, tín chỉ, gỡ bỏ hạn chế, học phần bổ trợ]
+summary: Quy định về việc giới hạn số tín chỉ đăng ký (14 TC tối đa, 8 TC tối thiểu) đối với sinh viên không đạt chuẩn ngoại ngữ và các điều kiện để gỡ bỏ hạn chế này.
+
+Điều 5. Hạn chế khối lượng học tập trong trường hợp không đạt chuẩn ngoại ngữ theo tín chỉ tích lũy và điều kiện gỡ bỏ hạn chế
+
+1. Sinh viên không đạt chuẩn ngoại ngữ quy định theo số tín chỉ tích lũy sẽ chỉ được đăng ký tối đa 14 TC và tối thiểu 8 TC cho một học kỳ chính, tương ứng với quy định tại Điều 19 của Quy chế đào tạo chính quy.
+
+2. Điều kiện gỡ bỏ hạn chế khối lượng học tập:
+a) Chỉ áp dụng với sinh viên các chương trình đào tạo chuẩn, đào tạo tài năng, đào tạo tiên tiến và quốc tế với chuẩn ngoại ngữ đầu ra là tiếng Anh và đang ở trạng thái bị hạn chế khối lượng học tập theo quy định tại mục 1 của điều này.
+b) Sinh viên được gỡ bỏ mức hạn chế khối lượng học tập hoặc được tiếp tục học tập nếu đã đăng ký học tại Trường ít nhất 90 tiết học các học phần tiếng Anh bổ trợ. Các học phần tiếng Anh bổ trợ được đăng ký học phải đảm bảo tương đương với trình độ tiếng Anh yêu cầu trong học kỳ cần gỡ bỏ hạn chế khối lượng học tập.
+c) Yêu cầu về chuyên cần khi tham gia học các học phần tiếng Anh bổ trợ: sinh viên cần đảm bảo tham dự tối thiểu 80% số tiết học theo yêu cầu của mỗi học phần. Những sinh viên không đảm bảo điều kiện chuyên cần với bất cứ học phần tiếng Anh bổ trợ nào đã đăng ký sẽ bị áp dụng mức hạn chế khối lượng học tập ở học kỳ kế tiếp.
+d) Điều kiện gỡ bỏ giới hạn khối lượng học tập không áp dụng cho các trường hợp sinh viên bị cảnh báo học tập, xét nhận đồ án tốt nghiệp/khóa luận tốt nghiệp, xét tốt nghiệp.
+<<<_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2021_Chuan_dau_vao_01.pdf
+parent_doc_id: Ngoai_ngu_2021_Chuan_dau_vao
+chunk_id: Ngoai_ngu_2021_Chuan_dau_vao_01_007
+chunk_index: 7
+language: vi
+category: Ngoai_ngu
+year: 2021
+chunk_title: Điều 6 – Các trường hợp ngoại lệ và Điều 7 – Hiệu lực thi hành
+topic_tags: [ngoại lệ, hiệu lực thi hành]
+summary: Quy định về các trường hợp ngoại lệ do đơn vị quản lý đào tạo đề xuất và hiệu lực áp dụng từ năm học 2020-2021 cho khóa 65 trở về sau.
+
+Điều 6. Các trường hợp ngoại lệ
+Các trường hợp ngoại lệ sẽ do đơn vị chức năng quản lý đào tạo đề xuất để Hiệu trưởng quyết định, căn cứ các quy định hiện hành của Bộ Giáo dục và Đào tạo.
+
+Điều 7. Hiệu lực thi hành
+1. Quy định này được áp dụng từ năm học 2020-2021 đối với các chương trình đào tạo kể từ khóa 65 trở về sau.
+2. Quy định hiện hành về ngoại ngữ đối với các chương trình đào tạo từ khóa 64 trở về trước vẫn tiếp tục còn hiệu lực thi hành cho đến thời điểm kết thúc khóa đào tạo.
+<<<CHUNK_END>>>

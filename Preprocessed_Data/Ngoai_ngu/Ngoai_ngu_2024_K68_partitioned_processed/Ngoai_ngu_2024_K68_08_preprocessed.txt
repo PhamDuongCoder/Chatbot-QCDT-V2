@@ -1,0 +1,130 @@
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68_08.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_08_001
+chunk_index: 1
+language: vi
+category: Ngoai_ngu_2024_K68_partitioned
+year: N/A
+chunk_title: PHỤ LỤC 7 - Danh mục học phần và chuẩn yêu cầu ngoại ngữ
+topic_tags: [PFIEV, Công nghệ thông tin Việt-Pháp, tiếng Pháp, học phần, chuẩn yêu cầu]
+summary: Giới thiệu Phụ lục 7, bao gồm danh mục các học phần và chuẩn yêu cầu tiếng Pháp cho các chương trình đào tạo PFIEV và Công nghệ thông tin Việt-Pháp tại Đại học Bách khoa Hà Nội.
+
+PHỤ LỤC 7
+Danh mục các học phần và chuẩn yêu cầu đối với các chương trình đào tạo PFIEV
+và chương trình đào tạo Công nghệ thông tin Việt-Pháp
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68_08.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_08_002
+chunk_index: 2
+language: vi
+category: Ngoai_ngu_2024_K68_partitioned
+year: N/A
+chunk_title: Bảng 7.1 Danh mục các học phần tiếng Pháp yêu cầu đối với chương trình đào tạo PFIEV
+topic_tags: [PFIEV, tiếng Pháp, học phần, FL1401, FL1802, FL1803, FL1804, FL1805, FL1806, DELF A1, DELF A2, DELF B1, miễn học, bắt buộc học]
+summary: Liệt kê 6 học phần tiếng Pháp bắt buộc cho chương trình PFIEV, bao gồm mã học phần (ví dụ: FL1401, FL1802), tên học phần, thời lượng, tín chỉ và điều kiện miễn/cần học dựa trên các chứng chỉ DELF A1, A2, B1. Học phần FL1401 sẽ đổi mã thành FL1801 từ khóa K69.
+
+Bảng 7.1 Danh mục các học phần tiếng Pháp yêu cầu đối với chương trình đào tạo PFIEV
+
+| TT | Mã học phần | Tên học phần         | Thời lượng | Tín chỉ trong CTĐT | Học phần được miễn/cần học theo chứng chỉ đạt được [1] | Học phần được miễn/cần học theo chứng chỉ đạt được [2] | Học phần được miễn/cần học theo chứng chỉ đạt được [3] |
+|:---|:------------|:--------------------|:-----------|:-------------------|:-------------------------------------------------------|:-------------------------------------------------------|:-------------------------------------------------------|
+| 1  | FL1401(*)   | Tiếng Pháp KSCLC 1 (*) | 3(3-2-0-6) | Có                 | M                                                      | M                                                      | M                                                      |
+| 2  | FL1802      | Tiếng Pháp PFIEV 2  | 3(1-4-0-6) | Có                 | M                                                      | M                                                      | M                                                      |
+| 3  | FL1803      | Tiếng Pháp PFIEV 3  | 3(1-4-0-6) | Không              | H                                                      | M                                                      | M                                                      |
+| 4  | FL1804      | Tiếng Pháp PFIEV 4  | 3(1-4-0-6) | Không              | H                                                      | M                                                      | M                                                      |
+| 5  | FL1805      | Tiếng Pháp PFIEV 5  | 3(1-4-0-6) | Không              | H                                                      | H                                                      | M                                                      |
+| 6  | FL1806      | Tiếng Pháp PFIEV 6  | 3(3-1-0-6) | Không              | H                                                      | H                                                      | M                                                      |
+
+Ghi chú:
+[1]: Đạt trình độ DELF A1 hoặc tương đương;
+[2]: Đạt trình độ DELF A2 hoặc tương đương;
+[3]: Đạt trình độ DELF B1 hoặc tương đương.
+M: được miễn học (ghi điểm R); H: bắt buộc học.
+(*): từ khóa K69 sẽ đổi mã và tên học phần thành: FL1801 Tiếng Pháp PFIEV 1.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68_08.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_08_003
+chunk_index: 3
+language: vi
+category: Ngoai_ngu_2024_K68_partitioned
+year: N/A
+chunk_title: Bảng 7.2 Danh mục các học phần tiếng Pháp yêu cầu đối với chương trình Công nghệ thông tin Việt – Pháp
+topic_tags: [Công nghệ thông tin Việt-Pháp, tiếng Pháp, học phần, FL1601, FL1602, FL1803, FL1804, FL1805, FL1806, DELF A1, DELF A2, DELF B1, miễn học, bắt buộc học]
+summary: Trình bày danh mục 6 học phần tiếng Pháp yêu cầu cho chương trình Công nghệ thông tin Việt-Pháp, bao gồm mã học phần (ví dụ: FL1601, FL1602), tên học phần, thời lượng, tín chỉ và điều kiện miễn/cần học dựa trên các chứng chỉ DELF A1, A2, B1. Các học phần FL1601 và FL1602 sẽ đổi mã thành FL1801 và FL1802 từ khóa K69.
+
+Bảng 7.2 Danh mục các học phần tiếng Pháp yêu cầu đối với chương trình Công nghệ thông tin Việt – Pháp
+
+| TT | Mã học phần | Tên học phần         | Thời lượng | Tín chỉ trong CTĐT | Học phần được miễn/cần học theo chứng chỉ đạt được [1] | Học phần được miễn/cần học theo chứng chỉ đạt được [2] | Học phần được miễn/cần học theo chứng chỉ đạt được [3] |
+|:---|:------------|:--------------------|:-----------|:-------------------|:-------------------------------------------------------|:-------------------------------------------------------|:-------------------------------------------------------|
+| 1  | FL1601(*)   | Tiếng Pháp VP 1 (*) | 3(1-4-0-6) | Không              | M                                                      | M                                                      | M                                                      |
+| 2  | FL1602(**)  | Tiếng Pháp VP 2(**) | 2(1-2-0-4) | Không              | M                                                      | M                                                      | M                                                      |
+| 3  | FL1803      | Tiếng Pháp PFIEV 3  | 3(1-4-0-6) | Không              | H                                                      | M                                                      | M                                                      |
+| 4  | FL1804      | Tiếng Pháp PFIEV 4  | 3(1-4-0-6) | Có                 | H                                                      | M                                                      | M                                                      |
+| 5  | FL1805      | Tiếng Pháp PFIEV 5  | 3(1-4-0-6) | Có                 | H                                                      | H                                                      | M                                                      |
+| 6  | FL1806      | Tiếng Pháp PFIEV 6  | 3(3-1-0-6) | Có                 | H                                                      | H                                                      | M                                                      |
+
+Ghi chú:
+[1]: Đạt trình độ DELF A1 hoặc tương đương;
+[2]: Đạt trình độ DELF A2 hoặc tương đương;
+[3]: Đạt trình độ DELF B1 hoặc tương đương;
+M: được miễn học (ghi điểm R); H: bắt buộc học.
+(*): từ khóa K69 sẽ đổi mã và tên học phần thành: FL1801 Tiếng Pháp PFIEV 1.
+(**): từ khóa K69 sẽ đổi mã và tên học phần thành: FL1802 Tiếng Pháp PFIEV 2.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68_08.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_08_004
+chunk_index: 4
+language: vi
+category: Ngoai_ngu_2024_K68_partitioned
+year: N/A
+chunk_title: Bảng 7.3 Yêu cầu chuẩn tiếng Pháp với chương trình đào tạo PFIEV và chương trình Công nghệ thông tin Việt - Pháp
+topic_tags: [PFIEV, Công nghệ thông tin Việt-Pháp, tiếng Pháp, chuẩn đầu ra, tín chỉ tích lũy, DELF A1, DELF A2, DELF B1, DELF B2, TOEIC 500, TOEIC 600, Đồ án tốt nghiệp, tốt nghiệp cử nhân, tốt nghiệp kỹ sư, phụ lục văn bằng]
+summary: Quy định các yêu cầu chuẩn tiếng Pháp cho sinh viên chương trình PFIEV và Công nghệ thông tin Việt-Pháp dựa trên số tín chỉ tích lũy (32, 64, 96 TC) và các điều kiện xét tốt nghiệp. Yêu cầu bao gồm đạt trình độ DELF A1, A2, B1, B2 hoặc điểm TOEIC 500/600, cùng với việc hoàn thành các học phần tiếng Pháp tương ứng trong Bảng 7.1 và Bảng 7.2.
+
+Bảng 7.3 Yêu cầu chuẩn tiếng Pháp với chương trình đào tạo PFIEV và chương trình Công nghệ thông tin Việt - Pháp
+
+| Số tín chỉ tích lũy               | Trình độ ngoại ngữ yêu cầu với CTĐT PFIEV                                   | Trình độ ngoại ngữ yêu cầu với CTĐT CNTT Việt - Pháp                                |
+|:---------------------------------|:----------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|
+| Từ 32 TC                         | DELF A1 hoặc đạt tất cả các học phần số thứ tự từ 1÷2 trong Bảng 7.1        | DELF A1 hoặc đạt tất cả các học phần số thứ tự từ 1÷2 trong Bảng 7.2              |
+| Từ 64 TC                         | DELF A2 hoặc đạt tất cả các học phần số thứ tự từ 1÷4 trong Bảng 7.1        | DELF A2 hoặc đạt tất cả các học phần số thứ tự từ 1÷4 trong Bảng 7.2              |
+| Từ 96 TC                         | DELF B1 hoặc đạt tất cả các học phần số thứ tự từ 1÷6 trong Bảng 7.1        | DELF B1 hoặc đạt tất cả các học phần số thứ tự từ 1÷6 trong Bảng 7.2              |
+| Điều kiện xét nhận Đồ án tốt nghiệp cử nhân | DELF B1 hoặc TOEIC 500                                                      | DELF B1 hoặc TOEIC 500                                                             |
+| Điều kiện xét tốt nghiệp cử nhân | DELF B1 và TOEIC 500                                                        | DELF B1 và TOEIC 500                                                               |
+| Điều kiện xét tốt nghiệp kỹ sư chuyên sâu đặc thù | DELF B2 hoặc VSTEP tương ứng trình độ Bậc 4                                 | Không có                                                                           |
+| Điều kiện đăng ký nhận Phụ lục văn bằng kỹ sư của phía Pháp. | DELF B1 và TOEIC 600                                                        | Không có                                                                           |
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68_08.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_08_005
+chunk_index: 5
+language: vi
+category: Ngoai_ngu_2024_K68_partitioned
+year: N/A
+chunk_title: Bảng 7.4 Bảng quy đổi tương đương các chứng chỉ tiếng Pháp
+topic_tags: [DELF, TCF, quy đổi chứng chỉ, tiếng Pháp, trình độ A1, A2, B1, B2, C1, C2, điểm thi trắc nghiệm, điểm thi diễn đạt nói, điểm thi diễn đạt viết]
+summary: Cung cấp bảng quy đổi tương đương giữa các chứng chỉ DELF (A1 đến C2) và TCF, bao gồm điểm bài thi trắc nghiệm (Nghe - Đọc & Kiến thức ngôn ngữ) và điểm bài thi Diễn đạt Nói & Viết. Chứng chỉ DELF được công nhận vô thời hạn, trong khi TCF có giá trị trong 2 năm kể từ ngày cấp.
+
+Bảng 7.4 Bảng quy đổi tương đương các chứng chỉ tiếng Pháp
+
+| Chứng chỉ DELF | Chứng chỉ TCF | Chứng chỉ TCF 4 kỹ năng Điểm bài thi trắc nghiệm (Nghe - Đọc & Kiến thức ngôn ngữ) | Chứng chỉ TCF 4 kỹ năng Điểm bài thi Diễn đạt Nói & Viết |
+|:---------------|:--------------|:-----------------------------------------------------------------------------------|:---------------------------------------------------------|
+| DELF A1        | 101 ÷ 199     | 101 ÷ 199                                                                          | Diễn đạt nói : 1/20 Diễn đạt viết: 1/20                  |
+| DELF A2        | 200 ÷ 299     | 200 ÷ 299                                                                          | Diễn đạt nói: 2 ÷ 5/20 Diễn đạt viết: 2 ÷ 5/20           |
+| DELF B1        | 300 ÷ 399     | 300 ÷ 399                                                                          | Diễn đạt nói: 6 ÷ 9/20 Diễn đạt viết: 6 ÷ 9/20           |
+| DELF B2        | 400 ÷ 499     | 400 ÷ 499                                                                          | Diễn đạt nói: 10 ÷ 13/20 Diễn đạt viết: 10 ÷ 13/20       |
+| DELF C1        | 500 ÷ 599     | 500 ÷ 599                                                                          | Diễn đạt nói: 14 ÷ 17/20 Diễn đạt viết: 14 ÷ 17/20       |
+| DELF C2        | 600 ÷ 699     | 600 ÷ 699                                                                          | Diễn đạt nói: 18 ÷ 20/20 Diễn đạt viết: 18 ÷ 20/20       |
+
+Ghi chú: Chứng chỉ DELF được công nhận vô thời hạn; Chứng chỉ TCF được công nhận trong vòng 2 năm kể từ ngày cấp.
+<<<CHUNK_END>>>

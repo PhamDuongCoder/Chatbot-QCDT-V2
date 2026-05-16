@@ -1,0 +1,245 @@
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2021_Chuan_dau_vao_02.pdf
+parent_doc_id: Ngoai_ngu_2021_Chuan_dau_vao
+chunk_id: Ngoai_ngu_2021_Chuan_dau_vao_02_001
+chunk_index: 1
+language: vi
+category: Ngoai_ngu
+year: 2021
+chunk_title: Phụ lục 1 - Danh mục các chương trình đào tạo và ngoại ngữ yêu cầu
+topic_tags: [chương trình chuẩn, chương trình tài năng, chương trình PFIEV, chương trình tiên tiến, chương trình hợp tác quốc tế]
+summary: Bảng danh mục các chương trình đào tạo tại ĐHBK Hà Nội và ngoại ngữ chính tương ứng (Anh, Pháp, Nhật, Đức). Bao gồm các nhóm chương trình chuẩn, tài năng, tiên tiến và hợp tác quốc tế.
+
+| LOẠI/TÊN CHƯƠNG TRÌNH ĐÀO TẠO | NGOẠI NGỮ CHÍNH |
+| :--- | :--- |
+| Các chương trình đào tạo chuẩn | Anh |
+| Các chương trình đào tạo tài năng | Anh |
+| Các chương trình đào tạo chất lượng cao PFIEV | Pháp |
+| **Các chương trình đào tạo tiên tiến** | |
+| 1. Công nghệ thông tin Global ICT | Anh |
+| 2. Khoa học dữ liệu và Trí tuệ nhân tạo | Anh |
+| 3. Kỹ thuật điều khiển - Tự động hóa và Hệ thống điện | Anh |
+| 4. Kỹ thuật Điện tử - Viễn thông | Anh |
+| 5. Kỹ thuật Y sinh | Anh |
+| 6. Kỹ thuật Cơ điện tử | Anh |
+| 7. Kỹ thuật Ô tô | Anh |
+| 8. Khoa học và Kỹ thuật Vật liệu | Anh |
+| 9. Kỹ thuật hóa dược | Anh |
+| 10. Kỹ thuật thực phẩm | Anh |
+| 11. Phân tích kinh doanh | Anh |
+| 12. Logistic và Quản lý chuỗi cung ứng (từ K65) | Anh |
+| 13. Hệ thống nhúng thông minh và IoT | Nhật |
+| 14. Công nghệ thông tin Việt Nhật | Nhật |
+| 15. Công nghệ thông tin Việt Pháp | Pháp |
+| **Các chương trình đào tạo hợp tác quốc tế** | |
+| 1. Công nghệ thông tin (ĐH La Trobe, Úc) | Anh |
+| 2. Công nghệ thông tin (ĐH Victoria Wellington, New Zealand) | Anh |
+| 3. Quản trị kinh doanh (ĐH Victoria Wellington, New Zealand) | Anh |
+| 4. Cơ khí Chế tạo máy (ĐH Đại học Griffith, Anh) | Anh |
+| 5. Logistic và Quản lý chuỗi cung ứng (ĐH Northamton, Anh, từ K64 về trước) | Anh |
+| 6. Cơ điện tử (ĐH Nagaoka, Nhật Bản) | Nhật |
+| 7. Điện tử Viễn thông (ĐH Leibniz Hannover, Đức) | Đức |
+| 8. Cơ điện tử (ĐH Leibniz Hannover, Đức) | Đức |
+| 9. Quản trị kinh doanh (ĐH TROY, Mỹ) | Anh |
+| 10. Khoa học Máy tính (ĐH TROY, Mỹ) | Anh |
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2021_Chuan_dau_vao_02.pdf
+parent_doc_id: Ngoai_ngu_2021_Chuan_dau_vao
+chunk_id: Ngoai_ngu_2021_Chuan_dau_vao_02_002
+chunk_index: 2
+language: vi
+category: Ngoai_ngu
+year: 2021
+chunk_title: Phụ lục 2 - Bảng quy đổi tương đương các chứng chỉ tiếng Anh
+topic_tags: [quy đổi chứng chỉ, TOEIC, IELTS, TOEFL, APTIS, Cambridge]
+summary: Bảng quy đổi tương đương giữa các chứng chỉ tiếng Anh (TOEIC, APTIS, TOEFL, IELTS, Cambridge) và các quy định về xét tốt nghiệp.
+
+**1. Bảng quy đổi tương đương các chứng chỉ tiếng Anh**
+
+| TOEIC | APTIS (General) | APTIS (Advanced) | TOEF iBT | IELTS (Academic) | Cambridge English Tests | Cambridge Scale |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 350 | A1 (55-65) | N/A | 20-24 | 2.5 | Movers | 100-119 |
+| 400 | A2 (66-101) | N/A | 25-31 | 3.0-3.5 | KET with grade C/ B | 120-139 |
+| 500 | B1 (102-130) | B1 (74-109) | 32-34 | 4.0-4.5 | KET with grade A; PET with "Pass" | 140-150 |
+| 600 | B1 (131-152) | B1 (110-125) | 35-45 | 5.0 | PET with "Merit" | 151-159 |
+| 650 | B2 (153-159) | B2 (126-152) | 46-59 | 5.5 | PET with Distinction; FCE with grade B | 160-170 |
+| 750 | B2 (160-183) | B2 (153-165) | 60-78 | 6.0 | FCE with grade C | 171-179 |
+| 850-950 | C (≥183) | C1 (166-199) | 79-114 | 6.5-8.0 | FCE with grade A; CAE with grade C/ B | 180-199 |
+
+**2. Điều kiện xét tương đương**
++ Sinh viên có các chứng chỉ tiếng Anh APTIS, TOEFL, IELTS, Cambridge (4 kỹ năng) được phép quy đổi tương đương với nhau và quy đổi sang chứng chỉ TOEIC (2 kỹ năng) để xét tốt nghiệp.
++ Sinh viên có chứng chỉ TOEIC (2 kỹ năng) được phép quy đổi tương đương sang các chứng chỉ APTIS, TOEFL, IELTS, Cambridge (4 kỹ năng) để xét đạt chuẩn ngoại ngữ theo số tín chỉ tích lũy trong trường hợp cần thiết, tuy nhiên không được quy đổi tương đương để xét tốt nghiệp.
++ Các trường hợp quy đổi tương đương khác do Hiệu trưởng quyết định.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2021_Chuan_dau_vao_02.pdf
+parent_doc_id: Ngoai_ngu_2021_Chuan_dau_vao
+chunk_id: Ngoai_ngu_2021_Chuan_dau_vao_02_003
+chunk_index: 3
+language: vi
+category: Ngoai_ngu
+year: 2021
+chunk_title: Phụ lục 3 - Danh mục học phần tiếng Anh chương trình chuẩn
+topic_tags: [chương trình chuẩn, FL1128, FL1129, FL1130, TOEIC]
+summary: Danh mục các học phần tiếng Anh (FL1128, FL1129, FL1130) và yêu cầu chuẩn đầu ra theo số tín chỉ tích lũy cho chương trình đào tạo chuẩn.
+
+**Bảng 3.1 Danh mục các học phần tiếng Anh yêu cầu**
+
+| TT | Mã học phần | Tên học phần | Thời lượng | Tính tín chỉ trong CTĐT | [1] | [2] | [3] | [4] |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | FL1128 | Tiếng Anh tăng cường | 3(0-6-0-6) | Không | H | M | M | M |
+| 2 | FL1129 | Tiếng Anh cơ sở 1 | 3(0-6-0-6) | Có (3 TC) | H | H | M | M |
+| 3 | FL1130 | Tiếng Anh cơ sở 2 | 3(0-6-0-6) | Có (3 TC) | H | H | H | M |
+
+*Ghi chú:*
+[1]: Được xếp học tương ứng với kết quả phân loại tiếng Anh đầu vào;
+[2]: Đạt trình độ TOEIC từ 300 điểm trở lên hoặc tương đương;
+[3]: Đạt trình độ TOEIC từ 350 điểm trở lên hoặc tương đương;
+[4]: Đạt trình độ TOEIC từ 400 điểm trở lên hoặc tương đương;
+M: được miễn học (ghi điểm R); H: bắt buộc học.
+
+**Bảng 3.2 Yêu cầu chuẩn tiếng Anh theo số tín chỉ tích lũy và chuẩn đầu ra**
+
+| Số tín chỉ tích lũy | Điểm TOEIC tối thiểu |
+| :--- | :--- |
+| Từ 0 ÷ 63TC | Đạt các học phần tiếng Anh cơ sở (FL1129, FL1130) |
+| Từ 64 ÷ 95 TC | 400 |
+| Từ 96 TC | 450 |
+| Điều kiện được xét nhận đồ án/khóa luận tốt nghiệp | 500 |
+| Điều kiện khi xét tốt nghiệp | 500 |
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2021_Chuan_dau_vao_02.pdf
+parent_doc_id: Ngoai_ngu_2021_Chuan_dau_vao
+chunk_id: Ngoai_ngu_2021_Chuan_dau_vao_02_004
+chunk_index: 4
+language: vi
+category: Ngoai_ngu
+year: 2021
+chunk_title: Phụ lục 4 - Danh mục học phần tiếng Anh chương trình Tài năng
+topic_tags: [chương trình tài năng, FL1105, FL1106, FL1107, FL1108, TOEIC]
+summary: Danh mục các học phần tiếng Anh (LIFE 1-4) và yêu cầu chuẩn đầu ra theo số tín chỉ tích lũy cho chương trình đào tạo Tài năng.
+
+**Bảng 4.1 Danh mục các học phần tiếng Anh yêu cầu**
+
+| TT | Mã học phần | Tên học phần | Thời lượng | Tính tín chỉ trong CTĐT | [1] | [2] |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | FL1105 | LIFE 1 | 3(3-3-0-6) | Không | H | M |
+| 2 | FL1106 | LIFE 2 | 3(3-3-0-6) | Không | H | M |
+| 3 | FL1107 | LIFE 3 | 3(3-3-0-6) | Có (3 TC) | H | M |
+| 4 | FL1108 | LIFE 4 | 3(3-3-0-6) | Có (3 TC) | H | M |
+
+*Ghi chú:*
+[1]: Được xếp học tương ứng với kết quả phân loại tiếng Anh đầu vào;
+[2]: Đạt trình độ TOEIC từ 400 điểm trở lên hoặc tương đương;
+M: được miễn học (ghi điểm R); H: bắt buộc học.
+
+**Bảng 4.2 Yêu cầu chuẩn tiếng Anh theo số tín chỉ tích lũy và chuẩn đầu ra**
+
+| Số tín chỉ tích lũy | Điểm TOEIC tối thiểu |
+| :--- | :--- |
+| Từ 0 ÷ 63TC | Đạt các học phần tiếng Anh: FL1105, FL1106, FL1107, FL1108 ở Bảng 4.1 |
+| Từ 64 ÷ 95 TC | 400 |
+| Từ 96 TC | 450 |
+| Điều kiện được xét nhận đồ án/khóa luận tốt nghiệp | 500 |
+| Điều kiện khi xét tốt nghiệp | 600 |
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2021_Chuan_dau_vao_02.pdf
+parent_doc_id: Ngoai_ngu_2021_Chuan_dau_vao
+chunk_id: Ngoai_ngu_2021_Chuan_dau_vao_02_005
+chunk_index: 5
+language: vi
+category: Ngoai_ngu
+year: 2021
+chunk_title: Phụ lục 5 - Danh mục học phần tiếng Anh chương trình Tiên tiến (K65)
+topic_tags: [chương trình tiên tiến, K65, IELTS, FL1141-FL1150, FL1120-FL1127]
+summary: Danh mục các học phần tiếng Anh cho chương trình Tiên tiến từ K65, bao gồm các học phần kỹ năng và IELTS.
+
+**Bảng 5.1 Danh mục các học phần tiếng Anh yêu cầu từ K65**
+
+| TT | Mã học phần | Tên học phần | Thời lượng | Tính tín chỉ | [1] | [2] | [3] | [4] |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | FL1141 | Practical grammar for writing | 3(1-4-0-6) | Không | H | M | M | M |
+| 2 | FL1142 | Communication skills 1 | 3(1-4-0-6) | Không | H | M | M | M |
+| 3 | FL1143 | Working with text 1 | 3(1-4-0-6) | Không | H | M | M | M |
+| 4 | FL1144 | Listening | 3(2-2-0-6) | Không | H | M | M | M |
+| 5 | FL1145 | Speaking | 2(1-3-0-4) | Không | H | M | M | M |
+| 6 | FL1146 | Reading | 2(1-2-0-4) | Không | H | M | M | M |
+| 7 | FL1147 | Writing | 3(2-2-0-6) | Không | H | M | M | M |
+| 8 | FL1148 | Foundation Writing | 2(1-2-0-4) | Không | M | H | M | M |
+| 9 | FL1149 | Communication Skills 2 | 3(2-2-0-6) | Không | M | H | M | M |
+| 10 | FL1150 | Working with text 2 | 2(1-2-0-4) | Không | M | H | M | M |
+| 11 | FL1120 | IELTS Listening 1 | 2(2-1-0-4) | Không | M | H | M | M |
+| 12 | FL1121 | IELTS Speaking 1 | 1(1-1-0-4) | Không | M | H | M | M |
+| 13 | FL1122 | IELTS Reading 1 | 1(1-1-0-4) | Không | M | H | M | M |
+| 14 | FL1123 | IELTS Writing 1 | 2(2-1-0-4) | Không | M | H | M | M |
+| 15 | FL1124 | IELTS Listening 2 | 2(2-1-0-4) | Có | H | H | H | M |
+| 16 | FL1125 | IELTS Speaking 2 | 1(1-1-0-4) | Có | H | H | H | M |
+| 17 | FL1126 | IELTS Reading 2 | 1(1-1-0-4) | Có | H | H | H | M |
+| 18 | FL1127 | IELTS Writing 2 | 2(2-1-0-4) | Có | H | H | H | M |
+
+*Ghi chú:*
+[1]: Đạt trình độ IELTS dưới 3.0; [2]: Đạt trình độ IELTS 3.0-4.0;
+[3]: Đạt trình độ IELTS 4.5-5.0; [4]: Đạt trình độ IELTS từ 5.5.
+M: miễn học; H: bắt buộc học.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2021_Chuan_dau_vao_02.pdf
+parent_doc_id: Ngoai_ngu_2021_Chuan_dau_vao
+chunk_id: Ngoai_ngu_2021_Chuan_dau_vao_02_006
+chunk_index: 6
+language: vi
+category: Ngoai_ngu
+year: 2021
+chunk_title: Phụ lục 5 - Yêu cầu chuẩn đầu ra chương trình Tiên tiến (K65)
+topic_tags: [chương trình tiên tiến, K65, IELTS, chuẩn đầu ra]
+summary: Quy định chuẩn đầu ra ngoại ngữ theo số tín chỉ tích lũy cho chương trình Tiên tiến từ K65.
+
+**Bảng 5.2 Yêu cầu chuẩn tiếng Anh theo số tín chỉ tích lũy và chuẩn đầu ra từ K65**
+
+| Số tín chỉ tích lũy | Trình độ ngoại ngữ |
+| :--- | :--- |
+| Từ 32 TC | Yêu cầu đạt một trong các điều kiện: 1) Đạt điểm IELTS 4.5; 2) Đạt tất cả các học phần tiếng Anh trong Bảng 5.1 (Nhóm 1: học phần 1÷7; Nhóm 2: học phần 8÷14) |
+| Từ 49 TC | Yêu cầu đạt một trong các điều kiện: 1) Đạt điểm IELTS 5.5; 2) Hoặc đạt tất cả các học phần tiếng Anh từ 15÷18 trong Bảng 5.1 |
+| Điều kiện được xét nhận đồ án/khóa luận tốt nghiệp | IELTS 5.5 hoặc tương đương |
+| Điều kiện khi xét tốt nghiệp | IELTS 5.5 hoặc tương đương |
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2021_Chuan_dau_vao_02.pdf
+parent_doc_id: Ngoai_ngu_2021_Chuan_dau_vao
+chunk_id: Ngoai_ngu_2021_Chuan_dau_vao_02_007
+chunk_index: 7
+language: vi
+category: Ngoai_ngu
+year: 2021
+chunk_title: Phụ lục 6 - Danh mục học phần tiếng Anh chương trình Hợp tác quốc tế (IEP)
+topic_tags: [chương trình hợp tác quốc tế, IEP, IELTS, CLE1311-QT1341]
+summary: Danh mục các học phần tiếng Anh áp dụng cho chương trình Hợp tác quốc tế (IEP) từ K65.
+
+**Bảng 6.1 Danh mục các học phần tiếng Anh áp dụng từ K65**
+
+| TT | Mã học phần | Tên học phần | Thời lượng | Tính tín chỉ | [1] | [2] | [3] | [4] | [5] |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | CLE1311 | Elementary English 1 | 3(3-1-0-6) | Không | H | M | M | M | M |
+| 2 | CLE1312 | Elementary English 2 | 3(3-1-0-6) | Không | H | M | M | M | M |
+| 3 | CLE2311 | Pre - Intermediate English 1 | 3(3-1-0-6) | Không | H | H | M | M | M |
+| 4 | CLE2312 | Pre - Intermediate English 2 | 3(3-1-0-6) | Không | H | H | M | M | M |
+| 5 | CLE3401 | Intermediate English 1 | 4(4-0-0-8) | Không | H | H | H | M | M |
+| 6 | CLE3402 | Intermediate English 2 | 4(4-0-0-8) | Không | H | H | H | M | M |
+| 7 | CLE4401 | IELTS1 Preparation | 4(4-0-0-8) | Không | H | H | H | M | M |
+| 8 | QT1331 | Tiếng Anh 3 (B2.1) | 3(2-2-0-6) | Có (3 TC) | H | H | H | H | M |
+| 9 | QT1341 | Tiếng Anh 4 (B2.2) | 3(2-2-0-6) | Có (3 TC) | H | H | H | H | M |
+
+*Ghi chú:*
+[1]: Đạt IELTS từ 3.0 trở xuống; [2]: Đạt IELTS 3.5; [3]: Đạt IELTS 4.0;
+[4]: Đạt IELTS 4.5-5.0; [5]: Đạt IELTS quốc tế từ 5.5.
+M: miễn học; H: bắt buộc học.
+<<<CHUNK_END>>>

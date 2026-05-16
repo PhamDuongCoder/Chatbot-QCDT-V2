@@ -1,0 +1,181 @@
+<<<CHUNK_START>>>
+source: KSCS_2025_cong_nhan_hoc_phan.pdf
+parent_doc_id: KSCS_2025_cong_nhan_hoc_phan
+chunk_id: KSCS_2025_cong_nhan_hoc_phan_001
+chunk_index: 1
+language: vi
+category: Ki_su_chuyen_sau
+year: N/A
+chunk_title: Phạm vi áp dụng và Mục đích
+topic_tags: [KSCS, kỹ sư chuyên sâu, tích hợp, công nhận học phần, cử nhân]
+summary: Hướng dẫn này quy định về việc công nhận học phần đã tích lũy khi học cử nhân vào chương trình đào tạo Kỹ sư chuyên sâu (KSCS). Phạm vi áp dụng cho học viên KSCS theo chương trình tích hợp và học viên đã được cấp mã số. Mục đích là để học viên có thể tích lũy các học phần đã học ở bậc cử nhân vào bảng điểm KSCS, với giới hạn tín chỉ cụ thể.
+
+I. Phạm vi áp dụng:
+1. Dành cho học viên chương trình đào tạo kỹ sư chuyên sâu (KSCS) theo chương trình
+tích hợp.
+2. Dành cho học viên đã được cấp mã số học viên tạm thời và học viên đã được công
+nhận chính thức.
+II. Mục đích:
+1. Học viên chọn các học phần KSCS đã tích lũy khi đang học cử nhân vào bảng điểm
+KSCS
+Ο
+Điều kiện áp dụng: được công nhận tối đa 15 tín chỉ học trước.
+2. Học viên học theo chương trình đào tạo tích hợp (CTĐT) sẽ được lựa chọn để công
+nhận tối đa 12 tín chỉ trong CTĐT cử nhân vào bảng điểm CTĐT KSCS.
+Điều kiện áp dụng:
+Ο
+Ο
+Chỉ áp dụng với các học viên đã tốt nghiệp cử nhân và được công nhận chính
+thức là học viên CTĐT KSCS;
+Số 12 tín chỉ được công nhận này là của các học phần đáp ứng đồng thời 02
+điều kiện sau:
+☐
+☐
+Thuộc Mô đun định hướng của CTĐT cử nhân mà sinh viên đã học,
+không tính Thực tập và Đồ án tốt nghiệp cử nhân;
+Có trong bảng điểm tốt nghiệp cử nhân của sinh viên.
+Ghi chú:
+☐
+12 tín chỉ của các học phần được công nhận từ bảng điểm tốt nghiệp
+cử nhân vào bảng điểm KSCS sẽ ghi điểm R (không tính vào CPA tốt
+nghiệp KSCS, chỉ tính vào tổng số tín chỉ tích lũy).
+Tổng số tín chỉ trong bảng điểm KSCS sẽ là: 12 tín chỉ công nhận do học
+tích hợp (điểm R) + 48 tín chỉ thuộc khung CTĐT KSCS tích hợp = 60 tín
+chỉ (tối thiểu).
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: KSCS_2025_cong_nhan_hoc_phan.pdf
+parent_doc_id: KSCS_2025_cong_nhan_hoc_phan
+chunk_id: KSCS_2025_cong_nhan_hoc_phan_002
+chunk_index: 2
+language: vi
+category: Ki_su_chuyen_sau
+year: N/A
+chunk_title: Các bước thực hiện
+topic_tags: [KSCS, kỹ sư chuyên sâu, tích hợp, công nhận học phần, cử nhân, đăng nhập, CTT SIS]
+summary: Hướng dẫn các bước thực hiện để công nhận học phần đã tích lũy khi học cử nhân vào chương trình đào tạo Kỹ sư chuyên sâu (KSCS). Bước đầu tiên là đăng nhập vào hệ thống CTT SIS.
+
+III. Các bước thực hiện:
+1. Học viên đăng nhập https://ctt-sis.hust.edu.vn
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: KSCS_2025_cong_nhan_hoc_phan.pdf
+parent_doc_id: KSCS_2025_cong_nhan_hoc_phan
+chunk_id: KSCS_2025_cong_nhan_hoc_phan_003
+chunk_index: 3
+language: vi
+category: Ki_su_chuyen_sau
+year: N/A
+chunk_title: Chọn học phần KSCS đã tích lũy khi đang là SV bậc cử nhân vào CTĐT KSCS
+topic_tags: [KSCS, kỹ sư chuyên sâu, tích hợp, công nhận học phần, cử nhân, CTT SIS, học phần tích lũy]
+summary: Mô tả giao diện và quy trình chọn học phần đã tích lũy khi còn là sinh viên bậc cử nhân để đưa vào CTĐT Kỹ sư chuyên sâu (KSCS). Sinh viên cần chọn mục tương ứng trên hệ thống CTT SIS.
+
+2. Chọn mục tương ứng để thực hiện các thủ tục đã nêu tại Mục II của bản hướng
+dẫn này.
+Giao diện chọn học phần KSCS đã tích lũy khi đang là SV bậc cử nhân vào CTĐT
+KSCS:
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: KSCS_2025_cong_nhan_hoc_phan.pdf
+parent_doc_id: KSCS_2025_cong_nhan_hoc_phan
+chunk_id: KSCS_2025_cong_nhan_hoc_phan_004
+chunk_index: 4
+language: vi
+category: Ki_su_chuyen_sau
+year: N/A
+chunk_title: Bảng tổng hợp các học phần học trước ở Cử nhân để công nhận vào CTĐT Kỹ sư chuyên sâu
+topic_tags: [KSCS, kỹ sư chuyên sâu, tích hợp, công nhận học phần, cử nhân, học phần, tín chỉ, điều kiện áp dụng]
+summary: Bảng liệt kê các học phần sinh viên đã học ở bậc Cử nhân, có thể được công nhận vào CTĐT Kỹ sư chuyên sâu. Sinh viên được phép chọn tối đa 15 tín chỉ. Việc lựa chọn này là cuối cùng và không thể điều chỉnh sau khi gửi.
+
+CHỌN HỌC PHẦN TÍCH LŨY TRƯỚC BẬC CỬ NHÂN VÀO CTĐT KỸ SƯ CHUYÊN SÂU
+Thông tin sinh viên
+◆ Mã sinh viên: Cử nhân: - Kỹ sư CSĐT: 2
+• Chương trình cử nhân: Kỹ thuật Cơ khí 2020
+• Chương trình kỹ sư CSĐT: KS-Kỹ thuật Cơ khí 2024
+• Lớp hiện tại: KS-Cơ khí - K69
+• Số tín chỉ tối đa được đăng ký: 15 TC
+• Thông tin thêm về chương trình kỹ sư chuyên sâu đặc thù
+Các học phần học trước ở Cử nhân
+Đây là bảng tổng hợp các học phần mà sinh viên đã học tích lũy trước ở bậc Cử nhân. Sinh viên được phép tích chọn các học phần mong
+muốn để công nhận vào CTĐT Kỹ sư chuyên sâu tại bảng này.
+Điều kiện áp dụng: Sinh viên chỉ được công nhận tối đa 15 tín chỉ của các học phần đã học tích lũy trước.
+Khi đã chọn và bấm "Gửi đăng ký các HP đã chọn" sẽ KHÔNG được phép điều chỉnh lại danh mục này nữa, do đó sinh viên cần cân nhắc lựa
+chọn đúng học phần mong muốn.
+Mã HP | Tên HP | Học kỳ | Điểm [1] | Số TC [2] | TCĐT [3] | Ngày ĐK | Trạng thái | Chọn
+---|---|---|---|---|---|---|---|---
+ME4215 | Tự động hóa quá trình hàn | 20232 | A | 3 | 3 | 1/22/2025 | ĐK thành công | ☑
+ME4274 | Robot hàn | 20232 | A | 2 | 2 | 1/22/2025 | ĐK thành công | ☑
+ME4294 | Ứng suất & biến dạng hàn | 20232 | A | 2 | 2 | 1/22/2025 | ĐK thành công | ☑
+ME5911 | Phun phủ và hàn đắp | 20232 | A | 2 | 2 | 1/22/2025 | ĐK thành công | ☑
+ME5914 | Các quá trình hàn tiên tiến | 20232 | B+ | 2 | 2 | 1/22/2025 | ĐK thành công | ☑
+ME5919 | Công nghệ & thiết bị hàn vảy | 20232 | B+ | 2 | 2 | 1/22/2025 | ĐK thành công | ☑
+Tổng số TC=13
+[1]: Điểm của học phần khi được công nhận vào CTĐT Kỹ sư chuyên sâu
+[2]: Số tín chỉ của học phần đã học
+[3]: Số tín chỉ được tính nếu chọn vào CTĐT Kỹ sư chuyên sâu
+Gửi đăng ký các HP đã chọn
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: KSCS_2025_cong_nhan_hoc_phan.pdf
+parent_doc_id: KSCS_2025_cong_nhan_hoc_phan
+chunk_id: KSCS_2025_cong_nhan_hoc_phan_005
+chunk_index: 5
+language: vi
+category: Ki_su_chuyen_sau
+year: N/A
+chunk_title: Giao diện chọn học phần từ bảng điểm tốt nghiệp cử nhân công nhận tích hợp vào bảng điểm KSCS
+topic_tags: [KSCS, kỹ sư chuyên sâu, tích hợp, công nhận học phần, cử nhân, CTT SIS, học phần tích hợp]
+summary: Hướng dẫn về giao diện và quy trình chọn học phần từ bảng điểm tốt nghiệp cử nhân để tích hợp vào bảng điểm CTĐT Kỹ sư chuyên sâu (KSCS). Sinh viên được phép chọn tối đa 12 tín chỉ.
+
+Giao diện chọn học phần từ bảng điểm tốt nghiệp cử nhân công nhận tích hợp
+vào bảng điểm KSCS:
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: KSCS_2025_cong_nhan_hoc_phan.pdf
+parent_doc_id: KSCS_2025_cong_nhan_hoc_phan
+chunk_id: KSCS_2025_cong_nhan_hoc_phan_006
+chunk_index: 6
+language: vi
+category: Ki_su_chuyen_sau
+year: N/A
+chunk_title: Các học phần có thể chuyển từ Cử nhân vào CTĐT Kỹ sư chuyên sâu
+topic_tags: [KSCS, kỹ sư chuyên sâu, tích hợp, công nhận học phần, cử nhân, tín chỉ, điểm R, CPA, học phần định hướng]
+summary: Quy định về việc công nhận học phần từ bảng điểm tốt nghiệp Cử nhân vào CTĐT Kỹ sư chuyên sâu, tối đa 12 tín chỉ. Các học phần này phải thuộc Mô đun định hướng, không bao gồm Thực tập và Đồ án. Điểm ghi nhận là R, không ảnh hưởng CPA tốt nghiệp KSCS nhưng tính vào tổng tín chỉ tích lũy. Tổng số tín chỉ CTĐT KSCS là 60 (12 tín chỉ R + 48 tín chỉ học mới).
+
+CHỌN HỌC PHẦN TỪ CỬ NHÂN ĐỂ TÍCH HỢP VÀO BẢNG ĐIỂM CTĐT KỸ SƯ CHUYÊN SÂU
+Thông tin sinh viên
+• Mã sinh viên: Cử nhân:- Kỹ sư CSĐT: 20..
+• Chương trình cử nhân: Kỹ thuật Cơ khí 2020
+• Chương trình kỹ sư CSĐT: KS-Kỹ thuật Cơ khí 2024
+• Lớp hiện tại: KS-Cơ khí-K69
+• Số tín chỉ tối đa lấy trong bảng điểm cử nhân: 12 TC
+• Thông tin thêm về chương trình kỹ sư chuyên sâu đặc thù
+Các học phần có thể chuyển từ Cử nhân
+1. Sinh viên theo học CTĐT tích hợp từ Cử nhân - Kỹ sư chuyên sâu được phép công nhận tối đa 12 tín chỉ từ bảng điểm tốt nghiệp Cử nhân
+vào CTĐT Kỹ sư chuyên sâu. Các học phần được phép công nhận tích hợp phải thuộc khối Mô đun định hướng trong CTĐT Cử nhân, không
+bao gồm Thực tập tốt nghiệp và Đồ án tốt nghiệp cử nhân/Đồ án nghiên cứu cử nhân.
+2. Các học phần được công nhận tích hợp này sẽ ghi điểm R trong bảng điểm Kỹ sư chuyên sâu và không tính vào điểm CPA tốt nghiệp
+CTĐT Kỹ sư chuyên sâu, chỉ tính vào tổng tín chỉ tích lũy.
+3. Tổng số tín chỉ của CTĐT Kỹ sư chuyên sâu sẽ là: 12 tín chỉ được công nhận (điểm R) + 48 tín chỉ cần học = 60 tín chỉ.
+4. Bảng sau đây là các học phần sinh viên có thể chọn để tích hợp vào bảng điểm Kỹ sư chuyên sâu. Lưu ý: khi đã chọn và gửi đăng ký sẽ
+KHÔNG thể điều chỉnh được, do đó sinh viên cần chú ý khi lựa chọn.
+Mã HP | Tên HP | Học kỳ | Điểm [1] | Số TC [2] | Loại HP [3] | Ngày ĐK | Trạng thái | Chọn
+---|---|---|---|---|---|---|---|---
+ME3150 | Thực tập cơ khí | 20232 | R | 2 | 400,401,402,403,404 |  |  |
+ME3267 | Các quá trình hàn | 20231 | R | 2 | 402 |  |  |
+ME4064 | Bảo đảm chất lượng hàn | 20231 | R | 2 | 402 |  |  |
+ME4128 | Tính toán & thiết kế kết cấu hàn | 20231 | R | 3 | 402 |  |  |
+ME4129 | Thiết bị hàn | 20231 | R | 2 | 402 | 1/3/2025 | đã tích hợp thành công | ☑
+ME4138 | Công nghệ hàn vật liệu kim loại | 20231 | R | 3 | 402 | 1/3/2025 | đã tích hợp thành công | ☑
+ME4374 | Vật liệu hàn | 20231 | R | 2 | 402 | 1/3/2025 | đã tích hợp thành công | ☑
+Tổng số TC=16
+[1]: Điểm của học phần khi được tích hợp vào bảng điểm Kỹ sư chuyên sâu
+[2]: Số tín chỉ được tính vào tổng số tín chỉ tích lũy của CTĐT Kỹ sư chuyên sâu
+[3]: Chỉ là ký hiệu quản lý trên hệ thống phần mềm
+Gửi đăng ký các HP đã chọn
+<<<CHUNK_END>>>

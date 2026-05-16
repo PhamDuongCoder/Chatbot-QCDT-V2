@@ -1,0 +1,154 @@
+<<<CHUNK_START>>>
+source: Hoc_bong_2021_TDN.pdf
+parent_doc_id: Hoc_bong_2021_TDN
+chunk_id: Hoc_bong_2021_TDN_001
+chunk_index: 1
+language: vi
+category: Hoc_bong
+year: N/A
+chunk_title: Thông tin chung về Học bổng Trần Đại Nghĩa
+topic_tags: [quy định, học bổng, mục đích, đối tượng]
+summary: Tài liệu quy định về quản lý và xét cấp học bổng Trần Đại Nghĩa tại ĐHBK Hà Nội. Bao gồm mục đích, đối tượng áp dụng, nguồn hình thành và nguyên tắc hoạt động của quỹ học bổng.
+
+**QUY ĐỊNH Về việc quản lý và xét, cấp học bổng Trần Đại Nghĩa cho sinh viên Trường Đại học Bách khoa Hà Nội**
+(Ban hành kèm theo Quyết định số 2056/QĐ-ĐHBK-CTSV ngày 17 tháng 9 năm 2021 của Hiệu trưởng Trường Đại học Bách khoa Hà Nội)
+
+**Chương I: NHỮNG QUY ĐỊNH CHUNG**
+
+**Điều 1. Mục đích của Học bổng Trần Đại Nghĩa**
+1. Thực hiện trách nhiệm của Trường Đại học Bách khoa Hà Nội đối với xã hội trong công tác đào tạo nguồn nhân lực chất lượng cao phục vụ cho quá trình công nghiệp hóa, hiện đại hóa đất nước.
+2. Hỗ trợ cho những sinh viên của Trường có hoàn cảnh khó khăn, có ý chí, nghị lực vươn lên trong học tập.
+3. Thu hút những học sinh xuất sắc vào học tại Trường ĐHBK Hà Nội.
+
+**Điều 2. Đối tượng áp dụng**
+Quy định này áp dụng đối với sinh viên hệ đại học chính quy đang học tập tại Trường Đại học Bách khoa Hà Nội.
+
+**Điều 3. Nguồn Học bổng Trần Đại Nghĩa**
+Học bổng Trần Đại Nghĩa sẽ được hình thành từ các nguồn sau:
+1. Trích từ nguồn kinh phí hợp pháp của Trường do Hiệu trưởng quyết định.
+2. Sự đóng góp của các thầy cô giáo, cán bộ, viên chức, người lao động của Trường.
+3. Sự đóng góp của các thế hệ sinh viên và cựu sinh viên của Trường.
+4. Tài trợ từ các tổ chức, doanh nghiệp và các nhà hảo tâm khác.
+
+**Điều 4. Nguyên tắc hoạt động của Học bổng Trần Đại Nghĩa**
+Học bổng Trần Đại Nghĩa hoạt động trên các nguyên tắc sau:
+1. Các khoản đóng góp cho Học bổng Trần Đại Nghĩa là tự nguyện, không vì mục đích lợi nhuận.
+2. Hoạt động xét, cấp học bổng được thực hiện công khai, minh bạch và tuân thủ theo các quy định hiện hành về quản lý tài chính của Nhà nước và của Trường Đại học Bách khoa Hà Nội.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Hoc_bong_2021_TDN.pdf
+parent_doc_id: Hoc_bong_2021_TDN
+chunk_id: Hoc_bong_2021_TDN_002
+chunk_index: 2
+language: vi
+category: Hoc_bong
+year: N/A
+chunk_title: Điều 5 – Tiêu chuẩn xét, cấp học bổng
+topic_tags: [tiêu chuẩn, điều kiện, hoàn cảnh khó khăn]
+summary: Quy định các tiêu chuẩn cụ thể về hoàn cảnh gia đình, thành tích học tập và các trường hợp ưu tiên để được xét cấp học bổng Trần Đại Nghĩa.
+
+**Chương II: TIÊU CHUẨN, NGUYÊN TẮC VÀ HỒ SƠ ĐĂNG KÝ, XÉT CẤP HỌC BỔNG TRẦN ĐẠI NGHĨA**
+
+**Điều 5. Tiêu chuẩn xét, cấp học bổng Trần Đại Nghĩa**
+Sinh viên có hoàn cảnh kinh tế gia đình đặc biệt khó khăn (hộ nghèo, hộ cận nghèo hoặc hộ có hoàn cảnh kinh tế đặc biệt khó khăn khác) và thuộc một trong các nhóm đối tượng sau được đăng ký xét, cấp Học bổng Trần Đại Nghĩa:
+
+1. Sinh viên mới trúng tuyển vào Trường (đang học kỳ một năm thứ nhất) thuộc một trong các diện sau:
+   a. Trúng tuyển vào Trường do đạt giải kỳ thi học sinh giỏi quốc gia, quốc tế;
+   b. Có điểm trúng tuyển vào Trường nằm trong số 10% sinh viên có điểm trúng tuyển cao nhất theo ngành tuyển sinh.
+
+2. Sinh viên đạt đủ các điều kiện sau:
+   a. Sinh viên đang trong thời gian học tập theo chương trình đào tạo chuẩn;
+   b. Tích lũy đủ số tín chỉ theo quy định xếp hạng trình độ năm học;
+   c. Điểm học tập trung bình tích lũy (CPA) ≥ 2,0;
+   d. Điểm rèn luyện trung bình tích lũy ≥ 65.
+
+3. Sinh viên gặp các tai nạn, rủi ro đột xuất, gồm:
+   a. Sinh viên mắc bệnh hiểm nghèo;
+   b. Sinh viên gặp tai nạn ở mức độ nặng và phải điều trị dài ngày trong bệnh viện;
+   c. Gia đình sinh viên bị thiên tai, dịch bệnh hoặc hỏa hoạn.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Hoc_bong_2021_TDN.pdf
+parent_doc_id: Hoc_bong_2021_TDN
+chunk_id: Hoc_bong_2021_TDN_003
+chunk_index: 3
+language: vi
+category: Hoc_bong
+year: N/A
+chunk_title: Điều 6, 7, 8 – Nguyên tắc, Mức học bổng và Hồ sơ
+topic_tags: [nguyên tắc, mức học bổng, hồ sơ]
+summary: Quy định về nguyên tắc xét cấp, mức hỗ trợ học phí và danh mục hồ sơ cần thiết để đăng ký học bổng Trần Đại Nghĩa.
+
+**Điều 6. Nguyên tắc Học bổng Trần Đại Nghĩa**
+Học bổng Trần Đại Nghĩa được xét, cấp theo các nguyên tắc sau:
+1. Học bổng Trần Đại Nghĩa được xét, cấp theo học kỳ, mỗi học kỳ xét 01 (một) lần vào đầu học kỳ.
+2. Không xét, cấp Học bổng Trần Đại Nghĩa cho những sinh viên không đăng ký học tập tại thời điểm xét, cấp học bổng.
+3. Không xét, cấp Học bổng Trần Đại Nghĩa cho những sinh viên đang trong thời gian bị kỷ luật từ mức cảnh cáo trở lên.
+4. Không xét, cấp Học bổng Trần Đại Nghĩa cho những sinh viên đã được nhận học bổng khuyến khích học tập hoặc học bổng tài trợ trong học kỳ xét, cấp Học bổng Trần Đại Nghĩa.
+5. Không xét, cấp Học bổng Trần Đại Nghĩa cho sinh viên diện chế độ chính sách được miễn, giảm học phí theo quy định của Nhà nước.
+
+**Điều 7. Mức Học bổng Trần Đại Nghĩa**
+Học bổng Trần Đại Nghĩa có hai mức tương ứng với 50% và 100% học phí sinh viên phải đóng trong học kỳ xét, cấp học bổng.
+
+**Điều 8. Hồ sơ đăng ký xét, cấp Học bổng Trần Đại Nghĩa**
+Sinh viên đăng ký xét, cấp Học bổng Trần Đại Nghĩa bằng hình thức trực tuyến và nộp đầy đủ các giấy tờ sau:
+1. Đơn đăng ký xét, cấp Học bổng Trần Đại Nghĩa (theo mẫu) có xác nhận của địa phương nơi gia đình sinh viên cư trú hoặc cơ quan có thẩm quyền.
+2. Hồ sơ minh chứng hoàn cảnh kinh tế gia đình khó khăn: Giấy chứng nhận hộ nghèo/cận nghèo hoặc giấy xác nhận hoàn cảnh gia đình đặc biệt khó khăn (có xác nhận của địa phương nơi gia đình sinh viên cư trú hoặc các cơ quan có thẩm quyền).
+3. Bản sao sổ hộ khẩu (có công chứng).
+4. Các giấy tờ minh chứng khác (nếu có).
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Hoc_bong_2021_TDN.pdf
+parent_doc_id: Hoc_bong_2021_TDN
+chunk_id: Hoc_bong_2021_TDN_004
+chunk_index: 4
+language: vi
+category: Hoc_bong
+year: N/A
+chunk_title: Điều 9, 10, 11 – Tổ chức thực hiện và Khen thưởng, kỷ luật
+topic_tags: [tổ chức thực hiện, hội đồng, khen thưởng, kỷ luật]
+summary: Quy định trách nhiệm của các đơn vị liên quan, cơ cấu Hội đồng xét học bổng và các quy định về khen thưởng, kỷ luật liên quan đến quỹ học bổng.
+
+**Chương III: TỔ CHỨC THỰC HIỆN**
+
+**Điều 9. Trách nhiệm của các đơn vị liên quan trong việc xét, cấp học bổng**
+1. Phòng Công tác Sinh viên: Là đơn vị đầu mối tiếp nhận hồ sơ, chủ trì thẩm định, làm thủ tục thành lập Hội đồng và phối hợp cấp học bổng.
+2. Phòng Đào tạo: Cung cấp kết quả học tập của sinh viên.
+3. Phòng Tài chính – Kế toán: Quản lý kinh phí, báo cáo số dư, phối hợp làm thủ tục cấp học bổng và công khai tài chính.
+4. Phòng Truyền thông và Quản trị Thương hiệu: Truyền thông, quảng bá học bổng.
+5. Các đơn vị liên quan khác: Hỗ trợ quảng bá và thu hút nguồn tài trợ.
+
+**Điều 10. Hội đồng xét, cấp học bổng Trần Đại Nghĩa**
+1. Hội đồng do Hiệu trưởng quyết định thành lập, có nhiệm vụ đề xuất sửa đổi quy định và xét, cấp học bổng.
+2. Thành phần Hội đồng:
+   a. Chủ tịch Hội đồng: Là Phó Hiệu trưởng phụ trách công tác sinh viên;
+   b. Thường trực Hội đồng: Là Trưởng Phòng Công tác Sinh viên;
+   c. Các thành viên khác: Đại diện Phòng Công tác Sinh viên, Phòng Đào tạo, Phòng Tài chính – Kế toán, Đoàn Thanh niên, Hội sinh viên Trường và các đơn vị liên quan khác.
+
+**Điều 11. Khen thưởng, kỷ luật**
+1. Các tổ chức, cá nhân có đóng góp cho quỹ học bổng sẽ được Hiệu trưởng xem xét khen thưởng.
+2. Các đơn vị, cá nhân trong Trường vi phạm quy định này sẽ bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự tùy theo mức độ.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Hoc_bong_2021_TDN.pdf
+parent_doc_id: Hoc_bong_2021_TDN
+chunk_id: Hoc_bong_2021_TDN_005
+chunk_index: 5
+language: vi
+category: Hoc_bong
+year: N/A
+chunk_title: Điều 12 – Điều khoản thi hành
+topic_tags: [hiệu lực, thi hành]
+summary: Quy định về hiệu lực thi hành của văn bản kể từ ngày ký.
+
+**Chương IV: ĐIỀU KHOẢN THI HÀNH**
+
+**Điều 12. Điều khoản thi hành**
+Quy định này có hiệu lực kể từ ngày ký quyết định ban hành, những quy định trước đây trái với quy định này không còn hiệu lực thi hành.
+
+[Hình: Chữ ký và dấu của Hiệu trưởng Trường Đại học Bách khoa Hà Nội - PGS.TS. Huỳnh Quyết Thắng]
+<<<CHUNK_END>>>

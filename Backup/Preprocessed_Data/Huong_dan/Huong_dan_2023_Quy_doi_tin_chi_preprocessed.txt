@@ -1,0 +1,110 @@
+<<<CHUNK_START>>>
+source: Huong_dan_2023_Quy_doi_tin_chi.pdf
+parent_doc_id: Huong_dan_2023_Quy_doi_tin_chi
+chunk_id: Huong_dan_2023_Quy_doi_tin_chi_001
+chunk_index: 1
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Quyết định ban hành Hướng dẫn quy đổi tín chỉ
+topic_tags: [quyết định, tín chỉ, ECTS]
+summary: Quyết định của Giám đốc Đại học Bách khoa Hà Nội về việc ban hành hướng dẫn quy đổi tín chỉ học tập sang hệ thống ECTS. Văn bản có hiệu lực kể từ ngày ký.
+
+**QUYẾT ĐỊNH**
+**Ban hành Hướng dẫn quy đổi tương đương tín chỉ học tập của Đại học Bách khoa Hà Nội sang Hệ thống chuyển đổi và tích lũy tín chỉ Châu Âu (ECTS)**
+
+**GIÁM ĐỐC ĐẠI HỌC BÁCH KHOA HÀ NỘI**
+
+Căn cứ Thông tư số 17/2021/TT-BGDĐT ngày 22/06/2021 của Bộ Giáo dục và Đào tạo;
+Căn cứ Thông tư số 17/VBHN-BGDĐT ngày 15/05/2014 của Bộ Giáo dục và Đào tạo;
+Căn cứ Quy chế đào tạo của Đại học Bách khoa Hà Nội ban hành theo Quyết định số 4600/QĐ-ĐHBK ngày 09 tháng 06 năm 2023;
+Theo đề nghị của Trưởng phòng Đào tạo.
+
+**QUYẾT ĐỊNH:**
+
+**Điều 1.** Ban hành kèm theo Quyết định này Hướng dẫn quy đổi tương đương tín chỉ học tập của Đại học Bách khoa Hà Nội sang Hệ thống chuyển đổi và tích lũy tín chỉ Châu Âu (ECTS).
+**Điều 2.** Quyết định này có hiệu lực kể từ ngày ký.
+**Điều 3.** Các Ông/Bà Trưởng phòng Đào tạo, Trưởng các đơn vị được giao nhiệm vụ thực hiện đào tạo, các đơn vị có liên quan, các cán bộ viên chức, sinh viên, học viên và nghiên cứu sinh của Đại học Bách khoa Hà Nội chịu trách nhiệm thi hành Quyết định này.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2023_Quy_doi_tin_chi.pdf
+parent_doc_id: Huong_dan_2023_Quy_doi_tin_chi
+chunk_id: Huong_dan_2023_Quy_doi_tin_chi_002
+chunk_index: 2
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Hệ thống tín chỉ Việt Nam và Châu Âu
+topic_tags: [tín chỉ, ECTS, quy đổi]
+summary: Quy định về cách tính tín chỉ (TC) theo Bộ Giáo dục và Đào tạo, Đại học Bách khoa Hà Nội và hệ thống ECTS của Châu Âu. Giải thích công thức tính tổng số giờ học tập cho một học phần.
+
+### 1. Hệ thống tín chỉ theo quy định của Việt Nam và Châu Âu
+#### 1.1. Hệ thống tín chỉ của Việt Nam
+**a. Quy định của Bộ Giáo dục và Đào tạo**
+- Tín chỉ (TC) được sử dụng để tính khối lượng học tập của sinh viên.
+- 01 TC tương đương 50 giờ học tập định mức (bao gồm giờ giảng, hướng dẫn, tự học, nghiên cứu, kiểm tra, đánh giá).
+- Hoạt động trên lớp: 01 TC yêu cầu tối thiểu 15 tiết giảng dạy hoặc 30 tiết thực hành/thí nghiệm/bài tập. 01 tiết học trên lớp là 50 phút.
+- Sinh viên cần dành ít nhất 30 giờ tự học/chuẩn bị cá nhân cho mỗi 01 TC.
+
+**b. Quy định của Đại học Bách khoa Hà Nội**
+- Phân bổ thời lượng học tập: TC(LT-BT-TN-TH), trong đó:
+    + TC: Tổng số tín chỉ học phần.
+    + LT-BT-TN: Số tiết Lý thuyết - Bài tập/thảo luận - Thí nghiệm/thực tập/đồ án.
+    + TH: Số giờ tự học hoặc chuẩn bị cá nhân.
+- Một kỳ học gồm 15 tuần.
+- Công thức tính tổng số giờ: **Tổng số giờ = (LTx15 tiết +(BT/2+TN/2)x30 tiết)x50 phút/60 phút + THx15 giờ**
+
+#### 1.2. Hệ thống chuyển đổi và tích lũy tín chỉ Châu Âu (ECTS)
+- 01 ECTS tương đương 30 giờ học tập (bao gồm giảng dạy, thực hành, thí nghiệm, đồ án, tự học).
+- 01 giờ học được tính bằng 60 phút.
+- Tùy quốc gia, 01 ECTS tương đương 25-30 giờ học tập:
+    + Áo, Ý, Tây Ban Nha: 1 ECTS = 25 giờ.
+    + Phần Lan: 1 ECTS = 27 giờ.
+    + Hà Lan, Bồ Đào Nha: 1 ECTS = 28 giờ.
+    + CHLB Đức, Bỉ, Romania, Hungary: 1 ECTS = 30 giờ.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2023_Quy_doi_tin_chi.pdf
+parent_doc_id: Huong_dan_2023_Quy_doi_tin_chi
+chunk_id: Huong_dan_2023_Quy_doi_tin_chi_003
+chunk_index: 3
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Quy trình và Bảng quy đổi tín chỉ sang ECTS
+topic_tags: [quy đổi, ECTS, bảng quy đổi]
+summary: Các bước xác định quy đổi tín chỉ từ ĐHBK Hà Nội sang ECTS và bảng quy đổi chi tiết cho các học phần lý thuyết, thực hành, đồ án.
+
+### 2. Quy đổi tín chỉ học tập của ĐHBK Hà Nội và Đại học ở Châu Âu
+#### 2.1. Các bước tính quy đổi
+- Bước 1: Xác định tổng số giờ sinh viên cần học để hoàn thành học phần tại ĐHBK Hà Nội.
+- Bước 2: Xác định tổng số giờ sinh viên cần học tại trường Đại học ở Châu Âu cần quy đổi.
+- Bước 3: Tính quy đổi TC tương đương dựa trên lượng học tập.
+
+#### 2.2. Bảng quy đổi TC tương đương (áp dụng cho CHLB Đức, 1 ECTS = 30 giờ)
+
+| Số TC và phân bổ học phần | Tổng số thời lượng học tập | Thời lượng ECTS | Quy đổi TC tương đương sang ECTS |
+| :--- | :--- | :--- | :--- |
+| **HP lý thuyết, bài tập, thí nghiệm/thực hành** | | | |
+| 1(1-0-0-2) | 42,5 giờ | 1 ECTS = 30 giờ | 1,42 ECTS |
+| 1(0-2-0-2); 1(0-0-2-2); 1(0-1-1-2) | 55 giờ | | 1,83 ECTS |
+| 1(1-1-0-4) | 85 giờ | | 2,83 ECTS |
+| 2(2-0-0-4); 2(0-0-2-4) | 85 giờ | | 2,84 ECTS |
+| 2(2-1-0-4); 2(2-0-1-4); 2(1-2-0-4); 2(1-0-2-4) | 97,5 giờ | | 3,25 ECTS |
+| 2(1-3-0-4); 2(4-0-4-4) | 110 giờ | | 3,67 ECTS |
+| 3(3-0-0-6); 3(0-0-3-6) | 127,5 giờ | | 4,25 ECTS |
+| 3(3-1-0-6); 3(3-0-1-6); 3(2-1-1-6); 3(2-2-0-6); 3(2-0-2-6) | 140 giờ | | 4,67 ECTS |
+| 3(1-4-0-6) | 152,5 giờ | | 5,08 ECTS |
+| 3(0-6-0-6) | 165 giờ | | 5,5 ECTS |
+| 4(4-0-0-8); 4(2-2-0-8) | 170 giờ | | 5,67 ECTS |
+| 4(4-1-0-8); 4(4-0-1-8); 4(3-1-1-8); 4(3-2-0-8) | 182,5 giờ | | 6,08 ECTS |
+| 4(2-2-2-8); 4(3-2-1-8) | 195 giờ | | 6,5 ECTS |
+| **HP thực tập, ĐAMH, ĐATN** | | | |
+| 2(0-0-4-4) | 110 giờ | 1 ECTS = 30 giờ | 3,67 ECTS |
+| 3(0-0-6-6) | 165 giờ | | 5,5 ECTS |
+| 6(0-0-12-12) | 330 giờ | | 11 ECTS |
+| 8(0-0-16-16) | 440 giờ | | 14,67 ECTS |
+| 9(0-0-18-18) | 495 giờ | | 16,5 ECTS |
+<<<CHUNK_END>>>

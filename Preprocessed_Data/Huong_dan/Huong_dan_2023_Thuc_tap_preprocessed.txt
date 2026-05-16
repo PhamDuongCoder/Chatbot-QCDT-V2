@@ -1,0 +1,201 @@
+<<<CHUNK_START>>>
+source: Huong_dan_2023_Thuc_tap.pdf
+parent_doc_id: Huong_dan_2023_Thuc_tap
+chunk_id: Huong_dan_2023_Thuc_tap_001
+chunk_index: 1
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Quyết định ban hành Hướng dẫn triển khai công tác thực tập tại các cơ sở ngoài Đại học
+topic_tags: [thực tập, cơ sở ngoài đại học, hướng dẫn]
+summary: Quyết định số 5980/QĐ-ĐHBK ngày 24 tháng 7 năm 2023 của Giám đốc Đại học Bách khoa Hà Nội về việc ban hành Hướng dẫn triển khai công tác thực tập tại các cơ sở ngoài Đại học.
+
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+ĐẠI HỌC BÁCH KHOA HÀ NỘI
+Số: 5980/QĐ-ĐHBK
+
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+Hà Nội, ngày 24 tháng 7 năm 2023
+
+QUYẾT ĐỊNH
+Ban hành Hướng dẫn triển khai công tác thực tập tại các cơ sở ngoài Đại học
+
+GIÁM ĐỐC ĐẠI HỌC BÁCH KHOA HÀ NỘI
+
+Căn cứ Luật Giáo dục đại học ngày 18 tháng 6 năm 2012 và Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học ngày 19 tháng 11 năm 2018;
+Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ về việc Quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;
+Căn cứ Quy chế Tổ chức và hoạt động của Đại học Bách khoa Hà Nội do Hội đồng Đại học ban hành theo Nghị quyết số 17/NQ-ĐHBK ngày 16 tháng 03 năm 2023;
+Căn cứ Quyết định giữ nguyên hiệu lực pháp lý của các nội dung văn bản hiện hành của Trường Đại học Bách khoa Hà Nội do Hiệu trưởng ban hành trong giai đoạn hoàn thiện mô hình đại học do Giám đốc ban hành theo Quyết định số 1734/QĐ-ĐHBK ngày 16 tháng 03 năm 2023;
+Căn cứ Quy định về Tổ chức và quản lý đào tạo của Trường Đại học Bách khoa Hà Nội do Hiệu trưởng ban hành theo Quyết định số 22/QĐ-ĐHBK-ĐT ngày 19 tháng 10 năm 2018;
+Căn cứ Quy chế đào tạo của Đại học Bách khoa Hà Nội do Giám đốc ban hành theo Quyết định số 4600/QĐ-ĐHBK ngày 09 tháng 06 năm 2023;
+Theo đề nghị của Trưởng phòng Đào tạo.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Hướng dẫn triển khai công tác thực tập tại các cơ sở ngoài Đại học Bách khoa Hà Nội.
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký.
+Điều 3. Các Ông/Bà Trưởng phòng Đào tạo, Trưởng các đơn vị được giao nhiệm vụ thực hiện đào tạo, các đơn vị có liên quan, các cán bộ viên chức, sinh viên, học viên và nghiên cứu sinh của Đại học Bách khoa Hà Nội chịu trách nhiệm thi hành Quyết định này./.
+
+Nơi nhận:
+- Như Điều 3,
+- Lưu: VT, ĐT.
+
+KT. GIÁM ĐỐC
+PHÓ GIÁM ĐỐC
+(Ký tên, đóng dấu)
+PGS.TS. Nguyễn Phong Điền
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2023_Thuc_tap.pdf
+parent_doc_id: Huong_dan_2023_Thuc_tap
+chunk_id: Huong_dan_2023_Thuc_tap_002
+chunk_index: 2
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Hướng dẫn triển khai công tác thực tập tại các cơ sở ngoài Đại học - Mục tiêu và phạm vi áp dụng
+topic_tags: [thực tập, mục tiêu, phạm vi áp dụng, người học, cơ sở ngoài đại học]
+summary: Hướng dẫn này nhằm nâng cao chất lượng đào tạo và đáp ứng chuẩn đầu ra cho học phần thực tập. Phạm vi áp dụng cho sinh viên, học viên đang học tại ĐHBK Hà Nội và các hoạt động thực tập tại cơ sở ngoài trường.
+
+HƯỚNG DẪN TRIỂN KHAI CÔNG TÁC THỰC TẬP
+TẠI CÁC CƠ SỞ NGOÀI ĐẠI HỌC
+(Kèm theo Quyết định số 5980/QĐ-ĐHBK ngày 24 tháng 7 năm 2023 của Giám đốc Đại học Bách khoa Hà Nội)
+
+I. Mục tiêu và phạm vi áp dụng
+
+1. Mục tiêu
+Hướng dẫn các thủ tục và yêu cầu đối với công tác thực tập để nâng cao chất lượng đào tạo, đáp ứng chuẩn đầu ra và mục tiêu của học phần thực tập.
+
+2. Phạm vi áp dụng của hướng dẫn
++ Áp dụng với các trường, viện đào tạo, sinh viên và học viên (gọi tắt là “người học”) hiện đang học tập tại Đại học Bách khoa Hà Nội (viết tắt: ĐHBK Hà Nội).
++ Áp dụng với các hoạt động thực tập tổ chức tại các cơ sở bên ngoài ĐHBK Hà Nội.
+
+3. Căn cứ triển khai hướng dẫn
++ Căn cứ Khoản 2 Điều 7 Quy chế Tổ chức và quản lý đào tạo về Giải quyết thủ tục hành chính đối với người học ban hành theo Quyết định số 22/QĐ-ĐHBK-ĐT ngày 19 tháng 10 năm 2018 của Hiệu trưởng Trường Đại học Bách khoa Hà Nội.
++ Căn cứ Khoản 2 và Khoản 3 Điều 22 Quy chế đào tạo của Đại học Bách khoa Hà Nội do Giám đốc ban hành theo Quyết định số 4600/QĐ-ĐHBK ngày 09 tháng 06 năm 2023.
++ Căn cứ Điểm b Khoản 4 Điều 8 Thông tư 17/2021/TT-BGDĐT của Bộ Giáo dục và Đào tạo ban hành ngày 22 tháng 6 năm 2021.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2023_Thuc_tap.pdf
+parent_doc_id: Huong_dan_2023_Thuc_tap
+chunk_id: Huong_dan_2023_Thuc_tap_003
+chunk_index: 3
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Hướng dẫn chung đối với người học tham gia thực tập
+topic_tags: [thực tập, người học, quy định, an toàn, báo cáo]
+summary: Người học phải tuân thủ quy định của cơ sở thực tập, tham gia tập huấn an toàn và có quyền từ chối thực tập nếu điều kiện không đảm bảo. Người học cũng có quyền báo cáo khi giảng viên hướng dẫn không thực hiện nhiệm vụ.
+
+II. Hướng dẫn chung đối với người học tham gia thực tập
+
+1. Người học cần tuân thủ nghiêm túc các quy định của cơ sở thực tập và có trách nhiệm tham gia đầy đủ các buổi tập huấn về đảm bảo an toàn trong quá trình thực tập.
+2. Người học được quyền từ chối tham gia thực tập khi cơ sở thực tập không cung cấp đủ các điều kiện để người học hoàn thành nhiệm thực tập hoặc không đảm bảo an toàn trong quá trình thực tập.
+3. Người học được quyền báo cáo tới lãnh đạo của trường/viện trong trường hợp giảng viên hướng dẫn không thực hiện đầy đủ các nhiệm vụ theo quy định.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2023_Thuc_tap.pdf
+parent_doc_id: Huong_dan_2023_Thuc_tap
+chunk_id: Huong_dan_2023_Thuc_tap_004
+chunk_index: 4
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Hướng dẫn tổ chức thực tập tại các cơ sở trong nước - Tiêu chí lựa chọn cơ sở và người học
+topic_tags: [thực tập, cơ sở trong nước, lựa chọn cơ sở, tiêu chí, người học]
+summary: Trường/viện ban hành quy định về tiêu chí lựa chọn cơ sở thực tập và người học. Cơ sở thực tập phải có đăng ký kinh doanh, ngành nghề phù hợp, khả năng hỗ trợ chuyên môn và cam kết bố trí cán bộ hướng dẫn. Ưu tiên cơ sở có thỏa thuận hợp tác.
+
+II. Hướng dẫn tổ chức thực tập tại các cơ sở trong nước
+
+1. Trường/viện ban hành quy định về tiêu chí lựa chọn các cơ sở thực tập, quy trình lựa chọn người học để giới thiệu tới các cơ sở thực tập. Cơ sở thực tập được lựa chọn phải đảm bảo các yêu cầu tối thiểu sau:
+a) Cơ sở thực tập phải được đảm bảo về mặt pháp lý: có đăng ký kinh doanh, có ngành nghề hoạt động phù hợp hoặc có chức năng giáo dục đào tạo, có địa chỉ đăng ký hoạt động.
+b) Cơ sở thực tập phải đáp ứng được yêu cầu chuyên môn nghiệp vụ, có khả năng hỗ trợ người học phát triển kỹ năng nghề nghiệp, kỹ năng bổ trợ cần thiết để hoàn thành chuẩn đầu ra của học phần thực tập.
+c) Cơ sở thực tập phải cam kết bố trí cán bộ hướng dẫn đúng trình độ chuyên môn và cơ sở vật chất phù hợp để hỗ trợ hoạt động thực tập.
+Ưu tiên lựa chọn các cơ sở thực tập đã có ký kết các thỏa thuận hợp tác trong lĩnh vực đào tạo, nghiên cứu, chuyển giao công nghệ.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2023_Thuc_tap.pdf
+parent_doc_id: Huong_dan_2023_Thuc_tap
+chunk_id: Huong_dan_2023_Thuc_tap_005
+chunk_index: 5
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Hướng dẫn tổ chức thực tập tại các cơ sở trong nước - Đăng ký và hướng dẫn thực tập
+topic_tags: [thực tập, cơ sở trong nước, đăng ký, nguyện vọng, giảng viên hướng dẫn, đề cương]
+summary: Trường/viện hướng dẫn người học đăng ký nguyện vọng thực tập trên eHUST. Người học tự liên hệ cơ sở thực tập phải có văn bản đồng ý. Mỗi người học có ít nhất 01 giảng viên hướng dẫn, chịu trách nhiệm thông qua đề cương, kế hoạch và giám sát. Đề cương thực tập bao gồm nội dung chuyên môn, kiến thức, kỹ năng, kế hoạch thời gian và cấu trúc báo cáo.
+
+2. Trường/viện chịu trách nhiệm hướng dẫn người học đăng ký nguyện vọng thực tập trên hệ thống eHUST, cần đảm bảo tất cả các người học đều được bố trí cơ sở thực tập để không ảnh hưởng tới tiến độ học tập.
+Trong trường hợp người học tự liên hệ cơ sở thực tập: trường/viện chịu trách nhiệm xem xét đề xuất và quyết định cho phép hoặc không cho phép người học thực tập tại cơ sở người học đã lựa chọn. Người học phải cung cấp văn bản đồng ý tiếp nhận của cơ sở thực tập và đồng ý với đề cương thực tập.
+3. Trường/viện phân công giảng viên hướng dẫn thực tập cho người học đảm bảo tiêu chí mỗi người học có ít nhất 01 giảng viên hướng dẫn thực tập. Giảng viên có trách nhiệm thông qua đề cương thực tập của người học, thống nhất kế hoạch báo cáo tiến độ, tiếp nhận các báo cáo định kỳ để giám sát quá trình thực tập và hỗ trợ định hướng chuyên môn. Giảng viên chịu trách nhiệm tiếp nhận các báo cáo đột xuất của người học trong quá trình thực tập để kịp thời hỗ trợ hoặc chủ động đề nghị cấp quản lý cao hơn hỗ trợ giải quyết trong trường hợp cần thiết.
+4. Căn cứ trên mục tiêu của học phần thực tập và đặc thù của cơ sở thực tập, giảng viên hướng dẫn người học chuẩn bị đề cương thực tập. Đề cương thực tập phải bao gồm tối thiểu các nội dung sau đây:
+a) Các nội dung chuyên môn cần tìm hiểu, thực hành tại cơ sở thực tập.
+b) Các kiến thức thực tế cần thu thập để bổ trợ cho quá trình học tập.
+c) Các kỹ năng cần đạt được sau khi kết thúc quá trình thực tập.
+d) Kế hoạch thời gian đối với quá trình thực tập.
+đ) Cấu trúc báo cáo thực tập và các nội dung cần trình bày.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2023_Thuc_tap.pdf
+parent_doc_id: Huong_dan_2023_Thuc_tap
+chunk_id: Huong_dan_2023_Thuc_tap_006
+chunk_index: 6
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Hướng dẫn tổ chức thực tập tại các cơ sở trong nước - Trao đổi và đánh giá thực tập
+topic_tags: [thực tập, cơ sở trong nước, trao đổi, đánh giá, báo cáo]
+summary: Trước khi thực tập, người học trao đổi với người hướng dẫn tại cơ sở về đề cương. Sau khi kết thúc, cơ sở thực tập đánh giá kết quả và quá trình tổ chức để cải tiến. Kết quả đánh giá phải công khai và đính kèm báo cáo.
+
+5. Trước khi bắt đầu thực tập, người học có trách nhiệm trao đổi với người hướng dẫn tại cơ sở thực tập về đề cương thực tập để đảm bảo hoàn thành các nội dung thực tập theo yêu cầu.
+6. Khi kết thúc quá trình thực tập, cơ sở thực tập cần đánh giá kết quả quá trình thực tập của người học, đánh giá quá trình tổ chức thực tập để làm căn cứ cải tiến, nâng cao chất lượng.
+7. Kết quả đánh giá của cơ sở thực tập phải công khai với người học và được đính kèm trong báo cáo thực tập của người học.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2023_Thuc_tap.pdf
+parent_doc_id: Huong_dan_2023_Thuc_tap
+chunk_id: Huong_dan_2023_Thuc_tap_007
+chunk_index: 7
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Hướng dẫn trao đổi thực tập tại các cơ sở nước ngoài
+topic_tags: [thực tập, cơ sở nước ngoài, trao đổi, hướng dẫn]
+summary: Hướng dẫn này áp dụng cho việc thực tập tại các cơ sở nước ngoài. Người học cần có sự đồng ý của trường/viện và cơ sở tiếp nhận. Giảng viên hướng dẫn có trách nhiệm theo dõi, hỗ trợ và đánh giá tổng thể.
+
+III. Hướng dẫn trao đổi thực tập tại các cơ sở nước ngoài
+
+1. Người học được thực tập tại cơ sở thực tập tại đơn vị đó với các cơ quan, tổ chức, cơ sở nghiên cứu ở nước ngoài (gọi tắt là “cơ sở thực tập nước ngoài”) theo thỏa thuận hợp tác đã ký kết với ĐHBK Hà Nội.
+2. Người học cần liên hệ với cơ sở thực tập tại nước ngoài để xác định người hướng dẫn, xây dựng kế hoạch thực tập và kết quả dự kiến.
+3. Trường/viện chịu trách nhiệm chính sách đề xuất của người học về phép tham gia trao đổi, học tập, nghiên cứu và sự đồng ý của trường/viện, Phòng Đào tạo phối hợp với Phòng Hợp tác đối ngoại trình Giám đốc Đại học ban hành quyết định cho phép người học đi trao đổi học tập.
+4. Giảng viên có trách nhiệm thống nhất với người học về kế hoạch báo cáo tiến độ, kết quả thực tập theo từng mốc thời gian dự kiến, đồng thời hỗ trợ định hướng chuyên môn cho người học. Trong trường hợp người học cần sự hỗ trợ của giảng viên hướng dẫn để tổng hợp báo cáo quản lý cao hơn giải quyết.
+5. Trong trường hợp cơ sở thực tập nước ngoài có cho điểm đánh giá kết quả thực tập thì người học cần cung cấp bảng điểm khi trở lại học tại ĐHBK Hà Nội. Trong trường hợp cơ sở thực tập nước ngoài không cho điểm đánh giá kết quả thực tập thì người học cần có nhận xét đã hoàn thành quá trình trao đổi.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2023_Thuc_tap.pdf
+parent_doc_id: Huong_dan_2023_Thuc_tap
+chunk_id: Huong_dan_2023_Thuc_tap_008
+chunk_index: 8
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Đánh giá quá trình thực tập tại cơ sở nước ngoài
+topic_tags: [thực tập, cơ sở nước ngoài, đánh giá, báo cáo]
+summary: Người học thực tập tại cơ sở nước ngoài phải có đánh giá từ cơ sở thực tập hoặc nhận xét hoàn thành. Kết quả đánh giá này là căn cứ để quy đổi điểm thực tập.
+
+IV. Đánh giá quá trình thực tập
+
+1. Điểm quá trình của học phần thực tập có thể được đánh giá dựa trên kết quả đánh giá của cơ sở thực tập.
+2. Trong trường hợp cơ sở thực tập nước ngoài có điểm đánh giá thì điểm đánh giá của học phần thực tập được căn cứ căn cứ theo tiến độ và kết quả báo cáo định kỳ của người học.
+3. Điểm thí kết thúc học phần thực tập được đánh giá dựa trên báo cáo thực tập của người học hoặc hình thức kiểm tra, đánh giá công bố trước với người học căn cứ theo tiêu chí của học phần.
+4. Người học tham gia trao đổi thực tập tại cơ sở nước ngoài phải tham gia thí kết thúc học phần thực tập Đại học Bách khoa Hà Nội để làm điểm cuối khóa học phần./.
+<<<CHUNK_END>>>

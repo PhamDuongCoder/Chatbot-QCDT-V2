@@ -1,0 +1,58 @@
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68_05.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_05_001
+chunk_index: 1
+language: vi
+category: Ngoai_ngu_2024_K68_partitioned
+year: N/A
+chunk_title: PHỤ LỤC 4 - Danh mục các học phần tiếng Anh và chuẩn yêu cầu đối với các chương trình đào tạo Tài năng
+topic_tags: [chương trình đào tạo Tài năng, học phần tiếng Anh, FL1105, FL1106, FL1107, FL1108]
+summary: Giới thiệu danh mục các học phần tiếng Anh (LIFE 1-4) dành cho chương trình đào tạo Tài năng, bao gồm thông tin về mã học phần, thời lượng và tính tín chỉ.
+
+PHỤ LỤC 4
+Danh mục các học phần tiếng Anh và chuẩn yêu cầu đối với các chương trình đào tạo Tài năng
+
+Bảng 4.1 Danh mục các học phần tiếng Anh yêu cầu
+
+| TT | Mã học phần | Tên học phần | Thời lượng | Tính tín chỉ trong CTĐT | [1] | [2] | [3] | [4] | [5] |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1 | FL1105 | LIFE 1 | 3(3-3-0-6) | Không | H | M | M | M | M |
+| 2 | FL1106 | LIFE 2 | 3(3-3-0-6) | Không | H | H | M | M | M |
+| 3 | FL1107 | LIFE 3 | 3(3-3-0-6) | Có (3 TC) | H | H | H | M | M |
+| 4 | FL1108 | LIFE 4 | 3(3-3-0-6) | Có (3 TC) | H | H | H | H | M |
+
+Ghi chú:
+[1]: Được xếp học tương ứng với kết quả phân loại tiếng Anh đầu vào;
+[2]: Đạt trình độ Bậc 1.2 trở lên hoặc tương đương;
+[3]: Đạt trình độ Bậc 2.1 trở lên hoặc tương đương;
+[4]: Đạt trình độ Bậc 2.2 trở lên hoặc tương đương;
+[5]: Đạt trình độ Bậc 2.3 trở lên hoặc tương đương;
+M: được miễn học (ghi điểm R); H: bắt buộc học.
+Bậc trình độ dựa trên Khung năng lực ngoại ngữ 6 bậc của Việt Nam có trong Phụ lục 2 của quy định này.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68_05.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_05_002
+chunk_index: 2
+language: vi
+category: Ngoai_ngu_2024_K68_partitioned
+year: N/A
+chunk_title: Bảng 4.2 Yêu cầu chuẩn tiếng Anh theo số tín chỉ tích lũy và chuẩn đầu ra
+topic_tags: [chuẩn tiếng Anh, tín chỉ tích lũy, đồ án tốt nghiệp, xét tốt nghiệp]
+summary: Bảng quy định yêu cầu chuẩn tiếng Anh theo số tín chỉ tích lũy (từ 63TC đến 96TC trở lên) và các điều kiện về trình độ ngoại ngữ để xét nhận đồ án/khóa luận tốt nghiệp và xét tốt nghiệp.
+
+Bảng 4.2 Yêu cầu chuẩn tiếng Anh theo số tín chỉ tích lũy và chuẩn đầu ra
+
+| Số tín chỉ tích lũy | Trình độ tiếng Anh yêu cầu |
+|:---|:---|
+| Đến 63TC | 1) Đạt các học phần Tiếng Anh cơ sở gồm: FL1105, FL1106, FL1107, FL1108 <br> 2) Hoặc đạt tối thiểu Bậc 2.2 |
+| Từ 64 ÷ 95 TC | Đạt tối thiểu Bậc 2.3 |
+| Từ 96 TC | Đạt tối thiểu Bậc 3.1 |
+| Điều kiện được xét nhận đồ án/khóa luận tốt nghiệp | Đạt tối thiểu Bậc 3.2 |
+| Điều kiện khi xét tốt nghiệp | Bậc 3.3 |
+
+Bậc trình độ dựa trên Khung năng lực ngoại ngữ 6 bậc của Việt Nam có trong Phụ lục 2 của quy định này.
+<<<CHUNK_END>>>

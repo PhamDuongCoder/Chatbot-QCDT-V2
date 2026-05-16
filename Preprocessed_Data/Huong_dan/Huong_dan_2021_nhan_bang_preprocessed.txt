@@ -1,0 +1,39 @@
+<<<CHUNK_START>>>
+source: Huong_dan_2021_nhan_bang.docx
+parent_doc_id: Huong_dan_2021_nhan_bang
+chunk_id: Huong_dan_2021_nhan_bang_001
+chunk_index: 1
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Hướng dẫn thủ tục xin nhận Bằng tốt nghiệp Đại học - Xin giấy chứng nhận tốt nghiệp thay bằng bị mất
+topic_tags: [bằng tốt nghiệp, giấy chứng nhận, thủ tục hành chính, sinh viên cũ, giấy tờ tùy thân]
+summary: Hướng dẫn thủ tục xin nhận bằng tốt nghiệp Đại học và xin giấy chứng nhận thay bằng bị mất cho sinh viên cũ. Bao gồm các giấy tờ cần thiết và điều kiện để được cấp giấy chứng nhận.
+
+1- Đối với sinh viên khoá cũ khi về trường xin nhận Bằng tốt nghiệp Đại học yêu cầu phải có các loại giấy tờ sau:
+- Giấy giới thiệu của cơ quan về trường xin nhận bằng ( Nếu không đi làm phải xin giấy giới thiệu của địa phương nơi đang cư trú).
+- Trình chứng minh nhân dân (hoặc thẻ căn cước công dân)
+- Giấy thanh toán ra trường ( lấy ở phòng CTSV - C1-103-104, sau khi hoàn thành các dấu thanh toán, photo 1 bản đi kèm)
+- Đối với sinh viên từ khoá 45 trở về trước phải trình chứng chỉ quân sự, thể dục.
+
+Lịch phát bằng cho sinh viên khoá cũ: Thứ 3, thứ 5 hàng tuần.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2021_nhan_bang.docx
+parent_doc_id: Huong_dan_2021_nhan_bang
+chunk_id: Huong_dan_2021_nhan_bang_002
+chunk_index: 2
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Điều kiện cấp giấy chứng nhận thay bằng đại học bị mất
+topic_tags: [giấy chứng nhận, bằng đại học bị mất, thủ tục hành chính, giấy tờ tùy thân, công an]
+summary: Quy định về điều kiện để cấp giấy chứng nhận thay thế bằng đại học bị mất. Yêu cầu có giấy tường trình về việc mất trộm có xác nhận của công an và trình chứng minh nhân dân.
+
+2 - Điều kiện để cấp giấy chứng nhận ( thay Bằng đại học bị mất)
+- Phải có giấy tường trình về việc mất trộm có xác nhận của công an.
+- Trình chứng minh nhân dân (hoặc thẻ căn cước công dân).
+
+Thời gian nhân giấy chứng nhận: sau khi nộp giấy tờ 3 ngày.
+<<<CHUNK_END>>>

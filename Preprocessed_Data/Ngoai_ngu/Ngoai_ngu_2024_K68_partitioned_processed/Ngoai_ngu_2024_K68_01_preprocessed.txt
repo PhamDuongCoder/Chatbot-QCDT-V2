@@ -1,0 +1,183 @@
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68_01.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_01_001
+chunk_index: 1
+language: vi
+category: Ngoai_ngu_2024_K68_partitioned
+year: N/A
+chunk_title: Quyết định ban hành Quy định về phân loại trình độ đầu vào, chương trình môn học và chuẩn ngoại ngữ
+topic_tags: [Quyết định, phân loại trình độ đầu vào, chương trình môn học ngoại ngữ, chuẩn ngoại ngữ, sinh viên đại học hệ chính quy, Đại học Bách khoa Hà Nội]
+summary: Quyết định số 2048/QĐ-ĐHBK của Đại học Bách khoa Hà Nội ban hành Quy định về phân loại trình độ đầu vào, chương trình môn học và chuẩn ngoại ngữ yêu cầu đối với sinh viên đại học hệ chính quy, có hiệu lực từ ngày 08 tháng 3 năm 2024. Quyết định này giao nhiệm vụ cho Ban Đào tạo và Khoa Ngoại ngữ, đồng thời quy định trách nhiệm thi hành cho các đơn vị liên quan và sinh viên.
+
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+ĐẠI HỌC BÁCH KHOA HÀ NỘI
+Số: 2048/QĐ-ĐHBK
+
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Hà Nội, ngày 08 tháng 3 năm 2024
+
+QUYẾT ĐỊNH
+Về việc ban hành Quy định về phân loại trình độ đầu vào, chương trình môn học
+và chuẩn ngoại ngữ yêu cầu đối với sinh viên đại học hệ chính quy
+
+GIÁM ĐỐC ĐẠI HỌC BÁCH KHOA HÀ NỘI
+
+Căn cứ Luật Giáo dục đại học ngày 18 tháng 6 năm 2012 và Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học ngày 19 tháng 11 năm 2018;
+Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ về việc Quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;
+Căn cứ Thông tư số 01/2014/TT-BGDĐT ngày 24 tháng 01 năm 2014 về ban hành khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam;
+Căn cứ Quy chế Tổ chức và hoạt động của Đại học Bách khoa Hà Nội do Hội đồng đại học ban hành theo Nghị quyết số 03/NQ-ĐHBK ngày 02 tháng 02 năm 2024;
+Căn cứ Quy chế đào tạo của Đại học Bách khoa Hà Nội do Giám đốc ban hành theo Quyết định số 4600/QĐ-ĐHBK ngày 19 tháng 06 năm 2023;
+Theo đề nghị của Ông Trưởng Ban Đào tạo.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Quy định về phân loại trình độ đầu vào, chương trình môn học và chuẩn ngoại ngữ yêu cầu đối với sinh viên đại học hệ chính quy của Đại học Bách khoa Hà Nội.
+
+Điều 2. Giao nhiệm vụ cho Ban Đào tạo, Khoa Ngoại ngữ phối hợp với các đơn vị thuộc Đại học thực hiện theo đúng Quy định này.
+
+Điều 3. Các Ông/Bà Trưởng Ban Đào tạo, Trưởng khoa Ngoại ngữ, Giám đốc Trung tâm Khảo thí ngoại ngữ và Trao đổi văn hóa, trưởng các đơn vị có liên quan và các sinh viên đại học hệ chính quy của Đại học Bách khoa Hà Nội chịu trách nhiệm thi hành Quyết định này./.
+
+Nơi nhận:
+- Như Điều 3,
+- Lưu: VT, ĐT.
+
+KT. GIÁM ĐỐC
+PHÓ GIÁM ĐỐC
+PGS.TS. Nguyễn Phong Điền
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68_01.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_01_002
+chunk_index: 2
+language: vi
+category: Ngoai_ngu_2024_K68_partitioned
+year: N/A
+chunk_title: Điều 1 – Phạm vi và đối tượng áp dụng của Quy định
+topic_tags: [phạm vi áp dụng, đối tượng áp dụng, sinh viên đại học hệ chính quy, ngành Ngôn ngữ Anh, sinh viên nước ngoài, phân loại trình độ ngoại ngữ, chương trình môn học ngoại ngữ, chuẩn ngoại ngữ]
+summary: Điều 1 của Quy định này xác định phạm vi và đối tượng áp dụng, bao gồm công tác tổ chức đánh giá và phân loại trình độ ngoại ngữ đầu vào, chương trình môn học ngoại ngữ, điều kiện miễn học các học phần ngoại ngữ, chuẩn ngoại ngữ yêu cầu theo số lượng tín chỉ tích lũy và chuẩn ngoại ngữ đầu ra. Quy định áp dụng cho sinh viên đại học hệ chính quy, không thuộc ngành Ngôn ngữ Anh và không áp dụng cho sinh viên là người nước ngoài.
+
+QUY ĐỊNH
+Phân loại trình độ đầu vào, chương trình môn học và chuẩn ngoại ngữ yêu cầu
+đối với sinh viên đại học hệ chính quy
+(Ban hành theo Quyết định số /QĐ-ĐHBK, ngày tháng 03 năm 2024 của
+Giám đốc Đại học Bách khoa Hà Nội)
+
+Điều 1. Phạm vi và đối tượng áp dụng
+
+1. Văn bản này quy định về công tác tổ chức đánh giá và phân loại trình độ ngoại ngữ đầu vào; chương trình môn học ngoại ngữ; điều kiện được miễn học các học phần ngoại ngữ; chuẩn ngoại ngữ yêu cầu theo số lượng tín chỉ tích lũy và chuẩn ngoại ngữ đầu ra.
+2. Quy định này áp dụng cho sinh viên đại học hệ chính quy, không thuộc ngành Ngôn ngữ Anh của Đại học Bách khoa Hà Nội.
+3. Quy định này không áp dụng cho sinh viên là người nước ngoài đang học tại Đại học Bách khoa Hà Nội.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68_01.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_01_003
+chunk_index: 3
+language: vi
+category: Ngoai_ngu_2024_K68_partitioned
+year: N/A
+chunk_title: Điều 2 – Phân loại trình độ đầu vào và phân lớp học ngoại ngữ
+topic_tags: [phân loại trình độ đầu vào, tiếng Anh, chứng chỉ tiếng Anh quốc gia, chứng chỉ tiếng Anh quốc tế, điểm thi THPT, ngoại ngữ khác tiếng Anh, miễn học phần ngoại ngữ, xếp lớp ngoại ngữ]
+summary: Điều 2 quy định việc phân loại trình độ ngoại ngữ đầu vào cho sinh viên dựa trên kết quả kiểm tra tiếng Anh đầu khóa, chứng chỉ tiếng Anh quốc gia/quốc tế, hoặc điểm thi THPT. Đối với ngoại ngữ khác tiếng Anh, việc phân loại dựa trên chứng chỉ quốc tế. Sinh viên sẽ được xét miễn học phần và xếp lớp ngoại ngữ tương ứng dựa trên kết quả phân loại.
+
+Điều 2. Phân loại trình độ đầu vào và phân lớp học ngoại ngữ
+
+1. Căn cứ phân loại trình độ ngoại ngữ đầu vào với sinh viên thuộc chương trình đào tạo có yêu cầu chuẩn đầu ra là tiếng Anh dựa trên một hoặc nhiều tiêu chí, bao gồm:
+    + Dựa trên kết quả kiểm tra tiếng Anh đầu khóa;
+    + Hoặc dựa trên chứng chỉ tiếng Anh quốc gia, quốc tế;
+    + Hoặc dựa trên điểm thi môn tiếng Anh của kỳ thi tốt nghiệp trung học phổ thông (THPT) tại năm nhập học.
+Việc lựa chọn tiêu chí phân loại cụ thể trong số các tiêu chí trên đây có thể thay đổi theo từng khóa tuyển sinh.
+2. Căn cứ phân loại trình độ ngoại ngữ đầu vào với sinh viên thuộc chương trình đào tạo có yêu cầu chuẩn đầu ra là ngoại ngữ khác tiếng Anh: dựa trên chứng chỉ quốc tế của ngôn ngữ tương ứng.
+3. Căn cứ trên kết quả phân loại trình độ ngoại ngữ đầu vào, sinh viên được xét miễn học các học phần theo quy định và được xếp lớp học ngoại ngữ tương ứng.
+4. Sinh viên không đáp ứng điều kiện phân loại trình độ ngoại ngữ theo khoản 1 hoặc khoản 2 của điều này sẽ phải học toàn bộ các học phần ngoại ngữ tương ứng với từng chương trình đào tạo theo lộ trình quy định.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68_01.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_01_004
+chunk_index: 4
+language: vi
+category: Ngoai_ngu_2024_K68_partitioned
+year: N/A
+chunk_title: Điều 3 – Công nhận, xét miễn học phần ngoại ngữ (Lộ trình học tập)
+topic_tags: [học phần ngoại ngữ bắt buộc, lộ trình học tập, đăng ký học phần ngoại ngữ, học kỳ 1, học kỳ 2, học kỳ 3, học kỳ 4, thi chứng chỉ ngoại ngữ, chuẩn ngoại ngữ theo tín chỉ]
+summary: Điều 3 quy định tất cả các học phần ngoại ngữ là bắt buộc và nêu rõ lộ trình học tập. Ban Đào tạo sẽ đăng ký học phần ngoại ngữ cho sinh viên trong 2 học kỳ đầu dựa trên kết quả phân loại trình độ đầu vào. Học kỳ 3 dành cho sinh viên tự đăng ký học lại hoặc chủ động thi chứng chỉ ngoại ngữ. Từ học kỳ 4 trở đi, Ban Đào tạo sẽ đăng ký bắt buộc các học phần ngoại ngữ cho sinh viên chưa đạt chuẩn theo tín chỉ tích lũy.
+
+Điều 3. Công nhận, xét miễn học phần ngoại ngữ
+
+1. Tất cả các học phần ngoại ngữ tương ứng với từng chương trình đào tạo là các học phần bắt buộc. Lộ trình học tập đối với các học phần ngoại ngữ được quy định như sau:
+a. Ban Đào tạo sẽ đăng ký các học phần ngoại ngữ đối với 2 học kỳ đầu cho sinh viên dựa theo kết quả phân loại trình độ ngoại ngữ đầu vào.
+b. Học kỳ thứ 3: dành cho sinh viên để tự đăng ký học lại các học phần ngoại ngữ không đạt ở 2 học kỳ đầu (nếu có) và chủ động thi chứng chỉ ngoại ngữ.
+c. Từ kỳ thứ 4 trở đi: Ban Đào tạo sẽ thực hiện việc đăng ký bắt buộc các học phần ngoại ngữ đối với các sinh viên không đạt chuẩn ngoại ngữ theo số lượng tín chỉ tích lũy.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68_01.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_01_005
+chunk_index: 5
+language: vi
+category: Ngoai_ngu_2024_K68_partitioned
+year: N/A
+chunk_title: Điều 3 – Công nhận, xét miễn học phần ngoại ngữ (Điều kiện và quy trình)
+topic_tags: [chứng chỉ ngoại ngữ, miễn học phần, điểm R, hạn chứng chỉ, thẩm định chứng chỉ, nộp đơn xét miễn, hệ thống quản lý đào tạo]
+summary: Điều 3 tiếp tục quy định về việc xét miễn học phần ngoại ngữ khi sinh viên đạt chứng chỉ ngoại ngữ theo quy định, với các học phần được miễn sẽ ghi điểm R. Chứng chỉ phải còn hạn tại thời điểm nộp đơn, được thẩm định nguồn gốc và cập nhật lên hệ thống quản lý đào tạo. Thời gian nộp đơn xét miễn muộn nhất là 2 tuần trước khi bắt đầu học kỳ.
+
+2. Trong quá trình học tập, nếu sinh viên đạt được chứng chỉ ngoại ngữ theo quy định sẽ được xét miễn các học phần ngoại ngữ tương ứng với trình độ đạt được. Các học phần được miễn sẽ được ghi điểm R trong bảng điểm.
+3. Chứng chỉ ngoại ngữ để xét miễn học phần phải còn hạn theo quy định tính tới thời điểm nộp đơn xét miễn. Danh sách chứng chỉ và các học phần được miễn được ghi trong các phụ lục tương ứng kèm theo Quy định này.
+4. Toàn bộ các chứng chỉ ngoại ngữ quốc gia, quốc tế phải được thẩm định nguồn gốc và cập nhật mức điểm lên hệ thống phần mềm quản lý đào tạo trước thời điểm nộp đơn đề nghị xét miễn học phần ngoại ngữ.
+5. Thời gian tiếp nhận đơn đề nghị xét miễn học phần ngoại ngữ muộn nhất là 2 tuần trước khi bắt đầu học kỳ theo Khung kế hoạch thời gian của năm học.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68_01.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_01_006
+chunk_index: 6
+language: vi
+category: Ngoai_ngu_2024_K68_partitioned
+year: N/A
+chunk_title: Điều 4 – Yêu cầu về chuẩn ngoại ngữ theo tín chỉ tích lũy và chuẩn ngoại ngữ đầu ra
+topic_tags: [chuẩn ngoại ngữ, tín chỉ tích lũy, chuẩn ngoại ngữ đầu ra, chương trình đào tạo, thi ngoại ngữ nội bộ, tiếng Anh nội bộ, chứng chỉ tiếng Anh quốc tế, VSTEP, chương trình Elitech, chương trình tiên tiến, chương trình tài năng, chương trình hợp tác quốc tế, chương trình chuẩn]
+summary: Điều 4 quy định cụ thể về chuẩn ngoại ngữ theo tín chỉ tích lũy và chuẩn đầu ra cho từng chương trình đào tạo. Kết quả thi ngoại ngữ nội bộ của Đại học Bách khoa Hà Nội được công nhận và có giá trị trong 2 năm. Sinh viên các chương trình Elitech và chương trình chuẩn phải có chứng chỉ tiếng Anh quốc tế 4 kỹ năng hoặc VSTEP tương đương để đạt chuẩn ngoại ngữ đầu ra, với chứng chỉ có giá trị trong 2 năm kể từ ngày cấp.
+
+Điều 4. Yêu cầu về chuẩn ngoại ngữ theo tín chỉ tích lũy và chuẩn ngoại ngữ đầu ra
+
+1. Yêu cầu về chuẩn ngoại ngữ theo số lượng tín chỉ tích lũy và chuẩn ngoại ngữ đầu ra được quy định cụ thể cho từng chương trình đào tạo tại các phụ lục tương ứng kèm theo Quy định này.
+2. Kết quả thi các kỳ thi ngoại ngữ nội bộ của Đại học Bách khoa Hà Nội được công nhận để xét điều kiện chuẩn ngoại ngữ theo số lượng tín chỉ tích lũy.
+3. Sinh viên được tham dự các kỳ thi tiếng Anh nội bộ của Đại học Bách khoa Hà Nội nhiều lần và được công nhận điểm thi cao nhất trong các lần thi. Kết quả thi này có giá trị công nhận trong vòng 2 năm kể từ ngày thi.
+4. Sinh viên thuộc các chương trình đào tạo Elitech (bao gồm chương trình tiên tiến, chương trình đào tạo tài năng và chương trình đào tạo hợp tác quốc tế) có ngoại ngữ yêu cầu là tiếng Anh và sinh viên thuộc các chương trình đào tạo chuẩn phải có chứng chỉ tiếng Anh quốc tế 4 kỹ năng hoặc chứng chỉ VSTEP tương đương để được xét công nhận đạt chuẩn ngoại ngữ đầu ra. Các chứng chỉ tiếng Anh có giá trị công nhận trong vòng 2 năm kể từ ngày cấp.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68_01.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_01_007
+chunk_index: 7
+language: vi
+category: Ngoai_ngu_2024_K68_partitioned
+year: N/A
+chunk_title: Điều 5, 6, 7 – Hạn chế khối lượng học tập, trường hợp ngoại lệ và hiệu lực thi hành
+topic_tags: [hạn chế khối lượng học tập, chuẩn ngoại ngữ theo tín chỉ tích lũy, điều kiện gỡ bỏ hạn chế, trường hợp ngoại lệ, hiệu lực thi hành, năm học 2023-2024, khóa 68, khóa 67]
+summary: Điều 5 quy định sinh viên không đạt chuẩn ngoại ngữ theo tín chỉ tích lũy sẽ bị hạn chế khối lượng tín chỉ học tập, với điều kiện gỡ bỏ hạn chế được quy định cụ thể trong phụ lục. Điều 6 nêu các trường hợp ngoại lệ sẽ do Ban Đào tạo đề xuất. Điều 7 quy định hiệu lực thi hành từ năm học 2023-2024 cho khóa 68 trở về sau, và quy định cũ vẫn có hiệu lực cho khóa 67 trở về trước.
+
+Điều 5. Hạn chế khối lượng học tập trong trường hợp không đạt chuẩn ngoại ngữ theo tín chỉ tích lũy và điều kiện gỡ bỏ hạn chế
+
+1. Sinh viên không đạt chuẩn ngoại ngữ quy định theo số lượng tín chỉ tích lũy sẽ bị hạn chế khối lượng tín chỉ học tập theo Quy chế đào tạo hiện hành.
+2. Điều kiện gỡ bỏ hạn chế khối lượng tín chỉ học tập được quy định cụ thể tại các phụ lục tương ứng kèm theo Quy định này.
+
+Điều 6. Các trường hợp ngoại lệ
+
+Các trường hợp ngoại lệ sẽ do Ban Đào tạo đề xuất và trình Giám đốc đại học quyết định.
+
+Điều 7. Hiệu lực thi hành
+
+1. Quy định này được áp dụng từ năm học 2023-2024 đối với các chương trình đào tạo kể từ khóa 68 trở về sau.
+2. Quy định hiện hành về ngoại ngữ đối với các chương trình đào tạo từ khóa 67 trở về trước vẫn tiếp tục còn hiệu lực thi hành cho đến thời điểm kết thúc khóa đào tạo.
+<<<CHUNK_END>>>

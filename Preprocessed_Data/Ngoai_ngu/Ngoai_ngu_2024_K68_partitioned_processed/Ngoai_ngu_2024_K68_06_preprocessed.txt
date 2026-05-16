@@ -1,0 +1,76 @@
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68_06.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_06_001
+chunk_index: 1
+language: vi
+category: Ngoai_ngu_2024_K68_partitioned
+year: N/A
+chunk_title: PHỤ LỤC 5 - Danh mục các học phần và chuẩn yêu cầu ngoại ngữ tiếng Anh
+topic_tags: [PHỤ LỤC 5, chương trình tiên tiến, Elitech, tiếng Anh]
+summary: Giới thiệu Phụ lục 5, trình bày danh mục các học phần và chuẩn yêu cầu ngoại ngữ tiếng Anh cho các chương trình tiên tiến (Elitech) có ngoại ngữ chính là tiếng Anh.
+
+PHỤ LỤC 5
+Danh mục các học phần và chuẩn yêu cầu đối với các chương trình tiên tiến (Elitech)
+có ngoại ngữ chính là TIẾNG ANH
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68_06.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_06_002
+chunk_index: 2
+language: vi
+category: Ngoai_ngu_2024_K68_partitioned
+year: N/A
+chunk_title: Bảng 5.1 Danh mục các học phần tiếng Anh yêu cầu
+topic_tags: [học phần tiếng Anh, Elitech, FL1141, FL1142, FL1143, FL1144, FL1145, FL1146, FL1147, FL1148, FL1149, FL1150, FL1120, FL1121, FL1122, FL1123, FL1124, FL1125, FL1126, FL1127, tín chỉ, học phần miễn, học phần cần học]
+summary: Bảng 5.1 liệt kê 18 học phần tiếng Anh yêu cầu cho chương trình Elitech, bao gồm mã học phần (ví dụ FL1141, FL1127), tên học phần (ví dụ Practical grammar for writing, IELTS Writing 2), thời lượng, và điều kiện miễn/cần học dựa trên các chứng chỉ đạt được [1] đến [4].
+
+Bảng 5.1 Danh mục các học phần tiếng Anh yêu cầu
+
+| TT | Mã học phần | Tên học phần               | Thời lượng | Tính tín chỉ trong CTĐT | Học phần được miễn/cần học theo chứng chỉ đạt được |     |     |     |
+|:---|:------------|:---------------------------|:-----------|:------------------------|:---------------------------------------------------|:----|:----|:----|
+|    |             |                            |            |                         | [1]                                                | [2] | [3] | [4] |
+| 1  | FL1141      | Practical grammar for writing | 3(1-4-0-6) | Không                   | H                                                  | M   | M   | M   |
+| 2  | FL1142      | Communication skills 1     | 3(1-4-0-6) | Không                   | H                                                  | M   | M   | M   |
+| 3  | FL1143      | Working with text 1        | 3(1-4-0-6) | Không                   | H                                                  | M   | M   | M   |
+| 4  | FL1144      | Listening                  | 3(2-2-0-6) | Không                   | H                                                  | M   | M   | M   |
+| 5  | FL1145      | Speaking                   | 2(1-3-0-4) | Không                   | H                                                  | M   | M   | M   |
+| 6  | FL1146      | Reading                    | 2(1-2-0-4) | Không                   | H                                                  | M   | M   | M   |
+| 7  | FL1147      | Writing                    | 3(2-2-0-6) | Không                   | H                                                  | M   | M   | M   |
+| 8  | FL1148      | Foundation Writing         | 2(1-2-0-4) | Không                   | M                                                  | H   | M   | M   |
+| 9  | FL1149      | Communication Skills 2     | 3(2-2-0-6) | Không                   | M                                                  | H   | M   | M   |
+| 10 | FL1150      | Working with text 2        | 2(1-2-0-4) | Không                   | M                                                  | H   | M   | M   |
+| 11 | FL1120      | IELTS Listening 1          | 2(2-1-0-4) | Không                   | M                                                  | H   | M   | M   |
+| 12 | FL1121      | IELTS Speaking 1           | 1(1-1-0-4) | Không                   | M                                                  | H   | M   | M   |
+| 13 | FL1122      | IELTS Reading 1            | 1(1-1-0-4) | Không                   | M                                                  | H   | M   | M   |
+| 14 | FL1123      | IELTS Writing 1            | 2(2-1-0-4) | Không                   | M                                                  | H   | M   | M   |
+| 15 | FL1124      | IELTS Listening 2          | 2(2-1-0-4) | Có                      | H                                                  | H   | H   | M   |
+| 16 | FL1125      | IELTS Speaking 2           | 1(1-1-0-4) | Có                      | H                                                  | H   | H   | M   |
+| 17 | FL1126      | IELTS Reading 2            | 1(1-1-0-4) | Có                      | H                                                  | H   | H   | M   |
+| 18 | FL1127      | IELTS Writing 2            | 2(2-1-0-4) | Có                      | H                                                  | H   | H   | M   |
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Ngoai_ngu_2024_K68_06.pdf
+parent_doc_id: Ngoai_ngu_2024_K68
+chunk_id: Ngoai_ngu_2024_K68_06_003
+chunk_index: 3
+language: vi
+category: Ngoai_ngu_2024_K68_partitioned
+year: N/A
+chunk_title: Ghi chú và Bảng 5.2 - Yêu cầu chuẩn tiếng Anh theo số tín chỉ tích lũy và chuẩn đầu ra
+topic_tags: [IELTS, chứng chỉ ngoại ngữ, miễn học, bắt buộc học, tín chỉ tích lũy, chuẩn đầu ra, điều kiện tốt nghiệp, đồ án tốt nghiệp, khóa luận tốt nghiệp]
+summary: Phần ghi chú giải thích các mức trình độ IELTS (dưới 3.0 đến 5.5 trở lên) và ký hiệu M (miễn học) và H (bắt buộc học) trong Bảng 5.1. Bảng 5.2 quy định yêu cầu chuẩn tiếng Anh theo số tín chỉ tích lũy (32 TC, 49 TC) và điều kiện xét nhận đồ án/khóa luận tốt nghiệp, cũng như điều kiện xét tốt nghiệp, với yêu cầu IELTS 4.5 hoặc 5.5 hoặc đạt các học phần tiếng Anh tương ứng.
+
+Ghi chú:
+[1]: Đạt trình độ IELTS dưới 3.0 hoặc tương đương;
+[2]: Đạt trình độ IELTS 3.0-4.0 hoặc tương đương;
+[3]: Đạt trình độ IELTS 4.5-5.0 hoặc tương đương;
+[4]: Đạt trình độ IELTS từ 5.5 hoặc tương đương.
+M: được miễn học (ghi điểm R); H: bắt buộc học.
+
+Bảng 5.2 Yêu cầu chuẩn tiếng Anh theo số tín chỉ tích lũy và chuẩn đầu ra
+
+| Số tín chỉ tích lũy                 | Trình độ ngoại ngữ

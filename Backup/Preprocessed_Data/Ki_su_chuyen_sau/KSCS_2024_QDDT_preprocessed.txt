@@ -1,0 +1,114 @@
+<<<CHUNK_START>>>
+source: KSCS_2024_QDDT.pdf
+parent_doc_id: KSCS_2024_QDDT
+chunk_id: KSCS_2024_QDDT_001
+chunk_index: 1
+language: vi
+category: Ki_su_chuyen_sau
+year: N/A
+chunk_title: Quyết định ban hành chương trình đào tạo Kỹ sư chuyên sâu
+topic_tags: [quyết định, kỹ sư chuyên sâu, đào tạo]
+summary: Quyết định số 7737/QĐ-ĐHBK ngày 29/7/2024 của Đại học Bách khoa Hà Nội về việc ban hành Bộ tiêu chí năng lực, khung chương trình và đối tượng tuyển sinh chương trình đào tạo Kỹ sư chuyên sâu.
+
+**BỘ GIÁO DỤC VÀ ĐÀO TẠO**
+**ĐẠI HỌC BÁCH KHOA HÀ NỘI**
+Số: 7737/QĐ-ĐHBK
+
+**QUYẾT ĐỊNH**
+Ban hành Bộ tiêu chí về năng lực của người tốt nghiệp, khung chương trình đào tạo và đối tượng tuyển sinh đối với chương trình đào tạo kỹ sư chuyên sâu của Đại học Bách khoa Hà Nội
+
+**GIÁM ĐỐC ĐẠI HỌC BÁCH KHOA HÀ NỘI**
+*(Các căn cứ pháp lý bao gồm Luật Giáo dục đại học, Nghị định 99/2019/NĐ-CP, Thông tư 17/2021/TT-BGDĐT, Quyết định 1982/QĐ-TTg, Quy chế tổ chức và hoạt động của ĐHBK Hà Nội và Quy chế đào tạo của ĐHBK Hà Nội)*
+
+**QUYẾT ĐỊNH:**
+**Điều 1.** Ban hành Bộ tiêu chí về năng lực của người tốt nghiệp, khung chương trình đào tạo và đối tượng tuyển sinh đối với chương trình đào tạo kỹ sư chuyên sâu của Đại học Bách khoa Hà Nội.
+**Điều 2.** Quyết định có hiệu lực kể từ ngày ký. Các Ông/Bà Trưởng Ban Đào tạo, Trưởng các đơn vị đào tạo, các đơn vị có liên quan, cán bộ viên chức, sinh viên, học viên của Đại học Bách khoa Hà Nội chịu trách nhiệm thi hành Quyết định này.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: KSCS_2024_QDDT.pdf
+parent_doc_id: KSCS_2024_QDDT
+chunk_id: KSCS_2024_QDDT_002
+chunk_index: 2
+language: vi
+category: Ki_su_chuyen_sau
+year: N/A
+chunk_title: I. Năng lực của người tốt nghiệp chương trình đào tạo kỹ sư chuyên sâu
+topic_tags: [chuẩn đầu ra, kỹ sư chuyên sâu, năng lực]
+summary: Quy định về chuẩn đầu ra của chương trình đào tạo kỹ sư chuyên sâu (KSCS), đạt bậc 7 Khung năng lực quốc gia, định hướng nghề nghiệp và yêu cầu ngoại ngữ bậc 4/6.
+
+**I. Năng lực của người tốt nghiệp chương trình đào tạo kỹ sư chuyên sâu**
+
+1. Chuẩn đầu ra của chương trình đào tạo (CTĐT) kỹ sư chuyên sâu (KSCS), cấp bằng kỹ sư cho người tốt nghiệp của Đại học Bách khoa Hà Nội đạt bậc 7 trong Khung năng lực quốc gia Việt Nam, bao gồm kiến thức thực tế và kiến thức lý thuyết; kỹ năng nhận thức, kỹ năng thực hành nghề nghiệp và kỹ năng giao tiếp, ứng xử; mức độ tự chủ và trách nhiệm cá nhân trong việc áp dụng kiến thức, kỹ năng để thực hiện các nhiệm vụ chuyên môn.
+
+2. CTĐT KSCS có định hướng nghề nghiệp, cung cấp kiến thức chuyên môn chuyên sâu gắn với chuyên ngành hoặc lĩnh vực ứng dụng của ngành để thích ứng tốt với công việc thiết kế giải pháp kỹ thuật, công nghệ; thực tế nghề nghiệp gắn với chuyên ngành được đào tạo và có kiến thức nền tảng về quản lý và triển khai dự án. Chú trọng đến năng lực phân tích đánh giá, nhận dạng các vấn đề thực tiễn và phản biện, kỹ năng phân tích, tổng hợp, đánh giá dữ liệu và thông tin để đưa ra giải pháp hợp lý về kinh tế kỹ thuật và kỹ năng thiết kế hệ thống/quy trình/sản phẩm trong lĩnh vực nghề nghiệp.
+
+3. Chuẩn đầu ra ngoại ngữ đối với người học đạt tương đương bậc 4/6 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: KSCS_2024_QDDT.pdf
+parent_doc_id: KSCS_2024_QDDT
+chunk_id: KSCS_2024_QDDT_003
+chunk_index: 3
+language: vi
+category: Ki_su_chuyen_sau
+year: N/A
+chunk_title: II. Khung chương trình đào tạo kỹ sư chuyên sâu
+topic_tags: [khung chương trình, tín chỉ, tốt nghiệp]
+summary: Quy định khối lượng học tập 60 tín chỉ, thời gian đào tạo 2 năm và cấu trúc các nhóm học phần của chương trình kỹ sư chuyên sâu.
+
+**II. Khung chương trình đào tạo kỹ sư chuyên sâu**
+
+1. CTĐT KSCS có khối lượng học tập 60 tín chỉ đối với người học đã tốt nghiệp đại học. Thời gian học tập toàn khóa theo kế hoạch học tập chuẩn là 2 năm, người tốt nghiệp được cấp bằng kỹ sư bậc 7 theo Khung năng lực quốc gia Việt Nam.
+
+2. Điểm trung bình toàn khóa được sử dụng để xét tốt nghiệp và xếp hạng tốt nghiệp là điểm trung bình tích lũy toàn khóa tính theo các học phần đăng ký xét tốt nghiệp thuộc CTĐT KSCS.
+
+3. Học viên của CTĐT KSCS được Giám đốc Đại học Bách khoa Hà Nội công nhận tốt nghiệp được cấp bằng tốt nghiệp Kỹ sư bậc 7 theo Khung năng lực quốc gia Việt Nam.
+
+4. Khung quy định của CTĐT KSCS:
+
+| Học phần/ Nhóm học phần | Số tín chỉ | Yêu cầu |
+| :--- | :---: | :--- |
+| (1) Kiến thức định hướng chuyên ngành | 12 | Gồm các học phần được thiết kế theo nhóm để định hướng người học tiếp cận theo chuyên ngành. |
+| (2) Kiến thức chuyên ngành cốt lõi | 19-20 | Kiến thức chuyên sâu bắt buộc theo chuyên ngành, thiết kế theo mô đun. Phải có ít nhất 01 Đồ án môn học (2-3 tín chỉ) và học phần Quản trị dự án (2 tín chỉ). |
+| (3) Khối kiến thức tự chọn | 13-14 | Gồm (a) Tự chọn mô đun (7-8 tín chỉ, có 01 Đồ án môn học) và (b) Tự chọn chung (5-6 tín chỉ). Tổng (2)+(3) = 33 tín chỉ. |
+| (4) Thực tập kỹ sư | 06 | Thực hiện tại các cơ sở công nghiệp. |
+| (5) Đồ án tốt nghiệp kỹ sư | 09 | Đề tài tốt nghiệp gắn liền với lĩnh vực ứng dụng và phù hợp với nội dung thực tập kỹ sư. |
+| **Tổng cộng** | **60** | |
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: KSCS_2024_QDDT.pdf
+parent_doc_id: KSCS_2024_QDDT
+chunk_id: KSCS_2024_QDDT_004
+chunk_index: 4
+language: vi
+category: Ki_su_chuyen_sau
+year: N/A
+chunk_title: III. Đối tượng xét tuyển, học bổ sung, miễn học và công nhận tín chỉ
+topic_tags: [xét tuyển, học bổ sung, miễn học, công nhận tín chỉ]
+summary: Quy định về điều kiện xét tuyển, yêu cầu học bổ sung kiến thức và chính sách miễn học, công nhận tín chỉ cho học viên chương trình kỹ sư chuyên sâu.
+
+**III. Đối tượng xét tuyển, học bổ sung, miễn học và công nhận tín chỉ**
+
+1. Người dự tuyển đáp ứng các yêu cầu sau được đăng ký xét tuyển vào học CTĐT KSCS:
+a) Đã tốt nghiệp từ bậc đại học trở lên với ngành học hoặc CTĐT thuộc danh mục xét tuyển đầu vào.
+b) Đã tốt nghiệp từ bậc đại học trở lên với CTĐT có chuẩn đầu ra ngoại ngữ tương đương bậc 3/6 trở lên.
+
+2. Yêu cầu học bổ sung kiến thức:
+a) Người học đúng ngành, đúng định hướng chuyên sâu không cần học bổ sung.
+b) Người học đúng ngành nhưng khác định hướng: học bổ sung tối đa 12 tín chỉ.
+c) Người học khác ngành: học bổ sung theo đề xuất của trường/khoa quản ngành.
+d) Phải hoàn thành học phần bổ sung trước khi được xét giao Đồ án tốt nghiệp.
+đ) Trường/khoa quản ngành đề xuất danh mục học phần bổ sung trình Giám đốc phê duyệt.
+
+3. Tổ chức dạy học các học phần bổ sung và học tích lũy tín chỉ:
+a) Trường/khoa quản ngành sắp xếp kế hoạch học tập phù hợp.
+b) Sinh viên chương trình tích hợp cử nhân - KSCS được học tích lũy trước tối đa 15 tín chỉ.
+
+4. Miễn học và công nhận tín chỉ:
+a) Người học chương trình tích hợp cử nhân - KSCS được miễn tối đa 12 tín chỉ khối kiến thức định hướng chuyên ngành.
+b) Được xem xét công nhận học phần tương đương từ CTĐT thạc sĩ (tích lũy không quá 5 năm).
+c) Tổng số tín chỉ được công nhận không vượt quá 30 tín chỉ.
+<<<CHUNK_END>>>

@@ -1,0 +1,133 @@
+<<<CHUNK_START>>>
+source: Huong_dan_2023_Thu_tuc_hanh_chinh_VB_CC_KQHT.pdf
+parent_doc_id: Huong_dan_2023_Thu_tuc_hanh_chinh_VB_CC_KQHT
+chunk_id: Huong_dan_2023_Thu_tuc_hanh_chinh_VB_CC_KQHT_001
+chunk_index: 1
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Quyết định Ban hành Hướng dẫn triển khai thủ tục hành chính về xác nhận văn bằng, chứng chỉ, kết quả học tập
+topic_tags: [thủ tục hành chính, xác nhận văn bằng, xác nhận chứng chỉ, xác nhận kết quả học tập]
+summary: Quyết định số 6100/QĐ-ĐHBK ngày 07 tháng 11 năm 2023 của Giám đốc Đại học Bách khoa Hà Nội về việc ban hành Hướng dẫn triển khai thủ tục hành chính liên quan đến xác nhận văn bằng, chứng chỉ và kết quả học tập.
+[Nội dung chunk ở đây]
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+ĐẠI HỌC BÁCH KHOA HÀ NỘI
+SỐ: 6100 IQĐ-ĐHBK
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Hà Nội, ngày 7 tháng 11 năm 2023
+QUYẾT ĐỊNH
+Ban hành Hướng dẫn triển khai thủ tục hành chính
+về xác nhận văn bằng, chứng chỉ, kết quả học tập
+GIÁM ĐỐC ĐẠI HỌC BÁCH KHOA HÀ NỘI
+Căn cứ Luật Giáo dục đại học ngày 18 tháng 6 năm 2012 và Luật sửa đổi, bổ sung
+một số điều của Luật Giáo dục đại học ngày 19 tháng 11 năm 2018;
+Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ về
+việc Quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số
+điều của Luật Giáo dục đại học;
+Căn cứ Quy chế Tổ chức và hoạt động của Đại học Bách khoa Hà Nội do Hội đồng
+Đại học ban hành theo Nghị quyết số 17/NQ-ĐHBK ngày 16 tháng 03 năm 2023;
+Căn cứ Quyết định giữ nguyên hiệu lực pháp lý của các nội dung văn bản hiện hành
+của Trường Đại học Bách khoa Hà Nội do Hiệu trưởng ban hành trong giai đoạn hoàn
+thiện mô hình đại học do Giám đốc ban hành theo Quyết định số 1734/QĐ-ĐHBK ngày 16
+tháng 03 năm 2023;
+Căn cứ Quy định về Tổ chức và quản lý đào tạo của Trường Đại học Bách khoa Hà
+Nội do Hiệu trưởng ban hành theo Quyết định số 22/QĐ-ĐHBK-ĐT ngày 19 tháng 10 năm
+2018;
+Căn cứ Quy chế đào tạo của Đại học Bách khoa Hà Nội do Giám đốc ban hành theo
+Quyết định số 4600/QĐ-ĐHBK ngày 09 tháng 06 năm 2023;
+Theo đề nghị của Trưởng phòng Đào tạo.
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Hướng dẫn triển khai thủ tục hành chính
+về xác nhận văn bằng, chứng chỉ, kết quả học tập của Đại học Bách khoa Hà Nội.
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký.
+Điều 3. Các Ông/Bà Trưởng phòng Đào tạo, Trưởng các đơn vị được giao nhiệm vụ
+thực hiện đào tạo, các đơn vị có liên quan, các cán bộ viên chức, sinh viên, học viên và
+nghiên cứu sinh của Đại học Bách khoa Hà Nội chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:
+- Như Điều 3,
+- Lưu: VT, ĐT.
+KT. GIÁM ĐỐC
+PHO GIÁM ĐỐC
+PGS.TS. Nguyễn Phong Điền
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2023_Thu_tuc_hanh_chinh_VB_CC_KQHT.pdf
+parent_doc_id: Huong_dan_2023_Thu_tuc_hanh_chinh_VB_CC_KQHT
+chunk_id: Huong_dan_2023_Thu_tuc_hanh_chinh_VB_CC_KQHT_002
+chunk_index: 2
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Hướng dẫn triển khai thủ tục hành chính về xác nhận văn bằng, chứng chỉ, kết quả học tập
+topic_tags: [thủ tục hành chính, xác nhận văn bằng, xác nhận chứng chỉ, xác nhận kết quả học tập]
+summary: Hướng dẫn chi tiết về thủ tục hành chính liên quan đến xác nhận văn bằng, chứng chỉ và kết quả học tập tại Đại học Bách khoa Hà Nội, bao gồm phạm vi áp dụng và các công việc thực hiện.
+[Nội dung chunk ở đây]
+HƯỚNG DẪN
+Triển khai thủ tục hành chính
+về xác nhận văn bằng, chứng chỉ, kết quả học tập
+(Kèm theo Quyết định số 6100/QĐ-ĐHBK ngày 07 tháng 11 năm 2023 của Giám đốc Đại
+học Bách khoa Hà Nội)
+
+I. Phạm vi áp dụng
+1. Căn cứ triển khai hướng dẫn
+Căn cứ Khoản 1 Điều 31 Quy chế Tổ chức và quản lý đào tạo về Giải quyết thủ tục
+hành chính đối với người học ban hành theo Quyết định số 22/QĐ-ĐHBK-ĐT ngày 19 tháng
+10 năm 2018 của Hiệu trưởng Trường Đại học Bách khoa Hà Nội.
+2. Phạm vi áp dụng của hướng dẫn
++ Áp dụng với người học hiện đang học tập tại Đại học Bách khoa (viết tắt: ĐHBK)
+Hà Nội.
++ Áp dụng đối với người học đã được cấp văn bằng tốt nghiệp hoặc chứng chỉ của Đại
+học Bách khoa Hà Nội.
++ Áp dụng đối với các cơ quan, tổ chức, cơ sở đào tạo trong nước và nước ngoài (gọi
+tắt là “các tổ chức”) có yêu cầu xác nhận văn bằng, chứng chỉ, kết quả học tập do Đại học
+Bách khoa Hà Nội cấp.
+II. Hướng dẫn thực hiện xác nhận văn bằng tốt nghiệp, chứng chỉ, kết quả học
+tập
+1. Các công việc liên quan tới xác minh văn bằng tốt nghiệp, chứng chỉ
+a) Xác thực nguồn gốc văn bằng tốt nghiệp, chứng chỉ
+Việc xác thực nguồn gốc văn bằng tốt nghiệp, chứng chỉ chỉ áp dụng với các tổ chức
+có yêu cầu, căn cứ trên công văn/đề nghị gửi tới ĐHBK Hà Nội. Kết quả xác thực được
+ĐHBK Hà Nội trả lời bằng văn bản và gửi tới tổ chức đã đề nghị.
+Thông tin về văn bằng, chứng chỉ có thể tra cứu tại trang chủ của ĐHBK Hà Nội tại
+https://hust.edu.vn/ vào mục “ĐÀO TẠO” và vào tiểu mục “Tra cứu văn bằng”.
+b) Xác nhận trình độ tương đương của văn bằng tốt nghiệp do ĐHBK Hà Nội cấp với
+hệ thống văn bằng của các nước khác. Áp dụng với tổ chức và cá nhân có yêu cầu.
+c) Công văn/đề nghị xác nhận gửi về theo địa chỉ:
+Phòng Đào tạo, Đại học Bách khoa Hà Nội
+Địa chỉ: Đại Cồ Việt, Hai Bà Trưng, Hà Nội, Việt Nam
+Email: dt@hust.edu.vn
+Điện thoại: (+84).243.868.2305
+2. Các công việc liên quan tới xác nhận kết quả học tập
+a) Xác nhận chương trình đào tạo của sinh viên: áp dụng với các tổ chức có yêu cầu.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2023_Thu_tuc_hanh_chinh_VB_CC_KQHT.pdf
+parent_doc_id: Huong_dan_2023_Thu_tuc_hanh_chinh_VB_CC_KQHT
+chunk_id: Huong_dan_2023_Thu_tuc_hanh_chinh_VB_CC_KQHT_003
+chunk_index: 3
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Hướng dẫn xác nhận kết quả học tập và quy đổi tín chỉ
+topic_tags: [xác nhận kết quả học tập, quy đổi tín chỉ, ETCS]
+summary: Hướng dẫn các công việc liên quan đến xác nhận kết quả học tập của sinh viên, bao gồm kết quả toàn khóa, theo học kỳ, năm học và xác nhận quy đổi tương đương tín chỉ theo hệ thống ETCS.
+[Nội dung chunk ở đây]
+b) Xác nhận kết quả học tập của sinh viên, bao gồm kết quả học tập toàn khóa, kết quả
+học tập theo học kỳ hoặc năm học. Áp dụng đối với người học và các tổ chức có nhu cầu.
+c) Xác nhận quy đổi tương đương tín chỉ tích lũy theo hệ thống tín chỉ của các nước/các
+khối nước, bao gồm quy đổi sang hệ tín chỉ ETCS (European Credit Transfer and
+Accumulation System). Áp dụng đối với người học và các tổ chức có yêu cầu.
+Với các hệ thống tín chỉ không phổ biến, người yêu cầu/tổ chức yêu cầu xác nhận cần
+cung cấp tài liệu mô tả các đặc thù của hệ thống tín chỉ đó để làm căn cứ quy đổi.
+d) Hướng dẫn và biểu mẫu liên quan tới xác nhận kết quả học tập công bố tại trang
+web: https://sv-ctt.hust.edu.vn/#/so-tay-sv vào mục “Sổ tay” vào tiểu mục “[Phòng Đào tạo]
+Hướng dẫn thủ tục, biểu mẫu, thắc mắc về học tập, học phí.”
+III. Tổ chức thực hiện
+1. Phòng Đào tạo chịu trách nhiệm tiếp nhận các yêu cầu và giải quyết các thủ tục hành
+chính liên quan tới xác nhận văn bằng, chứng chỉ, kết quả học tập.
+2. Căn cứ trên hướng dẫn này, các đơn vị chức năng có liên quan và các trường/viện
+xây dựng các hướng dẫn phù hợp theo chức năng, quyền hạn./
+<<<CHUNK_END>>>
