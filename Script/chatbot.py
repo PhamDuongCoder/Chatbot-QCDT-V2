@@ -50,8 +50,9 @@ MAX_HISTORY = 10
 
 
 def get_connection():
-    """Create a database connection with pgvector support."""
-    conn = psycopg2.connect(**DB_CONFIG)
+    conn = psycopg2.connect(
+        f"postgresql://{os.getenv('SUPABASE_DB_USER')}:{os.getenv('SUPABASE_DB_PASSWORD')}@{os.getenv('SUPABASE_DB_HOST')}/{os.getenv('SUPABASE_DB_NAME')}?sslmode=require"
+    )
     register_vector(conn)
     return conn
 
