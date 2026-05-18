@@ -1,0 +1,8 @@
+streamlit
+google-genai
+psycopg2-binary
+pgvector
+python-dotenv
+pymupdf
+python-docx
+docx2pdf
