@@ -51,7 +51,7 @@ MAX_HISTORY = 10
 
 def get_connection():
     conn = psycopg2.connect(
-        f"postgresql://{os.getenv('SUPABASE_DB_USER')}:{os.getenv('SUPABASE_DB_PASSWORD')}@{os.getenv('SUPABASE_DB_HOST')}/{os.getenv('SUPABASE_DB_NAME')}?sslmode=require"
+        f"postgresql://{os.getenv('SUPABASE_DB_USER')}:{os.getenv('SUPABASE_DB_PASSWORD')}@{os.getenv('SUPABASE_DB_HOST')}/{os.getenv('SUPABASE_DB_NAME')}?sslmode=require&gssencmode=disable"
     )
     register_vector(conn)
     return conn
