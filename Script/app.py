@@ -278,6 +278,16 @@ html, body, [class*="css"] {
 [data-testid="stChatInput"] textarea::placeholder {
     color: #94a3b8 !important;
 }
+            
+/* Citation links */
+[data-testid="stChatMessage"] a {
+    color: #e2e8f0 !important;
+    text-decoration: underline !important;
+}
+
+[data-testid="stChatMessage"] a:hover {
+    color: var(--gold) !important;
+}
 
 </style>
 """, unsafe_allow_html=True)
