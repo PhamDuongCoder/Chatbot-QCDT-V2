@@ -8,7 +8,7 @@ category: Do_an
 year: N/A
 chunk_title: Một số lưu ý khi sinh viên đăng ký ĐATN
 topic_tags: [đăng ký, ĐATN, sinh viên năm 4]
-summary: Hướng dẫn chung cho sinh viên năm thứ 4 về các phương án lựa chọn giữa tốt nghiệp Cử nhân, học Cử nhân - Thạc sĩ, hoặc tốt nghiệp Kỹ sư.
+summary: Hướng dẫn chung cho sinh viên năm thứ 4 về các phương án lựa chọn giữa tốt nghiệp Cử nhân, học Cử nhân - Thạc sĩ hoặc tốt nghiệp Kỹ sư.
 
 Một số lưu ý khi sinh viên đăng ký ĐATN
 Sinh viên năm thứ 4 có các phương án lựa chọn tiếp tục học tập hoặc tốt nghiệp.
@@ -45,7 +45,7 @@ category: Do_an
 year: N/A
 chunk_title: 2. Mong muốn học Cử nhân - Thạc sĩ khoa học
 topic_tags: [Cử nhân - Thạc sĩ, CPA, TOEIC, Đồ án nghiên cứu cử nhân]
-summary: Điều kiện xét tuyển chương trình Cử nhân - Thạc sĩ bao gồm CPA >= 2.5, TOEIC 500 và hoàn thành Đồ án nghiên cứu cử nhân (8TC).
+summary: Điều kiện xét tuyển chương trình Cử nhân - Thạc sĩ bao gồm CPA >= 2.5, hoàn thành chương trình chuẩn, TOEIC 500 và yêu cầu bảo vệ Đồ án nghiên cứu cử nhân (8TC).
 
 2. Mong muốn học Cử nhân - Thạc sĩ khoa học
 Cần xét/tuyển:
@@ -68,7 +68,7 @@ Chương trình Thạc sĩ
 - Được phép tiếp tục học phần Thạc sĩ trong trường hợp đã hoàn thành Đồ án nghiên cứu cử nhân (tối đa 8 TC)
 
 Tốt nghiệp cấp bằng Thạc sĩ khoa học
-- Tổng thời gian học: 5,5 năm
+Tổng thời gian học: 5,5 năm
 <<<CHUNK_END>>>
 
 <<<CHUNK_START>>>
@@ -80,8 +80,8 @@ language: vi
 category: Do_an
 year: N/A
 chunk_title: 3. Mong muốn Tốt nghiệp Kỹ sư
-topic_tags: [tốt nghiệp kỹ sư, thực tập tốt nghiệp, đồ án tốt nghiệp kỹ sư]
-summary: Quy định cho sinh viên tốt nghiệp Kỹ sư, bao gồm các học phần Thực tập kỹ thuật (2TC), Thực tập tốt nghiệp kỹ sư (3TC) và Đồ án tốt nghiệp kỹ sư (9TC).
+topic_tags: [tốt nghiệp kỹ sư, thực tập kỹ thuật, đồ án tốt nghiệp kỹ sư]
+summary: Quy định đăng ký cho sinh viên mong muốn tốt nghiệp Kỹ sư, bao gồm các học phần thực tập và đồ án tốt nghiệp kỹ sư.
 
 3. Mong muốn Tốt nghiệp Kỹ sư
 (Tốt nghiệp theo CTDT cử nhân kỹ sư)
@@ -100,7 +100,7 @@ Chương trình Thạc sĩ
 - Số tín chỉ học phần (bao gồm cả 15TC luận văn thạc sĩ): 45 TC
 
 Tốt nghiệp cấp bằng Thạc sĩ
-- Tổng thời gian học: 6 năm
+Tổng thời gian học: 6 năm
 <<<CHUNK_END>>>
 
 <<<CHUNK_START>>>
@@ -110,10 +110,10 @@ chunk_id: DATN_2021_Dang_ky_005
 chunk_index: 5
 language: vi
 category: Do_an
-year: 2020-2021
-chunk_title: Lưu ý về học phí và hỗ trợ nghiên cứu
-topic_tags: [học phí, thạc sĩ, hỗ trợ nghiên cứu, CPA]
-summary: Mức học phí chương trình thạc sĩ năm 2020-2021 là 720.000đ/TC (kỹ thuật) và 780.000đ/TC (kinh tế), cùng chính sách hỗ trợ nghiên cứu 50-100% dựa trên CPA.
+year: N/A
+chunk_title: Lưu ý về học phí và hỗ trợ nghiên cứu chương trình Thạc sĩ
+topic_tags: [học phí, hỗ trợ nghiên cứu, CPA]
+summary: Thông tin mức học phí chương trình thạc sĩ năm 2020-2021 và chính sách hỗ trợ nghiên cứu dựa trên CPA tốt nghiệp bậc cử nhân.
 
 Một số lưu ý:
 Mức học phí chương trình thạc sĩ (năm 2020-2021):
@@ -135,54 +135,54 @@ chunk_index: 6
 language: vi
 category: Do_an
 year: N/A
-chunk_title: Danh mục mã học phần Đồ án nghiên cứu cử nhân
+chunk_title: Danh mục mã học phần Đồ án nghiên cứu cử nhân (8 TC)
 topic_tags: [mã học phần, đồ án nghiên cứu cử nhân, danh mục]
-summary: Bảng danh mục mã học phần Đồ án nghiên cứu cử nhân (8TC) cho các Viện, bao gồm các ngành như Công nghệ sinh học, Kỹ thuật hóa học, Điện, Kinh tế & Quản lý, v.v.
+summary: Bảng danh mục mã học phần Đồ án nghiên cứu cử nhân (8TC) cho các viện đào tạo, bao gồm các ngành như Công nghệ Sinh học, Kỹ thuật Hóa học, Điện, Kinh tế & Quản lý, Điện tử - Viễn thông, Môi trường, CNTT, Cơ khí, Toán ứng dụng, Vật liệu, Vật lý kỹ thuật, Cơ khí Động lực, Dệt may.
 
 | STT | Viện | Mã học phần | Tên học phần | Khối lượng |
 |:---|:---|:---|:---|:---|
-| 1 | Công nghệ Sinh học và công nghệ Thực phẩm | BF4792 | Đồ án nghiên cứu Cử nhân (Kỹ thuật sinh học) | 8(0-0-16-32) |
-| 2 | Công nghệ Sinh học và công nghệ Thực phẩm | BF4992 | Đồ án nghiên cứu Cử nhân (Kỹ thuật thực phẩm) | 8(0-0-16-32) |
-| 3 | Công nghệ Sinh học và công nghệ Thực phẩm | BF4992E | Đồ án nghiên cứu Cử nhân (CTTT Kỹ thuật thực phẩm) | 8(0-0-16-32) |
-| 4 | Kỹ thuật Hóa học | CH4903 | Đồ án nghiên cứu Cử nhân (Hóa học) | 8(0-0-16-32) |
-| 5 | Kỹ thuật Hóa học | CH4943 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Hóa học) | 8(0-0-16-32) |
-| 6 | Kỹ thuật Hóa học | CH4905 | Đồ án nghiên cứu Cử nhân (Kỹ thuật In) | 8(0-0-16-32) |
-| 7 | Điện | EE4920 | Đồ án nghiên cứu Cử nhân (Kỹ thuật điện) | 8(0-0-16-32) |
-| 8 | Điện | EE4920E | Đồ án nghiên cứu Cử nhân (CTTT Hệ điện) | 8(0-0-16-32) |
-| 9 | Điện | EE4921 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Điện – Điện tử và Tự động hóa) | 8(0-0-16-32) |
-| 10 | Điện | EE4922 | Đồ án nghiên cứu Cử nhân (CTTN ĐKĐT) | 8(0-0-16-32) |
-| 11 | Điện | EE4922E | Đồ án nghiên cứu Cử nhân (CTTT ĐKĐT) | 8(0-0-16-32) |
-| 12 | Kinh tế & Quản lý | EM4353 | Đồ án nghiên cứu Cử nhân (Quản trị kinh doanh) | 8(0-0-16-32) |
-| 13 | Kinh tế & Quản lý | EM4353E | Đồ án nghiên cứu Cử nhân (Quản trị kinh doanh) | 8(0-0-16-32) |
-| 14 | Kinh tế & Quản lý | EM4352E | Đồ án nghiên cứu Cử nhân (Logistics và Quản lý chuỗi cung ứng) | 8(0-0-16-32) |
-| 15 | Kinh tế & Quản lý | EM4652 | Đồ án nghiên cứu Cử nhân (Quản lý công nghiệp) | 8(0-0-16-32) |
-| 16 | Điện tử - Viễn thông | ET4920 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Điện tử - Viễn thông) | 8(0-0-16-32) |
-| 17 | Điện tử - Viễn thông | ET4920E | Đồ án nghiên cứu Cử nhân (CTTT Kỹ thuật Viễn thông) | 8(0-0-16-32) |
-| 18 | Điện tử - Viễn thông | ET4921E | Đồ án nghiên cứu Cử nhân (CTTT ĐTVT) | 8(0-0-16-32) |
-| 19 | Điện tử - Viễn thông | ET4922 | Đồ án nghiên cứu Cử nhân (CTTN ĐTVT truyền thông) | 8(0-0-16-32) |
-| 20 | Khoa học và Công nghệ Môi trường | EV4902 | Đồ án nghiên cứu Cử nhân (Kỹ thuật môi trường) | 8(0-0-16-32) |
-| 21 | Khoa học và Công nghệ Môi trường | HE4490 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Nhiệt) | 8(0-0-16-32) |
-| 22 | Công nghệ Thông tin và Truyền thông | IT4993 | Đồ án nghiên cứu Cử nhân (Khoa học máy tính) | 8(0-0-16-32) |
-| 23 | Công nghệ Thông tin và Truyền thông | IT4998 | Đồ án nghiên cứu Cử nhân (Khoa học máy tính) | 8(0-0-16-32) |
-| 24 | Công nghệ Thông tin và Truyền thông | IT4998E | Đồ án nghiên cứu Cử nhân (Khoa học dữ liệu và Trí tuệ nhân tạo) | 8(0-0-16-32) |
-| 25 | Công nghệ Thông tin và Truyền thông | IT4999 | Đồ án nghiên cứu Cử nhân (Kỹ thuật máy tính) | 8(0-0-16-32) |
-| 26 | Cơ khí | ME4994 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Cơ khí) | 8(0-0-16-32) |
-| 27 | Cơ khí | ME4995 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Cơ điện tử) | 8(0-0-16-32) |
-| 28 | Cơ khí | ME4995E | Đồ án nghiên cứu Cử nhân (CTTT Cơ điện tử) | 8(0-0-16-32) |
-| 29 | Cơ khí | ME4996 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Cơ khí) | 8(0-0-16-32) |
-| 30 | Toán ứng dụng và Tin học | MI4901 | Đồ án nghiên cứu Cử nhân (Toán Tin) | 8(0-0-16-32) |
-| 31 | Toán ứng dụng và Tin học | MI4902 | Đồ án nghiên cứu Cử nhân (CTTN Toán Tin) | 8(0-0-16-32) |
-| 32 | Khoa học và Kỹ thuật Vật liệu | MSE4989 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Vật liệu) | 8(0-0-16-32) |
-| 33 | Khoa học và Kỹ thuật Vật liệu | MSE4989E | Đồ án nghiên cứu Cử nhân (CTTT KHTL) | 8(0-0-16-32) |
-| 34 | Vật lý kỹ thuật | PH4009 | Đồ án nghiên cứu Cử nhân (Kỹ thuật hạt nhân) | 8(0-0-16-32) |
-| 35 | Vật lý kỹ thuật | PH4019 | Đồ án nghiên cứu Cử nhân (Vật lý kỹ thuật và Vật lý toán) | 8(0-0-16-32) |
-| 36 | Cơ khí Động lực | TE4992 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Ô tô) | 8(0-0-16-32) |
-| 37 | Cơ khí Động lực | TE4992E | Đồ án nghiên cứu Cử nhân (CTTT Kỹ thuật Ô tô) | 8(0-0-16-32) |
-| 38 | Cơ khí Động lực | TE4996 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Hàng không) | 8(0-0-16-32) |
-| 39 | Cơ khí Động lực | TE4997 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Động lực) | 8(0-0-16-32) |
-| 40 | Dệt may - Da giày và Thời trang | TEX4961 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Dệt) | 8(0-0-16-32) |
-| 41 | Dệt may - Da giày và Thời trang | TEX4961 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Dệt) | 8(0-0-16-32) |
-| 42 | Dệt may - Da giày và Thời trang | TEX4962 | Đồ án nghiên cứu Cử nhân (Công nghệ May) | 8(0-0-16-32) |
+| 1 | Viện Công nghệ Sinh học và công nghệ Thực phẩm | BF4792 | Đồ án nghiên cứu Cử nhân (Kỹ thuật sinh học) | 8(0-0-16-32) |
+| 2 | Viện Công nghệ Sinh học và công nghệ Thực phẩm | BF4992 | Đồ án nghiên cứu Cử nhân (Kỹ thuật thực phẩm) | 8(0-0-16-32) |
+| 3 | Viện Công nghệ Sinh học và công nghệ Thực phẩm | BF4992E | Đồ án nghiên cứu Cử nhân (CTTT Kỹ thuật thực phẩm) | 8(0-0-16-32) |
+| 4 | Viện Kỹ thuật Hóa học | CH4903 | Đồ án nghiên cứu Cử nhân (Hóa học) | 8(0-0-16-32) |
+| 5 | Viện Kỹ thuật Hóa học | CH4943 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Hóa học) | 8(0-0-16-32) |
+| 6 | Viện Kỹ thuật Hóa học | CH4905 | Đồ án nghiên cứu Cử nhân (Kỹ thuật In) | 8(0-0-16-32) |
+| 7 | Viện Điện | EE4920 | Đồ án nghiên cứu Cử nhân (Kỹ thuật điện) | 8(0-0-16-32) |
+| 8 | Viện Điện | EE4920E | Đồ án nghiên cứu Cử nhân (CTTT Hệ điện) | 8(0-0-16-32) |
+| 9 | Viện Điện | EE4921 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Điện – Điện tử và Tự động hóa) | 8(0-0-16-32) |
+| 10 | Viện Điện | EE4922 | Đồ án nghiên cứu Cử nhân (CTTN ĐKĐT) | 8(0-0-16-32) |
+| 11 | Viện Điện | EE4922E | Đồ án nghiên cứu Cử nhân (CTTT ĐKĐT) | 8(0-0-16-32) |
+| 12 | Viện Kinh tế & Quản lý | EM4353 | Đồ án nghiên cứu Cử nhân (Quản trị kinh doanh) | 8(0-0-16-32) |
+| 13 | Viện Kinh tế & Quản lý | EM4353E | Đồ án nghiên cứu Cử nhân (Quản trị kinh doanh) | 8(0-0-16-32) |
+| 14 | Viện Kinh tế & Quản lý | EM4352E | Đồ án nghiên cứu Cử nhân (Logistics và Quản lý chuỗi cung ứng) | 8(0-0-16-32) |
+| 15 | Viện Kinh tế & Quản lý | EM4652 | Đồ án nghiên cứu Cử nhân (Quản lý công nghiệp) | 8(0-0-16-32) |
+| 16 | Viện Điện tử - Viễn thông | ET4920 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Điện tử - Viễn thông) | 8(0-0-16-32) |
+| 17 | Viện Điện tử - Viễn thông | ET4920E | Đồ án nghiên cứu Cử nhân (CTTT Kỹ thuật Viễn thông) | 8(0-0-16-32) |
+| 18 | Viện Điện tử - Viễn thông | ET4921E | Đồ án nghiên cứu Cử nhân (CTTT ĐTVT) | 8(0-0-16-32) |
+| 19 | Viện Điện tử - Viễn thông | ET4922 | Đồ án nghiên cứu Cử nhân (CTTN ĐTVT truyền thông) | 8(0-0-16-32) |
+| 20 | Viện Khoa học và Công nghệ Môi trường | EV4902 | Đồ án nghiên cứu Cử nhân (Kỹ thuật môi trường) | 8(0-0-16-32) |
+| 21 | Viện Khoa học và Công nghệ Môi trường | HE4490 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Nhiệt) | 8(0-0-16-32) |
+| 22 | Viện Công nghệ Thông tin và Truyền thông | IT4993 | Đồ án nghiên cứu Cử nhân (Khoa học máy tính) | 8(0-0-16-32) |
+| 23 | Viện Công nghệ Thông tin và Truyền thông | IT4998 | Đồ án nghiên cứu Cử nhân (Khoa học máy tính) | 8(0-0-16-32) |
+| 24 | Viện Công nghệ Thông tin và Truyền thông | IT4998E | Đồ án nghiên cứu Cử nhân (Khoa học dữ liệu và Trí tuệ nhân tạo) | 8(0-0-16-32) |
+| 25 | Viện Công nghệ Thông tin và Truyền thông | IT4999 | Đồ án nghiên cứu Cử nhân (Kỹ thuật máy tính) | 8(0-0-16-32) |
+| 26 | Viện Cơ khí | ME4994 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Cơ khí) | 8(0-0-16-32) |
+| 27 | Viện Cơ khí | ME4995 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Cơ điện tử) | 8(0-0-16-32) |
+| 28 | Viện Cơ khí | ME4995E | Đồ án nghiên cứu Cử nhân (CTTT Cơ điện tử) | 8(0-0-16-32) |
+| 29 | Viện Cơ khí | ME4996 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Cơ khí) | 8(0-0-16-32) |
+| 30 | Viện Toán ứng dụng và Tin học | MI4901 | Đồ án nghiên cứu Cử nhân (Toán Tin) | 8(0-0-16-32) |
+| 31 | Viện Toán ứng dụng và Tin học | MI4902 | Đồ án nghiên cứu Cử nhân (CTTN Toán Tin) | 8(0-0-16-32) |
+| 32 | Viện Khoa học và Kỹ thuật Vật liệu | MSE4989 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Vật liệu) | 8(0-0-16-32) |
+| 33 | Viện Khoa học và Kỹ thuật Vật liệu | MSE4989E | Đồ án nghiên cứu Cử nhân (CTTT KHTL) | 8(0-0-16-32) |
+| 34 | Viện Vật lý kỹ thuật | PH4009 | Đồ án nghiên cứu Cử nhân (Kỹ thuật hạt nhân) | 8(0-0-16-32) |
+| 35 | Viện Vật lý kỹ thuật | PH4019 | Đồ án nghiên cứu Cử nhân (Vật lý kỹ thuật và Vật lý toán) | 8(0-0-16-32) |
+| 36 | Viện Cơ khí Động lực | TE4992 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Ô tô) | 8(0-0-16-32) |
+| 37 | Viện Cơ khí Động lực | TE4992E | Đồ án nghiên cứu Cử nhân (CTTT Kỹ thuật Ô tô) | 8(0-0-16-32) |
+| 38 | Viện Cơ khí Động lực | TE4996 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Hàng không) | 8(0-0-16-32) |
+| 39 | Viện Cơ khí Động lực | TE4997 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Động lực) | 8(0-0-16-32) |
+| 40 | Viện Dệt may - Da giày và Thời trang | TEX4961 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Dệt) | 8(0-0-16-32) |
+| 41 | Viện Dệt may - Da giày và Thời trang | TEX4961 | Đồ án nghiên cứu Cử nhân (Kỹ thuật Dệt) | 8(0-0-16-32) |
+| 42 | Viện Dệt may - Da giày và Thời trang | TEX4962 | Đồ án nghiên cứu Cử nhân (Công nghệ May) | 8(0-0-16-32) |
 
 Chú ý: Sinh viên đăng ký đúng mã học phần theo chương trình đào tạo trên cổng thông tin đào tạo: ctt.dao.tao.hust.edu.vn
 (Đăng nhập ctt.dao.tao.hust.edu.vn → Chương trình đào tạo → Tìm mã HP theo chương trình của mình)

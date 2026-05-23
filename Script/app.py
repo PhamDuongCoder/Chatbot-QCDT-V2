@@ -1,5 +1,8 @@
 import streamlit as st
 import os
+import csv
+import json
+from pathlib import Path
 
 st.set_page_config(
     page_title="Chatbot QCDT - ĐHBK Hà Nội",
@@ -293,6 +296,45 @@ except Exception as e:
 
 from chatbot import retrieve, generate_answer
 
+# ── Load citations mapping ────────────────────────────────────────────────────
+@st.cache_resource
+def load_citations():
+    """Load Citation.csv as a dict {parent_doc_id: url}"""
+    citation_path = Path(__file__).parent.parent / "Citation.csv"
+    citation_dict = {}
+    try:
+        with open(citation_path, encoding="utf-8-sig") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                citation_dict[row["parent_doc_id"].strip()] = row["url"].strip()
+    except Exception as e:
+        st.warning(f"Could not load citations: {e}")
+    return citation_dict
+
+CITATIONS = load_citations()
+
+def extract_sources_from_response(response_text: str) -> tuple[str, list[str]]:
+    """
+    Extract JSON sources line and clean response.
+    
+    Returns:
+        (clean_response, source_ids)
+    """
+    lines = response_text.split('\n', 1)
+    first_line = lines[0].strip() if lines else ""
+    rest = lines[1] if len(lines) > 1 else ""
+    
+    try:
+        # Try to parse first line as JSON
+        json_obj = json.loads(first_line)
+        if "sources" in json_obj and isinstance(json_obj["sources"], list):
+            return rest.strip(), json_obj["sources"]
+    except json.JSONDecodeError:
+        pass
+    
+    # If not valid JSON or no sources key, return full response
+    return response_text, []
+
 # ── Sidebar ───────────────────────────────────────────────────────────────────
 with st.sidebar:
     st.markdown("### 🎓 ĐHBK Hà Nội")
@@ -351,13 +393,31 @@ if prompt := st.chat_input("Nhập câu hỏi của bạn..."):
     with st.chat_message("assistant"):
         with st.spinner("Đang tìm kiếm thông tin..."):
             try:
-                response = generate_answer(
+                raw_response = generate_answer(
                     query=prompt,
                     conversation_history=st.session_state.conversation_history,
                     top_k=5
                 )
-                st.markdown(response)
-                st.session_state.conversation_history.append({"role": "assistant", "content": response})
+                
+                # Extract sources and clean response
+                clean_response, source_ids = extract_sources_from_response(raw_response)
+                
+                # Display the clean response
+                st.markdown(clean_response)
+                
+                # Display sources if found
+                if source_ids:
+                    st.divider()
+                    st.markdown("**📄 Nguồn tham khảo:**")
+                    for doc_id in source_ids:
+                        url = CITATIONS.get(doc_id, "")
+                        if url:
+                            st.markdown(f"- [{doc_id}]({url})")
+                        else:
+                            st.markdown(f"- {doc_id}")
+                
+                # Store clean response in history (without JSON line)
+                st.session_state.conversation_history.append({"role": "assistant", "content": clean_response})
 
                 if len(st.session_state.conversation_history) > MAX_HISTORY:
                     st.session_state.conversation_history = st.session_state.conversation_history[-MAX_HISTORY:]
