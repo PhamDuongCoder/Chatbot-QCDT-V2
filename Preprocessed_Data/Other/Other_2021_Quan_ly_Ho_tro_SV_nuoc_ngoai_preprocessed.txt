@@ -1,0 +1,254 @@
+<<<CHUNK_START>>>
+source: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai.pdf
+parent_doc_id: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai
+chunk_id: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai_001
+chunk_index: 1
+language: vi
+category: Other
+year: N/A
+chunk_title: Thông tin chung và Chương I
+topic_tags: [Lưu học sinh, LHS, ĐHBK Hà Nội]
+summary: Tài liệu quy định về quản lý và hỗ trợ lưu học sinh (LHS) tại ĐHBK Hà Nội, bao gồm các nhóm LHS Hiệp định, ngoài Hiệp định và LHS trao đổi. Chương I xác định đối tượng áp dụng và phạm vi điều chỉnh của quy định.
+
+QUY ĐỊNH
+Về việc quản lý, hỗ trợ sinh viên nước ngoài học tập tại Trường Đại học Bách khoa Hà Nội
+(Ban hành kèm theo Quyết định số: 428/QĐ-ĐHBK ngày 17/3/2020 của Hiệu trưởng Trường Đại học Bách khoa Hà Nội)
+
+Chương I
+NHỮNG QUY ĐỊNH CHUNG
+
+Điều 1. Đối tượng và phạm vi điều chỉnh
+1. Đối tượng
+Là người học nước ngoài (người không mang quốc tịch Việt Nam hoặc là người Việt Nam mang hộ chiếu nước ngoài) đến học tập, thực tập, nghiên cứu, trao đổi tại Trường Đại học Bách khoa Hà Nội (ĐHBK Hà Nội), sau đây gọi chung là Lưu học sinh (LHS), bao gồm các nhóm sau:
+a) Lưu học sinh Hiệp định: Là sinh viên nước ngoài được tiếp nhận học tập dài hạn tại Trường theo các Hiệp định, thoả thuận của Chính phủ Việt Nam với các đối tác nước ngoài;
+b) Lưu học sinh ngoài Hiệp định: Là sinh viên nước ngoài được tiếp nhận học tập dài hạn và học tích lũy tín chỉ (từ 01 học kỳ trở lên) tại Trường theo thỏa thuận, hợp đồng đào tạo ký kết giữa Trường ĐHBK Hà Nội với cá nhân sinh viên hoặc các tổ chức, cá nhân gửi đào tạo, tài trợ học bổng cho sinh viên;
+c) Lưu học sinh trao đổi: Là người học nước ngoài đến thực tập, nghiên cứu, trao đổi theo các thỏa thuận, dự án, chương trình hợp tác của Trường và các đơn vị trực thuộc Trường;
+d) Tổ chức/cá nhân gửi hoặc trao đổi LHS gọi là phía gửi đào tạo hoặc phía trao đổi.
+
+2. Phạm vi điều chỉnh
+a) Quy định này quy định về trách nhiệm của các đơn vị liên quan trong Trường ĐHBK Hà Nội đối với công tác quản lý và hỗ trợ LHS;
+b) Quy định này quy định về quyền lợi và trách nhiệm của LHS trong quá trình học tập, thực tập, tham quan, trao đổi tại Trường ĐHBK Hà Nội.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai.pdf
+parent_doc_id: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai
+chunk_id: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai_002
+chunk_index: 2
+language: vi
+category: Other
+year: N/A
+chunk_title: Điều 2. Hồ sơ quản lý lưu học sinh
+topic_tags: [Hồ sơ LHS, LHS dài hạn, LHS trao đổi]
+summary: Quy định chi tiết các giấy tờ cần thiết trong hồ sơ quản lý cho LHS học tập dài hạn, LHS học tích lũy tín chỉ và LHS trao đổi, bao gồm hộ chiếu, bảo hiểm y tế và các quyết định liên quan.
+
+Điều 2. Hồ sơ quản lý lưu học sinh
+1. Hồ sơ LHS học tập dài hạn, LHS học tích lũy tín chỉ (bằng tiếng Việt hoặc tiếng Anh), gồm các giấy tờ sau:
+- Lý lịch tóm tắt có dán ảnh (theo mẫu): 01 bản;
+- Quyết định tiếp nhận của Trường ĐHBK Hà Nội: 01 bản;
+- Bản sao hộ chiếu có thị thực nhập cảnh Việt Nam còn thời hạn: 01 bản;
+- Bản sao bảo hiểm y tế có giá trị trong thời hạn LHS thực hiện trao đổi tại Trường ĐHBK Hà Nội;
+- Ảnh cỡ 4x6 (chụp không quá 6 tháng tính đến ngày nộp hồ sơ): 04 ảnh;
+- Các văn bản, quyết định liên quan trực tiếp đến LHS (nếu có) trong quá trình LHS học tập tại Trường ĐHBK Hà Nội.
+
+2. Hồ sơ LHS trao đổi (bằng tiếng Việt hoặc tiếng Anh), gồm các giấy tờ sau:
+- Bản sao hộ chiếu có thị thực nhập cảnh Việt Nam còn thời hạn: 01 bản;
+- Bản sao bảo hiểm y tế có giá trị trong thời hạn LHS thực hiện trao đổi tại Trường ĐHBK Hà Nội;
+- Tùy thuộc vào thỏa thuận, dự án, chương trình hợp tác: các văn bản, quyết định liên quan trực tiếp đến LHS trao đổi của phía trao đổi và của Trường ĐHBK Hà Nội.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai.pdf
+parent_doc_id: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai
+chunk_id: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai_003
+chunk_index: 3
+language: vi
+category: Other
+year: N/A
+chunk_title: Chương II - Quyền lợi và Trách nhiệm của LHS
+topic_tags: [Quyền lợi LHS, Trách nhiệm LHS]
+summary: Chương II quy định về quyền lợi (tư vấn học tập, chỗ ở, bảo hiểm, thị thực) và trách nhiệm (tuân thủ pháp luật, cư trú, đóng học phí) của lưu học sinh tại ĐHBK Hà Nội.
+
+Chương II
+NHỮNG QUY ĐỊNH ĐỐI VỚI LƯU HỌC SINH
+
+Điều 3. Quyền lợi của lưu học sinh
+1. Được đảm bảo quyền lợi chung của người học theo quy định hiện hành đối với sinh viên Trường ĐHBK Hà Nội.
+2. Được về nước nghỉ hè, nghỉ lễ, được mời thân nhân đến thăm theo quy định của Việt Nam.
+3. Tập thể LHS cùng một nước được cử đại diện làm đầu mối liên hệ với Nhà trường để giải quyết những việc có liên quan đến tập thể LHS nước mình.
+4. Được tư vấn về chương trình đào tạo, lập kế hoạch học tập, hỗ trợ bổ sung kiến thức trong quá trình học tập.
+5. Được tư vấn, hỗ trợ tìm kiếm chỗ ở; tư vấn, hỗ trợ các thủ tục hành chính dành cho sinh viên nước ngoài.
+6. Được tư vấn về việc mua bảo hiểm, khám, chữa bệnh khi có nhu cầu.
+7. Được hỗ trợ làm các thủ tục cấp/ gia hạn/ thay đổi thị thực nhập cảnh phù hợp với kế hoạch học tập tại Trường.
+8. Được xét/ đăng ký xét cấp các loại học học bổng dành cho sinh viên Trường ĐHBK Hà Nội.
+
+Điều 4. Trách nhiệm của lưu học sinh
+1. Tuân thủ pháp luật của Việt Nam.
+2. Tôn trọng phong tục, tập quán Việt Nam.
+3. Thực hiện đúng quy định và mục đích nhập cảnh vào Việt Nam học tập.
+4. Đăng ký cư trú theo quy định hiện hành của Việt Nam.
+5. Quan hệ hữu nghị với công dân Việt Nam và lưu học sinh các nước khác.
+6. Thực hiện các nội quy, quy định hiện hành của Trường ĐHBK Hà Nội đối với sinh viên là người nước ngoài.
+7. Bắt buộc phải có bảo hiểm y tế và đăng ký khám, chữa bệnh tại một trong các bệnh viện tại Hà Nội hoặc Phòng khám đa khoa của Trường ĐHBK Hà Nội trong toàn bộ quá trình học tập tại Trường.
+8. Đóng học phí đầy đủ, đúng hạn theo quy định hiện hành của Trường ĐHBK Hà Nội đối với Lưu học sinh.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai.pdf
+parent_doc_id: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai
+chunk_id: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai_004
+chunk_index: 4
+language: vi
+category: Other
+year: N/A
+chunk_title: Điều 5, 6, 7 - Thủ tục hành chính và Điều chỉnh học tập
+topic_tags: [Đăng ký cư trú, Thị thực, Điều chỉnh thời gian học, Tạm ngừng học, Chuyển ngành]
+summary: Quy định về thủ tục đăng ký cư trú, thị thực nhập cảnh và các quy định về điều chỉnh thời gian học tập, tạm ngừng học tập, chuyển ngành học cho các nhóm LHS Hiệp định, ngoài Hiệp định và LHS trao đổi.
+
+Điều 5. Đăng ký cư trú
+1. LHS phải làm thủ tục khai báo tạm trú tại nơi cư trú theo quy định.
+2. Phải đăng ký thông tin cư trú, kế hoạch học tập, trao đổi và thông báo khi có bất kỳ sự thay đổi nào liên quan tới vấn đề cư trú tại Việt Nam với Nhà trường, LHS Hiệp định và ngoài Hiệp định thông qua Phòng Công tác Sinh viên (Phòng CTSV) và LHS trao đổi thông qua phòng Hợp tác Đối ngoại (HTĐN).
+
+Điều 6. Thủ tục cấp, gia hạn, thay đổi thị thực nhập cảnh
+1. LHS sang theo mục đích học tập, thực tập, nghiên cứu, trao đổi tại Trường phải có thị thực nhập cảnh đúng với mục đích nhập cảnh.
+2. LHS có nhu cầu cấp, gia hạn hoặc thay đổi thị thực nhập cảnh cho phù hợp với kế hoạch học tập tại Trường cần chuẩn bị hồ sơ theo mẫu quy định gửi Phòng CTSV và phòng HTĐN.
+3. Các đề nghị về gia hạn hoặc thay đổi thị thực nhập/ xuất cảnh được tiếp nhận và giải quyết theo quy định hiện hành của cơ quan quản lý xuất, nhập cảnh và của Trường ĐHBK Hà Nội.
+4. LHS phải trả lệ phí cấp, gia hạn/ thay đổi thị thực theo qui định hiện hành của Nhà nước Việt Nam.
+
+Điều 7. Điều chỉnh thời gian học tập, tạm ngừng học tập, chuyển ngành học, chuyển cơ sở giáo dục
+1. Điều chỉnh thời gian học tập
+a) LHS Hiệp định: Khi cần kéo dài thời gian đào tạo phải có ý kiến đồng ý của phía gửi đào tạo và được Trường ĐHBK Hà Nội chấp thuận;
+b) LHS ngoài Hiệp định: Thời gian đào tạo được thực hiện theo quy chế đào tạo hoặc thỏa thuận, hợp đồng đào tạo với Nhà trường;
+c) LHS trao đổi: LHS trao đổi muốn thay đổi thời gian thực tập/ nghiên cứu/ trao đổi tại Trường phải có ý kiến đồng ý của phía gửi trao đổi và được Trường ĐHBK Hà Nội chấp thuận bằng văn bản.
+2. Tạm ngừng học tập
+a) LHS Hiệp định: Trong quá trình học tập, LHS muốn tạm ngừng học tập thì phải có ý kiến đồng ý của phía gửi đào tạo, được Nhà trường chấp thuận và ban hành quyết định cho LHS tạm ngừng học tập;
+b) LHS ngoài Hiệp định: Thời gian tạm ngừng học thực hiện theo quy chế đào tạo hoặc theo thỏa thuận, hợp đồng đào tạo với Nhà trường.
+3. Chuyển ngành học, chuyển cơ sở giáo dục
+a) LHS Hiệp định: Chỉ được chuyển ngành học, chuyển cơ sở giáo dục khi được phía gửi đào tạo đồng ý bằng văn bản, Nhà trường chấp thuận và ban hành quyết định cho phép chuyển ngành học/chuyển cơ sở giáo dục (đối với trường hợp chuyển cơ sở giáo dục thì phải có văn bản đồng ý của cơ sở giáo dục nơi tiếp nhận).
+b) LHS ngoài Hiệp định: Thực hiện theo quy chế đào tạo hoặc thỏa thuận, hợp đồng đào tạo với Nhà trường.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai.pdf
+parent_doc_id: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai
+chunk_id: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai_005
+chunk_index: 5
+language: vi
+category: Other
+year: N/A
+chunk_title: Điều 8 - Khen thưởng và Xử lý vi phạm
+topic_tags: [Khen thưởng, Kỷ luật, LHS]
+summary: Quy định các hình thức khen thưởng cho LHS có thành tích xuất sắc và các hình thức kỷ luật (khiển trách, cảnh cáo, buộc thôi học) đối với LHS vi phạm kỷ luật.
+
+Điều 8. Khen thưởng và xử lý vi phạm đối với lưu học sinh
+1. LHS có thành tích xuất sắc trong học tập, nghiên cứu, hoạt động hữu nghị được xem xét khen thưởng theo quy định hiện hành của Trường ĐHBK Hà Nội.
+2. LHS vi phạm kỷ luật, tùy theo mức độ vi phạm sẽ bị xử lý kỷ luật theo các hình thức sau:
+a) Khiển trách;
+b) Cảnh cáo;
+c) Buộc thôi học và trả về nước;
+d) Đề nghị các cơ quan chức năng xử lý theo quy định của pháp luật Việt Nam.
+3. Hình thức kỷ luật
+a) Quy định tại điểm a và b khoản 2 Điều 9: Do Hiệu trưởng Trường ĐHBK Hà Nội quyết định.
+b) Quy định tại điểm c và d khoản 2 Điều 9:
+- Đối với LHS Hiệp định: Nhà trường sẽ báo cáo, xin ý kiến của Bộ Giáo dục và Đào tạo trước khi ra quyết định xử lý.
+- Đối với LHS ngoài Hiệp định và LHS trao đổi: Hiệu trưởng Trường ĐHBK Hà Nội quyết định.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai.pdf
+parent_doc_id: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai
+chunk_id: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai_006
+chunk_index: 6
+language: vi
+category: Other
+year: N/A
+chunk_title: Chương III - Trách nhiệm các đơn vị (Điều 9-12)
+topic_tags: [Phòng Tuyển sinh, Phòng Đào tạo, Phòng Hợp tác Đối ngoại, Trung tâm Ngôn ngữ]
+summary: Quy định trách nhiệm của Phòng Tuyển sinh, Phòng Đào tạo, Phòng Hợp tác Đối ngoại và Trung tâm Ngôn ngữ trong việc quản lý hồ sơ, hỗ trợ học tập và tổ chức các hoạt động cho LHS.
+
+Chương III
+TRÁCH NHIỆM CỦA CÁC ĐƠN VỊ LIÊN QUAN
+
+Điều 9. Phòng Tuyển sinh
+1. Hoàn thành hồ sơ quản lý LHS dài hạn như quy định tại điểm 1, Điều 2 và bàn giao cho phòng CTSV quản lý.
+2. Phối hợp với Phòng chức năng và cơ quan nhà nước có thẩm quyền cung cấp thông tin để báo cáo và giải quyết các vấn đề liên quan tới LHS.
+
+Điều 10. Phòng Đào tạo
+1. Quản lý, hỗ trợ LHS về học tập; tổng hợp báo cáo lãnh đạo Nhà trường và các cơ quan chức năng theo yêu cầu.
+2. Phối hợp với các viện đào tạo tiếp nhận và hỗ trợ giải quyết các đề nghị về đăng ký học tập, chuyển ngành học, đề tài nghiên cứu, đề cương thực tập, chuyển trường, nghỉ hè, nghỉ phép, nghỉ học dài hạn theo quy định đối với LHS.
+3. Hỗ trợ LHS sau đại học các vấn đề về thủ tục hành chính; chủ trì, phối hợp với Phòng CTSV và các viện đào tạo tổ chức các lớp học phụ đạo ngoài giờ cho LHS (nếu có yêu cầu và trong điều kiện thực tế cho phép).
+4. Phối hợp với các đơn vị chức năng và cơ quan nhà nước có thẩm quyền cung cấp thông tin để báo cáo và giải quyết các vấn đề liên quan tới LHS.
+
+Điều 11. Phòng Hợp tác Đối ngoại
+1. Hoàn thành hồ sơ quản lý LHS học tích lũy tín chỉ như quy định tại Khoản 1, Điều 2 và bàn giao cho phòng CTSV quản lý.
+2. Lập và quản lý hồ sơ LHS trao đổi như quy định tại Khoản 2, Điều 2.
+3. Chủ trì, phối hợp với các đơn vị liên quan trong Trường cung cấp thông tin, giải quyết các vấn đề liên quan trong và sau quá trình thực hiện các hoạt động trao đổi tới LHS trao đổi và tổ chức các sự kiện, hoạt động giao lưu, trao đổi văn hóa cho LHS trao đổi.
+4. Hỗ trợ các đơn vị liên quan tổ chức các chương trình giao lưu, trao đổi văn hóa cho LHS và thủ tục cấp, gia hạn, sửa đổi thị thực nhập cảnh phục vụ cho việc học tập của LHS.
+5. Tổng hợp báo cáo lãnh đạo Nhà trường và các cơ quan chức năng định kỳ và đột xuất theo yêu cầu.
+
+Điều 12. Trung tâm Ngôn ngữ và Hỗ trợ trao đổi học thuật
+Phối hợp các đơn vị liên quan trong và ngoài Trường tổ chức các chương trình giao lưu, trao đổi văn hóa cho LHS.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai.pdf
+parent_doc_id: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai
+chunk_id: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai_007
+chunk_index: 7
+language: vi
+category: Other
+year: N/A
+chunk_title: Điều 13, 14, 15 - Trách nhiệm các đơn vị (tiếp theo)
+topic_tags: [Phòng Công tác Sinh viên, Đơn vị chuyên môn, Đoàn Thanh niên, Hội sinh viên]
+summary: Quy định trách nhiệm của Phòng Công tác Sinh viên, các đơn vị chuyên môn (Viện), Đoàn Thanh niên và Hội sinh viên trong việc quản lý, hỗ trợ và tổ chức hoạt động cho LHS.
+
+Điều 13. Phòng Công tác Sinh viên
+1. Tiếp nhận và quản lý hồ sơ LHS học tập tại Trường từ Phòng Tuyển sinh và Phòng Hợp tác đối ngoại như quy định tại Điều 2.
+2. Chủ trì tổ chức phổ biến các quy định, quy chế, nội quy của Trường ĐHBK Hà Nội cho LHS.
+3. Hỗ trợ LHS các thủ tục hành chính, các chế độ bảo hiểm theo quy định.
+4. Hỗ trợ LHS các thủ tục cấp, gia hạn, sửa đổi thị thực nhập cảnh theo quy định của pháp luật.
+5. Chủ trì, phối hợp với các đơn vị liên quan trong Trường tổ chức các sự kiện, hoạt động giao lưu văn hóa, thể thao nhằm tăng cường tình đoàn kết hữu nghị giữa LHS các nước và sinh viên Việt Nam.
+6. Phối hợp với các đơn vị liên quan hỗ trợ LHS theo nhiệm vụ được giao.
+7. Cập nhật vào hệ thống cơ sở dữ liệu điện tử quản lý LHS của Bộ Giáo dục và Đào tạo.
+8. Là đầu mối, phối hợp với Phòng chức năng thực hiện công tác thống kê, tổng hợp, báo cáo lãnh đạo Nhà trường, Bộ Giáo dục và Đào tạo định kỳ và đột xuất theo yêu cầu.
+9. Chủ trì phối hợp với các đơn vị liên quan trong và ngoài Trường cung cấp thông tin và giải quyết các vấn đề liên quan tới LHS Hiệp định và LHS ngoài Hiệp định.
+
+Điều 14. Các đơn vị chuyên môn
+1. Bố trí giảng viên cố vấn học tập, hướng dẫn thực tập, nghiên cứu, phụ đạo cho LHS học các chuyên ngành do Viện quản lý.
+2. Báo cáo Ban Giám hiệu về tình hình học tập của LHS đại học (thông qua phòng CTSV) và sau đại học (thông qua Phòng Đào tạo) theo định kỳ hoặc yêu cầu đột xuất.
+3. Tiếp nhận và hỗ trợ giải quyết các đề nghị chuyển đề tài nghiên cứu, đề cương thực tập và các vấn đề liên quan tới học tập trong phạm vi chức năng của Viện.
+4. Tiếp nhận và thực hiện hỗ trợ, quản lý chuyên môn đối với LHS trao đổi.
+5. Phối hợp với Phòng Hợp tác Đối ngoại hỗ trợ LHS trao đổi theo các nội dung thỏa thuận của dự án, chương trình hợp tác; chuẩn bị và bàn giao hồ sơ tiếp nhận LHS trao đổi cho phòng HTĐN quản lý.
+
+Điều 15. Đoàn Thanh niên và Hội sinh viên Trường
+1. Phối hợp với Phòng CTSV tổ chức các hoạt động giao lưu văn hoá, văn nghệ thể thao, CLB sinh viên quốc tế, ...
+2. Lựa chọn sinh viên Việt Nam tham gia giúp đỡ LHS trong quá trình học tập và sinh hoạt tại Trường.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai.pdf
+parent_doc_id: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai
+chunk_id: Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai_008
+chunk_index: 8
+language: vi
+category: Other
+year: N/A
+chunk_title: Chương IV - Điều khoản thi hành
+topic_tags: [Tổ chức thực hiện, Hiệu lực thi hành]
+summary: Quy định về tổ chức thực hiện, thẩm quyền sửa đổi quy định và hiệu lực thi hành của văn bản quản lý lưu học sinh tại ĐHBK Hà Nội.
+
+Chương IV
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 16. Tổ chức thực hiện
+1. Trưởng các đơn vị căn cứ quy định, tổ chức thực hiện nhiệm vụ tại đơn vị. Các vấn đề phát sinh, vướng mắc trong quá trình thực hiện chưa quy định tại văn bản này, các đơn vị gửi Phòng CTSV tổng hợp báo cáo Hiệu trưởng để giải quyết.
+2. Việc sửa đổi, bổ sung quy định này do Hiệu trưởng quyết định.
+
+Điều 17. Hiệu lực thi hành
+Quy định này có hiệu lực kể từ ngày ký. Những quy định, hướng dẫn trước đây về việc quản lý, hỗ trợ sinh viên nước ngoài học tập tại Trường ĐHBK Hà Nội hết hiệu lực thi hành./.
+
+KT. HIỆU TRƯỞNG
+PHÓ HIỆU TRƯỞNG
+PGS.TS. Huỳnh Quyết Thắng
+(Đã ký)
+<<<CHUNK_END>>>

@@ -64,16 +64,34 @@ PAGE_THRESHOLD = 8
 WORDS_PER_PAGE = 400
 
 # Database Configuration
-with open("../.streamlit/secrets.toml", "rb") as f:
-    secrets = tomllib.load(f)
+def load_db_config():
+    """Load DB config from .streamlit/secrets.toml or environment variables"""
+    secrets_file = Path(__file__).parent.parent / ".streamlit" / "secrets.toml"
+    
+    if secrets_file.exists():
+        try:
+            with open(secrets_file, "rb") as f:
+                secrets = tomllib.load(f)
+                return {
+                    "host": secrets.get("SUPABASE_DB_HOST", os.getenv("DB_HOST", "localhost")),
+                    "port": int(secrets.get("SUPABASE_DB_PORT", os.getenv("DB_PORT", "5432"))),
+                    "database": secrets.get("SUPABASE_DB_NAME", os.getenv("DB_NAME")),
+                    "user": secrets.get("SUPABASE_DB_USER", os.getenv("DB_USER")),
+                    "password": secrets.get("SUPABASE_DB_PASSWORD", os.getenv("DB_PASSWORD"))
+                }
+        except Exception as e:
+            print(f"Warning: Could not load secrets.toml: {e}")
+    
+    # Fallback to environment variables
+    return {
+        "host": os.getenv("DB_HOST", "localhost"),
+        "port": int(os.getenv("DB_PORT", "5432")),
+        "database": os.getenv("DB_NAME"),
+        "user": os.getenv("DB_USER"),
+        "password": os.getenv("DB_PASSWORD")
+    }
 
-DB_CONFIG = {
-    "host": secrets.get("SUPABASE_DB_HOST", "localhost"),
-    "port": secrets.get("SUPABASE_DB_PORT", "5432"),
-    "database": secrets.get("SUPABASE_DB_NAME"),
-    "user": secrets.get("SUPABASE_DB_USER"),
-    "password": secrets.get("SUPABASE_DB_PASSWORD")
-}
+DB_CONFIG = load_db_config()
 # ============================================================================
 # SYSTEM INSTRUCTIONS
 # ============================================================================

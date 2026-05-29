@@ -1,0 +1,230 @@
+{
+  "DATN_2021_Dang_ky": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Hoc_bong_2021_TDN": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Hoc_bong_2022_KKHT": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Hoc_phi_2025_DHCQ_KSCS_VLVH_SDH": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Huong_dan_2020_chuyen_truong": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Huong_dan_2021_Gui_cau_hoi": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Huong_dan_2021_nhan_bang": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Huong_dan_2021_Quy_doi_tin_chi": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Huong_dan_2023_Quy_doi_tin_chi": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Huong_dan_2023_Thu_tuc_hanh_chinh_VB_CC_KQHT": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Huong_dan_2023_Thuc_tap": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "KSCS_2024_QDDT": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "KSCS_2025_cong_nhan_hoc_phan": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Ngoai_ngu_2021_Chuan_dau_vao": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Ngoai_ngu_2021_Chuan_dau_vao_01": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Ngoai_ngu_2021_Chuan_dau_vao_02": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Ngoai_ngu_2021_Chuan_dau_vao_03": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Ngoai_ngu_2022_Quy_doi_CCTA": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Ngoai_ngu_2024_K68": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Ngoai_ngu_2024_K68_01": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Ngoai_ngu_2024_K68_02": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Ngoai_ngu_2024_K68_03": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Ngoai_ngu_2024_K68_04": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Ngoai_ngu_2024_K68_05": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Ngoai_ngu_2024_K68_06": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Ngoai_ngu_2024_K68_07": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Ngoai_ngu_2024_K68_08": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Ngoai_ngu_2024_K68_09": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Ngoai_ngu_2025_K70": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Ngoai_ngu_2025_K70_01": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Ngoai_ngu_2025_K70_02": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Ngoai_ngu_2025_K70_03": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "QCDT_2025": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "QCDT_2025_01": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "QCDT_2025_02": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "QCDT_2025_03": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "QCDT_2025_04": {
+    "status": "completed",
+    "last_processed": "unknown",
+    "attempts": 1,
+    "error": null
+  },
+  "Other_2021_Quan_ly_Ho_tro_SV_nuoc_ngoai": {
+    "status": "completed",
+    "last_processed": "2026-05-29T10:40:16.170501",
+    "attempts": 1,
+    "error": null
+  }
+}

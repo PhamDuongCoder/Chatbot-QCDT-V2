@@ -1,3 +1,5 @@
 9/5/2026
 có thể cân nhắc thêm param image vào data pipeline
 
+runcd "c:\Users\LENOVO\Documents\GitHub\Chatbot QCDT V2"
+python admin_server.py

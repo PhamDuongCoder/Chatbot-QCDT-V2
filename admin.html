@@ -1,0 +1,1002 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel - RAG Chatbot Pipeline</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Be Vietnam Pro', sans-serif;
+            background: #0f172a;
+            color: #e5e7eb;
+            min-height: 100vh;
+            display: flex;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: 280px;
+            background: linear-gradient(135deg, #0f172a 0%, #1a2643 100%);
+            border-right: 1px solid #1e3a5f;
+            padding: 30px 20px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            box-shadow: -2px 0 10px rgba(0, 0, 0, 0.5);
+        }
+
+        .sidebar-header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #1e3a5f;
+        }
+
+        .sidebar-title {
+            font-size: 22px;
+            font-weight: 700;
+            color: #f59e0b;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        .sidebar-title .logo {
+            font-size: 28px;
+        }
+
+        .action-buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-bottom: 30px;
+        }
+
+        .action-btn {
+            padding: 12px 16px;
+            background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+            color: #0f172a;
+            border: none;
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 14px;
+        }
+
+        .action-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(245, 158, 11, 0.3);
+        }
+
+        .action-btn:active {
+            transform: translateY(0);
+        }
+
+        .action-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .stats-box {
+            background: rgba(30, 58, 95, 0.5);
+            border: 1px solid #1e3a5f;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 15px;
+        }
+
+        .stats-box h3 {
+            font-size: 12px;
+            text-transform: uppercase;
+            color: #9ca3af;
+            margin-bottom: 8px;
+            letter-spacing: 0.5px;
+        }
+
+        .stats-value {
+            font-size: 24px;
+            font-weight: 700;
+            color: #f59e0b;
+        }
+
+        .stats-label {
+            font-size: 13px;
+            color: #6b7280;
+            margin-top: 4px;
+        }
+
+        /* Main Content */
+        .main-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #1a2643 0%, #0f172a 100%);
+            border-bottom: 1px solid #1e3a5f;
+            padding: 20px 30px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .header h1 {
+            font-size: 28px;
+            color: #fff;
+        }
+
+        .refresh-info {
+            font-size: 13px;
+            color: #6b7280;
+        }
+
+        .content {
+            flex: 1;
+            overflow-y: auto;
+            padding: 30px;
+        }
+
+        /* Table Styles */
+        .category-section {
+            margin-bottom: 30px;
+            background: rgba(30, 58, 95, 0.3);
+            border: 1px solid #1e3a5f;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .category-header {
+            background: linear-gradient(135deg, #1a2643 0%, #1e3a5f 100%);
+            padding: 15px 20px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            cursor: pointer;
+            user-select: none;
+            border-bottom: 1px solid #1e3a5f;
+        }
+
+        .category-header:hover {
+            background: linear-gradient(135deg, #1e3a5f 0%, #243955 100%);
+        }
+
+        .category-toggle {
+            display: inline-block;
+            transition: transform 0.3s ease;
+            color: #f59e0b;
+            font-weight: bold;
+        }
+
+        .category-header.collapsed .category-toggle {
+            transform: rotate(-90deg);
+        }
+
+        .category-name {
+            font-weight: 600;
+            color: #f59e0b;
+            flex: 1;
+        }
+
+        .category-count {
+            background: rgba(245, 158, 11, 0.1);
+            color: #f59e0b;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+
+        .files-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .table-header {
+            background: rgba(245, 158, 11, 0.05);
+            border-bottom: 2px solid #1e3a5f;
+        }
+
+        .table-header th {
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+            color: #f59e0b;
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .file-row {
+            border-bottom: 1px solid #1e3a5f;
+            transition: background 0.2s ease;
+        }
+
+        .file-row:hover {
+            background: rgba(245, 158, 11, 0.05);
+        }
+
+        .file-row td {
+            padding: 15px;
+            font-size: 14px;
+        }
+
+        .file-name {
+            font-weight: 500;
+            color: #e5e7eb;
+        }
+
+        .file-type {
+            background: rgba(100, 116, 139, 0.3);
+            color: #cbd5e1;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 500;
+        }
+
+        .file-type.original {
+            background: rgba(59, 130, 246, 0.2);
+            color: #93c5fd;
+        }
+
+        .file-type.partitioned {
+            background: rgba(168, 85, 247, 0.2);
+            color: #d8b4fe;
+        }
+
+        /* Status Badges */
+        .status-badge {
+            display: inline-block;
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .status-pending {
+            background: rgba(107, 114, 128, 0.2);
+            color: #d1d5db;
+        }
+
+        .status-processing {
+            background: rgba(59, 130, 246, 0.2);
+            color: #93c5fd;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.7; }
+        }
+
+        .status-completed {
+            background: rgba(34, 197, 94, 0.2);
+            color: #86efac;
+        }
+
+        .status-failed {
+            background: rgba(239, 68, 68, 0.2);
+            color: #fca5a5;
+        }
+
+        .status-partial_failed {
+            background: rgba(234, 179, 8, 0.2);
+            color: #fde047;
+        }
+
+        /* Action Buttons in Table */
+        .action-cell {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .action-small-btn {
+            padding: 6px 12px;
+            background: rgba(245, 158, 11, 0.2);
+            color: #f59e0b;
+            border: 1px solid #f59e0b;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 12px;
+            font-weight: 600;
+            transition: all 0.2s ease;
+        }
+
+        .action-small-btn:hover:not(:disabled) {
+            background: rgba(245, 158, 11, 0.3);
+            transform: translateY(-1px);
+        }
+
+        .action-small-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        /* Partitioned Files */
+        .part-row {
+            background: rgba(30, 58, 95, 0.2);
+        }
+
+        .part-row td {
+            padding: 12px 15px 12px 50px;
+            font-size: 13px;
+        }
+
+        .part-expand-icon {
+            display: inline-block;
+            margin-right: 8px;
+            transition: transform 0.3s ease;
+            color: #f59e0b;
+        }
+
+        .part-expand-icon.expanded {
+            transform: rotate(90deg);
+        }
+
+        /* Toast Notifications */
+        .toast-container {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 1000;
+            max-width: 400px;
+        }
+
+        .toast {
+            background: rgba(30, 58, 95, 0.95);
+            border: 1px solid #1e3a5f;
+            border-left: 4px solid #f59e0b;
+            padding: 16px;
+            border-radius: 8px;
+            margin-bottom: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+            animation: slideIn 0.3s ease;
+        }
+
+        .toast.success {
+            border-left-color: #22c55e;
+        }
+
+        .toast.error {
+            border-left-color: #ef4444;
+        }
+
+        .toast.info {
+            border-left-color: #3b82f6;
+        }
+
+        @keyframes slideIn {
+            from {
+                transform: translateX(400px);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+
+        /* Modal */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.7);
+            z-index: 999;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal.active {
+            display: flex;
+        }
+
+        .modal-content {
+            background: #1a2643;
+            padding: 30px;
+            border-radius: 10px;
+            border: 1px solid #1e3a5f;
+            max-width: 400px;
+            text-align: center;
+        }
+
+        .modal-content h2 {
+            color: #f59e0b;
+            margin-bottom: 15px;
+            font-size: 20px;
+        }
+
+        .modal-content p {
+            color: #9ca3af;
+            margin-bottom: 20px;
+        }
+
+        .modal-actions {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+        }
+
+        .modal-btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 14px;
+            transition: all 0.2s ease;
+        }
+
+        .modal-btn.confirm {
+            background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+            color: #0f172a;
+        }
+
+        .modal-btn.confirm:hover {
+            transform: translateY(-2px);
+        }
+
+        .modal-btn.cancel {
+            background: rgba(107, 114, 128, 0.3);
+            color: #9ca3af;
+        }
+
+        .modal-btn.cancel:hover {
+            background: rgba(107, 114, 128, 0.5);
+        }
+
+        /* Scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: rgba(30, 58, 95, 0.3);
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #f59e0b;
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #d97706;
+        }
+
+        /* Loading Indicator */
+        .loading-spinner {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            border: 2px solid rgba(245, 158, 11, 0.3);
+            border-top-color: #f59e0b;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            vertical-align: middle;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: #6b7280;
+        }
+
+        .empty-state svg {
+            width: 80px;
+            height: 80px;
+            margin-bottom: 20px;
+            opacity: 0.5;
+        }
+    </style>
+</head>
+<body>
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <div class="sidebar-header">
+            <div class="sidebar-title">
+                <span class="logo">🏫</span>
+                <span>Admin Panel</span>
+            </div>
+        </div>
+
+        <div class="action-buttons">
+            <button class="action-btn" id="btnProcessAll" onclick="confirmProcessAll()">
+                Xử lý tất cả
+            </button>
+            <button class="action-btn" id="btnRetryFailed" onclick="confirmRetryFailed()">
+                Retry failed
+            </button>
+            <button class="action-btn" id="btnRefresh" onclick="refreshData()">
+                Làm mới
+            </button>
+        </div>
+
+        <div id="statsContainer">
+            <div class="stats-box">
+                <h3>Tổng files</h3>
+                <div class="stats-value" id="totalFiles">0</div>
+            </div>
+            <div class="stats-box">
+                <h3>Đã hoàn thành</h3>
+                <div class="stats-value" style="color: #22c55e;" id="completedFiles">0</div>
+                <div class="stats-label" id="completedPercent">0%</div>
+            </div>
+            <div class="stats-box">
+                <h3>Lỗi</h3>
+                <div class="stats-value" style="color: #ef4444;" id="failedFiles">0</div>
+            </div>
+            <div class="stats-box">
+                <h3>Chờ xử lý</h3>
+                <div class="stats-value" style="color: #6b7280;" id="pendingFiles">0</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="main-content">
+        <div class="header">
+            <h1>Quản lý Pipeline - RAG Chatbot</h1>
+            <div class="refresh-info">
+                <span id="refreshStatus">Sẵn sàng</span>
+                <span id="lastRefresh"></span>
+            </div>
+        </div>
+
+        <div class="content" id="contentArea">
+            <div class="empty-state">
+                <div class="loading-spinner"></div>
+                <p>Đang tải dữ liệu...</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modals -->
+    <div class="modal" id="confirmModal">
+        <div class="modal-content">
+            <h2 id="modalTitle">Xác nhận</h2>
+            <p id="modalMessage">Bạn có chắc chắn?</p>
+            <div class="modal-actions">
+                <button class="modal-btn confirm" onclick="confirmAction()">Xác nhận</button>
+                <button class="modal-btn cancel" onclick="closeModal()">Hủy</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast Container -->
+    <div class="toast-container" id="toastContainer"></div>
+
+    <script>
+        // ====================================================================
+        // GLOBAL STATE
+        // ====================================================================
+        let pollInterval = null;
+        let isProcessing = false;
+        let pendingAction = null;
+
+        // ====================================================================
+        // INITIALIZATION
+        // ====================================================================
+        document.addEventListener('DOMContentLoaded', () => {
+            refreshData();
+            startAutoPoll();
+        });
+
+        // ====================================================================
+        // DATA FETCHING
+        // ====================================================================
+        async function refreshData() {
+            try {
+                const response = await fetch('/files');
+                const data = await response.json();
+                
+                renderFiles(data.categories);
+                updateStats();
+                updateRefreshTime();
+            } catch (error) {
+                showToast('Lỗi khi tải dữ liệu: ' + error.message, 'error');
+            }
+        }
+
+        async function updateStats() {
+            try {
+                const response = await fetch('/stats');
+                const stats = await response.json();
+                
+                document.getElementById('totalFiles').textContent = stats.total_files;
+                document.getElementById('completedFiles').textContent = stats.completed;
+                document.getElementById('failedFiles').textContent = stats.failed;
+                document.getElementById('pendingFiles').textContent = stats.pending;
+                
+                const percent = stats.total_files > 0 
+                    ? Math.round((stats.completed / stats.total_files) * 100)
+                    : 0;
+                document.getElementById('completedPercent').textContent = percent + '%';
+                
+                // Update refresh status and interval
+                isProcessing = stats.processing > 0;
+                if (isProcessing) {
+                    document.getElementById('refreshStatus').textContent = `Đang xử lý (${stats.processing})`;
+                } else {
+                    document.getElementById('refreshStatus').textContent = 'Sẵn sàng';
+                }
+            } catch (error) {
+                console.error('Error updating stats:', error);
+            }
+        }
+
+        function updateRefreshTime() {
+            const now = new Date();
+            document.getElementById('lastRefresh').textContent = 
+                `(cập nhật: ${now.toLocaleTimeString('vi-VN')})`;
+        }
+
+        // ====================================================================
+        // RENDERING
+        // ====================================================================
+        function renderFiles(categories) {
+            const contentArea = document.getElementById('contentArea');
+            
+            if (!categories || categories.length === 0) {
+                contentArea.innerHTML = '<div class="empty-state"><p>Không tìm thấy file nào</p></div>';
+                return;
+            }
+
+            let html = '';
+            
+            for (const category of categories) {
+                const categoryId = category.category.replace(/\s+/g, '_');
+                const files = category.files;
+                
+                html += `
+                    <div class="category-section">
+                        <div class="category-header" onclick="toggleCategory('${categoryId}')">
+                            <span class="category-toggle">▶</span>
+                            <span class="category-name">${category.category}</span>
+                            <span class="category-count">${files.length} files</span>
+                        </div>
+                        <table class="files-table" id="table-${categoryId}" style="display: table;">
+                            <thead class="table-header">
+                                <tr>
+                                    <th style="width: 25%">File</th>
+                                    <th style="width: 12%">Loại</th>
+                                    <th style="width: 20%">Preprocessing</th>
+                                    <th style="width: 15%">Chunks</th>
+                                    <th style="width: 18%">Thời gian</th>
+                                    <th style="width: 10%">Hành động</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                `;
+                
+                for (const file of files) {
+                    html += renderFileRow(file, file.type === 'partitioned');
+                }
+                
+                html += `
+                            </tbody>
+                        </table>
+                    </div>
+                `;
+            }
+            
+            contentArea.innerHTML = html;
+        }
+
+        function renderFileRow(file, isPartitioned, isPartFile = false) {
+            const statusClass = `status-${file.preprocessing_status}`;
+            const statusText = getStatusText(file.preprocessing_status);
+            const timeText = file.last_processed 
+                ? new Date(file.last_processed).toLocaleString('vi-VN')
+                : '-';
+            
+            const typeClass = file.type === 'partitioned' ? 'partitioned' : 'original';
+            const typeText = file.type === 'partitioned' ? 'Chia nhỏ' : 'Gốc';
+            
+            const isDisabled = file.preprocessing_status === 'processing';
+            
+            // Build row class based on whether it's a part file
+            const rowClass = isPartFile ? 'file-row part-row' : 'file-row';
+            const rowAttrs = isPartFile ? `data-parent="${file.parent_filename}"` : '';
+            
+            // Build status badge with loading icon if processing
+            let statusBadge = `<span class="status-badge ${statusClass}">${statusText}</span>`;
+            if (file.preprocessing_status === 'processing') {
+                statusBadge = `<span class="status-badge ${statusClass}"><span class="loading-spinner" style="margin-right: 6px; vertical-align: middle;"></span>${statusText}</span>`;
+            }
+            
+            let html = `
+                <tr class="${rowClass}" ${rowAttrs} style="${isPartFile ? 'display: none;' : ''}">
+                    <td>
+                        ${isPartitioned && !isPartFile ? `
+                            <span class="part-expand-icon" id="expand-${file.filename}" onclick="event.stopPropagation(); toggleParts(event, '${file.filename}')">▶</span>
+                            <span onclick="toggleParts(event, '${file.filename}')" style="cursor: pointer; padding: 4px;">
+                        ` : ''}
+                        <span class="file-name">${file.filename}</span>
+                        ${isPartitioned && !isPartFile ? `</span>` : ''}
+                    </td>
+                    <td>
+                        <span class="file-type ${typeClass}">${typeText}</span>
+                    </td>
+                    <td>
+                        ${statusBadge}
+                    </td>
+                    <td>${file.embedding_count}</td>
+                    <td style="font-size: 12px; color: #9ca3af;">${timeText}</td>
+                    <td>
+                        <div class="action-cell">
+            `;
+            
+            // Action buttons
+            if (file.preprocessing_status === 'pending' || file.preprocessing_status === 'failed') {
+                const actionText = file.preprocessing_status === 'failed' ? 'Retry' : 'Xử lý';
+                html += `
+                    <button class="action-small-btn" ${isDisabled ? 'disabled' : ''} 
+                            onclick="processFile('${file.filename}')">
+                        ${actionText}
+                    </button>
+                `;
+            }
+            
+            if (file.preprocessing_status === 'completed') {
+                html += `
+                    <button class="action-small-btn" ${isDisabled ? 'disabled' : ''} 
+                            onclick="processFile('${file.filename}')">
+                        Xử lý lại
+                    </button>
+                `;
+            }
+            
+            if (file.preprocessing_status === 'partial_failed') {
+                html += `
+                    <button class="action-small-btn" ${isDisabled ? 'disabled' : ''} 
+                            onclick="processFile('${file.filename}')">
+                        Tiếp tục
+                    </button>
+                `;
+            }
+            
+            html += `
+                        </div>
+                    </td>
+                </tr>
+            `;
+            
+            // Render parts if partitioned
+            if (isPartitioned && file.parts && file.parts.length > 0) {
+                for (const part of file.parts) {
+                    html += renderFileRow({
+                        ...part,
+                        parent_filename: file.filename,
+                        type: 'partitioned',
+                        preprocessing_status: part.preprocessing_status
+                    }, false, true);
+                }
+            }
+            
+            return html;
+        }
+
+        function getStatusText(status) {
+            const statusMap = {
+                'pending': '⏳ Chờ',
+                'processing': '⚙️ Đang xử lý',
+                'completed': '✓ Hoàn thành',
+                'failed': '✗ Lỗi',
+                'partial_failed': '⚠️ Lỗi từng phần'
+            };
+            return statusMap[status] || status;
+        }
+
+        // ====================================================================
+        // INTERACTIONS
+        // ====================================================================
+        function toggleCategory(categoryId) {
+            const table = document.getElementById(`table-${categoryId}`);
+            const header = event.target.closest('.category-header');
+            const toggle = header.querySelector('.category-toggle');
+            
+            if (table.style.display === 'none') {
+                table.style.display = 'table';
+                toggle.parentElement.classList.remove('collapsed');
+            } else {
+                table.style.display = 'none';
+                toggle.parentElement.classList.add('collapsed');
+            }
+        }
+
+        function toggleParts(event, filename) {
+            event.stopPropagation();
+            const expand = document.getElementById(`expand-${filename}`);
+            const isExpanded = expand.classList.toggle('expanded');
+            
+            // Toggle visibility of part rows
+            const rows = document.querySelectorAll(`tr[data-parent="${filename}"]`);
+            rows.forEach(row => {
+                row.style.display = isExpanded ? 'table-row' : 'none';
+            });
+        }
+
+        // ====================================================================
+        // PROCESSING
+        // ====================================================================
+        async function processFile(filename) {
+            try {
+                const response = await fetch('/process/file', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ path: `Data/${filename}.pdf` })
+                });
+                
+                if (!response.ok) {
+                    throw new Error('File không tìm thấy. Thử .docx?');
+                }
+                
+                showToast(`Bắt đầu xử lý: ${filename}`, 'info');
+                startAutoPoll();
+            } catch (error) {
+                showToast('Lỗi: ' + error.message, 'error');
+            }
+        }
+
+        async function processCategory(category) {
+            try {
+                const response = await fetch('/process/category', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ category: category })
+                });
+                
+                if (!response.ok) throw new Error('Request failed');
+                
+                showToast(`Xử lý danh mục: ${category}`, 'info');
+                startAutoPoll();
+            } catch (error) {
+                showToast('Lỗi: ' + error.message, 'error');
+            }
+        }
+
+        async function processAll() {
+            try {
+                const response = await fetch('/process/all', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' }
+                });
+                
+                if (!response.ok) throw new Error('Request failed');
+                
+                showToast('Bắt đầu xử lý tất cả files', 'info');
+                startAutoPoll();
+            } catch (error) {
+                showToast('Lỗi: ' + error.message, 'error');
+            }
+        }
+
+        async function retryFailed() {
+            try {
+                const response = await fetch('/retry/failed', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' }
+                });
+                
+                if (!response.ok) throw new Error('Request failed');
+                
+                showToast('Bắt đầu retry files lỗi', 'info');
+                startAutoPoll();
+            } catch (error) {
+                showToast('Lỗi: ' + error.message, 'error');
+            }
+        }
+
+        // ====================================================================
+        // AUTO POLLING
+        // ====================================================================
+        function startAutoPoll() {
+            if (pollInterval) clearInterval(pollInterval);
+            
+            pollInterval = setInterval(async () => {
+                await updateStats();
+                
+                // Refresh every 3 seconds while processing
+                if (isProcessing) {
+                    await refreshData();
+                } else {
+                    // Stop polling if nothing is processing
+                    if (pollInterval) {
+                        clearInterval(pollInterval);
+                        pollInterval = null;
+                    }
+                }
+            }, isProcessing ? 3000 : 10000);
+        }
+
+        // ====================================================================
+        // TOAST NOTIFICATIONS
+        // ====================================================================
+        function showToast(message, type = 'info', duration = 3000) {
+            const container = document.getElementById('toastContainer');
+            const toast = document.createElement('div');
+            toast.className = `toast ${type}`;
+            toast.textContent = message;
+            
+            container.appendChild(toast);
+            
+            setTimeout(() => {
+                toast.style.animation = 'slideIn 0.3s ease reverse';
+                setTimeout(() => toast.remove(), 300);
+            }, duration);
+        }
+
+        // ====================================================================
+        // MODAL DIALOGS
+        // ====================================================================
+        function showModal(title, message, action) {
+            document.getElementById('modalTitle').textContent = title;
+            document.getElementById('modalMessage').textContent = message;
+            pendingAction = action;
+            document.getElementById('confirmModal').classList.add('active');
+        }
+
+        function closeModal() {
+            document.getElementById('confirmModal').classList.remove('active');
+            pendingAction = null;
+        }
+
+        function confirmAction() {
+            closeModal();
+            if (pendingAction) {
+                pendingAction();
+            }
+        }
+
+        function confirmProcessAll() {
+            showModal(
+                'Xác nhận',
+                'Bạn có chắc chắn muốn xử lý TẤT CẢ files?',
+                processAll
+            );
+        }
+
+        function confirmRetryFailed() {
+            showModal(
+                'Xác nhận',
+                'Bạn có chắc chắn muốn retry tất cả files lỗi?',
+                retryFailed
+            );
+        }
+
+        // Close modal when clicking outside
+        document.addEventListener('click', (e) => {
+            const modal = document.getElementById('confirmModal');
+            if (e.target === modal) {
+                closeModal();
+            }
+        });
+    </script>
+</body>
+</html>
