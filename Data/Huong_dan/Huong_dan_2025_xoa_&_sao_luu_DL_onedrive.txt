@@ -1,0 +1,46 @@
+Hướng dẫn kiểm tra dung lượng và sao lưu dữ liệu trên OneDrive về máy tính
+Cập nhật: 10:31 27/08/2025
+Để kiểm tra dung lượng OneDrive, bạn có thể đăng nhập vào OneDrive trên trang web hoặc ứng dụng OneDrive trên máy tính, sau đó mở Quản lý lưu trữ (Manage storage) để xem tổng dung lượng đã dùng, dung lượng còn lại và các tệp dung lượng lớn.
+
+Để sao lưu (tải) dữ liệu từ OneDrive về máy tính, bạn có thể: (a) đồng bộ về máy bằng Files On‑Demand (khuyến nghị khi dữ liệu lớn/nhiều thư mục) hoặc (b) tải thủ công qua web theo từng đợt phù hợp.
+
+I. Cách kiểm tra dung lượng OneDrive
+
+Trên trình duyệt web:
+Truy cập https://onedrive.live.com và đăng nhập vào tài khoản Microsoft 356 mà Nhà trường cấp cho bạn.
+Trong giao diện chính, bạn sẽ thấy thông tin dung lượng ở thanh bên trái.
+Hoặc nháy (click) vào biểu tượng bánh răng (Cài đặt) ở góc trên bên phải, rồi chọn Quản lý lưu trữ (Manage storage) để xem chi tiết các tệp dung lượng lớn và dung lượng còn lại.
+Hãy dọn Thùng rác (Recycle bin): sau khi xóa tệp/thư mục, hãy vào Recycle bin → Empty recycle bin để giải phóng dung lượng thật sự.
+Trên ứng dụng OneDrive trên máy tính:
+Nháy vào biểu tượng OneDrive (đám mây) trên thanh tác vụ Windows hoặc thanh menu macOS.
+Chọn Cài đặt (Settings) → Quản lý lưu trữ (Manage storage) để mở trang thống kê dung lượng và danh sách tệp lớn.
+(Khuyến nghị) Với những tệp “phình” bất thường, hãy mở Version history và xóa bớt phiên bản cũ không cần thiết; sau đó dọn Recycle bin.
+II. Cách sao lưu dữ liệu OneDrive về máy tính
+
+Bạn có thể sao lưu dữ liệu bằng đồng bộ (ổn định nhất khi dữ liệu lớn) hoặc tải thủ công qua web (phù hợp khi dữ liệu ít).
+
+Đồng bộ về máy để dùng offline (Files On‑Demand)
+Windows
+
+Nháy biểu tượng OneDrive → Settings → Sync & backup → Advanced settings → Download all files;
+hoặc mở File Explorer → OneDrive – <Tên trường>, nháy phải thư mục gốc và chọn Always keep on this device để buộc tải toàn bộ về máy.
+Chờ đến khi cột Trạng thái (Status) hiển thị dấu ✔ cho mọi thư mục/tệp.
+Sao chép ra vị trí ngoài OneDrive (ví dụ: D:\Backup\OneDrive hoặc ổ ngoài) để có bản sao tĩnh (tránh rủi ro đồng bộ xoá nhầm trong tương lai).
+macOS
+
+Mở Finder → OneDrive – <Tên trường>, nháy phải thư mục/tệp cần lưu → Always Keep on This Device; đợi tải xong rồi chép sang thư mục/ổ ngoài OneDrive để làm bản sao lưu.
+Lưu ý: Với dữ liệu cực lớn (rất nhiều tệp nhỏ), nên chia đợt đồng bộ để máy hoạt động mượt hơn.
+
+Tải thủ công các tệp và thư mục (qua web)
+Mở OneDrive web tại https://onedrive.live.com.
+Chọn các tệp/thư mục bạn muốn sao lưu, sau đó nháy Download.
+Nếu gặp lỗi do gói tải quá lớn, hãy tách nhỏ theo nhiều đợt:
+Tối đa 10.000 mục/lần tải.
+Tổng kích thước .zip ≤ 20 GB (tệp đơn lẻ có thể tới 250 GB).
+Nên sử dụng Microsoft Edge/Google Chrome để tải nhiều mục.
+OneNote notebook không tải được trong file .zip. Hãy mở OneNote (web/desktop) → File → Export → Notebook → OneNote Package (.onepkg) để lưu riêng về máy.
+Sau khi tải xong, giải nén (nếu có) và mở thử một số tệp để kiểm tra.
+Lưu ý chung:
+
+Thùng rác (Recycle bin) vẫn tính vào dung lượng cho đến khi được xóa hoàn toàn.
+Microsoft 365 Giáo dục sử dụng lưu trữ dùng chung (pooled storage) cho toàn Đại học; việc dọn tệp lớn, xóa phiên bản cũ và dọn thùng rác giúp giảm áp lực dung lượng cho hệ thống.

@@ -1,0 +1,120 @@
+HƯỚNG DẪN VIẾT EMAIL CHUYÊN NGHIỆP DÀNH CHO SINH VIÊN
+Cập nhật: 06:36 08/08/2025
+Email đóng vai trò quan trọng trong quá trình học tập và phát triển của sinh viên. Việc sử dụng email đúng cách sẽ giúp sinh viên tận dụng được nhiều lợi ích, tài nguyên, và cơ hội trong quá trình học tập cũng như sau tốt nghiệp. 
+
+Để giao tiếp email đúng cách, bạn có thể tham khảo một số gợi ý sau đây:
+
+1. Sử dụng email trường đúng cách
+
+Email sinh viên HUST có dạng: ten.hd24xxxxx@sis.hust.edu.vn
+
+Đây là kênh liên lạc chính thức trong học tập, thực tập, đăng ký học phần, trao đổi với thầy cô, doanh nghiệp...
+
+Sinh viên cần kiểm tra email thường xuyên (ít nhất 1 lần/ngày, bằng cách cài ứng dụng outlook trên điện thoại) để không bỏ lỡ các thông báo quan trọng.
+
+2. Cấu trúc một email chuẩn
+
+📌 Tiêu đề email (Subject)
+
+* Ngắn gọn, rõ ràng, thể hiện nội dung chính của email.
+
+* Tránh viết chung chung như: “Giúp em với”, “Hỏi thầy”, “Em cần hỏi”…
+
+* Ví dụ:
+
+[EE2025] Xin nghỉ học buổi 15/8
+Đăng ký đề tài nghiên cứu khoa học – Nhóm sinh viên Cơ điện tử K66
+Thắc mắc về điểm thành phần môn Kỹ thuật nhiệt – MSSV 2021xxxx
+📌 Lời chào đầu thư
+
+* Luôn có câu chào mở đầu, thể hiện sự lịch sự và tôn trọng người nhận.
+
+* Ví dụ:
+
+      Với thầy cô
+
+“Em kính chào thầy/cô,”
+“Kính gửi thầy/cô [Tên đầy đủ hoặc nhóm chuyên môn]”
+      Với doanh nghiệp:
+
+“Kính gửi Anh/Chị \[Tên hoặc Bộ phận],”
+📌 Nội dung email
+
+* Trình bày ngắn gọn, mạch lạc, dễ hiểu. Tối đa 3–5 đoạn.
+
+* Luôn giới thiệu bản thân ở đầu thư: tên, MSSV, lớp, ngành học.
+
+* Nêu mục đích rõ ràng, cụ thể.
+
+* Sử dụng ngôn ngữ trang trọng, không viết tắt, không dùng emoji, không viết in hoa toàn bộ.
+
+         Ví dụ đoạn mở đầu:
+
+Em là Nguyễn Bách Khoa – sinh viên K66 ngành CNTT, MSSV 2021xxxx.
+Em viết thư này để xin ý kiến thầy về đề tài đồ án tốt nghiệp của nhóm em.
+         Ví dụ đoạn thân bài:
+
+Nhóm em đã xây dựng đề cương sơ bộ và rất mong nhận được phản hồi từ thầy. Em xin phép đính kèm file đề cương và file phân công công việc trong nhóm.
+         Ví dụ đoạn kết:
+
+Em xin cảm ơn thầy đã dành thời gian đọc thư.
+Mong nhận được phản hồi từ thầy trong thời gian sớm.
+📌 Chữ ký cuối thư
+
+* Luôn có chữ ký chuyên nghiệp gồm: Họ tên, MSSV, lớp, ngành, email HUST, số điện thoại (nếu cần)
+
+Ví dụ chữ ký:
+
+______
+
+Nguyễn Bách Khoa
+
+Sinh viên K66 – Ngành Công nghệ Thông tin
+
+MSSV: 2021xxxx
+
+Email: khoa.nb21xxxx@sis.hust.edu.vn
+
+Điện thoại: 0987 xxx xxx
+
+3. Một số lưu ý quan trọng khác
+
+✅ Luôn viết bằng tiếng Việt chuẩn hoặc tiếng Anh chuẩn, không dùng ngôn ngữ mạng.
+
+✅ Kiểm tra chính tả, ngữ pháp trước khi gửi.
+
+✅ Đặt tên file đính kèm rõ ràng (ví dụ: DeCuong_DATN_Nhom10.pdf)
+
+✅ Không gửi thư trống nội dung, chỉ đính kèm file.
+
+✅ Không forward hay reply-all không cần thiết.
+
+4. Mẫu email tham khảo
+
+Subject: [IT3050] Xin xác nhận điểm chuyên cần – Nguyễn Bách Khoa – MSSV 2021xxxx
+
+Nội dung:
+
+Kính gửi thầy Nguyễn Văn B,
+
+Em là Nguyễn Bách Khoa, sinh viên lớp IT.E06, ngành CNTT, MSSV 2021xxxx.
+
+Em viết thư này để xin xác nhận điểm chuyên cần môn IT3050 vì có một buổi em vắng có lý do chính đáng và đã gửi giấy xác nhận.
+
+Em xin đính kèm bản scan giấy xác nhận. Mong thầy xem xét và hỗ trợ.
+
+Em xin cảm ơn thầy!
+
+Trân trọng,
+
+________
+
+Nguyễn Bách Khoa
+
+Sinh viên K66 – Ngành CNTT
+
+MSSV: 2021xxxx
+
+Email: khoa.nb21xxxx@sis.hust.edu.vn
+
+Điện thoại: 0987 xxx xxx

@@ -168,13 +168,20 @@ Quy tắc:
 # ============================================================================
 
 def get_connection():
-    """Get a database connection"""
-    conn = psycopg2.connect(**DB_CONFIG)
-    register_vector(conn)
-    return conn
+    """Get a database connection with timeout"""
+    print("    [DB] Đang kết nối database...")
+    try:
+        conn = psycopg2.connect(**DB_CONFIG, connect_timeout=10)
+        register_vector(conn)
+        print("    [DB] Kết nối thành công")
+        return conn
+    except Exception as e:
+        print(f"    [DB ERROR] Lỗi kết nối database: {e}")
+        raise
 
 def setup_database():
     """Create database schema if it doesn't exist"""
+    print("[DB] Thiết lập database...")
     create_table_sql = '''
     CREATE TABLE IF NOT EXISTS chunks (
         id SERIAL PRIMARY KEY,
@@ -196,6 +203,7 @@ def setup_database():
     ALTER TABLE chunks ADD COLUMN IF NOT EXISTS url TEXT DEFAULT '';
     '''
     try:
+        print("    [DB] Tạo table nếu chưa tồn tại...")
         with get_connection() as conn:
             with conn.cursor() as cur:
                 cur.execute(create_table_sql)
@@ -204,6 +212,8 @@ def setup_database():
         print("[✓] Database schema ready")
     except Exception as e:
         print(f"[!] Database error: {e}")
+        import traceback
+        traceback.print_exc()
 
 # ============================================================================
 # PREPROCESSING FUNCTIONS
@@ -314,12 +324,107 @@ def split_docx(file_path: Path, output_folder: Path) -> list[Path]:
         parts.append(part_path)
     return parts
 
+def read_and_chunk_text_file(file_path: Path, chunk_size: int = 4000) -> list[str]:
+    """Read .txt file and split into chunks (by words)"""
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+    
+    words = content.split()
+    chunks = []
+    for i in range(0, len(words), chunk_size):
+        chunk = ' '.join(words[i:i+chunk_size])
+        if chunk.strip():
+            chunks.append(chunk)
+    
+    return chunks
+
+def process_text_file(file_path: Path, original_doc_id: str = None, original_category: str = None) -> Path:
+    """Process .txt file: read, chunk, preprocess with Gemini, save output"""
+    category = file_path.parent.name
+    filename = file_path.name
+    doc_id = file_path.stem
+    parent_doc_id = original_doc_id if original_doc_id else doc_id
+    
+    if original_doc_id and original_category:
+        base_folder = PREPROCESSED_DIR / original_category / f"{original_doc_id}_partitioned_processed"
+    else:
+        base_folder = PREPROCESSED_DIR / category
+    
+    year_match = re.search(r'\b(19|20)\d{2}\b', doc_id)
+    year = year_match.group() if year_match else "N/A"
+    
+    print(f"\n[*] Tiền xử lý: {filename} (Category: {category}, Year: {year})")
+    
+    # Read and chunk text file
+    chunks = read_and_chunk_text_file(file_path)
+    print(f"    [~] Chia file thành {len(chunks)} chunks")
+    
+    if not chunks:
+        print(f"[!] File trống: {filename}")
+        return None
+    
+    all_output = []
+    
+    try:
+        for chunk_idx, chunk in enumerate(chunks, 1):
+            print(f"    [CHUNK {chunk_idx}/{len(chunks)}] Đang xử lý...")
+            
+            formatted_instruction = SYSTEM_INSTRUCTION.format(
+                filename=f"{filename} (chunk {chunk_idx}/{len(chunks)})",
+                doc_id=doc_id,
+                parent_doc_id=parent_doc_id,
+                category=original_category or category,
+                year=year
+            )
+            
+            # Send chunk to Gemini for preprocessing
+            try:
+                print(f"        [GEMINI] Gửi request tới Gemini...")
+                response = client.models.generate_content(
+                    model=MODEL,
+                    contents=[chunk],
+                    config=types.GenerateContentConfig(
+                        system_instruction=formatted_instruction,
+                        temperature=0.1
+                    )
+                )
+                print(f"        [GEMINI] ✓ Nhận response")
+                all_output.append(response.text)
+                time.sleep(0.5)
+            except Exception as e:
+                print(f"        [GEMINI ERROR] {e}")
+                raise
+        
+        # Save all processed chunks
+        print(f"    [FILE] Đang lưu output...")
+        output_folder = base_folder
+        output_folder.mkdir(parents=True, exist_ok=True)
+        output_file = output_folder / f"{doc_id}_preprocessed.txt"
+        
+        with open(output_file, "w", encoding="utf-8") as f:
+            f.write("\n\n".join(all_output))
+        
+        print(f"[✓] Xong: {output_file}")
+        return output_file
+        
+    except Exception as e:
+        print(f"[X] Lỗi khi xử lý {filename}: {e}")
+        import traceback
+        traceback.print_exc()
+        return None
+
 def upload_and_process(file_path: Path, original_doc_id: str = None, original_category: str = None) -> Path:
     """Upload file to Gemini, preprocess with chunking, save to Preprocessed_Data folder"""
-    SUPPORTED_EXTENSIONS = {".pdf", ".docx"}
+    SUPPORTED_EXTENSIONS = {".pdf", ".docx", ".txt"}
     if not file_path.exists() or file_path.suffix.lower() not in SUPPORTED_EXTENSIONS:
         print(f"[!] Bỏ qua (không hỗ trợ): {file_path.name}")
         return None
+    
+    # Handle .txt files separately
+    if file_path.suffix.lower() == ".txt":
+        return process_text_file(file_path, original_doc_id, original_category)
+    
+    # Original logic for PDF and DOCX
 
     category = file_path.parent.name
     filename = file_path.name
@@ -344,16 +449,22 @@ def upload_and_process(file_path: Path, original_doc_id: str = None, original_ca
         upload_path = temp_pdf
 
     try:
+        print(f"    [UPLOAD] Đang upload file...")
         file_upload = client.files.upload(file=upload_path)
+        print(f"    [UPLOAD] File uploaded, waiting for processing...")
+        
         while file_upload.state.name == "PROCESSING":
             print(".", end="", flush=True)
             time.sleep(2)
             file_upload = client.files.get(name=file_upload.name)
 
+        print(f"\n    [UPLOAD] Status: {file_upload.state.name}")
+        
         if file_upload.state.name == "FAILED":
-            print(f"\n[X] Upload thất bại: {filename}")
+            print(f"[X] Upload thất bại: {filename}")
             return None
 
+        print(f"    [GEMINI] Đang gửi request tiền xử lý...")
         formatted_instruction = SYSTEM_INSTRUCTION.format(
             filename=filename,
             doc_id=doc_id,
@@ -370,6 +481,8 @@ def upload_and_process(file_path: Path, original_doc_id: str = None, original_ca
                 temperature=0.1
             )
         )
+        
+        print(f"    [GEMINI] ✓ Nhận response ({len(response.text)} chars)")
 
         if "<<<CHUNK_START>>>" not in response.text:
             print(f"\n[!] Output không đúng format — lưu vào thư mục review")
@@ -377,18 +490,22 @@ def upload_and_process(file_path: Path, original_doc_id: str = None, original_ca
         else:
             output_folder = base_folder
 
+        print(f"    [FILE] Đang lưu output...")
         output_folder.mkdir(parents=True, exist_ok=True)
         output_file = output_folder / f"{doc_id}_preprocessed.txt"
 
         with open(output_file, "w", encoding="utf-8") as f:
             f.write(response.text.strip())
 
+        print(f"    [CLEANUP] Xóa file tạm...")
         client.files.delete(name=file_upload.name)
-        print(f"\n[✓] Xong: {output_file}")
+        print(f"[✓] Xong: {output_file}")
         return output_file
 
     except Exception as e:
         print(f"\n[X] Lỗi khi xử lý {filename}: {e}")
+        import traceback
+        traceback.print_exc()
         return None
 
     finally:
@@ -428,9 +545,14 @@ def partition_and_process(file_path: Path) -> list[Path]:
 def preprocess_file(file_path: Path) -> list[Path]:
     """Entry point cho preprocessing: kiểm tra kích thước, partition nếu cần"""
     file_path = Path(file_path)
-    if not file_path.exists() or file_path.suffix.lower() not in {".pdf", ".docx"}:
+    if not file_path.exists() or file_path.suffix.lower() not in {".pdf", ".docx", ".txt"}:
         print(f"[!] Bỏ qua (không hỗ trợ): {file_path.name}")
         return []
+
+    # Handle .txt files (no partitioning needed)
+    if file_path.suffix.lower() == ".txt":
+        output_file = upload_and_process(file_path)
+        return [output_file] if output_file else []
 
     page_count = get_page_count(file_path)
     suffix_note = "(ước tính)" if file_path.suffix.lower() == ".docx" else ""
@@ -474,24 +596,34 @@ def parse_preprocessed_file(file_path: Path) -> list[dict]:
     return chunks
 
 def embed_chunk(chunk, max_retries=3):
-    """Embed a chunk using Gemini embedding model"""
+    """Embed a chunk using Gemini embedding model with timeout"""
+    chunk_id = chunk.get('chunk_id', 'unknown')
     text = (chunk.get('summary', '') + "\n\n" + chunk.get('content', '')).strip()
+    
+    print(f"        [EMBED] {chunk_id}: đang embed ({len(text)} chars)...")
+    
     for attempt in range(max_retries):
         try:
+            print(f"        [EMBED] Attempt {attempt+1}/{max_retries}...")
             response = client.models.embed_content(
                 model=EMBEDDING_MODEL,
                 contents=text,
                 config=types.EmbedContentConfig(task_type="RETRIEVAL_DOCUMENT")
             )
+            print(f"        [EMBED] ✓ Embed thành công")
             return response.embeddings[0].values
         except Exception as e:
             msg = str(e)
+            print(f"        [EMBED ERROR] {msg}")
             if any(code in msg for code in ["429", "503"]):
-                print(f"    [~] Rate limit, retry {attempt+1}/3...")
-                time.sleep(30)
+                if attempt < max_retries - 1:
+                    print(f"        [EMBED] Rate limit, chờ 30s rồi retry...")
+                    time.sleep(30)
             else:
-                print(f"    [!] Embedding error: {e}")
+                print(f"        [EMBED] Lỗi không thể retry: {e}")
                 break
+    
+    print(f"        [EMBED FAILED] {chunk_id} - đã thử {max_retries} lần")
     return None
 
 def store_chunk(cur, chunk, embedding):
@@ -526,31 +658,78 @@ def store_chunk(cur, chunk, embedding):
 
 def embed_and_store_file(file_path: Path):
     """Parse preprocessed file, embed chunks, and store in database"""
-    chunks = parse_preprocessed_file(file_path)
-    print(f"\n[*] Embedding {len(chunks)} chunks từ {file_path.name}...")
+    print(f"[EMBED] Bắt đầu xử lý {file_path.name}...")
     
-    with get_connection() as conn:
+    try:
+        print(f"    [PARSE] Đang phân tích file...")
+        chunks = parse_preprocessed_file(file_path)
+        print(f"    [PARSE] ✓ Tìm được {len(chunks)} chunks")
+    except Exception as e:
+        print(f"    [PARSE ERROR] {e}")
+        return
+    
+    if not chunks:
+        print(f"    [WARNING] File không có chunks, bỏ qua")
+        return
+    
+    print(f"    [DB] Kết nối database...")
+    try:
+        conn = get_connection()
+    except Exception as e:
+        print(f"    [DB ERROR] Không thể kết nối: {e}")
+        return
+    
+    try:
         with conn.cursor() as cur:
+            processed = 0
+            skipped = 0
+            failed = 0
+            
             for i, chunk in enumerate(chunks, 1):
+                chunk_id = chunk.get('chunk_id', f'chunk_{i}')
+                print(f"\n    [CHUNK {i}/{len(chunks)}] {chunk_id}")
+                
                 try:
-                    cur.execute("SELECT 1 FROM chunks WHERE chunk_id=%s", (chunk.get('chunk_id'),))
+                    # Check if already exists
+                    print(f"        [CHECK] Kiểm tra xem đã tồn tại...")
+                    cur.execute("SELECT 1 FROM chunks WHERE chunk_id=%s", (chunk_id,))
                     if cur.fetchone():
-                        print(f"    [SKIP] {chunk.get('chunk_id')} (đã tồn tại)")
+                        print(f"        [SKIP] Đã tồn tại trong DB")
+                        skipped += 1
                         continue
                     
+                    # Embed
+                    print(f"        [EMBED] Đang tạo embedding...")
                     embedding = embed_chunk(chunk)
                     if embedding is None:
-                        print(f"    [FAIL] {chunk.get('chunk_id')} (embedding error)")
+                        print(f"        [FAILED] Không thể embed")
+                        failed += 1
                         continue
                     
+                    # Store
+                    print(f"        [STORE] Lưu vào database...")
                     store_chunk(cur, chunk, embedding)
                     conn.commit()
-                    print(f"    [OK {i}/{len(chunks)}] {chunk.get('chunk_id')}")
-                    time.sleep(0.5)
+                    print(f"        [OK] ✓ Xử lý thành công")
+                    processed += 1
+                    
+                    # Rate limiting
+                    if i < len(chunks):
+                        time.sleep(0.5)
                     
                 except Exception as e:
                     conn.rollback()
-                    print(f"    [FAIL] {chunk.get('chunk_id')} ({e})")
+                    print(f"        [FAILED] {e}")
+                    failed += 1
+            
+            print(f"\n[EMBED SUMMARY]")
+            print(f"    Xử lý: {processed}/{len(chunks)}")
+            print(f"    Bỏ qua: {skipped}")
+            print(f"    Lỗi: {failed}")
+            
+    finally:
+        conn.close()
+        print(f"[EMBED] ✓ Hoàn thành {file_path.name}")
 
 # ============================================================================
 # MAIN UNIFIED PIPELINE
@@ -565,31 +744,50 @@ def unified_pipeline(file_path_str: str):
     print("UNIFIED PIPELINE: TIỀN XỬ LÝ + EMBEDDING")
     print("=" * 70)
     
-    file_path = Path(file_path_str)
-    
-    # Step 1: Setup database
-    print("\n[STEP 1] Khởi tạo database...")
-    setup_database()
-    
-    # Step 2: Preprocessing
-    print("\n[STEP 2] Tiền xử lý tài liệu...")
-    preprocessed_files = preprocess_file(file_path)
-    
-    if not preprocessed_files:
-        print("[X] Tiền xử lý thất bại. Dừng pipeline.")
-        return
-    
-    print(f"\n[✓] Tạo được {len(preprocessed_files)} file(s) đã tiền xử lý")
-    
-    # Step 3: Embedding and storing
-    print("\n[STEP 3] Embedding và lưu vào database...")
-    for preprocessed_file in preprocessed_files:
-        if preprocessed_file.exists():
-            embed_and_store_file(preprocessed_file)
-    
-    print("\n" + "=" * 70)
-    print("[✓] HOÀN THÀNH! Tài liệu đã được tiền xử lý và lưu vào database")
-    print("=" * 70)
+    try:
+        file_path = Path(file_path_str)
+        
+        # Step 1: Setup database
+        print("\n[STEP 1] Khởi tạo database...")
+        print(f"    File: {file_path}")
+        print(f"    Tồn tại: {file_path.exists()}")
+        setup_database()
+        print("[✓] STEP 1 hoàn thành\n")
+        
+        # Step 2: Preprocessing
+        print("[STEP 2] Tiền xử lý tài liệu...")
+        print(f"    Bắt đầu preprocess_file()...")
+        preprocessed_files = preprocess_file(file_path)
+        print(f"    [DONE] preprocess_file() trả về {len(preprocessed_files)} files")
+        
+        if not preprocessed_files:
+            print("[X] Tiền xử lý thất bại. Dừng pipeline.")
+            return
+        
+        print(f"[✓] Tạo được {len(preprocessed_files)} file(s) đã tiền xử lý")
+        for pf in preprocessed_files:
+            print(f"    - {pf}")
+        print("[✓] STEP 2 hoàn thành\n")
+        
+        # Step 3: Embedding and storing
+        print("[STEP 3] Embedding và lưu vào database...")
+        for preprocessed_file in preprocessed_files:
+            if preprocessed_file.exists():
+                print(f"    Bắt đầu embed_and_store_file()...")
+                embed_and_store_file(preprocessed_file)
+                print(f"    [DONE] embed_and_store_file()")
+        
+        print("[✓] STEP 3 hoàn thành\n")
+        
+        print("=" * 70)
+        print("[✓] HOÀN THÀNH! Tài liệu đã được tiền xử lý và lưu vào database")
+        print("=" * 70)
+        
+    except Exception as e:
+        print(f"\n[ERROR] Pipeline lỗi: {e}")
+        import traceback
+        traceback.print_exc()
+        raise
 
 # ============================================================================
 # MAIN ENTRY POINT

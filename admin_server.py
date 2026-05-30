@@ -29,6 +29,9 @@ from contextlib import contextmanager
 # CONFIGURATION
 # ============================================================================
 
+# Thread lock for safe pipeline_log access
+log_lock = threading.Lock()
+
 PROJECT_ROOT = Path(__file__).parent
 SCRIPT_DIR = PROJECT_ROOT / "Script"
 DATA_DIR = PROJECT_ROOT / "Data"
@@ -127,68 +130,105 @@ def get_db_connection():
     finally:
         conn.close()
 
-def get_embedding_count(parent_doc_id: str) -> int:
-    """Get number of chunks for a parent document"""
+def get_embedding_counts(doc_ids: List[str] = None) -> Dict[str, int]:
+    """Get embedding counts for multiple documents (batch query for efficiency)"""
     try:
         with get_db_connection() as conn:
             with conn.cursor() as cur:
-                cur.execute(
-                    "SELECT COUNT(*) FROM chunks WHERE parent_doc_id = %s",
-                    (parent_doc_id,)
-                )
-                result = cur.fetchone()
-                return result[0] if result else 0
+                if doc_ids is None or not doc_ids:
+                    # Get all counts
+                    cur.execute("SELECT parent_doc_id, COUNT(*) FROM chunks GROUP BY parent_doc_id")
+                else:
+                    # Get counts for specific doc_ids
+                    placeholders = ','.join(['%s'] * len(doc_ids))
+                    cur.execute(
+                        f"SELECT parent_doc_id, COUNT(*) FROM chunks WHERE parent_doc_id IN ({placeholders}) GROUP BY parent_doc_id",
+                        doc_ids
+                    )
+                
+                result = {}
+                for row in cur.fetchall():
+                    result[row[0]] = row[1]
+                
+                # Fill in zeros for doc_ids not found
+                if doc_ids:
+                    for doc_id in doc_ids:
+                        if doc_id not in result:
+                            result[doc_id] = 0
+                
+                return result
     except Exception as e:
-        print(f"Error querying embedding count for {parent_doc_id}: {e}")
-        return 0
+        print(f"Error querying embedding counts: {e}")
+        return {}
+
+def get_embedding_count(parent_doc_id: str) -> int:
+    """Get number of chunks for a parent document (single query)"""
+    counts = get_embedding_counts([parent_doc_id])
+    return counts.get(parent_doc_id, 0)
 
 # ============================================================================
 # PIPELINE LOG MANAGEMENT
 # ============================================================================
 
 def load_pipeline_log() -> Dict:
-    """Load pipeline_log.json"""
-    if PIPELINE_LOG_FILE.exists():
-        with open(PIPELINE_LOG_FILE, "r") as f:
-            return json.load(f)
-    return {}
+    """Load pipeline_log.json (thread-safe)"""
+    with log_lock:
+        if PIPELINE_LOG_FILE.exists():
+            with open(PIPELINE_LOG_FILE, "r") as f:
+                return json.load(f)
+        return {}
 
 def save_pipeline_log(log_data: Dict):
-    """Save pipeline_log.json"""
-    PIPELINE_LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(PIPELINE_LOG_FILE, "w") as f:
-        json.dump(log_data, f, indent=2)
+    """Save pipeline_log.json (thread-safe)"""
+    with log_lock:
+        PIPELINE_LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
+        with open(PIPELINE_LOG_FILE, "w") as f:
+            json.dump(log_data, f, indent=2)
 
-def update_log_status(doc_id: str, status: str, error: Optional[str] = None, attempts: int = 1):
-    """Update status for a document in pipeline log"""
-    log_data = load_pipeline_log()
-    
-    if doc_id not in log_data:
-        log_data[doc_id] = {}
-    
-    log_data[doc_id].update({
-        "status": status,
-        "last_processed": datetime.now().isoformat(),
-        "attempts": attempts,
-        "error": error
-    })
-    
-    save_pipeline_log(log_data)
+def update_log_status(doc_id: str, status: str, error: Optional[str] = None, attempts: int = 1, embedding_count: Optional[int] = None):
+    """Update status for a document in pipeline log (thread-safe)"""
+    with log_lock:
+        log_data = load_pipeline_log()
+        
+        if doc_id not in log_data:
+            log_data[doc_id] = {}
+        
+        update_dict = {
+            "status": status,
+            "last_processed": datetime.now().isoformat(),
+            "attempts": attempts,
+            "error": error
+        }
+        
+        # Update embedding_count if provided
+        if embedding_count is not None:
+            update_dict["embedding_count"] = embedding_count
+        
+        log_data[doc_id].update(update_dict)
+        save_pipeline_log(log_data)
 
 # ============================================================================
 # FILE DISCOVERY & UTILITIES
 # ============================================================================
 
 def find_file_path(filename: str) -> Optional[Path]:
-    """Find actual file path from filename (tries .pdf and .docx)"""
+    """Find actual file path from filename (tries .pdf, .docx, and .txt)"""
     print(f"[DEBUG] find_file_path: searching for '{filename}'")
     
     # Try to find in Data directory recursively
-    for ext in [".pdf", ".docx"]:
-        for file_path in DATA_DIR.rglob(f"*"):
-            if file_path.stem == filename and file_path.suffix.lower() == ext:
-                print(f"[DEBUG] find_file_path: found at {file_path}")
-                return file_path
+    for file_path in DATA_DIR.rglob("*"):
+        if file_path.is_file() and file_path.stem == filename and file_path.suffix.lower() in {".pdf", ".docx", ".txt"}:
+            print(f"[DEBUG] find_file_path: found at {file_path}")
+            return file_path
+    
+    # Try both .pdf, .docx, and .txt if not found by stem
+    for ext in [".pdf", ".docx", ".txt"]:
+        for cat_folder in DATA_DIR.iterdir():
+            if cat_folder.is_dir() and not cat_folder.name.startswith("_"):
+                candidate = cat_folder / f"{filename}{ext}"
+                if candidate.exists():
+                    print(f"[DEBUG] find_file_path: found at {candidate}")
+                    return candidate
     
     print(f"[WARNING] find_file_path: file '{filename}' not found in Data directory")
     return None
@@ -219,16 +259,26 @@ def discover_files() -> Dict[str, List[Dict]]:
         
         category_name = category_folder.name
         
-        # Collect all files in this category
+        # Collect all files in this category (including partitioned folders)
         for file_path in category_folder.glob("*"):
-            if file_path.suffix.lower() not in {".pdf", ".docx"}:
-                continue
-            
-            filename = file_path.stem
-            all_files_in_data[filename] = category_name
+            if file_path.suffix.lower() in {".pdf", ".docx", ".txt"}:
+                filename = file_path.stem
+                all_files_in_data[filename] = category_name
+        
+        # Also detect partitioned folders: {parent_doc_id}_partitioned
+        for partitioned_folder in category_folder.glob("*_partitioned"):
+            if partitioned_folder.is_dir():
+                parent_doc_id = partitioned_folder.name.replace("_partitioned", "")
+                # If parent file doesn't exist, register it anyway
+                if parent_doc_id not in all_files_in_data:
+                    all_files_in_data[parent_doc_id] = category_name
+    
+    # Batch query all embedding counts at once
+    all_doc_ids = list(all_files_in_data.keys())
+    embedding_counts = get_embedding_counts(all_doc_ids) if all_doc_ids else {}
     
     # Second pass: Process parent files and their parts
-    for category_name in sorted(all_files_in_data.values()):
+    for category_name in sorted(set(all_files_in_data.values())):
         category_files = [f for f, c in all_files_in_data.items() if c == category_name]
         
         for doc_id in sorted(category_files):
@@ -254,8 +304,8 @@ def discover_files() -> Dict[str, List[Dict]]:
             status = log_entry.get("status", "pending")
             last_processed = log_entry.get("last_processed", "")
             
-            # Get embedding count (refreshed from DB)
-            embedding_count = get_embedding_count(doc_id)
+            # Get embedding count from batch query
+            embedding_count = embedding_counts.get(doc_id, 0)
             
             if is_partitioned:
                 # Handle partitioned file - gather all parts
@@ -263,7 +313,7 @@ def discover_files() -> Dict[str, List[Dict]]:
                 for part_doc_id in sorted(part_map[doc_id]):
                     part_log = pipeline_log.get(part_doc_id, {})
                     part_status = part_log.get("status", "pending")
-                    part_embedding_count = get_embedding_count(part_doc_id)
+                    part_embedding_count = embedding_counts.get(part_doc_id, 0)
                     part_last_processed = part_log.get("last_processed", "")
                     
                     parts_info.append({
@@ -352,7 +402,10 @@ def process_with_retry(doc_id: str, process_func, max_retries: int = 3):
                 time.sleep(backoff)
             else:
                 error_for_log = error_msg[:500]  # Truncate long errors
-                updated_count = get_embedding_count(doc_id)
+                try:
+                    updated_count = get_embedding_count(doc_id)
+                except:
+                    updated_count = 0
                 update_log_status(doc_id, "failed", error=error_for_log, attempts=attempt, embedding_count=updated_count)
                 print(f"[FAILED] {doc_id} after {attempt} attempts: {error_msg}")
                 return False
@@ -407,22 +460,29 @@ async def process_category(request: CategoryRequest, background_tasks: Backgroun
     if not category_path.is_dir():
         raise HTTPException(status_code=404, detail="Category not found")
     
-    category_id = f"_category_{request.category}"
-    
     def bg_process():
-        process_with_retry(
-            category_id,
-            lambda: process_category_impl(request.category)
-        )
-    
-    def process_category_impl(category_name):
-        """Process all files in category"""
-        for file_path in DATA_DIR.glob(f"{category_name}/*.pdf"):
+        """Process all files in category with retry per file"""
+        files_to_process = []
+        
+        # Collect all files (including .txt)
+        for file_path in category_path.glob("*.pdf"):
             if not (file_path.parent / f"{file_path.stem}_partitioned" / "partitioned").exists():
-                process_single_file(str(file_path))
-        for file_path in DATA_DIR.glob(f"{category_name}/*.docx"):
+                files_to_process.append(file_path)
+        for file_path in category_path.glob("*.docx"):
             if not (file_path.parent / f"{file_path.stem}_partitioned" / "partitioned").exists():
-                process_single_file(str(file_path))
+                files_to_process.append(file_path)
+        for file_path in category_path.glob("*.txt"):
+            files_to_process.append(file_path)
+        
+        # Process each file with retry
+        print(f"[CATEGORY] Processing {len(files_to_process)} files in category {request.category}")
+        for file_path in sorted(files_to_process):
+            doc_id = file_path.stem
+            print(f"\n[CATEGORY] Processing file: {doc_id}")
+            process_with_retry(
+                doc_id,
+                lambda fp=str(file_path): process_single_file(fp)
+            )
     
     background_tasks.add_task(bg_process)
     return {"status": "processing", "category": request.category}
@@ -432,21 +492,32 @@ async def process_all_files(background_tasks: BackgroundTasks):
     """Process all files in Data directory"""
     
     def bg_process():
-        process_with_retry(
-            "_all",
-            lambda: process_all_impl()
-        )
-    
-    def process_all_impl():
-        """Process all files"""
+        """Process all files with retry per file"""
+        files_to_process = []
+        
+        # Collect all files (including .txt)
         for category_folder in DATA_DIR.iterdir():
-            if category_folder.is_dir() and not category_folder.name.startswith("_"):
-                for file_path in category_folder.glob("*.pdf"):
-                    if not (file_path.parent / f"{file_path.stem}_partitioned" / "partitioned").exists():
-                        process_single_file(str(file_path))
-                for file_path in category_folder.glob("*.docx"):
-                    if not (file_path.parent / f"{file_path.stem}_partitioned" / "partitioned").exists():
-                        process_single_file(str(file_path))
+            if not category_folder.is_dir() or category_folder.name.startswith("_"):
+                continue
+            
+            for file_path in category_folder.glob("*.pdf"):
+                if not (file_path.parent / f"{file_path.stem}_partitioned" / "partitioned").exists():
+                    files_to_process.append(file_path)
+            for file_path in category_folder.glob("*.docx"):
+                if not (file_path.parent / f"{file_path.stem}_partitioned" / "partitioned").exists():
+                    files_to_process.append(file_path)
+            for file_path in category_folder.glob("*.txt"):
+                files_to_process.append(file_path)
+        
+        # Process each file with retry
+        print(f"[ALL] Processing {len(files_to_process)} files across all categories")
+        for file_path in sorted(files_to_process):
+            doc_id = file_path.stem
+            print(f"\n[ALL] Processing file: {doc_id}")
+            process_with_retry(
+                doc_id,
+                lambda fp=str(file_path): process_single_file(fp)
+            )
     
     background_tasks.add_task(bg_process)
     return {"status": "processing"}

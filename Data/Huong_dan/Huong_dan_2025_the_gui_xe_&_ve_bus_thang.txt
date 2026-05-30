@@ -1,0 +1,39 @@
+Hướng dẫn làm Thẻ gửi xe trong trường và làm vé xe buýt tháng
+Cập nhật: 04:31 06/10/2025
+Quy trình để tích hợp dịch vụ gửi xe vào thẻ sinh viên.
+
+Bước 1 - Ban Công tác Sinh viên gửi toàn bộ danh sách các sinh viên K70 cho Trung tâm DV và HT Bách Khoa kích hoạt thẻ gửi xe (Có mã số thẻ sinh viên).
+Bước 2 - Trung tâm dịch vụ và Hỗ trợ Bách Khoa sẽ kích hoạt toàn bộ thẻ SV để nộp tiền gửi xe.
+Bước 3 - Sinh viên tự nộp tiền gửi xe trực tuyến.
+Bước 4: Đối với thẻ lỗi không nộp được tiền. Các Em vui lòng liên hệ:
+Địa chỉ: phòng 101- B9 KTX, Văn phòng Trung tâm DV & HT Bách Khoa.
+Thời gian: Giờ hành chính (Thứ Hai đến Thứ Sáu).
+Nạp tiền gửi xe:
+
+1. Số tiền chuyển khoản: Sinh viên vui lòng nộp tiền vào thẻ xe đạp - xe máy, xe điện tối thiểu: 50.000 đ/lần nạp thẻ.
+
+2. Sinh viên quét mã QR hoặc nhập nội dung chuyển khoản:
+
+Số tài khoản: 113000087711
+Ngân hàng: Vietinbank
+Chủ tài khoản: Đại học Bách khoa Hà Nội
+Mã QR: https://drive.google.com/file/d/1ptsLix9J_HnG5YC1PWNMp0dVkkk2nv65/view?usp=sharing
+
+Nhập nội dung chuyển khoản: 
+
+“XDXM Số Thẻ gửi xe thường xuyên (mã số sinh viên nếu thẻ sinh viên tích hợp thẻ gửi xe) _Số điện thoại”
+
+Ví dụ: XDXM 202512345 0904504921
+
+Lưu ý:
+
+Trước khi chuyển tiền cần kiểm tra kỹ số tài khoản, XDXM mã số sinh viên_ số điện thoại. Tài khoản thụ hưởng “Đại học Bách Khoa Hà Nội” để tránh các trường hợp lỗi sẽ không nộp tiền được vào tài khoản, lợi dụng, lừa đảo...
+Sinh viên chụp lại minh chứng chuyển tiền để đối chiếu trong trường hợp xảy ra lỗi tiền không vào tài khoản.
+Các trường hợp đã chuyển tiền nhưng sau 02 ngày làm việc (trừ Thứ 7, CN và các ngày lễ) thẻ chưa sử dụng được sinh viên vui lòng liên hệ Văn phòng Trung tâm: P101-B9 Ký túc xá Đại học Bách Khoa Hà Nội trong giờ hành chính để được giải quyết.
+Mức phí : Đối với thẻ Sinh viên
+
+Xe đạp : 1.000 đồng/ lượt.
+Xe máy, xe điện: 2.000 đồng/ lượt.
+Gửi xe sau 18h00 đến 21h00:
+Xe đạp : 2.000 đồng/ lượt .
+Xe máy, xe điện: 4.000 đồng/ lượt.
