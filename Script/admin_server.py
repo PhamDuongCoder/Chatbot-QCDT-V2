@@ -33,11 +33,11 @@ from contextlib import contextmanager
 # Thread lock for safe pipeline_log access
 log_lock = threading.RLock()
 
-PROJECT_ROOT = Path(__file__).parent
+PROJECT_ROOT = Path(__file__).parent.parent
 SCRIPT_DIR = PROJECT_ROOT / "Script"
 DATA_DIR = PROJECT_ROOT / "Data"
 PREPROCESSED_DIR = PROJECT_ROOT / "Preprocessed_Data"
-PIPELINE_LOG_FILE = PROJECT_ROOT / "pipeline_log.json"
+PIPELINE_LOG_FILE = PROJECT_ROOT / "Script" / "pipeline_log.json"
 SECRETS_FILE = PROJECT_ROOT / ".streamlit" / "secrets.toml"
 
 # Import unified_pipeline module
@@ -106,7 +106,7 @@ app = FastAPI(title="Admin Panel - RAG Chatbot Pipeline")
 @app.get("/")
 async def serve_admin_panel():
     """Serve admin.html"""
-    admin_html = PROJECT_ROOT / "admin.html"
+    admin_html = Path(__file__).parent / "admin.html"
     if admin_html.exists():
         return FileResponse(admin_html, media_type="text/html")
     return {"error": "admin.html not found"}
