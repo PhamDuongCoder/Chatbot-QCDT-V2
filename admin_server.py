@@ -5,6 +5,7 @@ FastAPI backend for managing preprocessing, chunking, and embedding
 """
 
 import os
+import subprocess
 import sys
 import json
 import tomllib
@@ -30,7 +31,7 @@ from contextlib import contextmanager
 # ============================================================================
 
 # Thread lock for safe pipeline_log access
-log_lock = threading.Lock()
+log_lock = threading.RLock()
 
 PROJECT_ROOT = Path(__file__).parent
 SCRIPT_DIR = PROJECT_ROOT / "Script"
@@ -47,7 +48,7 @@ unified_pipeline_func = None
 try:
     from unified_pipeline import unified_pipeline
     unified_pipeline_func = unified_pipeline
-    print("[✓] Successfully imported unified_pipeline from Script/unified_pipeline.py")
+    print("[OK] Successfully imported unified_pipeline from Script/unified_pipeline.py")
 except (ImportError, AttributeError) as e:
     print(f"[!] Warning: Could not import unified_pipeline: {e}")
 
@@ -82,21 +83,21 @@ def setup_database():
     try:
         conn = psycopg2.connect(**DB_CONFIG)
         conn.close()
-        print("[✓] Database connection verified")
+        print("[OK] Database connection verified")
     except Exception as e:
         print(f"[!] Warning: Database connection failed: {e}")
 
 def process_single_file(file_path_str: str):
-    """
-    Process a single file through the unified pipeline
-    Wrapper around unified_pipeline() from Script/unified_pipeline.py
-    """
-    if not unified_pipeline_func:
-        raise RuntimeError("unified_pipeline not available - check Script/unified_pipeline.py")
-    
-    print(f"[PROCESS_FUNC] Calling unified_pipeline('{file_path_str}')")
-    unified_pipeline_func(file_path_str)
-    print(f"[PROCESS_FUNC] Completed unified_pipeline for '{file_path_str}'")
+    print(f"[PROCESS_FUNC] Spawning subprocess for '{file_path_str}'")
+    result = subprocess.run(
+        [sys.executable, str(SCRIPT_DIR / "unified_pipeline.py"), file_path_str],
+        capture_output=False,
+        cwd=str(PROJECT_ROOT),
+        env={**os.environ, "PYTHONIOENCODING": "utf-8"}  # ← fix encoding
+    )
+    if result.returncode != 0:
+        raise RuntimeError(f"Pipeline failed with return code {result.returncode}")
+    print(f"[PROCESS_FUNC] Completed for '{file_path_str}'")
 
 # FastAPI app
 app = FastAPI(title="Admin Panel - RAG Chatbot Pipeline")
@@ -185,9 +186,8 @@ def save_pipeline_log(log_data: Dict):
         with open(PIPELINE_LOG_FILE, "w") as f:
             json.dump(log_data, f, indent=2)
 
-def update_log_status(doc_id: str, status: str, error: Optional[str] = None, attempts: int = 1, embedding_count: Optional[int] = None):
-    """Update status for a document in pipeline log (thread-safe)"""
-    with log_lock:
+def update_log_status(doc_id: str, status: str, error=None, attempts: int = 1, embedding_count=None):
+    with log_lock:  
         log_data = load_pipeline_log()
         
         if doc_id not in log_data:
@@ -200,7 +200,6 @@ def update_log_status(doc_id: str, status: str, error: Optional[str] = None, att
             "error": error
         }
         
-        # Update embedding_count if provided
         if embedding_count is not None:
             update_dict["embedding_count"] = embedding_count
         
@@ -412,13 +411,14 @@ def process_with_retry(doc_id: str, process_func, max_retries: int = 3):
     
     return False
 
+#apps to process files
+
 @app.post("/process/file")
-async def process_file(request: ProcessRequest, background_tasks: BackgroundTasks):
+async def process_file(request: ProcessRequest):
     """Process a single file"""
     print(f"\n[API] POST /process/file - request.path={request.path}")
     
-    # Try to find the actual file path
-    filename = Path(request.path).stem  # Remove extension if present
+    filename = Path(request.path).stem
     file_path = find_file_path(filename)
     
     if not file_path:
@@ -448,12 +448,14 @@ async def process_file(request: ProcessRequest, background_tasks: BackgroundTask
             traceback.print_exc()
             update_log_status(doc_id, "failed", error=error_msg)
     
-    background_tasks.add_task(bg_process)
-    print(f"[API] Queued background task for {doc_id}")
+    thread = threading.Thread(target=bg_process, daemon=True)
+    thread.start()
+    print(f"[API] Started thread for {doc_id}")
     return {"status": "processing", "file": filename, "doc_id": doc_id}
 
+
 @app.post("/process/category")
-async def process_category(request: CategoryRequest, background_tasks: BackgroundTasks):
+async def process_category(request: CategoryRequest):
     """Process all files in a category"""
     category_path = DATA_DIR / request.category
     
@@ -461,20 +463,14 @@ async def process_category(request: CategoryRequest, background_tasks: Backgroun
         raise HTTPException(status_code=404, detail="Category not found")
     
     def bg_process():
-        """Process all files in category with retry per file"""
         files_to_process = []
-        
-        # Collect all files (including .txt)
         for file_path in category_path.glob("*.pdf"):
             if not (file_path.parent / f"{file_path.stem}_partitioned" / "partitioned").exists():
                 files_to_process.append(file_path)
         for file_path in category_path.glob("*.docx"):
             if not (file_path.parent / f"{file_path.stem}_partitioned" / "partitioned").exists():
                 files_to_process.append(file_path)
-        for file_path in category_path.glob("*.txt"):
-            files_to_process.append(file_path)
-        
-        # Process each file with retry
+
         print(f"[CATEGORY] Processing {len(files_to_process)} files in category {request.category}")
         for file_path in sorted(files_to_process):
             doc_id = file_path.stem
@@ -484,32 +480,27 @@ async def process_category(request: CategoryRequest, background_tasks: Backgroun
                 lambda fp=str(file_path): process_single_file(fp)
             )
     
-    background_tasks.add_task(bg_process)
+    thread = threading.Thread(target=bg_process, daemon=True)
+    thread.start()
     return {"status": "processing", "category": request.category}
 
+
 @app.post("/process/all")
-async def process_all_files(background_tasks: BackgroundTasks):
+async def process_all_files():
     """Process all files in Data directory"""
     
     def bg_process():
-        """Process all files with retry per file"""
         files_to_process = []
-        
-        # Collect all files (including .txt)
         for category_folder in DATA_DIR.iterdir():
             if not category_folder.is_dir() or category_folder.name.startswith("_"):
                 continue
-            
             for file_path in category_folder.glob("*.pdf"):
                 if not (file_path.parent / f"{file_path.stem}_partitioned" / "partitioned").exists():
                     files_to_process.append(file_path)
             for file_path in category_folder.glob("*.docx"):
                 if not (file_path.parent / f"{file_path.stem}_partitioned" / "partitioned").exists():
                     files_to_process.append(file_path)
-            for file_path in category_folder.glob("*.txt"):
-                files_to_process.append(file_path)
-        
-        # Process each file with retry
+
         print(f"[ALL] Processing {len(files_to_process)} files across all categories")
         for file_path in sorted(files_to_process):
             doc_id = file_path.stem
@@ -519,11 +510,13 @@ async def process_all_files(background_tasks: BackgroundTasks):
                 lambda fp=str(file_path): process_single_file(fp)
             )
     
-    background_tasks.add_task(bg_process)
+    thread = threading.Thread(target=bg_process, daemon=True)
+    thread.start()
     return {"status": "processing"}
 
+
 @app.post("/retry/failed")
-async def retry_failed(background_tasks: BackgroundTasks):
+async def retry_failed():
     """Retry all failed files"""
     pipeline_log = load_pipeline_log()
     failed_docs = [
@@ -536,19 +529,16 @@ async def retry_failed(background_tasks: BackgroundTasks):
     def bg_process():
         for doc_id in failed_docs:
             print(f"\n[RETRY] Processing failed file: {doc_id}")
-            # Use find_file_path to locate the actual file
             file_path = find_file_path(doc_id)
             
             if not file_path:
                 print(f"[RETRY] [ERROR] Could not find file for doc_id: {doc_id}")
-                error_msg = f"File not found during retry: {doc_id}"
-                update_log_status(doc_id, "failed", error=error_msg)
+                update_log_status(doc_id, "failed", error=f"File not found during retry: {doc_id}")
                 continue
             
             if not file_path.exists():
-                print(f"[RETRY] [ERROR] File exists in search but not on disk: {file_path}")
-                error_msg = f"File not on disk: {file_path}"
-                update_log_status(doc_id, "failed", error=error_msg)
+                print(f"[RETRY] [ERROR] File not on disk: {file_path}")
+                update_log_status(doc_id, "failed", error=f"File not on disk: {file_path}")
                 continue
             
             print(f"[RETRY] Found file at: {file_path}")
@@ -557,8 +547,9 @@ async def retry_failed(background_tasks: BackgroundTasks):
                 lambda fp=str(file_path): process_single_file(fp)
             )
     
-    background_tasks.add_task(bg_process)
-    print(f"[API] Queued retry task for {len(failed_docs)} files")
+    thread = threading.Thread(target=bg_process, daemon=True)
+    thread.start()
+    print(f"[API] Started retry thread for {len(failed_docs)} files")
     return {"status": "retrying", "count": len(failed_docs)}
 
 # ============================================================================

@@ -1,0 +1,30 @@
+<<<CHUNK_START>>>
+source: Huong_dan_2023_tim_nha_tro.txt (chunk 1/1)
+parent_doc_id: Huong_dan_2023_tim_nha_tro
+chunk_id: Huong_dan_2023_tim_nha_tro_001
+chunk_index: 1
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Hướng dẫn tìm nhà trọ cho sinh viên Đại học Bách khoa Hà Nội
+topic_tags: [tìm nhà trọ, Ký túc xá, iCTSV, hỗ trợ sinh viên]
+summary: Tài liệu cung cấp các kênh hỗ trợ tìm kiếm chỗ ở cho sinh viên ngoại tỉnh bao gồm Ký túc xá Bách Khoa, khu nhà ở Pháp Vân - Tứ Hiệp, kênh Hội Sinh viên và ứng dụng iCTSV. Hướng dẫn chi tiết cách sử dụng tính năng tìm nhà trọ trên ứng dụng iCTSV để liên hệ trực tiếp với chủ nhà.
+
+Hướng dẫn tìm nhà trọ (Cập nhật: 01:57 03/06/2023)
+
+Thấu hiểu những khó khăn sinh viên sẽ gặp phải trong quá trình sống xa nhà và học tập tại trường, ĐH Bách khoa Hà Nội triển khai nhiều giải pháp để giúp các sinh viên giảm bớt nỗi lo tìm kiếm nhà trọ. Các bạn sinh viên ngoại tỉnh có thể tìm kiếm nơi ở tại:
+
+1. Ký túc xá Bách Khoa Hà Nội: Truy cập trang thông tin http://ktx.hust.edu.vn/ để đăng ký lưu trú.
+2. Khu nhà ở học sinh, sinh viên Pháp Vân - Tứ Hiệp: Nhà ở xã hội dành cho học sinh, sinh viên trên địa bàn thành phố Hà Nội. Thông tin chi tiết tại: https://www.facebook.com/groups/616951003253188
+3. Kênh thông tin nhà trọ của Hội Sinh viên: https://www.facebook.com/hotrosinhvienbk
+4. Ứng dụng iCTSV: Tìm kiếm trực tiếp trên ứng dụng.
+
+Hướng dẫn tìm nhà trọ trên Ứng dụng iCTSV:
+Ứng dụng iCTSV của trường ĐH Bách khoa Hà Nội ra đời giúp sinh viên giảm bớt nỗi lo tìm nhà trọ. Tham khảo thêm thông tin tại: https://phunuvietnam.vn/truong-dh-bach-khoa-ha-noi-thiet-ke-ung-dung-tim-nha-tro-cho-sinh-vien-20220924022458837.htm
+
+Để tìm nhà trọ trên ứng dụng iCTSV:
+- Bước 1: Cài đặt ứng dụng iCTSV.
+- Bước 2: Truy cập mục "Nhà trọ".
+- Bước 3: Lựa chọn khu vực nhà trọ muốn tìm.
+- Bước 4: Ứng dụng sẽ hiển thị danh sách nhà trọ kèm thông tin để sinh viên liên hệ trực tiếp với chủ nhà.
+<<<CHUNK_END>>>

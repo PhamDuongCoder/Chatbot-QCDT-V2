@@ -25,9 +25,10 @@
   },
   "Huong_dan_2020_chuyen_truong": {
     "status": "completed",
-    "last_processed": "unknown",
+    "last_processed": "2026-05-31T15:19:54.779152",
     "attempts": 1,
-    "error": null
+    "error": null,
+    "embedding_count": 4
   },
   "Huong_dan_2021_Gui_cau_hoi": {
     "status": "completed",
@@ -103,9 +104,10 @@
   },
   "Ngoai_ngu_2022_Quy_doi_CCTA": {
     "status": "completed",
-    "last_processed": "unknown",
+    "last_processed": "2026-05-31T15:21:08.222671",
     "attempts": 1,
-    "error": null
+    "error": null,
+    "embedding_count": 2
   },
   "Ngoai_ngu_2024_K68": {
     "status": "completed",
@@ -227,10 +229,32 @@
     "attempts": 1,
     "error": null
   },
-  "CLB_2023_Q\u0110_Quan_ly": {
-    "status": "failed",
-    "last_processed": "2026-05-29T15:13:45.627040",
+  "CLB_2023_QD_Quan_ly": {
+    "status": "completed",
+    "last_processed": "2026-05-31T15:31:36.401672",
     "attempts": 1,
-    "error": "Processing failed: update_log_status() got an unexpected keyword argument 'embedding_count'"
+    "error": null,
+    "embedding_count": 0
+  },
+  "Huong_dan_2021_thu_vien": {
+    "status": "completed",
+    "last_processed": "2026-05-31T15:15:57.415446",
+    "attempts": 1,
+    "error": null,
+    "embedding_count": 0
+  },
+  "Huong_dan_2023_thu_tuc": {
+    "status": "completed",
+    "last_processed": "2026-05-31T15:19:06.129464",
+    "attempts": 1,
+    "error": null,
+    "embedding_count": 0
+  },
+  "Huong_dan_2023_tim_nha_tro": {
+    "status": "completed",
+    "last_processed": "2026-05-31T15:30:58.671192",
+    "attempts": 1,
+    "error": null,
+    "embedding_count": 1
   }
 }

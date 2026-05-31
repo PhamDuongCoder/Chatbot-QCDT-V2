@@ -38,7 +38,7 @@ def load_citations():
             reader = csv.DictReader(f)
             for row in reader:
                 citation_dict[row["parent_doc_id"].strip()] = row["url"].strip()
-        print(f"[✓] Loaded {len(citation_dict)} citations from Citation.csv")
+        print(f"[OK] Loaded {len(citation_dict)} citations from Citation.csv")
     except Exception as e:
         print(f"[!] Warning: Could not load Citation.csv: {e}")
     return citation_dict
@@ -209,7 +209,7 @@ def setup_database():
                 cur.execute(create_table_sql)
                 cur.execute(add_url_column_sql)
             conn.commit()
-        print("[✓] Database schema ready")
+        print("[OK] Database schema ready")
     except Exception as e:
         print(f"[!] Database error: {e}")
         import traceback
@@ -388,7 +388,7 @@ def process_text_file(file_path: Path, original_doc_id: str = None, original_cat
                         temperature=0.1
                     )
                 )
-                print(f"        [GEMINI] ✓ Nhận response")
+                print(f"        [GEMINI] OK Nhận response")
                 all_output.append(response.text)
                 time.sleep(0.5)
             except Exception as e:
@@ -404,7 +404,7 @@ def process_text_file(file_path: Path, original_doc_id: str = None, original_cat
         with open(output_file, "w", encoding="utf-8") as f:
             f.write("\n\n".join(all_output))
         
-        print(f"[✓] Xong: {output_file}")
+        print(f"[OK] Xong: {output_file}")
         return output_file
         
     except Exception as e:
@@ -482,7 +482,7 @@ def upload_and_process(file_path: Path, original_doc_id: str = None, original_ca
             )
         )
         
-        print(f"    [GEMINI] ✓ Nhận response ({len(response.text)} chars)")
+        print(f"    [GEMINI] OK Nhận response ({len(response.text)} chars)")
 
         if "<<<CHUNK_START>>>" not in response.text:
             print(f"\n[!] Output không đúng format — lưu vào thư mục review")
@@ -499,7 +499,7 @@ def upload_and_process(file_path: Path, original_doc_id: str = None, original_ca
 
         print(f"    [CLEANUP] Xóa file tạm...")
         client.files.delete(name=file_upload.name)
-        print(f"[✓] Xong: {output_file}")
+        print(f"[OK] Xong: {output_file}")
         return output_file
 
     except Exception as e:
@@ -610,7 +610,7 @@ def embed_chunk(chunk, max_retries=3):
                 contents=text,
                 config=types.EmbedContentConfig(task_type="RETRIEVAL_DOCUMENT")
             )
-            print(f"        [EMBED] ✓ Embed thành công")
+            print(f"        [EMBED] OK Embed thành công")
             return response.embeddings[0].values
         except Exception as e:
             msg = str(e)
@@ -663,7 +663,7 @@ def embed_and_store_file(file_path: Path):
     try:
         print(f"    [PARSE] Đang phân tích file...")
         chunks = parse_preprocessed_file(file_path)
-        print(f"    [PARSE] ✓ Tìm được {len(chunks)} chunks")
+        print(f"    [PARSE] OK Tìm được {len(chunks)} chunks")
     except Exception as e:
         print(f"    [PARSE ERROR] {e}")
         return
@@ -710,7 +710,7 @@ def embed_and_store_file(file_path: Path):
                     print(f"        [STORE] Lưu vào database...")
                     store_chunk(cur, chunk, embedding)
                     conn.commit()
-                    print(f"        [OK] ✓ Xử lý thành công")
+                    print(f"        [OK] OK Xử lý thành công")
                     processed += 1
                     
                     # Rate limiting
@@ -729,7 +729,7 @@ def embed_and_store_file(file_path: Path):
             
     finally:
         conn.close()
-        print(f"[EMBED] ✓ Hoàn thành {file_path.name}")
+        print(f"[EMBED] OK Hoàn thành {file_path.name}")
 
 # ============================================================================
 # MAIN UNIFIED PIPELINE
@@ -752,7 +752,7 @@ def unified_pipeline(file_path_str: str):
         print(f"    File: {file_path}")
         print(f"    Tồn tại: {file_path.exists()}")
         setup_database()
-        print("[✓] STEP 1 hoàn thành\n")
+        print("[OK] STEP 1 hoàn thành\n")
         
         # Step 2: Preprocessing
         print("[STEP 2] Tiền xử lý tài liệu...")
@@ -764,10 +764,10 @@ def unified_pipeline(file_path_str: str):
             print("[X] Tiền xử lý thất bại. Dừng pipeline.")
             return
         
-        print(f"[✓] Tạo được {len(preprocessed_files)} file(s) đã tiền xử lý")
+        print(f"[OK] Tạo được {len(preprocessed_files)} file(s) đã tiền xử lý")
         for pf in preprocessed_files:
             print(f"    - {pf}")
-        print("[✓] STEP 2 hoàn thành\n")
+        print("[OK] STEP 2 hoàn thành\n")
         
         # Step 3: Embedding and storing
         print("[STEP 3] Embedding và lưu vào database...")
@@ -777,10 +777,10 @@ def unified_pipeline(file_path_str: str):
                 embed_and_store_file(preprocessed_file)
                 print(f"    [DONE] embed_and_store_file()")
         
-        print("[✓] STEP 3 hoàn thành\n")
+        print("[OK] STEP 3 hoàn thành\n")
         
         print("=" * 70)
-        print("[✓] HOÀN THÀNH! Tài liệu đã được tiền xử lý và lưu vào database")
+        print("[OK] HOÀN THÀNH! Tài liệu đã được tiền xử lý và lưu vào database")
         print("=" * 70)
         
     except Exception as e:
@@ -810,4 +810,6 @@ def main():
     unified_pipeline(file_path)
 
 if __name__ == "__main__":
-    main()
+    import sys
+    if len(sys.argv) > 1:
+        unified_pipeline(sys.argv[1])

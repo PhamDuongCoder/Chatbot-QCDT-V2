@@ -1,0 +1,59 @@
+<<<CHUNK_START>>>
+source: Huong_dan_2021_thu_vien.txt (chunk 1/1)
+parent_doc_id: Huong_dan_2021_thu_vien
+chunk_id: Huong_dan_2021_thu_vien_001
+chunk_index: 1
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Giới thiệu chung và Thời gian mở cửa Thư viện Tạ Quang Bửu
+topic_tags: [Thư viện Tạ Quang Bửu, Thời gian mở cửa, Sinh viên, Cán bộ]
+summary: Giới thiệu tổng quan về Thư viện Tạ Quang Bửu và quy định thời gian mở cửa từ thứ 2 đến chủ nhật. Thư viện phục vụ cán bộ và sinh viên tại tòa nhà từ tầng 1 đến tầng 5.
+
+Hướng dẫn sử dụng Thư viện Tạ Quang Bửu
+Cập nhật: 10:53 14/09/2021
+
+Thư viện Tạ Quang Bửu là một trong những thư viện hiện đại và lớn nhất Việt Nam với trăm ngàn đầu sách (tài liệu in và tài liệu điện tử) dành cho cán bộ và sinh viên của Trường. Khuôn viên của Thư viện từ tầng 1 đến tầng 5 của Tòa nhà Thư viện Tạ Quang Bửu.
+
+1. Thời gian mở cửa: Thư viện mở cửa tất cả các ngày trong tuần, giờ mở cửa như sau:
+- Từ Thứ 2 đến thứ 6: Mở cửa từ 8 giờ đến 21 giờ;
+- Thứ 7 và Chủ nhật: Mở cửa từ 8 giờ đến 16 giờ.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2021_thu_vien.txt (chunk 1/1)
+parent_doc_id: Huong_dan_2021_thu_vien
+chunk_id: Huong_dan_2021_thu_vien_002
+chunk_index: 2
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Nguồn lực thông tin tại Thư viện
+topic_tags: [Tài liệu in, Thư viện số, CSDL điện tử, Science Direct, Proquest Central]
+summary: Mô tả nguồn lực thông tin gồm hơn 101.000 đầu sách in, 16.000 tài liệu nội sinh và các CSDL điện tử như Science Direct, Proquest Central, SAGE. Người dùng có thể truy cập CSDL điện tử mọi lúc mọi nơi.
+
+2. Nguồn lực thông tin
+Thư viện có hơn 101.000 đầu sách bản in các loại, tổng gần 400.000 cuốn. Bao gồm: Giáo trình, sách tham khảo, báo, tạp chí, luận văn, luận án…
+
+Thư viện hiện có trang Thư viện số, bao gồm hơn 16.000 tài liệu nội sinh là luận văn, luận án của trường, số tài liệu này vẫn được cập nhật thường xuyên; Và các CSDL điện tử như: Science Direct, Proquest Central, SAGE, IG Ebook, Ebrary Ebook….Tại các CSDL này, bạn đọc có thể truy cập mọi lúc mọi nơi, không giới hạn không gian và thời gian.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2021_thu_vien.txt (chunk 1/1)
+parent_doc_id: Huong_dan_2021_thu_vien
+chunk_id: Huong_dan_2021_thu_vien_003
+chunk_index: 3
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Dịch vụ và Hướng dẫn sử dụng Thư viện
+topic_tags: [Phòng đọc, Mượn tài liệu, Dịch vụ thư viện, Hướng dẫn sử dụng]
+summary: Chi tiết các dịch vụ tại thư viện bao gồm phòng đọc chuyên ngành, phòng mượn tài liệu (thời hạn 3 tháng), dịch vụ đặt mượn từ xa và hỗ trợ thông tin. Cung cấp đường dẫn hướng dẫn sử dụng chi tiết cho sinh viên.
+
+3. Dịch vụ
+Thư viện có 4 phòng đọc chuyên ngành, 1 phòng Luận văn luận án, 1 phòng báo, 1 phòng đa phương tiện và 2 phòng mượn tài liệu về nhà và một vài phòng tự học. Trong đó, Phòng đọc chuyên ngành là nơi sinh viên đến nghiên cứu, học tập, trao đổi; Ngoài các giáo trình, sách tham khảo, không gian học tập tại thư viện rất rộng rãi, được trang bị điều hòa và hệ thống máy tính có kết nối mạng, wifi.
+
+Phòng mượn cũng là một địa chỉ mà sinh viên rất quan tâm, tại đây, sinh viên được mượn giáo trình về nhà, thời gian mượn lên đến 3 tháng và hoàn toàn miễn phí. Trong bối cảnh dịch COVID, sinh viên có thể đặt mượn từ xa và thư viện chuyển phát nhanh tài liệu theo yêu cầu. Bên cạnh đó, Thư viện còn có các Dịch vụ như Cung cấp thông tin theo yêu cầu, giải đáp thắc mắc, mượn liên thư viện…nhằm hỗ trợ tối đa cho việc giảng dạy, học tập của cán bộ và sinh viên trường.
+
+4. Hướng dẫn sử dụng Thư viện: Sinh viên xem tại file đính kèm tại https://husteduvn-my.sharepoint.com/:p:/g/personal/khai_tranquang_hust_edu_vn1/EVKhCX2VfdFNg5HYOLL3qFkBV_slGgVW5w5JzN3i8LlEeA?e=VWUOlr
+<<<CHUNK_END>>>
