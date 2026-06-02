@@ -1,0 +1,35 @@
+<<<CHUNK_START>>>
+source: Huong_dan_2025_the_gui_xe_&_ve_bus_thang.txt (chunk 1/1)
+parent_doc_id: Huong_dan_2025_the_gui_xe_&_ve_bus_thang
+chunk_id: Huong_dan_2025_the_gui_xe_&_ve_bus_thang_001
+chunk_index: 1
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Hướng dẫn tích hợp thẻ gửi xe và quy trình nạp tiền gửi xe
+topic_tags: [thẻ sinh viên, gửi xe, nạp tiền, Vietinbank, K70]
+summary: Hướng dẫn quy trình tích hợp thẻ gửi xe vào thẻ sinh viên K70 và các bước nạp tiền trực tuyến qua ngân hàng Vietinbank. Tài liệu quy định mức phí gửi xe theo lượt cho xe đạp, xe máy, xe điện và khung giờ sau 18h00.
+
+### Quy trình tích hợp dịch vụ gửi xe vào thẻ sinh viên
+*   **Bước 1:** Ban Công tác Sinh viên gửi danh sách sinh viên K70 cho Trung tâm DV và HT Bách Khoa để kích hoạt thẻ gửi xe (theo mã số thẻ sinh viên).
+*   **Bước 2:** Trung tâm dịch vụ và Hỗ trợ Bách Khoa kích hoạt thẻ SV để nộp tiền gửi xe.
+*   **Bước 3:** Sinh viên tự nộp tiền gửi xe trực tuyến.
+*   **Bước 4:** Đối với thẻ lỗi, liên hệ: Phòng 101- B9 KTX, Văn phòng Trung tâm DV & HT Bách Khoa (Giờ hành chính, Thứ Hai đến Thứ Sáu).
+
+### Nạp tiền gửi xe
+1. **Số tiền:** Tối thiểu 50.000 đ/lần nạp.
+2. **Thông tin chuyển khoản:**
+    *   Số tài khoản: 113000087711
+    *   Ngân hàng: Vietinbank
+    *   Chủ tài khoản: Đại học Bách khoa Hà Nội
+    *   Mã QR: [Hình: Mã QR thanh toán của Đại học Bách khoa Hà Nội]
+    *   Nội dung chuyển khoản: “XDXM [Số Thẻ gửi xe/Mã số sinh viên]_[Số điện thoại]” (Ví dụ: XDXM 202512345 0904504921)
+
+**Lưu ý:** Kiểm tra kỹ thông tin trước khi chuyển khoản. Sinh viên cần lưu minh chứng chuyển tiền. Nếu sau 02 ngày làm việc (trừ Thứ 7, CN, lễ) thẻ chưa sử dụng được, liên hệ P101-B9 KTX để được giải quyết.
+
+### Mức phí gửi xe
+| Loại phương tiện | Phí (lượt) | Phí sau 18h00 - 21h00 (lượt) |
+| :--- | :--- | :--- |
+| Xe đạp | 1.000 đồng | 2.000 đồng |
+| Xe máy, xe điện | 2.000 đồng | 4.000 đồng |
+<<<CHUNK_END>>>

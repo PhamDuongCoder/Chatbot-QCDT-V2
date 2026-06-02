@@ -1,0 +1,86 @@
+<<<CHUNK_START>>>
+source: Huong_dan_2026_BHYT.txt (chunk 1/1)
+parent_doc_id: Huong_dan_2026_BHYT
+chunk_id: Huong_dan_2026_BHYT_001
+chunk_index: 1
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Hướng dẫn mua BHYT năm 2025 và 2026
+topic_tags: [BHYT, K70, K69, sinh viên, học phí, BHXH]
+summary: Hướng dẫn chi tiết mức đóng BHYT cho sinh viên khóa mới (K70) và khóa cũ (K69 trở về trước) trong năm 2025-2026. Bao gồm các đợt mua bổ sung theo quý và thông tin liên hệ hỗ trợ.
+
+Hướng dẫn về BHYT và sử dụng thẻ BHYT khám, chữa bệnh năm 2025 và 2026 (Cập nhật: 10:47 26/01/2026)
+
+**I. Mua BHYT năm 2025 và 2026:**
+
+1. **Đối với sinh viên khóa mới nhập học – K70:**
+- Thời gian mua BHYT: 15 tháng (từ ngày 01/10/2025 đến ngày 31/12/2026).
+- Số tiền mua BHYT: 789.750 đồng (15 tháng x 52.650 đồng/tháng).
+- Hình thức nộp tiền: Tiền mua BHYT nộp trong kinh phí nhập học đầu khóa (Với sinh viên không phải mua BHYT thì phần kinh phí này sẽ được chuyển trả vào tài khoản sinh viên sau khi quyết toán).
+
+2. **Đối với sinh viên khóa cũ (K69 trở về trước):**
+- Thời gian tham gia bảo hiểm: từ 01/01/2026 đến 31/12/2026 (12 tháng).
+- Số tiền phải đóng: 12 tháng x 52.650 đồng/tháng = 631.800 đồng.
+- Thời gian nộp tiền BHYT: Nộp cùng học phí học kỳ 1 năm học 2025-2026, kết thúc nộp vào ngày 12/01/2026.
+- Hình thức nộp tiền: Sinh viên nộp tiền mua Bảo hiểm y tế cùng với học phí.
+
+3. **Mua BHYT các đợt bổ sung trong năm 2026:**
+Nhà trường phối hợp với BHXH Cơ sở Hai Bà Trưng tổ chức mua BHYT định kỳ theo Quý (3 tháng/lần) cho sinh viên chưa có thẻ hoặc thẻ hết hạn:
+
+| Đợt | Thời gian đăng ký | Thời gian tham gia | Số tiền đóng |
+| :--- | :--- | :--- | :--- |
+| Đợt 1 | 27/01/2026 - 09/02/2026 | 01/03/2026 - 31/12/2026 (10 tháng) | 526.500 đồng |
+| Đợt 2 | 01/06/2026 - 15/06/2026 | 01/07/2026 - 31/12/2026 (06 tháng) | 315.900 đồng |
+| Đợt 3 | 01/09/2026 - 15/09/2026 | 01/10/2026 - 31/12/2026 (03 tháng) | 157.950 đồng |
+
+- Hình thức nộp tiền: Sinh viên nộp tiền vào tài khoản 1222113656 - DAI HOC BACH KHOA HA NOI tại Ngân hàng BIDV (chi nhánh Hà Thành) theo cú pháp: MSSV_Hovaten. Sau khi nộp tiền, gửi ảnh lệnh chuyển tiền thành công vào link xác nhận của Nhà trường.
+
+4. **Tư vấn, hỗ trợ về BHYT:**
+- Cô Nghiêm Thị Kim Chi, ĐT: 024.3869.3108; Email: Chi.nghiemthikim@hust.edu.vn
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2026_BHYT.txt (chunk 1/1)
+parent_doc_id: Huong_dan_2026_BHYT
+chunk_id: Huong_dan_2026_BHYT_002
+chunk_index: 2
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Sử dụng thẻ BHYT khám, chữa bệnh
+topic_tags: [BHYT, khám chữa bệnh, VSSID, VNeID, CCCD]
+summary: Hướng dẫn sử dụng thẻ BHYT điện tử, quy định về nơi khám chữa bệnh ban đầu tại Trung tâm Y tế Bách Khoa và cách tra cứu mã số BHYT.
+
+**II. Sử dụng thẻ BHYT khám, chữa bệnh**
+
+- Nơi đăng ký khám chữa bệnh ban đầu: Trung Tâm Y tế Bách Khoa, số 5 Phố Tạ Quang Bửu. Sinh viên chỉ cần mang CCCD tới Trung tâm Y tế Bách Khoa để được thăm khám, chữa bệnh; tư vấn về việc sức khỏe nếu cần Trung tâm sẽ làm thủ tục chuyển tuyến đến Bệnh viện tuyến trên.
+- Sinh viên cài thẻ BHYT điện tử trên ứng dụng VSSID – BHXH hoặc VNeID của Bộ Công an (đã được định danh điện tử mức độ hai) để theo dõi quá trình tham gia BHYT (theo quy định mới cơ quan Bảo hiểm sẽ không in thẻ BHYT giấy).
+- Khi đăng nhập bằng VNeID (nếu thời hạn mua BHYT chưa được cập nhật mới) sinh viên phải gửi yêu cầu cập nhật thông tin mới để phần mềm cập nhật lại thời hạn sử dụng BHYT.
+- Trường hợp muốn thay đổi nơi khám chữa bệnh ban đầu, sinh viên tới Bảo hiểm xã hội Khu vực Hai Bà Trưng (số 106 phố Tô Hiến Thành, phường Lê Đại Hành, quận Hai Bà Trưng) vào thời gian 10 ngày đầu tiên của tháng đầu Quý (Từ ngày 01 đến ngày 10 của các tháng 1, 4, 7, 10).
+- Mã số BHYT của SV là: SV 401 + Mã số BHXH (là mã số trên sổ BHXH). Trường hợp sinh viên không nhớ mã số thẻ BHXH thì tìm mã số qua link: https://baohiemxahoi.gov.vn/tracuu hoặc tra cứu trong tài khoản cá nhân tại link: https://qldt.hust.edu.vn/#thong-tin-sinh-vien
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Huong_dan_2026_BHYT.txt (chunk 1/1)
+parent_doc_id: Huong_dan_2026_BHYT
+chunk_id: Huong_dan_2026_BHYT_003
+chunk_index: 3
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Quy trình khám, chữa bệnh
+topic_tags: [quy trình, khám bệnh, thủ tục]
+summary: Quy trình 6 bước thực hiện khám chữa bệnh tại các cơ sở y tế, yêu cầu sinh viên mang theo CCCD và thẻ BHYT điện tử.
+
+**III. Quy trình thực hiện việc khám, chữa bệnh như sau:**
+
+Sinh viên đến khám chữa bệnh tại các cơ sở Y tế cần mang theo CCCD và thẻ bảo hiểm điện tử trên ứng dụng VssID hoặc VNeID đã được định danh điện tử mức độ 2. Các bước thực hiện khám chữa bệnh như sau:
+
+- Bước 1: Đăng ký khám bệnh tại bàn đón tiếp.
+- Bước 2: Đến các phòng khám theo hướng dẫn của bộ phận đón tiếp.
+- Bước 3: Thực hiện xét nghiệm, cận lâm sàng (nếu có).
+- Bước 4: Trở lại Phòng khám ban đầu (sau khi có kết quả cận lâm sàng).
+- Bước 5: Đợi Bác sỹ kê đơn thuốc và ra bàn phụ khám làm thủ tục.
+- Bước 6: Đến phòng Dược lĩnh thuốc.
+<<<CHUNK_END>>>
