@@ -1,0 +1,34 @@
+<<<CHUNK_START>>>
+source: Huong_dan_2026_tra_ho_so_SV_ra_truong.txt (chunk 1/1)
+parent_doc_id: Huong_dan_2026_tra_ho_so_SV_ra_truong
+chunk_id: Huong_dan_2026_tra_ho_so_SV_ra_truong_001
+chunk_index: 1
+language: vi
+category: Huong_dan
+year: N/A
+chunk_title: Hướng dẫn trả hồ sơ sinh viên tốt nghiệp và sinh viên thôi học
+topic_tags: [sinh viên tốt nghiệp, sinh viên thôi học, hồ sơ học bạ, bằng tốt nghiệp, bảng điểm, NVQS]
+summary: Hướng dẫn quy trình nhận hồ sơ cho sinh viên tốt nghiệp tại Hội thảo C2 và Phòng 103-C2, cùng quy trình rút hồ sơ cho sinh viên thôi học bao gồm thủ tục tại Ban Đào tạo, Phòng 102-C1 và Phòng 108-B7. Tài liệu quy định rõ thời gian nhận hồ sơ và yêu cầu về giấy ủy quyền có xác nhận của địa phương.
+
+**HƯỚNG DẪN TRẢ HỒ SƠ SINH VIÊN RA TRƯỜNG**
+*(Cập nhật: 09:39 14/04/2026)*
+
+**1. Đối với sinh viên tốt nghiệp**
+Nhà trường bắt đầu trả hồ sơ từ ngày tổ chức Lễ tốt nghiệp.
+*   **Tại buổi lễ tốt nghiệp:** Nhà trường trả toàn bộ hồ sơ (Học bạ, bằng tốt nghiệp và bảng điểm) tập trung tại Hội thảo C2.
+*   **Sau lễ tốt nghiệp:** Sinh viên nhận HỌC BẠ vào thứ Ba hàng tuần tại Phòng 103 - C2.
+    *   Buổi sáng: 9h00 - 10h30
+    *   Buổi chiều: 14h00 - 15h30
+*   **Lưu ý:** Bằng và bảng điểm nhận tại Văn phòng Trường/Khoa hoặc Ban Đào tạo (tầng 1 nhà C1).
+*   **Ủy quyền:** Người nhà có thể nhận hồ sơ giúp khi có giấy ủy quyền của sinh viên tốt nghiệp, giấy ủy quyền phải có xác nhận của chính quyền địa phương.
+
+**2. Đối với sinh viên thôi học (K70 hoặc các khóa khác)**
+Sinh viên thực hiện theo các bước sau:
+*   **Bước 1:** Liên hệ Ban Đào tạo để được hướng dẫn, làm và nộp đơn xin thôi học. Chờ và nhận quyết định thôi học từ Ban Đào tạo.
+*   **Bước 2:** Đem quyết định thôi học đến Phòng 102 - C1 (Bàn 3) để đăng ký và nhận hướng dẫn thủ tục rút hồ sơ.
+*   **Bước 3:** Thực hiện cắt chuyển hồ sơ NVQS về địa phương tại Phòng 108 - nhà B7 KTX BK (đối với nam sinh viên).
+*   **Bước 4:** Nhận hồ sơ (tối thiểu sau 2 ngày đăng ký) tại Phòng 103 - C2 vào các khung giờ:
+    *   Thứ Ba: Buổi sáng 9h00 - 11h30, Buổi chiều 14h30 - 16h00.
+    *   Thứ Năm: Buổi sáng 9h00 - 11h30, Buổi chiều 14h30 - 16h00.
+*   **Ủy quyền:** Người nhà có thể nhận hồ sơ giúp khi có giấy ủy quyền của sinh viên, giấy ủy quyền phải có xác nhận của chính quyền địa phương.
+<<<CHUNK_END>>>

@@ -6,12 +6,11 @@ chunk_index: 1
 language: vi
 category: CLB
 year: N/A
-chunk_title: Hướng dẫn triển khai các vấn đề liên quan đến CLB Sinh viên
-topic_tags: [CLB sinh viên, quản lý CLB, hỗ trợ sinh viên, Đại học BKHN]
-summary: Tài liệu hướng dẫn triển khai hoạt động CLB sinh viên tại Đại học BKHN, bao gồm các chính sách quản lý, kế hoạch hỗ trợ phát triển và các kênh tiếp nhận yêu cầu như mượn phòng, đặt bàn truyền thông. Nội dung nhấn mạnh vào việc tạo môi trường rèn luyện, nâng cao bản lĩnh chính trị và đảm bảo hiệu quả sử dụng nguồn lực của Nhà trường.
+chunk_title: Hướng dẫn triển khai hoạt động Câu lạc bộ sinh viên Đại học Bách khoa Hà Nội
+topic_tags: [CLB sinh viên, quản lý CLB, hỗ trợ sinh viên, CTSV]
+summary: Tài liệu hướng dẫn triển khai hoạt động CLB sinh viên tại ĐHBK Hà Nội, bao gồm mục tiêu phát triển, các chính sách quản lý, kế hoạch hỗ trợ và các kênh đăng ký mượn phòng, đặt bàn truyền thông. Sinh viên có thể liên hệ Ban Công tác sinh viên (phòng 102 - C1) để được hỗ trợ trực tiếp.
 
-Hướng dẫn triển khai các vấn đề liên quan đến CLB Sinh viên
-Cập nhật: 01:53 29/12/2023
+Hướng dẫn triển khai các vấn đề liên quan đến CLB Sinh viên Cập nhật: 01:53 29/12/2023
 
 Nhằm thúc đẩy hoạt động các CLB sinh viên và đảm bảo mục tiêu: Tạo môi trường hoạt động đa dạng phong phú, phù hợp với nhu cầu lợi ích thiết thực để sinh viên có khả năng và năng khiếu được bộc lộ, phát triển; Tạo điều kiện cho sinh viên rèn luyện trưởng thành về mọi mặt; Nâng cao nhận thức về bản lĩnh chính trị, đạo đức, lối sống, giáo dục lý tưởng cách mạng, truyền thống của dân tộc, quy tắc ứng xử văn minh cho sinh viên, góp phần đổi mới, nâng cao chất lượng giáo dục và đào tạo. Khuyến khích nhiều sinh viên tham gia hoạt động của CLB sinh viên do các đơn vị trong Trường quản lý; Thu hút nhiều sự hỗ trợ nguồn lực từ các cá nhân và tổ chức trong và ngoài trường nhằm thúc đẩy sự phát triển bền vững của CLB sinh viên; Đảm bảo sử dụng hiệu quả các đầu tư của Nhà trường cho CLB sinh viên. Tăng cường công tác hỗ trợ giải quyết các khó khăn, vướng mắc trong triển khai các hoạt động của CLB sinh viên; Tạo sự thống nhất trong công tác hỗ trợ và quản lý giữa các đơn vị trong trường, đảm bảo thường xuyên định hướng và nắm bắt đầy đủ tình hình hoạt động của CLB sinh viên theo định hướng đào tạo của Nhà trường.
 

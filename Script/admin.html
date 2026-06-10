@@ -598,6 +598,7 @@
         let pollInterval = null;
         let isProcessing = false;
         let pendingAction = null;
+        let previousIsProcessing = false;
 
         // ====================================================================
         // INITIALIZATION
@@ -919,20 +920,29 @@
         function startAutoPoll() {
             if (pollInterval) clearInterval(pollInterval);
             
+            // Use fixed 2-second interval while processing is active
+            // This ensures we catch the transition from processing -> completed
             pollInterval = setInterval(async () => {
                 await updateStats();
                 
-                // Refresh every 3 seconds while processing
+                // Always refresh data while processing
                 if (isProcessing) {
                     await refreshData();
+                    previousIsProcessing = true;
                 } else {
+                    // If transitioning from processing to not processing, refresh once more
+                    if (previousIsProcessing) {
+                        console.log('[POLL] Detected transition from processing to idle, refreshing once more');
+                        await refreshData();
+                        previousIsProcessing = false;
+                    }
                     // Stop polling if nothing is processing
                     if (pollInterval) {
                         clearInterval(pollInterval);
                         pollInterval = null;
                     }
                 }
-            }, isProcessing ? 3000 : 10000);
+            }, 2000);  // Always use 2-second interval for faster updates
         }
 
         // ====================================================================

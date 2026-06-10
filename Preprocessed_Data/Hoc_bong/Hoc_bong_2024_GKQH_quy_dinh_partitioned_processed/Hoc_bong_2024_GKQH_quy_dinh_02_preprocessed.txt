@@ -1,0 +1,182 @@
+<<<CHUNK_START>>>
+source: Hoc_bong_2024_GKQH_quy_dinh_02.pdf
+parent_doc_id: Hoc_bong_2024_GKQH_quy_dinh
+chunk_id: Hoc_bong_2024_GKQH_quy_dinh_02_001
+chunk_index: 1
+language: vi
+category: Hoc_bong
+year: N/A
+chunk_title: Phụ lục I - Mẫu đơn đăng ký xét, cấp Học bổng Gắn kết Quê hương
+topic_tags: [Học bổng Gắn kết Quê hương, Đơn đăng ký]
+summary: Mẫu đơn đăng ký xét cấp Học bổng Gắn kết Quê hương dành cho sinh viên, bao gồm thông tin cá nhân, thành tích học tập (CPA, điểm rèn luyện) và tóm tắt đề tài ĐATN.
+
+Phụ lục I
+MẪU ĐƠN ĐĂNG KÝ XÉT, CẤP HỌC BỔNG GẮN KẾT QUÊ HƯƠNG
+(Kèm theo Quy định về việc xét, cấp Học bổng Gắn kết Quê hương ban hành kèm theo Quyết định số /QĐ-ĐHBK ngày tháng năm 2024 của Giám đốc Đại học Bách khoa Hà Nội)
+
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+
+ĐƠN ĐĂNG KÝ XÉT, CẤP HỌC BỔNG GẮN KẾT QUÊ HƯƠNG
+Kính gửi: Giám đốc Đại học Bách khoa Hà Nội.
+
+1. Thông tin sinh viên:
+Họ và tên: .....................................; Ngày sinh: ..............................; MSSV: ...................
+Ngành học: ......................................................................................; Khóa: ..................... 
+Trường/Viện/Khoa: ..........................................................................................................
+Giới tính: Nam: [ ] Nữ: [ ]; Dân tộc: .........................; Số ĐT liên hệ: ......................
+Nơi đăng ký khai sinh: ......................................................................................................
+
+2. Thành tích học tập và rèn luyện:
+2.1. Điểm CPA (tính đến học kỳ gần nhất): .....................................................................
+2.2. Điểm rèn luyện trung bình tích lũy (tính đến học kỳ gần nhất): ...............................
+
+3. Tóm tắt thông tin về đề tài ĐATN:
+3.1. Tên đề tài: ..................................................................................................................
+3.2. Tóm tắt nội dung triển khai đề tài: ............................................................................
+3.3. Kết quả dự kiến của đề tài: ........................................................................................
+3.4. Cơ sở ứng dụng đề tài: 
+- Tên cơ sở ứng dụng: ...........................................................................................
+- Địa chỉ cơ sở ứng dụng: ......................................................................................
+3.5. Kết quả/hiệu quả (hoặc dự kiến kết quả/hiệu quả) thu được qua việc ứng dụng đề tài ĐATN tại cơ sở ứng dụng: ..........................................................................................
+
+Em xin cam đoan các nội dung trên là đúng sự thật.
+Em xin chân thành cảm ơn.
+
+Xác nhận của giảng viên hướng dẫn đồ án/khóa luận tốt nghiệp (*)
+(ký và ghi rõ họ tên)
+
+Ngày ...... tháng ...... năm ............ 
+Sinh viên/học viên
+(ký và ghi rõ họ tên)
+
+XÁC NHẬN CỦA TRƯỜNG/VIỆN/KHOA QUẢN NGÀNH
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Hoc_bong_2024_GKQH_quy_dinh_02.pdf
+parent_doc_id: Hoc_bong_2024_GKQH_quy_dinh
+chunk_id: Hoc_bong_2024_GKQH_quy_dinh_02_002
+chunk_index: 2
+language: vi
+category: Hoc_bong
+year: N/A
+chunk_title: Phụ lục II - Mẫu văn bản xác nhận ứng dụng đề tài tại địa phương
+topic_tags: [Học bổng Gắn kết Quê hương, Xác nhận ứng dụng đề tài]
+summary: Mẫu văn bản xác nhận ứng dụng đề tài tại địa phương gồm phần kê khai của tác giả về hiệu quả kinh tế, xã hội, môi trường và phần xác nhận của tổ chức ứng dụng.
+
+Phụ lục II
+MẪU VĂN BẢN XÁC NHẬN ỨNG DỤNG ĐỀ TÀI TẠI ĐỊA PHƯƠNG
+(Kèm theo Quy định về việc xét, cấp Học bổng Gắn kết Quê hương ban hành kèm theo Quyết định số /QĐ-ĐHBK ngày tháng năm 2024 của Giám đốc Đại học Bách khoa Hà Nội)
+
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+
+VĂN BẢN XÁC NHẬN ỨNG DỤNG ĐỀ TÀI
+
+I. PHẦN KÊ KHAI CỦA TÁC GIẢ
+1. Họ và tên tác giả hoặc nhóm tác giả đề tài:
+1) ............................................................................................................................
+2) ............................................................................................................................
+3) ............................................................................................................................
+4) ............................................................................................................................
+5) ............................................................................................................................
+2. Tên đề tài tốt nghiệp: ..................................................................................................
+3. Nội dung ứng dụng của đề tài: ..................................................................................
+4. Hiệu quả ứng dụng của đề tài: 
+4.1. Hiệu quả về kinh tế: ...................................................................................................
+4.2. Hiệu quả về xã hội: ....................................................................................................
+4.3. Hiệu quả về môi trường: ...........................................................................................
+4.4. Hiệu quả về khoa học công nghệ: .............................................................................
+4.5. Hiệu quả các lĩnh vực khác (nếu có): ........................................................................
+
+II. PHẦN XÁC NHẬN CỦA TỔ CHỨC ỨNG DỤNG ĐỀ TÀI
+1. Thông tin chung về tổ chức ứng dụng đề tài:
+Tên tổ chức: ......................................................................................................................
+Địa chỉ liên hệ: ..................................................................................................................
+Điện thoại: ...................................... Email: ......................................................................
+Lĩnh vực hoạt động chính: ................................................................................................
+Họ và tên người đứng đầu tổ chức: ..................................................................................
+
+2. Nội dung xác nhận:
+Nội dung đã ứng dụng của đề tài: .....................................................................................
+
+3. Đánh giá (đánh dấu X vào ô tương ứng):
+
+| Tiêu chí | Rất tốt | Tốt | Đạt | Không ý kiến |
+| :--- | :---: | :---: | :---: | :---: |
+| Mức độ khả thi ứng dụng về kinh tế | | | | |
+| Mức độ khả thi ứng dụng về xã hội | | | | |
+| Mức độ khả thi ứng dụng về môi trường | | | | |
+| Mức độ khả thi ứng dụng về khoa học và công nghệ | | | | |
+| Mức độ khả thi ứng dụng về các lĩnh vực khác | | | | |
+
+XÁC NHẬN CỦA TỔ CHỨC ỨNG DỤNG ĐỀ TÀI (ký tên, đóng dấu)
+Ngày ...... tháng ...... năm ............ 
+Đại diện nhóm sinh viên thực hiện đề tài (Ký và ghi rõ họ tên)
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: Hoc_bong_2024_GKQH_quy_dinh_02.pdf
+parent_doc_id: Hoc_bong_2024_GKQH_quy_dinh
+chunk_id: Hoc_bong_2024_GKQH_quy_dinh_02_003
+chunk_index: 3
+language: vi
+category: Hoc_bong
+year: N/A
+chunk_title: Phụ lục III - Phiếu đánh giá, nghiệm thu đề tài Gắn kết Quê hương
+topic_tags: [Học bổng Gắn kết Quê hương, Phiếu đánh giá, Hội đồng nghiệm thu]
+summary: Phiếu đánh giá, nghiệm thu đề tài Gắn kết Quê hương với thang điểm 100, bao gồm các tiêu chí về nghiên cứu, phương pháp, kết quả ứng dụng và quy định về điểm số của hội đồng.
+
+Phụ lục III
+PHIẾU ĐÁNH GIÁ, NGHIỆM THU ĐỀ TÀI GẮN KẾT QUÊ HƯƠNG
+(Kèm theo Quy định về việc xét, cấp Học bổng Gắn kết Quê hương ban hành kèm theo Quyết định số /QĐ-ĐHBK ngày tháng năm 2024 của Giám đốc Đại học Bách khoa Hà Nội)
+
+BỘ GIÁO DỤC VÀ ĐÀO TẠO - ĐẠI HỌC BÁCH KHOA HÀ NỘI
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Hà Nội, ngày ….. tháng ….. năm …..
+
+PHIẾU ĐÁNH GIÁ Đề tài đăng ký xét Học bổng Gắn kết Quê hương 
+1. Họ và tên thành viên Hội đồng: .................................................................................
+2. Nhiệm vụ trong Hội đồng: [ ] Chủ tịch [ ] Ủy viên [ ] Ủy viên phản biện
+3. Tên đề tài đăng ký xét học bổng: ..............................................................................
+4. Thông tin sinh viên hoặc nhóm sinh viên thực hiện đề tài: 
+
+| TT | Họ và tên sinh viên | MSSV | Chức vụ |
+| :--- | :--- | :--- | :--- |
+| 1. | | | Trưởng nhóm |
+| 2. | | | Thành viên |
+| 3. | | | Thành viên |
+| 4. | | | Thành viên |
+| 5. | | | Thành viên |
+
+6. Quyết định thành lập Hội đồng: Số: .........................; ngày ...........................................
+
+7. Đánh giá của thành viên hội đồng: 
+
+| TT | Tiêu chí đánh giá | Điểm tối đa | Điểm chấm |
+| :--- | :--- | :---: | :---: |
+| 1 | Tổng quan tình hình nghiên cứu và luận giải sự cần thiết của vấn đề nghiên cứu | 10 | |
+| 2 | Nội dung nghiên cứu | 10 | |
+| 3 | Phương pháp nghiên cứu | 5 | |
+| 4 | Kết quả ứng dụng của sản phẩm | | |
+| | - Mức độ khả thi ứng dụng về kinh tế | 15 | |
+| | - Mức độ khả thi ứng dụng về xã hội | 15 | |
+| | - Mức độ khả thi ứng dụng về môi trường | 15 | |
+| | - Mức độ khả thi ứng dụng về khoa học và công nghệ | 15 | |
+| | - Mức độ khả thi ứng dụng về các lĩnh vực khác | 10 | |
+| 5 | Hình thức trình bày báo cáo tổng kết đề tài | 5 | |
+| | **Tổng (1+2+3+4+5)** | **100** | |
+
+Ghi chú:
+a) Mỗi thành viên Hội đồng đánh giá đề tài theo thang điểm 100 (điểm đánh giá là số nguyên);
+b) Điểm của thành viên Hội đồng chênh lệch >10 điểm so với điểm trung bình ban đầu coi là điểm không hợp lệ và không được tính vào tổng số điểm hợp lệ.
+
+8. Ý kiến và kiến nghị khác: ...........................................................................................
+9. Kết luận (đánh dấu X vào ô tương ứng):
+- Đồng ý cấp học bổng: [ ]
+- Không đồng ý cấp học bổng: [ ]
+
+THÀNH VIÊN HỘI ĐỒNG (ký, ghi rõ họ tên)
+<<<CHUNK_END>>>
