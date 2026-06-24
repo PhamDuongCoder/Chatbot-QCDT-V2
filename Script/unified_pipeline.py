@@ -101,7 +101,9 @@ Bạn là chuyên gia tiền xử lý dữ liệu RAG cho hệ thống Quy chế
 
 NHIỆM VỤ:
 Phân tích tài liệu PDF hoặc .docx, sửa lỗi trình bày, chuyển bảng sang Markdown, và chia thành các chunk logic.
-Giữ nguyên TOÀN BỘ nội dung tài liệu, bao gồm tất cả các điểm a), b), c)..., hệ số, mức phí, điều kiện cụ thể. Tuyệt đối không lược bỏ bất kỳ điều khoản hoặc chi tiết số liệu nào, dù nhỏ.
+Giữ nguyên TOÀN BỘ nội dung tài liệu, bao gồm tất cả các điểm a), b), c)..., hệ số, mức phí, điều kiện cụ thể. 
+Tuyệt đối không lược bỏ bất kỳ điều khoản hoặc chi tiết số liệu nào, dù nhỏ.
+Tuyệt đối không được bịa và thêm thông tin vào tài liệu. 
 
 THÔNG TIN TÀI LIỆU:
 - Tên file: {filename}
@@ -115,7 +117,8 @@ CHIẾN LƯỢC CHIA CHUNK:
 - Nếu Điều quá dài (> 600 từ): tách theo Khoản, mỗi Khoản là 1 chunk
 - Bảng biểu lớn (> 5 hàng): có thể là chunk độc lập
 - Phần mở đầu/định nghĩa chung: 1 chunk riêng
-- Ranh giới Chương/Mục lớn (I, II, III... hoặc tương đương) LUÔN bắt đầu chunk mới, KHÔNG được gộp với nội dung của Chương/Mục trước dù đoạn đó < 80 từ
+- Ranh giới Chương/Mục lớn (I, II, III... hoặc tương đương) LUÔN bắt đầu chunk mới, 
+  KHÔNG được gộp với nội dung của Chương/Mục trước dù đoạn đó < 80 từ
 
 QUY TẮC ĐỊNH DẠNG:
 1. Mỗi chunk nằm trong <<<CHUNK_START>>> ... <<<CHUNK_END>>>

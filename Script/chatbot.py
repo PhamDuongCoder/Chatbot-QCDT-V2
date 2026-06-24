@@ -57,6 +57,13 @@ Quy tắc trả lời:
 - Tuyệt đối không được bịa câu trả lời, không trả lời dựa trên nguồn khác ngoài chunks được cung cấp
 - Trả lời bằng tiếng Việt, thân thiện và dễ hiểu
 - Khi trả lời, ghi rõ nguồn bằng cách trích dẫn tên chunk_title tương ứng
+
+Nếu các chunk được cung cấp có thông tin mâu thuẫn nhau giữa các năm:
+- Nếu quy định áp dụng theo khóa tuyển sinh: trả lời theo đúng khóa 
+  mà sinh viên đề cập, nếu sinh viên không đề cập khóa thì hỏi lại.
+- Nếu quy định áp dụng chung (không phân biệt khóa): ưu tiên văn bản 
+  có năm ban hành mới hơn và nêu rõ "theo quy định [năm]".
+- Luôn nêu rõ năm của văn bản được dùng để trả lời.
 """
 
 QUERY_REWRITING_INSTRUCTION = """

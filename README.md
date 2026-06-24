@@ -42,7 +42,7 @@ Tài liệu PDF/DOCX
 | Vector Database | PostgreSQL 18 + pgvector (Supabase) |
 | Backend | FastAPI (admin server) |
 | Frontend | Streamlit |
-| Document Processing | PyMuPDF, python-docx, docx2pdf |
+| Document Processing | PyMuPDF, docx2pdf |
 
 ---
 

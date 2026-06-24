@@ -1,0 +1,320 @@
+<<<CHUNK_START>>>
+source: QCDT_2021_03.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_03_001
+chunk_index: 1
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Quy định về hoàn thiện học phần và chứng nhận tích lũy
+topic_tags: [Giáo dục quốc phòng-an ninh, Giáo dục thể chất, tốt nghiệp]
+summary: Sinh viên được phép đăng ký hoàn thiện các học phần Giáo dục quốc phòng-an ninh hoặc Giáo dục thể chất trong tối đa 03 năm sau khi hết thời hạn học tập. Sinh viên không tốt nghiệp có quyền đề nghị cấp chứng nhận cho các học phần đã tích lũy.
+[Nội dung từ trang 11]
+Giáo dục quốc phòng-an ninh hoặc Giáo dục thể chất, trong thời hạn tối đa 03 năm kể từ khi hết thời hạn học tập được phép đăng ký học để hoàn thiện các học phần còn thiếu này và đề nghị xét công nhận tốt nghiệp.
+6. Sinh viên không tốt nghiệp được quyền đề nghị cấp chứng nhận với các học phần đã tích lũy trong chương trình đào tạo.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_03.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_03_002
+chunk_index: 2
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 15. Điểm trung bình toàn khóa và hạng tốt nghiệp đại học
+topic_tags: [Điểm trung bình toàn khóa, hạng tốt nghiệp, học lại, kỷ luật]
+summary: Quy định về cách tính điểm trung bình toàn khóa và các trường hợp bị giảm một mức hạng tốt nghiệp nếu có điểm trung bình từ loại giỏi trở lên, bao gồm việc học lại vượt quá 5% tổng số tín chỉ hoặc bị kỷ luật từ mức cảnh cáo trở lên.
+Điều 15. Điểm trung bình toàn khóa và hạng tốt nghiệp đại học
+1. Điểm trung bình toàn khóa là điểm trung bình tích lũy toàn khóa tính theo các học phần đăng ký tốt nghiệp.
+2. Hạng tốt nghiệp được xếp dựa trên điểm trung bình toàn khóa như xếp loại học lực quy định tại khoản 6, Điều 12 của Quy chế này, riêng trong các trường hợp sau đây thì hạng tốt nghiệp của những sinh viên có điểm trung bình toàn khóa xếp loại giỏi trở lên sẽ bị giảm một mức:
+a) Khối lượng của các học phần phải học lại vượt quá 5% so với tổng số tín chỉ quy định cho toàn chương trình đào tạo. Quy định này không xét tới số tín chỉ học cải thiện điểm.
+b) Sinh viên bị Hội đồng kỷ luật của Trường ĐHBK Hà Nội đề nghị áp dụng mức kỷ luật từ cảnh cáo trở lên.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_03.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_03_003
+chunk_index: 3
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 16. Nghỉ học tạm thời và tự nguyện thôi học (Khoản 1)
+topic_tags: [nghỉ học tạm thời, Hiệu trưởng, thời gian học, lực lượng vũ trang]
+summary: Quy định điều kiện nghỉ học tạm thời, thời gian nghỉ tối đa và việc tính thời gian nghỉ vào tiến độ học tập. Các trường hợp nghỉ do ốm đau, thai sản, tai nạn hoặc điều động vào lực lượng vũ trang có quy định riêng về thời gian không tính vào tiến độ chậm.
+Điều 16. Nghỉ học tạm thời và tự nguyện thôi học
+1. Điều kiện nghỉ học tạm thời, thời gian nghỉ học tối đa và việc tiếp nhận trở lại học được quy định như sau:
+a) Sinh viên được nghỉ học tạm thời nếu có quyết định cho phép nghỉ học tạm thời của Hiệu trưởng Trường ĐHBK Hà Nội.
+b) Thời gian nghỉ học tạm thời do sinh viên bị ốm, thai sản hoặc tai nạn buộc phải điều trị thời gian dài không tính vào thời gian chậm tiến độ nếu tổng cộng không vượt quá 4 học kỳ chính; thời gian nghỉ trên 4 học kỳ được tính vào thời gian học chậm tiến độ.
+c) Thời gian nghỉ học tạm thời do sinh viên được điều động vào lực lượng vũ trang (là thời gian được ghi trong quyết định của cấp có thẩm quyền) không tính vào thời gian học chậm tiến độ.
+d) Đối với trường hợp xin nghỉ học tạm thời vì những lý do khác với lý do tại điểm b và điểm c, khoản 1 Điều này, sinh viên phải học ít nhất một học kỳ. Thời gian nghỉ học tối đa cho phép là 4 học kỳ chính và được tính vào thời gian học chậm tiến độ.
+đ) Sinh viên phải nộp đơn đề nghị trở lại học chậm nhất 1 tuần trước khi bắt đầu học kỳ mới. Đối với trường hợp được điều động vào lực lượng vũ trang hoặc đi làm nghĩa vụ quốc tế, sinh viên phải nộp kèm theo giấy xác nhận đã hoàn thành nhiệm vụ.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_03.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_03_004
+chunk_index: 4
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 16. Nghỉ học tạm thời và tự nguyện thôi học (Khoản 2, 3)
+topic_tags: [bảo lưu kết quả, thôi học]
+summary: Quy định về chế độ bảo lưu kết quả học tập khi nghỉ học tạm thời và quy trình tự nguyện thôi học. Sinh viên đã có quyết định thôi học sẽ không được tiếp nhận trở lại.
+2. Chế độ bảo lưu kết quả học tập khi nghỉ học tạm thời: Các học phần đăng ký học trong học kỳ đã đủ điểm đánh giá hoặc đủ điều kiện đánh giá sẽ được tính điểm học phần; kết quả sẽ được bảo lưu cùng với kết quả từ các học kỳ trước, kể cả các học phần đạt và không đạt.
+3. Tự nguyện thôi học: Sinh viên thấy không có đủ điều kiện hoặc không muốn tiếp tục học tại Trường ĐHBK Hà Nội có thể làm đơn đề nghị thôi học và được xem xét cho thôi học. Sinh viên đã có quyết định cho thôi học không được tiếp nhận trở lại.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_03.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_03_005
+chunk_index: 5
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 17. Chuyển chương trình đào tạo, hình thức đào tạo
+topic_tags: [chuyển chương trình, hình thức đào tạo, VLVH, chính quy]
+summary: Quy định điều kiện chuyển chương trình đào tạo sau năm thứ nhất, bao gồm yêu cầu về tín chỉ, CPA và kỷ luật. Quy định cụ thể về việc chuyển sang hình thức VLVH và bảo lưu kết quả học tập khi chuyển đổi.
+Điều 17. Chuyển chương trình đào tạo, hình thức đào tạo
+1. Sinh viên hoàn thành năm học thứ nhất được xem xét chuyển sang học một chương trình đào tạo khác nếu đáp ứng đầy đủ các điều kiện sau:
+a) Đáp ứng điều kiện trúng tuyển của chương trình đào tạo muốn chuyển sang học;
+b) Có số tín chỉ tích lũy tối thiểu bằng khối lượng thiết kế theo kế hoạch học tập chuẩn của chương trình đào tạo;
+c) Xếp loại học lực căn cứ theo điểm trung bình tích lũy (CPA) đạt từ loại khá trở lên;
+d) Không bị cảnh báo học tập hoặc bị xét thi hành kỷ luật;
+2. Không xem xét đề nghị chuyển CTĐT đối với sinh viên đã học từ năm thứ hai trở đi.
+3. Sinh viên thuộc các trường hợp sau được quyền đề nghị chuyển sang học một chương trình thuộc hình thức VLVH của Trường ĐHBK Hà Nội nếu có nguyện vọng:
+a) Sinh viên đang học hình thức chính quy;
+b) Sinh viên đã bị buộc thôi học do kết quả học tập yếu kém;
+c) Sinh viên không hoàn thành chương trình đào tạo trong thời gian học tập cho phép.
+Các trường hợp này được xem xét chuyển nếu còn trong thời gian học tập theo quy định đối với hình thức vừa làm vừa học. Khoản 3 Điều này không áp dụng với sinh viên đã xin thôi học.
+4. Kết quả học tập của các học phần đã tích lũy của sinh viên chuyển chương trình hoặc chuyển hình thức đào tạo sẽ được xem xét để bảo lưu và công nhận tương đương theo các học phần trong chương trình mới.
+5. Sinh viên từ trường khác muốn chuyển tới học tại Trường ĐHBK Hà Nội phải đáp ứng điều kiện trúng tuyển của chương trình đào tạo cùng khóa tuyển sinh, đồng thời phải được sự đồng ý của Hiệu trưởng Trường ĐHBK Hà Nội và thủ trưởng cơ sở đào tạo đang học. Thời gian học tập toàn khóa được tính từ khi sinh viên trúng tuyển vào cơ sở đào tạo thứ nhất.
+6. Với những trường hợp đặc biệt Hiệu trưởng Trường ĐHBK Hà Nội thành lập Hội đồng đánh giá và quyết định.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_03.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_03_006
+chunk_index: 6
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 18. Học cùng lúc hai chương trình
+topic_tags: [học cùng lúc hai chương trình, tốt nghiệp, tín chỉ, CPA]
+summary: Quy định điều kiện đăng ký và học cùng lúc hai chương trình, bao gồm yêu cầu về CPA, thời gian tối đa, công nhận tín chỉ (điểm R) và điều kiện xét tốt nghiệp cho cả hai chương trình.
+Điều 18. Học cùng lúc hai chương trình
+1. Sinh viên thuộc hình thức đào tạo chính quy có thể đăng ký học thêm các học phần của một chương trình đào tạo khác, nhưng chỉ được hưởng các quyền lợi chính thức và được xem xét công nhận tốt nghiệp chương trình thứ hai khi đã đăng ký thành công học chương trình thứ hai.
+2. Sinh viên được đăng ký học chương trình thứ hai sớm nhất khi đã được xếp trình độ năm thứ hai của chương trình thứ nhất. Tại thời điểm đăng ký, sinh viên phải có học lực tính theo điểm trung bình tích lũy (CPA) xếp loại từ trung bình trở lên và đáp ứng điều kiện trúng tuyển của chương trình thứ hai trong năm tuyển sinh.
+3. Trong thời gian học chương trình đào tạo thứ hai, sinh viên phải luôn đảm bảo khối lượng học tập ngành thứ nhất theo quy định với điểm trung bình tích lũy (CPA) từ trung bình trở lên và không nằm trong diện bị cảnh báo học tập. Sinh viên không duy trì được kết quả này sẽ bị loại khỏi danh sách đăng ký học chương trình thứ hai.
+4. Thời gian tối đa được phép học đối với sinh viên học cùng lúc hai chương trình là thời gian tối đa quy định cho chương trình thứ nhất.
+5. Khi học chương trình thứ hai, sinh viên được công nhận tín chỉ của những học phần có nội dung và khối lượng học tập tương đương ở chương trình thứ nhất. Những học phần được công nhận tương đương này sẽ được cho điểm miễn (điểm R).
+6. Sinh viên chỉ được xét tốt nghiệp chương trình thứ hai, nếu có đủ điều kiện tốt nghiệp ở chương trình thứ nhất và đã đăng kí xét muộn nhất 02 năm trước thời điểm xét tốt nghiệp chương trình thứ hai.
+7. Sinh viên hội tụ đủ điều kiện tốt nghiệp cả hai chương trình đào tạo sẽ được cấp hai bằng tốt nghiệp và phụ lục văn bằng tương ứng. Các học phần chung giữa hai chương trình đào tạo sẽ được công nhận và ghi điểm trên cả hai phụ lục văn bằng.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_03.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_03_007
+chunk_index: 7
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 19. Cảnh báo học tập và buộc thôi học
+topic_tags: [cảnh báo học tập, buộc thôi học, tín chỉ không đạt, nợ đọng]
+summary: Quy định các mức cảnh báo học tập dựa trên số tín chỉ không đạt hoặc nợ đọng, quy trình hạ mức cảnh báo, hạn chế khối lượng học tập cho sinh viên bị cảnh báo và các trường hợp buộc thôi học.
+Điều 19. Cảnh báo học tập và buộc thôi học
+1. Kết quả học tập được đánh giá vào cuối mỗi học kỳ chính để xác định mức độ cảnh báo học tập với sinh viên và được quy định như sau:
+a) Nâng một mức cảnh báo học tập đối với sinh viên có số tín chỉ không đạt trong học kỳ lớn hơn 8.
+b) Nâng hai mức cảnh báo học tập đối với sinh viên có số tín chỉ không đạt trong học kỳ lớn hơn 16 hoặc tự ý bỏ học, không đăng ký học tập.
+c) Áp dụng cảnh báo học tập mức 3 đối với sinh viên có số tín chỉ nợ đọng từ đầu khóa lớn hơn 24.
+d) Sinh viên đang bị cảnh báo học tập mức 1 và mức 2, nếu số tín chỉ không đạt trong học kỳ nhỏ hơn hoặc bằng 4 thì được hạ một mức cảnh báo học tập.
+đ) Sinh viên đang bị cảnh báo học tập mức 3, nếu số tín chỉ nợ đọng từ đầu khóa nhỏ hơn hoặc bằng 23 thì được hạ cảnh báo học tập xuống mức 2.
+e) Không xem xét cảnh báo học tập với học kỳ hè.
+2. Hạn chế khối lượng học tập là hình thức buộc những sinh viên đang bị cảnh báo học tập hoặc chưa đạt chuẩn ngoại ngữ đăng ký số tín chỉ học phần ít hơn bình thường, cụ thể như sau:
+a) Sinh viên thuộc các chương trình đào tạo chuẩn được đăng ký tối đa 14 TC và tối thiểu 8 TC cho một học kỳ chính;
+b) Sinh viên thuộc các chương trình ELITECH và các chương trình đào tạo hợp tác quốc tế được đăng ký tối đa 18 TC và tối thiểu 8 TC cho một học kỳ chính.
+3. Buộc thôi học là hình thức áp dụng đối với những sinh viên có kết quả học tập rất kém, cụ thể trong các trường hợp như sau:
+a) Sinh viên bị cảnh báo học tập mức 3 lần thứ hai liên tiếp.
+b) Sinh viên học chậm tiến độ quá thời gian cho phép, hoặc không còn đủ khả năng tốt nghiệp trong thời gian cho phép theo quy định tại khoản 3, Điều 3 của Quy chế này.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_03.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_03_008
+chunk_index: 8
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 20. Xử lý vi phạm đối với sinh viên
+topic_tags: [vi phạm, kỷ luật, gian lận, thi hộ, chứng chỉ giả]
+summary: Quy định xử lý kỷ luật đối với sinh viên gian lận trong thi cử, thi hộ, sử dụng chứng chỉ hoặc hồ sơ giả. Các mức xử lý bao gồm đình chỉ học tập hoặc buộc thôi học.
+Điều 20. Xử lý vi phạm đối với sinh viên
+1. Sinh viên có gian lận trong thi, kiểm tra, đánh giá kết quả học tập sẽ bị xử lý kỷ luật đối với từng học phần đã vi phạm theo các quy định của Quy chế thi tốt nghiệp Trung học phổ thông hiện hành do Bộ Giáo dục và Đào tạo ban hành, trừ trường hợp quy định tại khoản 2 Điều này.
+2. Sinh viên thi hộ hoặc nhờ người thi hộ đều bị kỷ luật ở mức đình chỉ học tập 01 năm đối với trường hợp vi phạm lần thứ nhất và buộc thôi học đối với trường hợp vi phạm lần thứ hai.
+3. Sinh viên sử dụng chứng chỉ ngoại ngữ giả hoặc chứng chỉ Giáo dục quốc phòng-an ninh giả sẽ bị buộc thôi học.
+4. Sinh viên sử dụng hồ sơ, văn bằng, chứng chỉ giả làm điều kiện trúng tuyển hoặc điều kiện tốt nghiệp sẽ bị buộc thôi học; văn bằng tốt nghiệp nếu đã được cấp sẽ bị thu hồi, huỷ bỏ.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_03.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_03_009
+chunk_index: 9
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Chương III. Đào tạo kỹ sư - Điều 21. Đăng ký học tập
+topic_tags: [đào tạo kỹ sư, đăng ký học phần, tín chỉ]
+summary: Quy định về đăng ký học tập cho chương trình kỹ sư, bao gồm giới hạn tín chỉ tối thiểu và tối đa trong học kỳ chính và năm học, cũng như quy định đăng ký học trước các học phần kỹ sư khi đang học bậc cử nhân.
+CHƯƠNG III
+ĐÀO TẠO KỸ SƯ
+Điều 21. Đăng ký học tập chương trình kỹ sư
+1. Đăng ký học phần: học viên thực hiện quy trình đăng ký học tập theo kế hoạch học tập chuẩn hoặc theo kế hoạch cá nhân. Học viên có thể đăng ký tối thiểu 12 TC và tối đa 24 TC trong một học kỳ chính nhưng không vượt quá 45 TC trong một năm học. Không áp dụng ngưỡng đăng ký tối thiểu với học kỳ cuối khóa.
+2. Quy trình đăng ký học tập thực hiện theo khoản 1, Điều 10 của Quy chế này.
+3. Trong quá trình học tập ở bậc đào tạo cử nhân, học viên được đăng ký học trước tối đa 15 TC các học phần thuộc CTĐT kỹ sư.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_03.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_03_010
+chunk_index: 10
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 22. Đồ án tốt nghiệp kỹ sư
+topic_tags: [Đồ án tốt nghiệp kỹ sư, ĐATN KS, tín chỉ]
+summary: Quy định điều kiện được giao đề tài Đồ án tốt nghiệp kỹ sư (tín chỉ chưa đạt không quá 8 TC) và tiêu chuẩn đánh giá đạt (điểm C trở lên).
+Điều 22. Đồ án tốt nghiệp kỹ sư
+1. Học viên được giao đề tài Đồ án tốt nghiệp kỹ sư (sau đây gọi tắt là ĐATN KS) nếu có tổng số tín chỉ chưa đạt không vượt quá 8 TC so với yêu cầu của chương trình đào tạo (không tính số tín chỉ của các học phần thực tập tốt nghiệp và ĐATN KS).
+2. Việc đánh giá kết quả thực hiện ĐATN KS được thực hiện theo khoản 3, Điều 13 của Quy chế này. Đồ án tốt nghiệp kỹ sư được đánh giá đạt khi điểm đánh giá học phần phải đạt từ C trở lên.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_03.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_03_011
+chunk_index: 11
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 23. Đăng ký tốt nghiệp kỹ sư
+topic_tags: [tốt nghiệp kỹ sư, điều kiện tốt nghiệp, bằng tốt nghiệp]
+summary: Quy định các đợt xét tốt nghiệp kỹ sư, điều kiện để được xét công nhận tốt nghiệp (hoàn thành học phần, đồ án, ngoại ngữ, CPA, kỷ luật) và quy trình cấp bằng.
+Điều 23. Đăng ký tốt nghiệp kỹ sư
+1. Trường ĐHBK Hà Nội xét tốt nghiệp nhiều đợt trong năm, cụ thể là cuối mỗi đợt học A, B của các học kỳ chính và cuối học kỳ hè. Học viên muốn được xét tốt nghiệp phải đăng ký theo các mốc thời gian quy định trong Kế hoạch học tập năm học.
+2. Học viên có thể đăng ký học nhiều hơn yêu cầu của chương trình đào tạo, nhưng khi đăng ký tốt nghiệp chỉ chọn đủ hoặc không nhiều hơn 3 tín chỉ theo yêu cầu của chương trình. Các trường hợp ngoại lệ sẽ do Hội đồng xét tốt nghiệp quyết định và trình Hiệu trưởng Trường ĐHBK Hà Nội phê duyệt.
+3. Học viên có đủ các điều kiện sau đây thì được xét công nhận tốt nghiệp:
+a) Đã hoàn thành đầy đủ các học phần theo yêu cầu của chương trình đào tạo trong thời gian quy định.
+b) Đã nộp quyển đồ án tốt nghiệp cho thư viện theo quy cách của bản đồ án do Trường ĐHBK Hà Nội quy định.
+c) Đạt chuẩn ngoại ngữ đầu ra.
+d) Điểm trung bình tích lũy toàn khóa đạt từ 2,0 trở lên.
+đ) Không nằm trong danh sách đang bị kỷ luật hoặc bị Hội đồng kỷ luật của Trường ĐHBK Hà Nội xét kỷ luật ở mức đình chỉ học tập hoặc buộc thôi học.
+e) Cho đến thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự.
+4. Học viên đạt đủ điều kiện tốt nghiệp được Hiệu trưởng Trường ĐHBK Hà Nội ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành các nghĩa vụ liên quan.
+5. Học viên không tốt nghiệp được quyền đề nghị cấp chứng nhận với các học phần đã tích lũy trong chương trình đào tạo.
+<<<_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_03.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_03_012
+chunk_index: 12
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 24. Điểm trung bình toàn khóa và hạng tốt nghiệp kỹ sư
+topic_tags: [điểm trung bình toàn khóa, hạng tốt nghiệp, kỹ sư, cử nhân]
+summary: Quy định cách tính điểm trung bình toàn khóa cho chương trình kỹ sư (trọng số theo tín chỉ của giai đoạn cử nhân và kỹ sư) và các trường hợp bị giảm một mức hạng tốt nghiệp.
+Điều 24. Điểm trung bình toàn khóa và hạng tốt nghiệp kỹ sư
+1. Điểm trung bình toàn khóa là điểm trung bình tích lũy của cả giai đoạn đào tạo cử nhân đã tốt nghiệp và giai đoạn đào tạo kỹ sư, với trọng số là tỷ lệ phần trăm của số tín chỉ tích lũy của mỗi giai đoạn đào tạo trong tổng số tín chỉ tích lũy của cả hai giai đoạn.
+2. Hạng tốt nghiệp được xếp dựa trên điểm trung bình toàn khóa như xếp loại học lực quy định tại khoản 6, Điều 12 của Quy chế này, riêng trong các trường hợp sau đây thì hạng tốt nghiệp của học viên có điểm trung bình toàn khóa xếp loại giỏi trở lên sẽ bị giảm một mức:
+a) Khối lượng của các học phần phải học lại vượt quá 5% so với tổng số tín chỉ tích lũy của cả giai đoạn đào tạo cử nhân và kỹ sư. Quy định này không xét tới số tín chỉ học cải thiện điểm;
+b) Học viên bị Hội đồng kỷ luật của Trường ĐHBK Hà Nội đề nghị áp dụng mức kỷ luật từ cảnh cáo trở lên.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_03.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_03_013
+chunk_index: 13
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 25. Nghỉ học tạm thời, tự nguyện thôi học và buộc thôi học (Kỹ sư)
+topic_tags: [nghỉ học tạm thời, thôi học, buộc thôi học, kỹ sư]
+summary: Quy định về nghỉ học tạm thời, bảo lưu kết quả, tự nguyện thôi học và các trường hợp buộc thôi học đối với học viên chương trình kỹ sư.
+Điều 25. Nghỉ học tạm thời, tự nguyện thôi học và buộc thôi học
+1. Đối với học viên được điều động vào lực lượng vũ trang, đi làm nghĩa vụ quốc gia, quốc tế, thời gian nghỉ học tạm thời (là thời gian được ghi trong quyết định của cấp có thẩm quyền) không tính vào thời gian học tại Trường ĐHBK Hà Nội.
+2. Học viên bị ốm hoặc tai nạn buộc phải điều trị trong thời gian dài, hoặc nghỉ thai sản theo quy định được phép nghỉ học tạm thời. Thời gian nghỉ học tạm thời (là thời gian được ghi trong giấy xác nhận của cơ sở khám, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế) không tính vào thời gian học tại Trường ĐHBK Hà Nội.
+3. Đối với trường hợp xin nghỉ học tạm thời vì những lý do khác với lý do tại khoản 1 và khoản 2 Điều này thì thời gian nghỉ học tối đa cho phép là 02 học kỳ chính và được tính vào thời gian học tập.
+4. Học viên phải nộp đơn đề nghị trở lại học chậm nhất 1 tuần trước khi bắt đầu học kỳ mới. Đối với trường hợp được điều động vào lực lượng vũ trang hoặc đi làm nghĩa vụ quốc gia, quốc tế, học viên phải nộp kèm theo giấy xác nhận đã hoàn thành nhiệm vụ.
+5. Chế độ bảo lưu kết quả học tập khi nghỉ học tạm thời: Các học phần đăng ký học trong học kỳ đã đủ điểm đánh giá hoặc đủ điều kiện đánh giá sẽ được tính điểm học phần; kết quả sẽ được bảo lưu cùng với kết quả từ các học kỳ trước, kể cả các học phần đạt và không đạt.
+6. Học viên thấy không có đủ điều kiện hoặc không muốn tiếp tục học tại Trường ĐHBK Hà Nội có thể làm đơn đề nghị thôi học và được xem xét cho thôi học. Học viên đã có quyết định cho thôi học sẽ không được tiếp nhận trở lại.
+7. Học viên bị buộc thôi học trong các trường hợp sau đây:
+a) Học viên đã học chậm tiến độ quá thời gian cho phép, hoặc không còn đủ khả năng tốt nghiệp trong thời gian cho phép theo quy định tại điểm a, khoản 3, Điều 3 của Quy chế này.
+b) Học viên không đăng ký học tập trong hai học kỳ liên tiếp.
+c) Học viên bị truy cứu trách nhiệm hình sự hoặc vi phạm quy chế học tập, quy chế thi tới mức phải buộc thôi học.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_03.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_03_014
+chunk_index: 14
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 26. Xử lý vi phạm đối với học viên
+topic_tags: [xử lý vi phạm, học viên]
+summary: Quy định việc xử lý vi phạm đối với học viên chương trình kỹ sư thực hiện theo Điều 20 của Quy chế.
+Điều 26. Xử lý vi phạm đối với học viên
+Việc xử lý vi phạm đối với học viên thực hiện theo Điều 20 của Quy chế này.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_03.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_03_015
+chunk_index: 15
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Chương IV. Đào tạo thạc sĩ - Điều 27. Đăng ký học tập
+topic_tags: [đào tạo thạc sĩ, đăng ký học phần, lớp chính thức]
+summary: Quy định đăng ký học tập cho chương trình thạc sĩ, bao gồm giới hạn tín chỉ cho hình thức chính quy và VLVH, quy trình mở lớp và xử lý các trường hợp lớp có ít học viên.
+CHƯƠNG IV
+ĐÀO TẠO THẠC SĨ
+Điều 27. Đăng ký học tập chương trình thạc sĩ
+1. Đăng ký học phần: Học viên thực hiện quy trình đăng ký học phần từ tài khoản học tập cá nhân theo kế hoạch học tập chuẩn hoặc theo kế hoạch cá nhân. Học viên được đào tạo theo hình thức chính quy có thể đăng ký tối đa 24 TC trong một học kỳ chính nhưng không vượt quá 45 TC trong một năm học. Học viên được đào tạo theo hình thức vừa làm vừa học có thể đăng ký tối đa 20 TC trong một học kỳ chính nhưng không vượt quá 30 TC trong một năm học. Học kỳ cuối khóa không áp dụng ngưỡng tối đa nhưng vẫn phải đảm bảo quy định số TC tối đa trong năm học.
+2. Đăng ký lớp chính thức: Dựa trên số lượng học viên đăng ký, Trường ĐHBK Hà Nội đưa ra số lượng lớp sẽ mở và thời khóa biểu cho các lớp này. Học viên chọn lớp học cho những học phần đã đăng ký. Thời gian đăng ký lớp kết thúc chậm nhất 1 tuần trước khi bắt đầu học kỳ.
+3. Đối với các học phần được giảng dạy trên lớp, quy mô lớp học phần tối thiểu là 20 học viên. Các trường hợp ngoại lệ được Trường ĐHBK Hà Nội giải quyết theo trình tự như sau:
+a) Xem xét mở lớp học phần chuyên môn có từ 5 đến 19 học viên đăng ký và áp dụng hệ số học phí theo quy định, trong đó ưu tiên các học phần thuộc chương trình theo định hướng nghiên cứu.
+b) Xem xét mở lớp cho dưới 5 học viên đăng ký học lại học phần chuyên môn dưới hình thức làm đồ án, khóa luận hoặc tiểu luận chuyên đề thay thế giờ lên lớp.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_03.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_03_016
+chunk_index: 16
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 28. Học bổ sung, miễn học và công nhận tín chỉ
+topic_tags: [học bổ sung, miễn học, công nhận tín chỉ, thạc sĩ]
+summary: Quy định về học phần bổ sung cho học viên thạc sĩ (tối đa 15 TC) và điều kiện miễn học, công nhận tín chỉ (điểm R) đối với các học phần đã học ở chương trình thạc sĩ khác hoặc kỹ sư chuyên sâu.
+Điều 28. Học bổ sung, miễn học và công nhận tín chỉ
+1. Học phần bổ sung:
+a) Học viên tốt nghiệp đại học ngành phù hợp hoặc ngành khác so với ngành đăng ký ở trình độ thạc sĩ sẽ phải học bổ sung tối đa 15 TC.
+b) Danh mục các học phần bổ sung và số tín chỉ được xác định khi xét hồ sơ đăng ký dự tuyển dựa trên việc đối sánh chương trình đào tạo đại học của thí sinh và chương trình đào tạo đại học đúng ngành của Trường ĐHBK Hà Nội.
+c) Các học phần bổ sung hoàn thành trước khi bắt đầu học các học phần trong chương trình đào tạo chuẩn.
+2. Miễn học và công nhận tín chỉ:
+a) Học viên được xem xét miễn học phần và công nhận tín chỉ (cho điểm R) của một số học phần khi đã học một chương trình đào tạo thạc sĩ khác hoặc đã tốt nghiệp một chương trình đào tạo kỹ sư chuyên sâu đặc thù. Những học phần được miễn phải có điểm đánh giá đạt từ điểm C (hoặc quy đổi tương đương) trở lên.
+<<<CHUNK_END>>>

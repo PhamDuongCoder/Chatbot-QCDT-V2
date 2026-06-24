@@ -1,0 +1,321 @@
+<<<CHUNK_START>>>
+source: QCDT_2021_02.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_02_001
+chunk_index: 1
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Cấu trúc chương trình học tập và học phần tương đương
+topic_tags: [chương trình học tập, học phần bắt buộc, học phần tự chọn, học phần tương đương, học phần thay thế]
+summary: Quy định về các nhóm học phần trong chương trình đào tạo bao gồm bắt buộc, tự chọn theo mô đun và tự chọn. Đồng thời quy định về việc sử dụng học phần tương đương hoặc thay thế để hoàn thành chương trình.
+
+4. Chương trình học tập có thể bao gồm các nhóm học phần bắt buộc và học phần tự chọn như sau:
+a) Nhóm học phần bắt buộc: người học phải hoàn thành tất cả học phần trong danh mục quy định.
+b) Nhóm học phần tự chọn theo mô đun: người học chọn một định hướng chuyên môn và phải hoàn thành tất cả học phần trong danh mục của nhóm học phần tự chọn theo mô đun.
+c) Nhóm học phần tự chọn: người học chọn lựa một số học phần trong danh mục để tích lũy đủ số tín chỉ quy định.
+
+5. Học phần tương đương và học phần thay thế
+a) Người học được tùy chọn học một học phần tương đương để lấy kết quả thay cho một học phần yêu cầu trong chương trình.
+b) Người học được phép học một học phần thay thế được chỉ định để lấy kết quả thay cho một học phần yêu cầu trong chương trình nhưng không còn được giảng dạy.
+
+6. Đề cương chi tiết của từng học phần thể hiện rõ khối lượng học tập, điều kiện tham dự học phần, mục tiêu và kết quả mong đợi, mức độ đáp ứng chuẩn đầu ra của chương trình, cách thức đánh giá học phần, nội dung và kế hoạch học tập, phương thức và ngôn ngữ giảng dạy, giáo trình và tài liệu tham khảo.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_02.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_02_002
+chunk_index: 2
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 5. Điểm học phần (Khoản 1-4)
+topic_tags: [điểm học phần, điểm quá trình, điểm cuối kỳ, đánh giá học phần]
+summary: Quy định về cách đánh giá học phần dựa trên khối lượng tín chỉ (TC), các thành phần điểm (quá trình, cuối kỳ) và hình thức đánh giá.
+
+Điều 5. Điểm học phần
+1. Một học phần từ 2 TC trở lên được đánh giá từ hai điểm thành phần là điểm quá trình và điểm cuối kỳ, trong đó điểm cuối kỳ có trọng số từ 0,5 đến 0,8 theo quy định trong đề cương chi tiết học phần. Các học phần có khối lượng dưới 2 tín chỉ có thể đánh giá kết hợp điểm quá trình và điểm cuối kỳ, hoặc chỉ điểm cuối kỳ.
+2. Điểm quá trình được đánh giá qua thi giữa kỳ, kiểm tra thường kỳ, kết hợp thi giữa kỳ và kiểm tra thường kỳ hoặc kết hợp các thành phần khác (thí nghiệm, bài tập lớn, tiểu luận,…); hình thức và trọng số đánh giá các thành phần được quy định cụ thể trong đề cương chi tiết học phần.
+3. Hình thức đánh giá để cho điểm cuối kỳ và trọng số đánh giá được quy định cụ thể trong đề cương chi tiết học phần.
+4. Hình thức đánh giá trực tuyến được áp dụng khi đảm bảo trung thực, công bằng và khách quan như đánh giá trực tiếp và được quy định bằng văn bản riêng.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_02.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_02_003
+chunk_index: 3
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 5. Điểm học phần (Khoản 5-6 và Bảng quy đổi)
+topic_tags: [điểm liệt, thang điểm 10, thang điểm 4, điểm chữ, học lại]
+summary: Quy định về thang điểm, điểm liệt, cách tính điểm học phần và bảng quy đổi điểm chữ sang điểm số thang 4. Điểm liệt là dưới 5 đối với đồ án/khóa luận và dưới 3 đối với học phần khác.
+
+5. Điểm quá trình và điểm cuối kỳ là điểm số được cho theo thang 10 và có thể lẻ tới 0,5; điểm số dưới 5 đối với học phần đồ án/khóa luận tốt nghiệp và điểm số dưới 3 đối với các học phần khác được coi là điểm liệt; trường hợp không dự thi đúng lịch thi đã ấn định và không có lý do chính đáng thì điểm thi là điểm 0.
+6. Điểm học phần được tính từ tổng điểm thành phần với trọng số tương ứng, làm tròn tới một chữ số thập phân và quy đổi thành điểm chữ theo quy tắc dưới đây, trừ trường hợp có một điểm thành phần là điểm liệt thì điểm học phần là điểm F. Điểm đạt là điểm học phần từ D trở lên, riêng đối với các học phần tốt nghiệp phải từ C trở lên. Để tính các điểm trung bình, điểm học phần được quy đổi thành điểm số theo thang 4.
+
+| Điểm học phần theo thang 10 | 0,0÷3,9 | 4,0÷4,9 | 5,0÷5,4 | 5,5÷6,4 | 6,5÷6,9 | 7,0÷7,9 | 8,0÷8,4 | 8,5÷9,4 | 9,5÷10 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Điểm chữ quy đổi | F | D | D+ | C | C+ | B | B+ | A | A+ |
+| Điểm số quy đổi | 0 | 1 | 1,5 | 2,0 | 2,5 | 3,0 | 3,5 | 4,0 | 4,0 |
+
+7. Người học có thể đăng ký học lại học phần đã có điểm đạt để cải thiện điểm trung bình tích lũy. Điểm lần cao nhất được công nhận là điểm chính thức của học phần.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_02.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_02_004
+chunk_index: 4
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 5. Điểm chữ đặc biệt (Khoản 8)
+topic_tags: [điểm chữ, điểm I, điểm X, điểm R, điểm P, điểm W, điểm K]
+summary: Giải thích ý nghĩa các điểm chữ đặc biệt (I, X, R, P, W, K) không dùng để tính điểm trung bình học tập.
+
+8. Một số điểm chữ đặc biệt được sử dụng trong các trường hợp sau và không quy đổi được thành điểm số để tính điểm trung bình học tập:
+a) Điểm I: điểm học phần chưa hoàn thiện do được hoãn thi đúng quy định.
+b) Điểm X: điểm học phần chưa hoàn thiện do thiếu dữ liệu đánh giá.
+c) Điểm R: điểm học phần được miễn học và công nhận tín chỉ.
+d) Điểm P: áp dụng cho các học phần chỉ yêu cầu đạt, không tính vào điểm trung bình học tập.
+đ) Điểm W: điểm học phần đã rút đăng ký học phần trong thời gian quy định.
+e) Điểm K: điểm học phần với các trường hợp được cho phép nghỉ học tạm thời (theo quy định tại khoản 1, Điều 16 Quy chế này) khi đang trong thời gian học của học kỳ.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_02.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_02_005
+chunk_index: 5
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 6. Hoãn thi, miễn thi, phúc tra và khiếu nại điểm
+topic_tags: [hoãn thi, thi lại, phúc tra, khiếu nại điểm]
+summary: Quy định về thi lại cho hệ VLVH, hoãn thi do lý do chính đáng, và quy trình phúc tra/khiếu nại điểm trong vòng 7 ngày.
+
+1. Đối với hình thức đào tạo chính quy, người học được thi cuối kỳ một lần đối với mỗi học phần đã đăng ký học trong học kỳ (kể cả trường hợp có điểm quá trình là điểm liệt) và không có lần thi lại.
+2. Đối với hình thức đào tạo vừa làm vừa học (sau đây gọi tắt là VLVH), người học được thi lại cuối kỳ một lần cho các học phần điểm F với điều kiện điểm quá trình không phải điểm liệt. Việc tổ chức thi lại phải hoàn thành chậm nhất trước khi bắt đầu học kỳ chính kế tiếp. Điểm học phần sau khi thi lại bị giới hạn không vượt quá mức điểm C.
+3. Người học không dự thi giữa kỳ do bị ốm, tai nạn hoặc vì lý do chính đáng được bố trí thi bù giữa kỳ hoặc thực hiện các nội dung kiểm tra khác theo quy định.
+4. Người học không thể dự thi cuối kỳ một học phần (đã học và đã đóng học phí) do bị ốm, tai nạn hoặc vì lý do chính đáng được phép hoãn thi và được dự thi cuối kỳ học phần đó trong thời hạn 2 học kỳ chính tiếp theo để hoàn thiện điểm, nếu không điểm học phần là điểm F.
+5. Người học có thể đề nghị phúc tra hoặc khiếu nại điểm trong thời hạn 7 ngày kể từ khi điểm học phần được cập nhật vào tài khoản học tập của người học. Không áp dụng phúc tra hoặc khiếu nại điểm với các học phần được tổ chức thi theo hình thức vấn đáp hoặc đánh giá trước hội đồng.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_02.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_02_006
+chunk_index: 6
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 7. Số tín chỉ tích lũy, điểm trung bình tích lũy
+topic_tags: [tín chỉ tích lũy, GPA, CPA]
+summary: Định nghĩa về số tín chỉ tích lũy, điểm trung bình học kỳ (GPA) và điểm trung bình tích lũy (CPA).
+
+Điều 7. Số tín chỉ tích lũy, điểm trung bình tích lũy
+1. Số tín chỉ tích lũy là tổng số tín chỉ của các học phần có điểm đạt kể từ đầu khóa kể cả các học phần được miễn học, được công nhận tín chỉ.
+2. Điểm trung bình học kỳ (GPA) là trung bình cộng điểm số quy đổi theo thang 4 của các học phần đã học trong học kỳ với trọng số là số tín chỉ của học phần. Điểm trung bình học kỳ được làm tròn tới 2 chữ số thập phân.
+3. Điểm trung bình tích lũy (CPA) là trung bình cộng điểm số quy đổi theo thang 4 của các học phần đã học từ đầu khóa thuộc chương trình giảng dạy với trọng số là số tín chỉ của học phần. Điểm trung bình tích lũy được làm tròn tới 2 chữ số thập phân.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_02.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_02_007
+chunk_index: 7
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 8. Chuyển cơ sở đào tạo khác
+topic_tags: [chuyển trường, sinh viên, học viên thạc sĩ, nghiên cứu sinh]
+summary: Quy định điều kiện chuyển cơ sở đào tạo cho sinh viên đại học, học viên thạc sĩ và nghiên cứu sinh.
+
+Điều 8. Chuyển cơ sở đào tạo khác
+1. Sinh viên đại học chuyển đến học tại một cơ sở đào tạo khác phải được sự đồng ý của Hiệu trưởng Trường ĐHBK Hà Nội và thủ trưởng cơ sở đào tạo chuyển đến. Sinh viên năm thứ nhất, sinh viên năm cuối của khóa học và sinh viên đang bị xem xét buộc thôi học không được chuyển cơ sở đào tạo.
+2. Học viên thạc sĩ không thể tiếp tục học tập tại Trường ĐHBK Hà Nội vì lý do chuyển nơi cư trú hoặc chuyển nơi công tác sang tỉnh khác được chuyển đến học tại một cơ sở đào tạo khác (đang đào tạo đúng ngành trình độ thạc sĩ) nếu có sự đồng ý của Hiệu trưởng Trường ĐHBK Hà Nội và thủ trưởng cơ sở đào tạo chuyển đến. Học viên đang học ở học kỳ cuối của khóa học hoặc đang trong thời gian bị kỷ luật từ cảnh cáo trở lên không được chuyển cơ sở đào tạo.
+3. Nghiên cứu sinh có thời hạn học tập tại Trường ĐHBK Hà Nội còn tối thiểu 12 tháng (theo quyết định công nhận nghiên cứu sinh) được chuyển đến một cơ sở đào tạo khác (đang đào tạo ngành tương ứng ở trình độ tiến sĩ) nếu có sự đồng ý của Hiệu trưởng Trường ĐHBK Hà Nội và thủ trưởng cơ sở đào tạo chuyển đến.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_02.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_02_008
+chunk_index: 8
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 9. Học phí
+topic_tags: [học phí, rút học phần, đình chỉ học tập]
+summary: Quy định về nghĩa vụ nộp học phí, hậu quả khi không hoàn thành học phí và chính sách hoàn trả 50% học phí khi rút học phần trong thời hạn quy định.
+
+Điều 9. Học phí
+1. Người học có nghĩa vụ nộp học phí đầy đủ và đúng thời hạn theo quy định về mức học phí và lịch thu học phí của Trường ĐHBK Hà Nội.
+2. Người học không hoàn thành đầy đủ nghĩa vụ nộp học phí sẽ bị đình chỉ đăng ký học tập một học kỳ kế tiếp. Người học tiếp tục bị đình chỉ lần thứ 2 liên tiếp do không hoàn thành đầy đủ nghĩa vụ nộp học phí sẽ bị xem xét buộc thôi học.
+3. Sinh viên, học viên có đơn đề nghị rút học phần trong khoảng thời gian 7 tuần (hoặc 3 tuần với các học phần tổ chức theo giảng dạy đợt A hoặc B) kể từ khi hết thời hạn điều chỉnh đăng ký lớp của học kỳ, nếu được giải quyết theo nguyện vọng thì chỉ đóng một nửa (50%) học phí của học phần đó. Quy định này không áp dụng với các học phần học ở kỳ hè.
+4. Sinh viên, học viên có đơn đề nghị thôi học, nghỉ học tạm thời hoặc chuyển cơ sở đào tạo trong khoảng thời gian 7 tuần kể từ khi hết thời hạn điều chỉnh đăng ký lớp của học kỳ, nếu được giải quyết theo nguyện vọng thì đóng một nửa (50%) học phí của học kỳ đó. Quy định này không áp dụng với kỳ hè.
+5. NCS đóng mức học phí theo năm học kể cả năm được gia hạn, trong đó đã bao gồm học phí của các học phần trong chương trình đào tạo tiến sĩ, không bao gồm các học phần bổ sung.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_02.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_02_009
+chunk_index: 9
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 10. Đăng ký học tập chương trình đại học (Khoản 1-2)
+topic_tags: [đăng ký học tập, tín chỉ, ELITECH]
+summary: Quy trình đăng ký học tập gồm 3 giai đoạn và quy định về số lượng tín chỉ tối đa/tối thiểu cho sinh viên (bao gồm chương trình ELITECH).
+
+CHƯƠNG II: ĐÀO TẠO ĐẠI HỌC
+Điều 10. Đăng ký học tập chương trình đại học
+1. Đăng ký học tập là quy trình bắt buộc của sinh viên cho mỗi học kỳ, trừ các sinh viên mới nhập học được xếp thời khóa biểu theo kế hoạch học tập chuẩn, không phải đăng ký học tập nhưng có thể tự điều chỉnh một số lớp. Sinh viên thực hiện quy trình đăng ký theo các mốc thời gian của Kế hoạch học tập năm học. Quá trình đăng ký học tập gồm 3 giai đoạn:
+a) Đăng ký học phần: sinh viên chọn đăng ký những học phần dự tính sẽ học trong học kỳ tiếp.
+b) Đăng ký lớp chính thức: sinh viên chọn lớp học cho những học phần đã đăng ký.
+c) Điều chỉnh đăng ký: sinh viên có thể chuyển lớp, hủy lớp hoặc đăng ký lớp bổ sung.
+
+2. Số lượng tín chỉ đăng ký:
+a) Sinh viên không thuộc diện cảnh báo học tập được đăng ký tối đa 24 TC và tối thiểu 12 TC trong học kỳ chính (không áp dụng ngưỡng tối thiểu với sinh viên năm cuối). Sinh viên ELITECH được đăng ký tối đa 28 TC trong học kỳ chính. Sinh viên được đăng ký tối đa 8 TC trong học kỳ hè.
+b) Sinh viên bị cảnh báo học tập hoặc chưa đạt chuẩn ngoại ngữ bị giới hạn khối lượng đăng ký theo quy định tại khoản 2, Điều 19.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_02.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_02_010
+chunk_index: 10
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 10. Đăng ký học tập (Khoản 3-4)
+topic_tags: [hủy đăng ký, mở lớp]
+summary: Quy định về việc hủy đăng ký học phần và điều kiện mở lớp học phần (tối thiểu 20 sinh viên hoặc các trường hợp ngoại lệ).
+
+3. Sau thời gian điều chỉnh đăng ký, sinh viên có thể đề nghị hủy đăng ký học phần để không tính kết quả học tập nhưng vẫn phải đóng học phí cho học phần đó theo quy định tại khoản 3, Điều 9. Thời hạn được phép hủy đăng ký học phần là trước 1/2 thời gian học của học phần đó.
+4. Đối với học phần có giờ lên lớp, chỉ mở lớp khi có tối thiểu 20 sinh viên đăng ký học. Các trường hợp ngoại lệ được giải quyết như sau:
+a) Xem xét mở lớp cho các ngành học hoặc các chương trình ELITECH có ít sinh viên để tạo điều kiện tối đa cho sinh viên học theo kế hoạch học tập chuẩn.
+b) Xem xét mở lớp học phần có từ 5 đến 19 sinh viên đăng ký học theo đề nghị của sinh viên, áp dụng hệ số học phí theo quy định.
+c) Xem xét mở lớp dưới 5 sinh viên đăng ký học lại học phần dưới hình thức làm đồ án môn học.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_02.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_02_011
+chunk_index: 11
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 11. Công nhận kết quả học tập và chuyển đổi tín chỉ
+topic_tags: [công nhận tín chỉ, chuyển đổi tín chỉ, đồ án tốt nghiệp]
+summary: Quy định về việc công nhận và chuyển đổi tín chỉ từ các chương trình/cơ sở đào tạo khác, với giới hạn tối đa 50% khối lượng chương trình.
+
+Điều 11. Công nhận kết quả học tập và chuyển đổi tín chỉ
+1. Kết quả học tập của người học đã tích lũy từ một trình độ đào tạo khác, một chương trình đào tạo khác hoặc từ một cơ sở đào tạo khác được xem xét công nhận, chuyển đổi sang tín chỉ của những học phần trong chương trình đào tạo theo văn bản quy định riêng.
+2. Xem xét công nhận, chuyển đổi tín chỉ trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần và các điều kiện bảo đảm chất lượng thực hiện chương trình theo các cấp độ:
+a) Công nhận, chuyển đổi theo từng học phần;
+b) Công nhận, chuyển đổi theo từng nhóm học phần.
+3. Sinh viên được phép thực hiện đồ án/khóa luận tốt nghiệp tại một cơ sở trong nước hoặc tại một cơ sở đào tạo ở nước ngoài theo chương trình trao đổi sinh viên đã được ký kết nhưng phải bảo vệ tại Trường ĐHBK Hà Nội.
+4. Khối lượng tối đa được công nhận, chuyển đổi không vượt quá 50% khối lượng chương trình học tập toàn khóa.
+5. Sinh viên đã có quyết định cho thôi học hoặc buộc thôi học, nếu thi lại và trúng tuyển thì phải học lại toàn bộ chương trình, ngoại trừ chương trình Giáo dục quốc phòng-an ninh đã được cấp chứng chỉ.
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_02.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_02_012
+chunk_index: 12
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 12. Ý kiến phản hồi và đánh giá kết quả học tập
+topic_tags: [khảo sát, GPA, CPA, xếp loại học lực]
+summary: Quy định về khảo sát ý kiến phản hồi, các chỉ số đánh giá kết quả học tập (GPA, CPA) và bảng xếp loại học lực theo thang điểm 4.
+
+Điều 12. Ý kiến phản hồi của người học, đánh giá kết quả học tập
+1. Kết thúc mỗi học kỳ, sinh viên tham gia khảo sát lấy ý kiến phản hồi về các điều kiện bảo đảm chất lượng, hiệu quả học tập đối với các lớp học phần.
+2. Kết quả học tập trong một học kỳ và từ đầu khóa được đánh giá qua các chỉ số: số tín chỉ đạt/không đạt, GPA, CPA, số tín chỉ nợ đọng và trình độ ngoại ngữ.
+3. Sinh viên được xếp hạng trình độ năm học căn cứ số tín chỉ tích lũy (TCTL):
+| Số TCTL | < 32 | 32 - 63 | 64 - 95 | 96 - 127 | ≥ 128 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| Trình độ | Năm thứ nhất | Năm thứ hai | Năm thứ ba | Năm thứ tư | Năm thứ năm |
+
+4. Sinh viên được xếp loại học lực theo học kỳ (GPA) và từ đầu khóa (CPA):
+| GPA hoặc CPA | < 1,0 | 1,0-1,99 | 2,0-2,49 | 2,5-3,19 | 3,2-3,59 | 3,6-4,0 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| Xếp loại | Kém | Yếu | Trung bình | Khá | Giỏi | Xuất sắc |
+<<<_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_02.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_02_013
+chunk_index: 13
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Quy đổi điểm thang 4 sang thang 10
+topic_tags: [quy đổi điểm, thang điểm 4, thang điểm 10]
+summary: Bảng quy đổi điểm trung bình từ thang 4 sang thang 10 với các hệ số a và b cụ thể.
+
+7. Trong trường hợp cần thiết, điểm trung bình học kỳ và điểm trung bình tích lũy đạt từ loại trung bình trở lên có thể được quy đổi tương đương sang thang điểm 10 theo quy tắc: Điểm thang 10 = Điểm thang 4 × a + b
+
+| Dải điểm thang 4 | Dải điểm thang 10 tương đương | Công thức quy đổi |
+| :--- | :--- | :--- |
+| 2,0 đến cận 2,5 | 5,5 đến cận 7,0 | a = 3,00; b = −0,5 |
+| 2,5 đến cận 3,2 | 7,0 đến cận 8,0 | a = 1,42; b = 3,45 |
+| 3,2 đến cận 3,6 | 8,0 đến cận 9,0 | a = 2,50; b = 0.00 |
+| 3,6 đến tròn 4,0 | 9,0 đến tròn 10 | a = 2,50; b = 0.00 |
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_02.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_02_014
+chunk_index: 14
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 13. Đồ án/khóa luận tốt nghiệp đại học
+topic_tags: [ĐATN, đồ án tốt nghiệp, khóa luận tốt nghiệp]
+summary: Điều kiện giao đề tài ĐATN và cách tính điểm ĐATN dựa trên điểm quá trình và điểm cuối kỳ (bảo vệ).
+
+Điều 13. Đồ án/khóa luận tốt nghiệp đại học
+1. Sinh viên được giao đề tài ĐATN nếu có tổng số tín chỉ chưa đạt không vượt quá 8 TC so với yêu cầu của chương trình đào tạo (không tính số tín chỉ của các học phần thực tập tốt nghiệp và ĐATN) và đạt chuẩn ngoại ngữ theo quy định.
+2. Đối với loại hình liên thông, sinh viên được giao đề tài ĐATN nếu có tổng số tín chỉ chưa đạt không vượt quá 8 TC so với yêu cầu của chương trình đào tạo, không tính số tín chỉ của các học phần thực tập tốt nghiệp, ĐATN và các học phần đang học cùng kỳ theo kế hoạch học tập chuẩn, đồng thời đạt chuẩn ngoại ngữ theo quy định.
+3. Kết quả ĐATN được đánh giá như sau:
+a) Điểm quá trình: trung bình cộng điểm người hướng dẫn và phản biện.
+b) Điểm cuối kỳ: điểm bảo vệ tại hội đồng.
+c) Điểm ĐATN: trọng số 0,5 cho điểm quá trình và 0,5 cho điểm cuối kỳ.
+d) Điểm của người hướng dẫn, phản biện hoặc thành viên hội đồng dưới 5 đều là điểm liệt (điểm F).
+<<<CHUNK_END>>>
+
+<<<CHUNK_START>>>
+source: QCDT_2021_02.pdf
+parent_doc_id: QCDT_2021
+chunk_id: QCDT_2021_02_015
+chunk_index: 15
+language: vi
+category: QCDT
+year: N/A
+chunk_title: Điều 14. Đăng ký tốt nghiệp đại học
+topic_tags: [tốt nghiệp, xét tốt nghiệp, điều kiện tốt nghiệp]
+summary: Quy định về các đợt xét tốt nghiệp, điều kiện để được công nhận tốt nghiệp và thời hạn cấp bằng.
+
+Điều 14. Đăng ký tốt nghiệp đại học
+1. Trường ĐHBK Hà Nội xét tốt nghiệp nhiều đợt trong năm. Sinh viên muốn được xét tốt nghiệp phải đăng ký theo các mốc thời gian quy định.
+2. Sinh viên có thể đăng ký học nhiều hơn yêu cầu, nhưng khi đăng ký tốt nghiệp chỉ chọn đủ hoặc không nhiều hơn 3 tín chỉ theo yêu cầu.
+3. Điều kiện xét công nhận tốt nghiệp:
+a) Hoàn thành đầy đủ các học phần theo yêu cầu (bao gồm GDTC, GDQP-AN).
+b) Đạt chuẩn ngoại ngữ đầu ra.
+c) CPA toàn khóa đạt từ 2,0 trở lên.
+d) Không bị kỷ luật ở mức đình chỉ học tập hoặc buộc thôi học.
+đ) Không bị truy cứu trách nhiệm hình sự.
+4. Sinh viên đủ điều kiện được Hiệu trưởng ra quyết định công nhận và cấp bằng trong thời hạn 03 tháng.
+5. Sinh viên đã hết thời gian học tập tối đa nhưng chưa đủ điều kiện tốt nghiệp do chưa hoàn thành các học phần... (nội dung tiếp tục ở trang sau).
+<<<CHUNK_END>>>

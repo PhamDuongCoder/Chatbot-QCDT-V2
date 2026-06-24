@@ -167,6 +167,17 @@ def get_embedding_count(parent_doc_id: str) -> int:
     counts = get_embedding_counts([parent_doc_id])
     return counts.get(parent_doc_id, 0)
 
+def resolve_embedding_count(doc_id: str, embedding_counts: Dict[str, int], pipeline_log: Dict) -> int:
+    """Resolve chunk count for display, preferring pipeline_log when it has data."""
+    log_count = pipeline_log.get(doc_id, {}).get("embedding_count")
+    if log_count is not None:
+        try:
+            return int(log_count)
+        except (TypeError, ValueError):
+            pass
+    
+    return embedding_counts.get(doc_id, 0)
+
 # ============================================================================
 # PIPELINE LOG MANAGEMENT
 # ============================================================================
@@ -197,11 +208,9 @@ def update_log_status(doc_id: str, status: str, error=None, attempts: int = 1, e
             "status": status,
             "last_processed": datetime.now().isoformat(),
             "attempts": attempts,
-            "error": error
+            "error": error,
+            "embedding_count": embedding_count
         }
-        
-        if embedding_count is not None:
-            update_dict["embedding_count"] = embedding_count
         
         log_data[doc_id].update(update_dict)
         save_pipeline_log(log_data)
@@ -272,8 +281,10 @@ def discover_files() -> Dict[str, List[Dict]]:
                 if parent_doc_id not in all_files_in_data:
                     all_files_in_data[parent_doc_id] = category_name
     
-    # Batch query all embedding counts at once
-    all_doc_ids = list(all_files_in_data.keys())
+    # Batch query all embedding counts at once, including partitioned parts.
+    # The UI primarily reflects pipeline_log.json, but DB counts are useful as
+    # a fallback for entries whose log has not recorded embedding_count yet.
+    all_doc_ids = sorted(set(all_files_in_data.keys()) | {part for parts in part_map.values() for part in parts})
     embedding_counts = get_embedding_counts(all_doc_ids) if all_doc_ids else {}
     
     # Second pass: Process parent files and their parts
@@ -303,8 +314,8 @@ def discover_files() -> Dict[str, List[Dict]]:
             status = log_entry.get("status", "pending")
             last_processed = log_entry.get("last_processed", "")
             
-            # Get embedding count from batch query
-            embedding_count = embedding_counts.get(doc_id, 0)
+            # Get embedding count from pipeline_log, falling back to batch DB query
+            embedding_count = resolve_embedding_count(doc_id, embedding_counts, pipeline_log)
             
             if is_partitioned:
                 # Handle partitioned file - gather all parts
@@ -312,7 +323,7 @@ def discover_files() -> Dict[str, List[Dict]]:
                 for part_doc_id in sorted(part_map[doc_id]):
                     part_log = pipeline_log.get(part_doc_id, {})
                     part_status = part_log.get("status", "pending")
-                    part_embedding_count = embedding_counts.get(part_doc_id, 0)
+                    part_embedding_count = resolve_embedding_count(part_doc_id, embedding_counts, pipeline_log)
                     part_last_processed = part_log.get("last_processed", "")
                     
                     parts_info.append({
