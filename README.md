@@ -21,7 +21,7 @@ Chatbot RAG (Retrieval-Augmented Generation) hỗ trợ sinh viên tra cứu quy
 ```
 Tài liệu PDF/DOCX
         ↓
-[Agentic Preprocessing]     Gemini Flash — semantic chunking theo Điều/Khoản
+[LLM-assisted Chunking]     Gemini Flash — semantic chunking theo Điều/Khoản
         ↓
 [Embedding Pipeline]        gemini-embedding-001 (RETRIEVAL_DOCUMENT)
         ↓
@@ -31,6 +31,11 @@ Tài liệu PDF/DOCX
         ↓
 [Streamlit App]             Giao diện chat + citation
 ```
+
+Hệ thống gồm 2 service độc lập, đóng gói riêng bằng Docker:
+
+- **Chatbot** (Streamlit) — giao diện hỏi đáp chính, gọi trực tiếp module retrieval/generation
+- **Admin panel** (FastAPI) — quản lý pipeline tiền xử lý tài liệu, chạy tách biệt hoàn toàn với luồng chatbot
 
 ---
 
@@ -43,6 +48,7 @@ Tài liệu PDF/DOCX
 | Backend | FastAPI (admin server) |
 | Frontend | Streamlit |
 | Document Processing | PyMuPDF, docx2pdf |
+| Containerization | Docker, Docker Compose |
 
 ---
 
@@ -60,7 +66,12 @@ Tài liệu PDF/DOCX
 │   ├── admin_server.py       # FastAPI admin backend
 │   └── admin.html            # Admin panel UI
 ├── Citation.csv              # Mapping tài liệu → URL gốc
-├── requirements.txt
+├── Dockerfile                # Image cho chatbot (Streamlit)
+├── Dockerfile.admin          # Image cho admin panel (FastAPI)
+├── docker-compose.yml        # Chạy cả 2 service cùng lúc
+├── .dockerignore
+├── requirements.txt          # Dependencies cho chatbot
+├── requirements-admin.txt    # Dependencies cho admin panel
 └── README.md
 ```
 
@@ -68,13 +79,7 @@ Tài liệu PDF/DOCX
 
 ## 🚀 Setup & Chạy
 
-### 1. Cài dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 2. Cấu hình credentials
+### 1. Cấu hình credentials
 
 Tạo file `.env` ở thư mục gốc:
 
@@ -89,7 +94,9 @@ SUPABASE_DB_PASSWORD=your_password
 
 Tạo file `.streamlit/secrets.toml` với các key tương tự cho Streamlit.
 
-### 3. Setup database
+> Cả 2 file này đã nằm trong `.gitignore` — không được commit lên Git. Người dùng khác clone repo cần tự tạo 2 file này với credentials của riêng họ.
+
+### 2. Setup database
 
 Chạy trong Supabase SQL Editor:
 
@@ -113,15 +120,48 @@ CREATE TABLE IF NOT EXISTS chunks (
 );
 ```
 
-### 4. Chạy Chatbot
+### 3. Chạy bằng Docker (khuyến nghị)
+
+Yêu cầu: đã cài [Docker Desktop](https://www.docker.com/products/docker-desktop/).
 
 ```bash
+docker compose up
+```
+
+Lệnh này build và chạy cùng lúc 2 container:
+
+| Service | Cổng | Mô tả |
+|---|---|---|
+| `chatbot` | `localhost:8501` | Giao diện chatbot Streamlit |
+| `admin` | `localhost:8000` | Admin panel quản lý pipeline |
+
+Chạy nền (không chiếm terminal):
+```bash
+docker compose up -d
+```
+
+Dừng toàn bộ:
+```bash
+docker compose down
+```
+
+Build lại sau khi sửa code:
+```bash
+docker compose up --build
+```
+
+**Lưu ý về dữ liệu:** `Preprocessed_Data/` và `Script/pipeline_log.json` được mount dưới dạng volume — dữ liệu ghi ra trong lúc admin panel chạy sẽ lưu thẳng vào máy thật, không mất khi container bị xoá hoặc build lại.
+
+### 4. Chạy thủ công không qua Docker (thay thế)
+
+```bash
+pip install -r requirements.txt
 streamlit run Script/app.py
 ```
 
-### 5. Chạy Admin Panel
-
+Admin panel (cần thêm dependency FastAPI/uvicorn, xem `requirements-admin.txt`):
 ```bash
+pip install -r requirements-admin.txt
 python Script/admin_server.py
 # Mở http://localhost:8000
 ```
@@ -134,7 +174,7 @@ Từ admin panel, upload tài liệu vào thư mục `Data/{category}/` rồi b�
 
 Pipeline xử lý tài liệu gồm 3 bước tự động:
 
-**Bước 1 — Agentic Chunking:** Gửi PDF/DOCX lên Gemini, model tự phân tích và chia thành các chunk logic theo Điều/Khoản. File lớn (> 10 trang) được tự động split thành các part trước khi xử lý.
+**Bước 1 — LLM-assisted Chunking:** Gửi PDF/DOCX lên Gemini, model tự phân tích và chia thành các chunk logic theo Điều/Khoản. File lớn (> 10 trang) được tự động split thành các part trước khi xử lý.
 
 **Bước 2 — Embedding:** Mỗi chunk được embed bằng `gemini-embedding-001` với strategy `summary + content` để tối ưu semantic retrieval.
 

@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.git/
+.gitignore
+.gitattributes
+*.md
+.vscode/
+.idea/
+Preprocessed_Data/
+Benchmark/
+.env
+.streamlit/secrets.toml

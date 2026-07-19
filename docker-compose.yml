@@ -1,0 +1,22 @@
+services:
+  chatbot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./.streamlit:/app/.streamlit
+
+  admin:
+    build:
+      context: .
+      dockerfile: Dockerfile.admin
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./.streamlit:/app/.streamlit
+      - ./Script/pipeline_log.json:/app/Script/pipeline_log.json
+      - ./Preprocessed_Data:/app/Preprocessed_Data
+    env_file:
+      - .env

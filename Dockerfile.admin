@@ -1,0 +1,14 @@
+FROM python:3.13-slim
+
+WORKDIR /app
+
+COPY requirements-admin.txt .
+RUN pip install --no-cache-dir -r requirements-admin.txt
+
+COPY Script/ ./Script
+COPY Data/ ./Data
+COPY Citation.csv .
+
+EXPOSE 8000
+
+CMD ["python", "Script/admin_server.py"]
