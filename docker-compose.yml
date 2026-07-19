@@ -1,4 +1,21 @@
 services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: ["uvicorn", "api:app", "--app-dir", "Script", "--host", "0.0.0.0", "--port", "8000"]
+    ports:
+      - "8000:8000"
+    environment:
+      - SUPABASE_DB_HOST=${SUPABASE_DB_HOST}
+      - SUPABASE_DB_PORT=${SUPABASE_DB_PORT}
+      - SUPABASE_DB_NAME=${SUPABASE_DB_NAME}
+      - SUPABASE_DB_USER=${SUPABASE_DB_USER}
+      - SUPABASE_DB_PASSWORD=${SUPABASE_DB_PASSWORD}
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+    env_file:
+      - .env
+
   chatbot:
     build:
       context: .
@@ -7,13 +24,17 @@ services:
       - "8501:8501"
     volumes:
       - ./.streamlit:/app/.streamlit
+    environment:
+      - API_BASE_URL=http://api:8000
+    depends_on:
+      - api
 
   admin:
     build:
       context: .
       dockerfile: Dockerfile.admin
     ports:
-      - "8000:8000"
+      - "8001:8001"
     volumes:
       - ./.streamlit:/app/.streamlit
       - ./Script/pipeline_log.json:/app/Script/pipeline_log.json

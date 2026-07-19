@@ -6,3 +6,6 @@ python-dotenv
 pymupdf
 python-docx
 docx2pdf
+fastapi
+uvicorn[standard]
+requests

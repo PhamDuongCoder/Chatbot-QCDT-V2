@@ -2,6 +2,7 @@ import streamlit as st
 import os
 import csv
 import json
+import requests
 from pathlib import Path
 
 st.set_page_config(
@@ -292,19 +293,30 @@ html, body, [class*="css"] {
 </style>
 """, unsafe_allow_html=True)
 
-# ── Load secrets ─────────────────────────────────────────────────────────────
+# ── Cấu hình FastAPI backend ─────────────────────────────────────────────────
+# app.py (Streamlit) giờ không còn import trực tiếp logic RAG từ chatbot.py
+# nữa — nó gọi sang service FastAPI (api.py) qua REST endpoint /query.
+# API_BASE_URL trỏ tới nơi FastAPI đang chạy (local dev: http://localhost:8000,
+# production: URL nơi bạn deploy api.py, ví dụ Render/Railway/Fly.io).
 try:
-    os.environ["SUPABASE_DB_HOST"]     = st.secrets.get("SUPABASE_DB_HOST", "")
-    os.environ["SUPABASE_DB_PORT"]     = st.secrets.get("SUPABASE_DB_PORT", "5432")
-    os.environ["SUPABASE_DB_NAME"]     = st.secrets.get("SUPABASE_DB_NAME", "")
-    os.environ["SUPABASE_DB_USER"]     = st.secrets.get("SUPABASE_DB_USER", "")
-    os.environ["SUPABASE_DB_PASSWORD"] = st.secrets.get("SUPABASE_DB_PASSWORD", "")
-    os.environ["GOOGLE_API_KEY"]       = st.secrets.get("GOOGLE_API_KEY", "")
-except Exception as e:
-    st.error(f"❌ Lỗi tải cấu hình: {str(e)}")
-    st.stop()
+    API_BASE_URL = st.secrets.get("API_BASE_URL", os.getenv("API_BASE_URL", "http://localhost:8000"))
+except Exception:
+    API_BASE_URL = os.getenv("API_BASE_URL", "http://localhost:8000")
 
-from chatbot import retrieve, generate_answer
+
+def call_query_api(query: str, conversation_history: list, top_k: int = 5) -> dict:
+    """Gọi endpoint POST /query của FastAPI service."""
+    resp = requests.post(
+        f"{API_BASE_URL}/query",
+        json={
+            "query": query,
+            "conversation_history": conversation_history,
+            "top_k": top_k,
+        },
+        timeout=60,
+    )
+    resp.raise_for_status()
+    return resp.json()  # {"answer": ..., "sources": [...]}
 
 # ── Load citations mapping ────────────────────────────────────────────────────
 @st.cache_resource
@@ -322,28 +334,6 @@ def load_citations():
     return citation_dict
 
 CITATIONS = load_citations()
-
-def extract_sources_from_response(response_text: str) -> tuple[str, list[str]]:
-    """
-    Extract JSON sources line and clean response.
-    
-    Returns:
-        (clean_response, source_ids)
-    """
-    lines = response_text.split('\n', 1)
-    first_line = lines[0].strip() if lines else ""
-    rest = lines[1] if len(lines) > 1 else ""
-    
-    try:
-        # Try to parse first line as JSON
-        json_obj = json.loads(first_line)
-        if "sources" in json_obj and isinstance(json_obj["sources"], list):
-            return rest.strip(), json_obj["sources"]
-    except json.JSONDecodeError:
-        pass
-    
-    # If not valid JSON or no sources key, return full response
-    return response_text, []
 
 # ── Sidebar ───────────────────────────────────────────────────────────────────
 with st.sidebar:
@@ -403,14 +393,13 @@ if prompt := st.chat_input("Nhập câu hỏi của bạn..."):
     with st.chat_message("assistant"):
         with st.spinner("Đang tìm kiếm thông tin..."):
             try:
-                raw_response = generate_answer(
+                result = call_query_api(
                     query=prompt,
                     conversation_history=st.session_state.conversation_history,
                     top_k=5
                 )
-                
-                # Extract sources and clean response
-                clean_response, source_ids = extract_sources_from_response(raw_response)
+                clean_response = result["answer"]
+                source_ids = result.get("sources", [])
                 
                 # Display the clean response
                 st.markdown(clean_response)

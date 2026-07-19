@@ -634,6 +634,6 @@ if __name__ == "__main__":
     
     print(f"Starting Admin Server...")
     print(f"Database: {DB_CONFIG['database']}")
-    print(f"Visit: http://localhost:8000")
+    print(f"Visit: http://localhost:8001")
     
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=8001)

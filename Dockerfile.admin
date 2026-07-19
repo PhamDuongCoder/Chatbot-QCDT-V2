@@ -9,6 +9,6 @@ COPY Script/ ./Script
 COPY Data/ ./Data
 COPY Citation.csv .
 
-EXPOSE 8000
+EXPOSE 8001
 
 CMD ["python", "Script/admin_server.py"]
