@@ -10,5 +10,4 @@ build/
 .cache/
 .pytest_cache/
 *.log
-pipeline_log.json
 Script/__pycache__/
