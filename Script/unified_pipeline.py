@@ -160,7 +160,7 @@ Phân tích cấu trúc tài liệu này và trả về JSON theo format sau. KH
 ]
 Quy tắc:
 - Đơn vị chia là Chương hoặc phần lớn tương đương (nếu không có Chương thì chia theo nhóm chủ đề)
-- Mỗi phần tối thiểu 5 trang, tối đa 10 trang
+- Mỗi phần tối thiểu 5 trang, tối đa 10 trang. Có thể overlap giữa các phần (ví dụ: phần 1 từ trang 1 đến 5, phần 2 từ trang 4 đến 8)
 - Ưu tiên tạo ÍT phần nhất có thể, gộp các Chương ngắn liền kề nếu tổng không vượt 10 trang
 - Nếu 1 Chương > 10 trang: tách theo nhóm Điều, nhưng KHÔNG BAO GIỜ cắt giữa một Điều
 - Không có markdown, không có code block, chỉ JSON
